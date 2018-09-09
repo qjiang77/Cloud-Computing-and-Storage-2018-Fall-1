@@ -1,0 +1,36 @@
+title source_url url tags publish_date authors summary text
+Blue Yeti Microphone Review|http://www.ign.com/tech|https://www.ign.com/articles/2017/10/05/blue-yeti-microphone-review||2017-10-05|||Share. Popular for a reason. Popular for a reason.
+
+Be sure to visit IGN Tech for all the latest comprehensive hands-on reviews and best-of roundups. Note that if you click on one of these links to buy the product, IGN may get a share of the sale. For more, read our Terms of Use.
+
+Blue is one of the most recognized companies in the USB microphone world, and the Yeti (See it on Amazon) is one of the most popular microphones for podcasters and streamers due to its excellent recording capability and affordable price tag of about $129. It's a midrange model in the company's lineup and is available in several colors, so it comes in silver, black, white, or "cool gray," as the company puts it. If you're just interested in recording vocals there's also a Yeti Studio model which is $20 more and comes only in silver, but includes software from PreSonus and advanced studio vocal effects from iZotopean. Let's get into the details:
+
+Design and Features
+
+The Blue Yeti is well built, as the exterior is made entirely of metal, with the exception of the knobs and the thumb screws attaching the mic to its base. The base itself is made of the same metal as the mic and has some serious heft to it. That heft is coupled with rubber non-skid pads on the base, so when you put the Yeti down, it stays put. Fidgeters like me will appreciate all the thought put into keeping the mic still, since I often bump into my desk with my chair, or absent-mindedly knock the mic with my mouse hand.
+
+At the base of the mic there is a mini-USB port, a headphone jack, and a threaded base. The threaded base lets you attach the Yeti to any standard microphone stand. You can also put it on a shock mount to help stabilize the mic and prevent unwanted noise due to accidental bumps.
+
+The headphone jack accepts standard 3.5mm headphone and has real-time monitoring, meaning you can hear yourself through a headset in real-time exactly as it sounds to your audience. It's a nice feature and keeps you from having to ask the chat "can you guys hear me OK?" Headphone volume is adjustable with a knob on the front of the microphone, and an LED-illuminated mute button for the mic sits just above it.
+
+On the opposite side are two more knobs: pattern selection, and gain. The Yeti has four different sound capture patterns you can select depending on how you're using it. There's cardioid mode for when you're sitting directly in front of the mic for voice capture, stereo mode for capturing live music sessions, omni-directional for situations like a round-table discussion where you want to capture all the voices around a mic, and a two-way pattern for something like an interview where you and your subject are sitting across from one another. These four capture patterns are about average for mics of this class.
+
+The gain knob simply adjusts the loudness being captured by the mic. Remember, it's always easier to make a quiet sound louder than in is to salvage a recording that's distorted from being too loud, so having the ability to adjust it on the mic itself makes for a cleaner recording and less work adjusting after recording. Having a gain knob is pretty common for mics of this class, but less expensive USB models do not include them typically.
+
+The USB port is a USB Type-A to Mini-B connector, which is kind of a drag since Mini-B connectors aren't as common as they once were. If you misplace the cable, the chances of having a spare laying around aren't as likely as, say, Micro-B connectors, which began replacing the mini connectors way back in 2007.
+
+Setup and Recording
+
+Blue claims on its website setting up the Yeti is as easy as plugging it in, and that's true, at least on the Windows 10 PC I used for testing. Since this is the non-software version, it's handy to not have to install any extra software in the setup process. With Windows 10, when you connect the Yeti the driver is automatically installed and you're on your way. After it's plugged in, you set it as your primary recording device if it didn't already happen automatically during the installation process. From there, software searching for a mic, like XSplit or Audacity, or higher-end stuff like Adobe Audition, will pick up the mic as the primary audio input unless you change it yourself. In contrast, Razer's Seiren mic requires you to install its all-in-one Synapse software, which is convenient if you're running multiple pieces of Razer gear, but if you only have one device, it's a little annoying.
+
+As far as sound quality is concerned, the Blue Yeti really delivers. With a 16-bit, 48KHz recording sample rate, it won't satisfy serious audiophiles, but for streamers, podcasters, and semi-serious users, it delivers superb results. Audio captured with the Yeti is closer to what you hear spoken in a professionally recorded YouTube video, or on a CD, or in a video game. It's not hollow or gritty like the kind of sound you get from a cheap microphone, but it's more natural sounding. For my tests, I found that setting the Yeti to the omni-directional pattern worked best since I tend to move around a bit during recording sessions, although it did pick up other noises when set to that pattern. I also set it to the slight right of my sitting position and chose the cardioid setting, and it still did a fine job of recording my voice clearly, with a quality far beyond what's possible with a headset or cheap USB mic.
+
+Also, the fact that there's no software included with the Yeti isn't really a strike against it since any adjustments in dedicated software are essentially just window dressing. Any piece of recording software lets you change the bitrate, levels, etc., either during recording or after. Audacity lets you make adjustments like that, and it's free, open-source software many use. Capture software like OBS and Xsplit also let you make sound adjustments in-software. Something like Razer Synapse letting you change the bitrate is nice but it's a bit redundant. If you set the gain on the mic itself so the levels aren't peaking in your software, you don't really need anything else.
+
+For voice recording, such as for a podcast, the Blue Yeti is ideal. Its plug-and-play design makes it versatile, so you can use it with basically any computer, even if you're bringing it along to use with an unfamiliar computer. Sound quality is also crystal clear for recording video voiceovers. It's about as good as it gets without adding mixers into the equation.
+
+Purchasing Guide
+
+The Blue Yeti's price drops online to as low as $90 on very rare occasions, but is more commonly discounted to around $110. Most days it's only available at or much closer to its $130 MSRP:
+
+• See the Blue Yeti on Amazon

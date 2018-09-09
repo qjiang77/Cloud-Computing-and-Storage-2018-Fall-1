@@ -1,0 +1,48 @@
+title source_url url tags publish_date authors summary text
+How E*Trade CIO Faces Obstacles to Agile|http://allthingsd.com|https://blogs.wsj.com/cio/2018/09/07/how-etrade-cio-faces-obstacles-to-agile/|E*TRADE,LANCE BRAUNSTEIN,AGILE|2018-09-07|Steven Norton,Steven.Norton Wsj.Com||Generally, being able to hit targets ... is sort of king, says E*Trade Chief Information Officer Lance Braunstein. Its the most important thing you can do.
+
+Generally, being able to hit targets ... is sort of king, says E*Trade Chief Information Officer Lance Braunstein. Its the most important thing you can do. Photo: Benjamin Irwin
+
+Welcome to the first installment of CIO Whiteboard, in which CIO Journal sits down with corporate technology leaders who are prepared to share a candid view of the operational and leadership challenges that arise in the digital workplace, and how they clear these hurdles. First up, E*Trade CIO Lance Braunstein talks about what it really takes to implement agile software development methodology across the firm.
+
+For the past year and a half, online brokerage E*Trade Financial Corp. has been adopting the agile method of software development, trading in the inflexible “waterfall” model for an approach that prizes collaboration and aims to deliver software in days or weeks instead of months. It’s a key part of the company’s plan to update its trading technology and return to its roots as a fintech innovator amid growing competition from scrappy startups and established firms.
+
+When it works well, agile can help E*Trade deliver software faster and with fewer bugs, says Chief Information Officer Lance Braunstein, who is leading the charge. But scaling agile across the company has been an ongoing and often challenging process that requires fundamentally changing the way people think about and do their work.
+
+“It’s all well and good until you run into cultural barriers,” Mr. Braunstein said in an interview. “Often what is not expected is human behavior.”
+
+A pioneer in the discount brokerage business, E*Trade is trying to stage a revival that has largely eluded six chief executives following a near implosion during the financial crisis, the Journal has reported. CEO Karl Roessner and E*Trade’s leadership team set a mandate to reinvigorate the company by the end of this year, at which point they will measure the success of its efforts as they weigh a number of strategic alternatives, including a possible sale, a spokesman said.
+
+Agile aims to deliver more predictability to E*Trade’s software development, as well as faster time to market and the ability to update quickly based on user feedback. Every project has its own drivers, such as competitive pressure or pricing changes, Mr. Braunstein said. While there may be flexibility to spend a bit of extra time or money on projects that aren’t immediately critical to the business, much of his job involves making sure software deliverables come in on time and on budget.
+
+“Generally, being able to hit targets ... is sort of king,” said Mr. Braunstein, who joined E*Trade in 2016 after the purchase of OptionsHouse parent company Aperture New Holdings Inc. “It’s the most important thing you can do.”
+
+Getting to agile has required a number of changes at E*Trade, both from a technology and personnel perspective. Before turning his 1,300 employees on to an entirely new way of working, Mr. Braunstein first consolidated a hodgepodge of software development environments so employees could work on a common platform.
+
+Since moving to agile, many software projects now come in more closely aligned to budget projections, says CIO Lance Braunstein. Photo: E*Trade
+
+Mr. Braunstein then traveled to E*Trade’s offices to introduce agile to employees in person. Terms like “story point” and “backlog grooming” were familiar to employees who had used agile in previous jobs, but were completely foreign to others. To create a single definition of agile across the company, Mr. Braunstein hired a consulting firm to create training materials specific to E*Trade.
+
+With training and tools in place, software developers began working in agile teams. Some took to it quickly, Mr. Braunstein said, but many needed additional coaching. To help, he identified “local champions” across the firm to work with less experienced groups. The focus on coaching is part of the agile process that never ends, Mr. Braunstein said.
+
+The realities of life in a large corporation also present challenges. Much of agile’s success comes from teams’ freedom to come up with project requirements with little external influence. But some of E*Trade’s leaders aren’t always comfortable with the autonomy, or have different ideas about how a project should run. That can cause the agile model to break down.
+
+“You run into situations where, because the constituents may not be right or because somebody may want more direct impact, you’ll sort of break the model,” Mr. Braunstein said. “That’s just the reality of human behavior.”
+
+While important to be fully committed to agile development, E*Trade must also remain flexible enough to revert to traditional models when necessary. Account conversions, for example, typically use the waterfall method and have their own set of project requirements. When moving Capital One Investing accounts over to E*Trade this year, Mr. Braunstein decided to use waterfall to create a smoother transition.
+
+As agile teams begin working, it’s crucial to measure each team’s “velocity,” essentially how much work is completed over a set period of time. On a recent mobile project, teams completed three-week sprints and measured how many project requirements were met during each one. Knowing a team’s velocity helps estimate the time and cost of projects and creates more of the predictability E*Trade seeks.
+
+Shared resources can also present a challenge, making the CIO’s role as allocator more important. At E*Trade, many agile teams make use of shared middle-office resources, such as services that allow customers to see a list of their trades or get an account overview. Conflicts often can arise over how those resources are used and prioritized across the business. Many of the middle-office teams also are moving to agile and working more closely with front- and back-office groups, Mr. Braunstein said.
+
+E*Trade has begun to see some positive results. Applications delivered by agile teams have required fewer fixes after their launch, signaling an overall higher quality of software development, Mr. Braunstein said. Many software projects now come in more closely aligned to budget projections, he added, declining to provide specific numbers.
+
+It’s also allowed E*Trade to respond to competitive pressure more quickly. After TD Ameritrade in January launched a feature allowing customers to trade some ETFs 24 hours a day, 5 days a week, E*Trade developed a similar function in a few weeks. Before agile, that process would have taken months, Mr. Braunstein said.
+
+He acknowledges that there is still much work to be done to drive cohesion and commitment to agile methods. Coaching employees and advocating for agile across the company remains a priority.
+
+Mr. Braunstein’s advice to CIO’s undertaking a shift to agile: “Make sure that you tackle the cultural issues up front.” It’s easy for companies to say they’re adopting agile, but if employees don’t understand how it will affect their work and drive business value, those words can ring hollow.
+
+“The reality that I live with respect to agile is you have to get the organization to shift in a cultural sense.”
+
+Write to steven.norton@wsj.com

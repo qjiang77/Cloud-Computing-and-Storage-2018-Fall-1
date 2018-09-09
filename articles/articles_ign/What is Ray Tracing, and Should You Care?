@@ -1,0 +1,42 @@
+title source_url url tags publish_date authors summary text
+What is Ray Tracing, and Should You Care?|http://www.ign.com/tech|https://www.ign.com/articles/2018/08/30/what-is-ray-tracing-and-should-you-care||2018-08-30|||Share. Amazing lighting, but will it be worth it? Amazing lighting, but will it be worth it?
+
+Be sure to visit IGN Tech for all the latest comprehensive hands-on reviews and best-of roundups.
+
+Nvidia’s new RTX line of graphics cards is coming soon, and this time around they’re offering more than just the typical performance boost over the previous generation. The RTX series GPUs are the first consumer GPUs that are capable of performing real-time ray tracing, which is a pretty awesome advancement in 3D graphics as it will, in theory, allow games to look more realistic than ever before. Let's take a look at what this technology actually is, why you should care, and why it's still pretty hard to for even this new hardware to pull it off.
+
+Real-time ray tracing demonstrated in Battlefield V at an Nvidia press event.
+
+What Is Ray Tracing?
+
+To understand this new tech, it helps to take a brief look at what has preceded it. Modern video games have long used a technique called rasterization to generate the image on your screen. The way it works is your computer looks at a 3D scene and calculates the distance to certain objects, where light is coming from, and which objects are in front of others. Using that information, it determines what color each pixel should be on your monitor, drawing the scene dot by dot as a 2D image.
+
+Over time, developers have improved on this tech quite a bit, giving objects the ability cast basic shadows based on light sources, or using tricks like ambient occlusion to add extra shadows independent of light sources. But most games don’t truly simulate the way light behaves in the real world - they fake it with one technique or another - making it hard to generate truly realistic shadows and reflections. (That’s why you rarely see mirrors in video games, and when you do, the images within them are generally very crude.)
+
+Exit Theatre Mode
+
+Ray tracing is a rendering technique that aims to simulate the way light bounces off objects, in turn creating more realistic shadows, reflections, and lighting effects. In an interview with Gamers Nexus, NVIDIA’s Tom Peterson described it as a physics-based way of creating images, as opposed to an artistic way of creating images.
+
+In the real world, a light source—say, the lamp in your bedroom—produces photons that bounce around the room until they reach your eye. Ray tracing performs this process in reverse, tracing individual rays from the scene’s “camera” and tracking how each ray intersects with different objects, cast shadows and reflections, and make its way back to the light source. This ensures the computer isn’t wasting processing power on objects the camera doesn’t see, while still producing far more realistic lighting effects. Disney made a great video explaining this process for path tracing, which is similar to ray tracing, which we've sampled in the GIF below.
+
+This technique has been around for many years, and you’ve seen it countless times in movies with computer-generated special effects. Hollywood uses render farms to calculate ray tracing for scenes since they're working with massive data sets and doing huge numbers of rays for entire scenes. It can take hours or days to render even a short scene in a CG film that uses ray tracing. In the past, the amount of calculations required made it impossible to do in video games since it needs to be done in real-time to not affect gameplay.
+
+So What’s Special About the RTX Cards?
+
+Ray tracing may be common in Hollywood blockbusters, but those effects are created on expensive render farms, and even then it can take hours or even days to render a single frame due to the complexity of it. Computer games, on the other hand, have to be rendered on your home PC, in real-time, at hopefully 60 frames a second. That means advanced lighting techniques like this have never been easy to implement. In fact, when IGN first shared Nvidia's initial Star Wars Ray Tracing demo from GDC, one commenter noted, "It's a good demo but this lighting isn't possible in real time on affordable PCs at the moment, probably will be in 5 to 10 years though." That demo was running on four Tesla V100 GPUs, and at last week's event, Nvidia showed it running on one RTX Quadro card. Sure, a Quadro is still six times the price of the gaming-focused RTX 2080 Ti, but it's a huge step forward in a remarkably short amount of time, and the fantasy of real-time ray tracing being possible at home is getting much closer to reality.
+
+Nvidia’s new GeForce RTX family of GPUs are the first consumer-oriented, gaming-focused graphics cards that support real time ray tracing...with some catches. These cards make use of what NVIDIA calls a “hybrid rendering model” that combines ray tracing with rasterization techniques, thanks to dedicated RT cores designed to calculate the intersection of each ray. It also uses special de-noising algorithms and dedicated artificial intelligence hardware, called “Tensor Cores,” to reduce the number of rays that need to be traced. In other words: they’re still cheating a little bit, since these cards won’t necessarily ray trace entire scenes in real time, but the results are a significant step forward.
+
+We should note at this time it's not clear if all games will use the RT and Tensor cores to do these calculations. The slide below is how Nvidia presented its new rendering model compared to just straight rasterization.
+
+How Does Ray Tracing Affect Gaming Performance?
+
+So ray tracing looks awesome, but should you run out and pre-order an RTX card right now? Well, don’t get too excited just yet. NVIDIA claims significant performance improvements for regular games, especially at 4K. But when it comes to games utilizing ray tracing, we’ll need to wait for detailed benchmarks. We got to play an early work-in-progress version of Shadow of the Tomb Raider and Battlefield 5 on an RTX 2080 Ti noted and weren’t able to hit a constant 60 frames per second at 1920 x 1080—more like 30 to 50 frames per second. The Tomb Raider developers note that the game should become more polished before launch, but it wouldn’t be crazy to expect some slowdowns when ray tracing is enabled. Another article appeared recently saying that Battlefield 5 with ray tracing runs at sub-30fps at 4K resolution, but that Dice still has a lot of optimizing to do before the game ships, so we'll have to wait and see.
+
+Exit Theatre Mode
+
+Bottom line: we just don't know what kind of performance penalty ray tracing will require, and at what resolutions it will make games unplayable. It seems likely that gamers, at least for now, will have to choose between ray tracing at lower resolutions, ray tracing at higher resolutions and a lower framerate, or turning off ray tracing entirely.
+
+Overall though, these cards are the first generation products, and they’re not for everyone. For starters, they’re expensive, ranging from $500 to $1,000, and the list of games slated to support the tech is relatively short right now. Not only that, but it doesn't appear that there will be any games that support ray tracing when the first batch of RTX GPUs are delivered on September 20th.
+
+But as with all big leaps in gaming technology, this stuff will eventually trickle down to more affordable cards, performance will improve, and hopefully more new games will support it as there's more of an installed hardware base. For now, the RTX line is really just for early adopters that absolutely must have the latest and greatest. Gamers on a budget won’t be taking advantage of ray tracing just yet, but it’s an exciting prospect for the future, say in a few years or so. Should you care about this right now? Again, we'll have to wait and see how it's implemented in games, what the performance penalty is, and if the high cost of these new cards is justified. We'll all find out the answer to these questions soon enough.

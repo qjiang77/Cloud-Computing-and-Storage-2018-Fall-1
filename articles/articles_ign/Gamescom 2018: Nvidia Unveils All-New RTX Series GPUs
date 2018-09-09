@@ -1,0 +1,32 @@
+title source_url url tags publish_date authors summary text
+Gamescom 2018: Nvidia Unveils All-New RTX Series GPUs|http://www.ign.com/tech|https://www.ign.com/articles/2018/08/20/gamescom-2018-nvidia-unveils-all-new-rtx-series-gpus||2018-08-20|||Share. Leaves Pascal in the dust. Leaves Pascal in the dust.
+
+Be sure to visit IGN Tech for all the latest comprehensive hands-on reviews and best-of roundups. Note that if you click on one of these links to buy the product, IGN may get a share of the sale. For more, read our Terms of Use.
+
+Here at Gamescom Nvidia has finally pulled the wraps off its revamped GPU lineup based on its new Turing GPU architecture. Though new GPUs were expected, Nvidia shocked everyone by deviating from precedent and unveiling a monstrous $1,200 flagship GPU along with the anticipated 2080 and 2070 models as well. All three GPUs bear the all-new RTX prefix, highlighting the new architecture’s focus on Ray Tracing, and setting them apart from all previous GPUs made by Nvidia.
+
+RTX – A New Era for Nvidia GPUs
+
+Though we all expected new GPUs to be unveiled at this conference, a few months ago nobody expected that they’d arrive with a brand new prefix. GTX is out, and RTX is in, and it indicates Nvidia has decided to put all its money on Ray Tracing as the flagship feature for this new generation of GPUs.
+
+This is the same technology Nvidia stuffed into the $3,000 Titan V, so it’s surprising to see it work its way into a consumer GPU -- along with a premium cost. What sets these “RTX” models apart from their GTX counterparts is an all-new SM design that includes an RTX core as well as a new type of hardware Nvidia calls Tensor cores. Originally launched with the company’s Enterprise-level Volta architecture, this is a technology that hasn’t received much discussion in the world of gaming before, simply because we didn’t have the technology to run it in a way that was fast enough for gaming.
+
+The RTX essentially ditches the approach that’s been used since 3D gaming began. Traditionally, lighting is painted into a scene, and that allows light to behave in a way that’s more akin to how it acts in the real world. The TLDR version of RTX is that this new hardware can calculate the path of a ray of light, and how it bounces off the environment, including what it illuminates and the reflections that causes, in real-time. The result is lighting and reflections that look extremely natural, instead of lighting that is “pre-programmed” for lack of a better phrase.
+
+Bringing real-time Ray Tracing to games is a significant development in terms of making games more realistic, but game designers will have to bake it into the game, as it’s not something that could just appear on an older title with this new GPU. This does make the new GPUs future-proof however, in that it’ll take some time before we can find out if the industry is adopting this technology or not -- though Nvidia did show a slide with about 25 games in production using the technology including Battlefield V, Metro: Exodus, Atomic Heart, and Shadow of the Tomb Raider.
+
+At the end of the presentation, the Nvidia CEO announced the RTX family consists of three GPUs: RTX 2080 Ti, RTX 2080, and RTX 2070. All three are available for pre-order immediately in Founder's Edition trim and available September 20th.
+
+Unfortunately, Founder's Edition cards will be more expensive than the prices listed above, and they are as follows according to Nvidia's webpage:
+
+Nvidia RTX 2070: $599
+
+Nvidia RTX 2080: $799
+
+Nvidia RTX 2080 Ti: $1,299
+
+This time around Nvidia is basing the performance improvement for Turing on the difference in Ray Tracing between the two GPUs, and in that regard, the Turing chips are roughly 8X faster than Pascal, which is quite an incredible achievement (in games that support it, of course). There was no word about an RTX 2060 or lesser, so we'll have to wait and see on those models. It's possible they could be GTX variants without all the Ray Tracing gizmos, but it's anybody's guess at this point.
+
+Stay tuned for captured footage showing off the GPU's new capabilities. Based on what we saw in the Livestream, it should be pretty awesome. Be sure to check out the rest of IGN's Gamescom's footage right here.
+
+Update: Amazon now has some cards up for preorder.

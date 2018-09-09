@@ -1,0 +1,42 @@
+title source_url url tags publish_date authors summary text
+The Best Cheap G-Sync Monitors|http://www.ign.com/pc|https://www.ign.com/articles/2018/09/07/the-best-cheap-g-sync-monitors?abthid=5b92e800edd8166a53000034||2018-09-07|||Share. Cheap is relative. Cheap is relative.
+
+Be sure to visit IGN Tech for all the latest comprehensive hands-on reviews and best-of roundups. Note that if you click on one of these links to buy the product, IGN may get a share of the sale. For more, read our Terms of Use.
+
+There’s nothing that takes me out of a game more than frame tearing. I mean, my day-to-day life is visually smooth and fluid, and I expect as much from my video games. But sometimes things get out of sync, and the fabric of visual reality is torn. (I’m still talking about video games here and not my life; honestly!) G-Sync is Nvidia's solution to the scourge of frame tearing, but what are they exactly, and what causes them?
+
+Simply put, it's caused when the refresh rate of your monitor isn’t in sync with the output from your graphics card. If your monitor isn’t done drawing an image before your computer sends it the next frame, any movement can cause tearing. It can look like your screen image has been torn along a horizontal line and the top part was shifted to the side and no longer lines up with the bottom.
+
+Previously the solution to this problem was to simply enable V-Sync in your game, which synced the output of the video card to your monitor's maximum refresh rate, which was usually 60Hz. This introduced its own set of issues, however, namely increased input lag and a frame rate capped at 60fps, or 30fps if you're running below 60fps. Nvidia was unhappy with this solution (just like the rest of us), so it created G-Sync a few years ago to solve these issues. It locks your monitor's refresh rate to the current frame rate of your graphics card and eliminates screen tearing, but isn't limited to any particular refresh rate. It can work at 38Hz, 45Hz, and so on.
+
+In general, it works really well, but there are requirements. You need a Nvidia graphics card (minimum of a GTX 650 Ti Boost) and a G-Sync-enabled monitor connected by DisplayPort 1.2 or newer, and you need to turn it on in the Nvidia control panel software. G-Sync monitors have a proprietary G-Sync module in them that allows it to work, and with the right monitor and video card you could get synced frame rates all the way up to 240Hz.
+
+G-Sync monitors tend to be around $100 to $200 more than the comparable FreeSync panels (which is attributed to the required module), so ‘cheap’ has a slightly different connotation here. That said, the best cheap G-Sync monitors let you experience a tear-free gaming experience without having to break the bank.
+
+TL;DR: These are the best cheap G-Sync monitors:
+
+Acer Predator XB241H
+
+Dell S2716DG
+
+Acer Predator XB252Q
+
+Acer Predator XB271HK
+
+The Cheapest G-Sync Monitor – Acer Predator XB241H
+
+The Acer XB241H can regularly be found for about $350, which makes it the cheapest G-Sync monitor currently available (as of September 2018). Don’t think it’s a slouch, though. This 1080p display sports a TN panel with a 1ms response time and 144Hz refresh rate that can be overclocked to 180Hz, so it's one of the fastest monitors you can buy. It also has ULMB (Ultra Low Motion Blur) to help if you encounter any motion blur issues. It’s a great gaming monitor especially for fast-paced, twitchy gaming, and the perfect way to get one with G-Sync for the first time.
+
+The Best Cheap G-Sync Monitor (When It's On Sale) – Dell S2716DG
+
+If you can find this Dell monitor for around $450 it’s a smokin' deal. The 27-inch TN panel has a response time of 3ms, but setting the response time speed in its menu to Fast gets that down to the 1ms Holy Grail target. The 144Hz refresh rate with G-Sync enabled is fantastic and runs very well at its native 2560x1440 resolution. It's also a great resolution for this panel size, making for easy readability without the need for any scaling. It even has a USB 3.0 hub as well.
+
+Best G-Sync Monitor With a Fast Refresh Rate – Acer Predator XB252Q
+
+The second Acer on this list is one inch bigger than the previous monitor, but it can run at a blistering 240Hz refresh rate – the highest refresh rate supported by G-Sync. The XB252Q is a 1920 x 1080p TN display with ULMB for motion blur, though that feature can only be used up to 144Hz. At $500 it's not cheap, but that super high refresh rate plus G-Sync is something to behold, and this is the least expensive way to get them both in one monitor.
+
+4K and G-Sync at a Reasonable Price – Acer Predator XB271HK
+
+Sure, $650 isn't "cheap," but what you get for it is an absolute steal. This 27" panel features slim bezels, excellent color accuracy, and gorgeous 4K resolution. This is the only IPS panel on the list so response rate is a bit more sluggish at 4ms, but for gaming most people won’t notice any issues. Like the majority of 4K monitors, refresh rate is limited to 60Hz and you’ll need a pretty beefy video card to keep those refresh numbers up while running in 4K. Some intensive games will need to be played in 1440p, but either way G-Sync will keep everything running nice and smooth.
+
+John Higgins has been writing and testing all manner of audio, video, computer, and gaming gear since the early '00s. He has written for print and online publications including Home Theater, Wirecutter, Sound & Vision, SoundStage!, and Channel Guide. He is also a post audio editor, composer, and musician in Los Angeles.

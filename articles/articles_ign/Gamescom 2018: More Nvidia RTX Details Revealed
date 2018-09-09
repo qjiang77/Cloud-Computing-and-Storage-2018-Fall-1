@@ -1,0 +1,96 @@
+title source_url url tags publish_date authors summary text
+Gamescom 2018: More Nvidia RTX Details Revealed|http://www.ign.com/tech|https://www.ign.com/articles/2018/08/21/gamescom-2018-more-nvidia-rtx-details-revealed||2018-08-21|||Share. It's all about ray tracing this time around. It's all about ray tracing this time around.
+
+Last night Nvidia yanked the curtain off its much-anticipated RTX series GPUs, and though a lot of questions were answered, more questions remain, and more details have come to light. Now that it’s the day after the marketing blitz let’s take a look at the official specs of all three of the newly announced GPUs that comprise the RTX Family, and address a few issues.
+
+Spec Chart
+
+To recap, the big news with these GPUs is that the Turing architecture is dramatically different from Pascal, as there’s now hardware specifically designed for ray tracing and functions associated with it. This feature is so paramount that aside from the expected clock speed and memory differences between the models, one of the biggest differences between models is the number of Gigarays each GPU can process. A Gigaray is 1 billion light ray calculations. As you go up the product stack the cards can calculate more rays, it's as simple as that.
+
+According to Nvidia the new GPUS are up to eight times faster than Pascal, but only in ray tracing. At the end of the presentation last night Nvidia revealed a graph which depicts this performance delta.
+
+It's important to note that the legend says "RTX Ops" as opposed to some sort of global metric or anything that applies to current games. Since Pascal wasn't designed for Ray Tracing, this performance delta isn't surprising. The company hasn’t made any claims for overall performance compared to Pascal, so that’s an unknown at this point.
+
+How the 2080 Ti will compare to the 1080 Ti in current games, for example, is something we’re curious to find out. It won’t be six or eight times faster, obviously, though it seems reasonable to expect a 20 percent boost just based on precedent and gains in efficiency since Pascal's launch over two years ago. We’ll have to wait until we have our hands on a card and can benchmark it ourselves to find out; so stay tuned.
+
+No NV-Link on the RTX 2070
+
+Hat tip to Videocardz for this one, and it’s frankly pretty surprising: It seems Nvidia has removed the ability to run dual GPUs on the RTX 2070, which means the company is moving this restriction “upstream” since the GTX 1070 had an SLI connector, but the GTX 1060 didn't. This almost made sense since you could theoretically argue that midrange customers wouldn’t be interested in a high-end, dual-card setup. Either way, this an unfortunate omission from Nvidia as all consumers want as many upgrade options as possible. It's also unclear if the NVLink connector will be included for free with motherboards like current SLI connectors, or if it will be something that has to be purchased. The current Quadro version of this connector costs as much as a GPU.
+
+The RTX 2070 Founder's Edition with clearly missing NVLink connector.
+
+Founder's Edition Cards Are Overclocked And More Expensive
+
+With Pascal, The Founder's Edition name was interchangeable with "reference edition," meaning those GPUs were all at stock speeds. Back then, overlocking was left to the company's partner cards (Asus, Gigabyte, EVGA, etc). This time around, the tables have turned. Now Nvidia is directly competing with its partners, and all of its Founder's Edition GPUs are overclocked by 90MHz out of the box, though they will certainly clock even higher than that thanks to GPU Boost. Still, it's important to note the Founder's Edition cards are is now a premium (not "reference") product. The company's board partners will be offering "reference" designs, but Nvidia won't. Founder's Edition cards will also carry a $100 price premium over the baseline partner cards, which were listed as costing $499, $699, and $999.
+
+Developers Have to Support Nvidia RTX
+
+In case it wasn't clear, ray tracing has to be something developers bake into the game, so the RTX functionality will have zero impact on games that are out now. A lot of developers have come onboard already of course, including Epic with its Unreal Engine 4. For the immediate future, Nvidia sent us this list of the games in currently in production that will support real-time ray tracing:
+
+Assetto Corsa Competizione from Kunos Simulazioni/505 Games
+
+from Kunos Simulazioni/505 Games Atomic Heart from Mundfish
+
+from Mundfish Battlefield V from EA/DICE
+
+from EA/DICE Control from Remedy Entertainment/505 Games
+
+from Remedy Entertainment/505 Games Enlisted from Gaijin Entertainment/Darkflow Software
+
+from Gaijin Entertainment/Darkflow Software Justice from NetEase
+
+from NetEase JX3 from Kingsoft
+
+from Kingsoft MechWarrior 5 : Mercenaries from Piranha Games
+
+: Mercenaries from Piranha Games Metro Exodus from 4A Games
+
+from 4A Games ProjectDH from Nexon’s devCAT Studio
+
+from Nexon’s devCAT Studio Shadow of the Tomb Raider from Square Enix/Eidos-Montréal/Crystal Dynamics/Nixxes
+
+That's not too shabby, but does it justify the massive cash outlay compared to the 10-series? Obviously not. However, depending on its non-ray tracing performance you could be making a future-proof investment as more games might end up supporting it in the future. We'll have to wait and see. Just keep in mind this is new technology, so when you get your GPU on September 20th (assuming you pre-ordered a 2080 or 2080 Ti), you will have very few games (if any) to actually test the ray tracing on. Your best bet will be the Battlefield V Beta.
+
+RTX Support Doesn't Always Mean Ray Tracing
+
+This is an addendum to the above point, and hat tip to Overclock3d.net on this one, as "RTX support" is now officially confusing. Essentially Nvidia showed a screen during its presentation titled, "RTX Games Coming Soon," and it included some of the obvious games like Battlefield V and Shadow of the Tomb Raider, but also popular games like PUBG and Hitman 2.
+
+According to a "clarification" from Overclock3D, RTX support doesn't just mean ray tracing, and, in fact, it could mean a new anti-aliasing technique called Deep Learning Super Sampling (DLSS) that Nvidia has developed. It essentially lets a neural network smooth out jagged edges, and it looked pretty awesome in the demo we were shown. In an email from Nvidia, it clarified to us what specific titles would just include DLSS:
+
+Ark: Survival Evolved from Studio Wildcard
+
+from Studio Wildcard Atomic Heart from Mundfish
+
+from Mundfish Dauntless from Phoenix Labs
+
+from Phoenix Labs Final Fantasy XV from Square Enix
+
+from Square Enix Fractured Lands from Unbroken Studios
+
+from Unbroken Studios Hitman 2 from IO Interactive/Warner Bros.
+
+from IO Interactive/Warner Bros. Islands of Nyne from Define Human Studios
+
+from Define Human Studios Justice from NetEase
+
+from NetEase JX3 from Kingsoft
+
+from Kingsoft Mechwarrior 5 : Mercenaries from Piranha Games
+
+: Mercenaries from Piranha Games PlayerUnknown’s Battlegrounds from PUBG Corp.
+
+from PUBG Corp. Remnant : From the Ashes from Arc Games
+
+: From the Ashes from Arc Games Serious Sam 4 : Planet Badass from Croteam/Devolver Digital
+
+: Planet Badass from Croteam/Devolver Digital Shadow of the Tomb Raider from Square Enix/Eidos-Montréal/Crystal Dynamics/Nixxes
+
+from Square Enix/Eidos-Montréal/Crystal Dynamics/Nixxes The Forge Arena from Freezing Raccoon Studios
+
+from Freezing Raccoon Studios We Happy Few from Compulsion Games / Gearbox
+
+So for a game to be called an "RTX Game," it has to support either ray tracing, DLSS, or both technologies.
+
+More details will certainly come to light as NDAs lift on these GPUs, so be sure to check back for more info as we acquire it. And of course, you can expect a full review of Nvidia's RTX GPUs at some point in the hopefully-not-too-distant-future.
+
+Be sure to visit IGN Tech for all the latest comprehensive hands-on reviews and best-of roundups.

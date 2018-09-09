@@ -1,0 +1,22 @@
+title source_url url tags publish_date authors summary text
+Google pushes physical security key|https://www.foxnews.com|https://www.foxnews.com/tech/2018/09/07/google-pushes-physical-security-key.html||2018-09-07|||The internet's biggest search engine is going low-tech for its latest product, aimed at helping you secure your files on the Google cloud - and beyond.
+
+Following a recent trend of users demanding more physical reassurances that hackers can't access their files or sensitive data, Google is introducing Titan. The device is a physical security key that allows users to perform a 2-step verification before accessing data and other files. While it was originally only available to Google Cloud Customers, as of last week the key is now available to all Google users in the form of a USB.
+
+NORTH KOREAN HACKERS SUSPECTED OF CREATING MAC-BASED MALWARE
+
+It's the latest device to use the two-factor authentication protocol (2FA), also known as two-step verification (2SV). It's an excellent way to protect yourself against phishing and other attacks designed to steal passwords. Most internet users have come across 2FA in the form of an SMS or email message that provides a code needed to access an online account. This type of 2FA is good, but codes sent over the internet can be stolen.
+
+That's where Titan comes in. The company says not only will Titan help the public keep their information safe - and private - but it also could make passwords a thing of the past. For example, you might use a password to log in to all of your online accounts, like Gmail, Facebook and Dropbox. That's not very secure, even if you use a different password everywhere. With Titan, it's all digitally imprinted on the physical device.
+
+IS THERE NEW 'HACKPROOF' CYBER DEFENSE? AIR FORCE, INDUSTRY TEST NEW SYSTEM
+
+First you enter a password, then insert the key. When enabled, a one-time code is sent to your mobile device and used when you log in with your password. It's really two devices: The USB key that can be inserted into your computer, and a Bluetooth device to do the same thing wirelessly, as a backup that also could be used on your mobile device. Of course, Titan is optimized for Google use, and if you use any of the company's online services - like Gmail or Cloud - you could use the key to lock down your data more securely.
+
+Google has been making the push for security keys for their cloud services since July, when the company said that for the past year, they've been using the physical security with their 85,000 employees - and have had zero security problems as a result. While it's unclear how those benefits will translate to other companies - and consumers - the Titan device could eventually become the new industry standard for 2FA - and replace those cumbersome passwords.
+
+Despite the key's potential benefits, however, some security experts have questioned Google's decision to choose a Chinese company to produce Titan.
+
+Such fears are unfounded, according to Google. "Titan Security Keys are designed to make the critical cryptographic operations performed by the security key strongly resistant to compromise during the entire device lifecycle, from manufacturing through actual use," said Christiaan Brand, product manager at Google Cloud, in a blog post Thursday. "The firmware performing the cryptographic operations has been engineered by Google with security in mind. This firmware is sealed permanently into a secure element hardware chip at production time in the chip production factory."
+
+Fox News' James Rogers contributed to this article.
