@@ -1,8 +1,8 @@
-import time
 from pyspark import SparkContext
 from pyspark.sql import SparkSession 
 from pyspark.sql import SQLContext 
 from query import Query
+import time
 
 class InvertedIndexSearcher:
     def __init__(self):
