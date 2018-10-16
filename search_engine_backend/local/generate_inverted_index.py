@@ -7,9 +7,9 @@ from pyspark.sql.types import *
 # 1. Create RDD to process the articles to get inverted index
 # 2. convert RDD to DataFrame
 # 3. save the DataFrame to MySQL
-path_articles = "/home/blackfrog/Documents/Cloud Computing/news_spider/articles"
+path_articles = "/home/blackfrog/Documents/Cloud_Computing/news_spider/articles"
 spark_context = SparkContext( 'local[*]', 'demo')
-
+#spark_context = SparkContext()
 
 def parseArticle(line, headers):
     if line in headers:
@@ -46,7 +46,9 @@ for subdir in os.listdir(path_articles):
             article.collect() # Do not know why, but here must use an action operation.
 
             articles.append(article)
-        except:
+        except: # Exception as e:
+            #print str(e)
+            #break
             failure_count += 1
             continue
     
@@ -78,7 +80,7 @@ fields = [StructField(field_name, StringType(), True) for field_name in schemaSt
 schema = StructType(fields)
 df_inverted_indices = database.createDataFrame(articles, schema)
 df_inverted_indices.write.format("jdbc").options(
-    url="jdbc:mysql://localhost:3306/course_cloud_computing_18fall?serverTimezone=UTC", 
+    url="jdbc:mysql://localhost:3306/news?serverTimezone=UTC", 
     driver="com.mysql.jdbc.Driver", 
     dbtable="inverted_index",
     user="root", 
