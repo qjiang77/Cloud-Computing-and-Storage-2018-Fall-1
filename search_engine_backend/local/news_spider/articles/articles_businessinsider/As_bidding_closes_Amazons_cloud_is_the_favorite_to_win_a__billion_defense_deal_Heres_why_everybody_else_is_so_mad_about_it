@@ -1,0 +1,68 @@
+title source_url url tags publish_date authors summary text
+As bidding closes, Amazon's cloud is the favorite to win a $10 billion defense deal. Here's why everybody else is so mad about it|http://www.businessinsider.com/prime|https://www.businessinsider.com/heres-why-amazon-is-heavily-favored-to-win-the-10-billion-jedi-contract-2018-10||2018-10-12|Rosalie Chan||The deadline for bids on a $10 billion cloud computing contract from the Department of Defense closes on Friday. The deal won't be officially awarded until April 2019, but the process has already drawn plenty of controversy since the bidding process officially began in July.
+
+The deal, called the Joint Enterprise Defense Infrastructure (JEDI) contract, is winner-take-all, meaning it will only be awarded to a single company. And right now, Amazon Web Services is the runaway favorite to be that winner.
+
+"It's between AWS and Microsoft Azure, to be honest," said Renee Murphy, a principal analyst at Forrester. "AWS is probably in the running to get it. They have the strongest relationship with the top secret levels of the government."
+
+Amazon is considered the frontrunner because of the certifications it already has, and its existing relationship with the government. In 2013, the CIA awarded the company a $600 million contract, and last year, AWS introduced Secret Region, a service designed for the CIA that can handle data classified at the "Secret" level.
+
+IBM and Oracle are still in the running for the contract, along with AWS and Microsoft. Google bowed out of the competition earlier this week, saying it wouldn't align with corporate values, but also because portions of the contract were out of scope with their current government certifications.
+
+Rival tech titans, however, have suggested that the process was flawed from the very start, in such a way that the retailer was the only company that could win.
+
+"When you delve into the nitty gritty [requirements of JEDI], it's clear that some of them are written with one company in mind," said Sam Gordy, General Manager for IBM US Federal, in an interview with Business Insider. Oracle and IBM have both filed formal protests against the Department of Defense over the JEDI contract.
+
+The Department of Defense declined to comment, citing pending litigation. Amazon and Oracle declined to comment. Microsoft and Google did not respond to a request for comment at the time of publication.
+
+The JEDI protests
+
+Several companies have voiced their opposition to the winner-take-all approach, saying that a multi-cloud solution would be stronger and that JEDI's requirements seem aimed at one specific company.
+
+In August, Oracle filed a protest against the Pentagon's decision to award the contract to one company, instead of multiple. On Wednesday, days before bids were due, IBM announced it would also file a protest against the Department of Defense's insistence on using only one cloud, instead of several from different companies. Even Microsoft, which is seen as the other major contender for JEDI, is said to have criticized the process.
+
+"The focus here is ensuring that we do the right thing for national security," said Gordy. "We protest because we believe that's the right thing to do. Businesses are all moving to a multi-cloud environment because of resiliency in their system, flexibility and security."
+
+As for Google: The search giant dropped out saying that the JEDI contract could conflict with its corporate values, just months after employees protested management for the company's involvement in Project Maven — a program with the Pentagon to use artificial intelligence to analyze drone footage. However, the company also chimed in against the notion of relying on a single cloud.
+
+"Had the JEDI contract been open to multiple vendors, we would have submitted a compelling solution for portions of it," a spokesperson said in a statement. "Google Cloud believes that a multi-cloud approach is in the best interest of government agencies, because it allows them to choose the right cloud for the right workload."
+
+IBM CEO Ginni Rometty Business Insider/Julie Bort
+
+Amazon is leading, and Google dropped out
+
+Right now, Amazon is the only company that holds the highest security authorization to handle government data. To work for the Defense Department, companies need additional clearance from the Defense Information Systems Agency (DISA), which gives out security authorizations from IL-2 to IL-6, with IL-6 handling information rated Top Secret.
+
+According to the JEDI contract requirement, companies should be able to manage IL-5 data. According to a publicly-viewable document from the Department of Defense, Oracle, Microsoft and IBM have received IL-5 authorizations for certain cloud services they offer. Google, which dropped out of the race earlier this week, only holds the IL-2 requirement. On the other hand, Amazon is the only company that holds IL-6 authorization, which applies to its AWS Secret Commercial Cloud Services for government agencies.
+
+"I think frankly, that cybersecurity plan was what led [Google] to withdrawing," said Rick Holgate, senior director and analyst at Gartner. "That's consistent with attitude they've taken with the US federal government. If [its cloud offering is] satisfactory, they don't feel a need or inclination to go beyond that or go further."
+
+Compared to other JEDI competitors, Google is also behind on the Federal Risk and Authorization Management Program (FedRAMP), a security certification on handling government data. Google was certified in March to handle data at the "moderate" level, while Amazon, Microsoft and Oracle have certifications at the "high" level for their government cloud services.
+
+That's why it makes sense that Google backed off, Murphy says. The process involves not only updating systems to meet federal requirements, but also documentation and hiring third party assessors to scan and hack the system for vulnerabilities.
+
+"The step between moderate and high is extreme," Murphy said. "If you're not in any form of certification process currently, it's going to take you months and months to get into the pipeline. The government isn't going to do business with you if you're not FedRAMP certified."
+
+Besides, it's expensive: Achieving this certification is an expensive process, as it costs $2.25 million to achieve authorization and $1 million annually to maintain it. Google could certainly afford it, but it is a cost.
+
+Catching up to Amazon
+
+Microsoft isn't backing away from the competition, however, and some think that it's just as viable a competitor as Amazon.
+
+On Tuesday, Microsoft said it's on track by early next year to match Amazon and obtain the IL-6 "Top Secret" classified data certification.
+
+Microsoft CEO Satya Nadella Microsoft
+
+"There's this thinking that it's wired for AWS," Holgate said. "Microsoft is equally valid in this space. Based on their track record, they have the ability to deliver the contract they're looking for. It's a starting point to be a multiple cloud environment for the Department of Defense."
+
+As for the other two companies in the running, IBM previously had a cloud deal with the Army and expects to be able to obtain that IL-6 authorization. IBM currently only has a FedRAMP moderate certification, but it is "confident we can secure all certifications required to support JEDI," an IBM spokesperson said. Oracle also has an active relationship with the Pentagon, as the Department of Defense uses many of the company's databases.
+
+Oracle co-CEO Mark Hurd Flicker/Oracle PR
+
+Even if other companies are able to catch up, Amazon has the advantage of already being able to fulfill the top government requirements. If another company were to win the contract, it has a tight timeline to get its authorization in order. It must be able to host classified information within six months, and top-secret information within nine months; Amazon could do it today, in theory.
+
+"There's nothing that would prohibit them from meeting these requirements as long as they're willing to invest," Holgate said. "I think what may have given Oracle and IBM pause with the JEDI solicitation is the scope and magnitude of the services they're looking for. They're requiring services at all levels of classification, which also involves IL-6."
+
+Still, Holgate points out that the government will offer other cloud contracts in the coming years.
+
+"There tends to be this discussion around JEDI on the winner-take-all vehicle," Holgate said. "It's not in any way a winner-take-all vehicle. It's certainly a pretty significant vehicle. Whoever wins it will have a significant contract. There's other cloud contracts out there. The idea that there will be one cloud provider in the Department of Defense forever is misleading."

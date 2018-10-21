@@ -1,0 +1,54 @@
+title source_url url tags publish_date authors summary text
+Facebook Admits To New Security Breach, 50 Million People At Risk|http://www.huffingtonpost.com.au|https://www.huffingtonpost.com.au/2018/09/29/facebook-admits-to-new-security-breach-50-million-people-at-risk_a_23546074/?ncid=other_topnaventr_coabgdcpxri&utm_campaign=topnav||2018-09-29|||(Reuters) - Facebook Inc <FB.O> said on Friday that hackers stole digital login codes allowing them to take over nearly 50 million user accounts in its worst security breach ever given the unprecedented level of potential access, adding to what has been a difficult year for the company&#39;s reputation.
+
+Facebook, which has more than 2.2 billion monthly users, said it has yet to determine whether the attacker misused any accounts or stole private information. It also has not identified the attacker&#39;s location or whether specific victims were targeted. Its initial review suggests the attack was broad in nature.
+
+Chief Executive Mark Zuckerberg described the incident as &quot;really serious&quot; in a conference call with reporters. His account was affected along with that of Chief Operating Officer Sheryl Sandberg, a spokeswoman said.
+
+Shares in Facebook fell 2.6 percent on Friday, weighing on major Wall Street stock indexes.
+
+Facebook made headlines earlier this year after profile details from 87 million users was improperly accessed by political data firm Cambridge Analytica. The disclosure has prompted government inquiries into the company&#39;s privacy practices across the world, and fuelled a &quot;#deleteFacebook&quot; social movement among consumers.
+
+U.S. lawmakers said on Friday that the hack may boost calls for data privacy legislation.
+
+&quot;This is another sobering indicator that Congress needs to step up and take action to protect the privacy and security of social media users,&quot; Democratic U.S. Senator Mark Warner said in a statement.
+
+Federal Trade Commission Commissioner Rohit Chopra on Twitter said &quot;I want answers&quot; with a link to a Reuters story on the breach.
+
+&#39;COMPLEX&#39; FLAW
+
+Facebook&#39;s latest vulnerability had existed since July 2017, but the company first identified it on Tuesday after spotting a &quot;fairly large&quot; increase in use of its &quot;view as&quot; privacy feature on Sept. 16, executives said.
+
+&quot;View as&quot; allows users to verify their privacy settings by seeing what their own profile looks like to someone else. The flaw inadvertently gave the devices of &quot;view as&quot; users the wrong digital code, which, like a browser cookie, keeps users signed in to a service across multiple visits.
+
+That code could allow the person using &quot;view as&quot; to post and browse from someone else&#39;s Facebookaccount, potentially exposing private messages, photos and posts. The attacker also could have gained full access to victims&#39; accounts on any third-party app or website where they had logged in withFacebook credentials.
+
+&quot;The implications of this are huge,&quot; Justin Fier, director of cyber intelligence at security company Darktrace, told Reuters.
+
+Guy Rosen, the Facebook vice president overseeing security, said the flaw was &quot;complex&quot; in that it resulted from three failings.
+
+A video upload feature should not have displayed on a user&#39;s profile page when accessed through &quot;view as,&quot; Rosen told reporters on a conference call. That alone would not have been problematic except that the video feature wrongly triggered the placement of the powerful login code. And it placed the code not for the &quot;view as&quot; user, but for who they were pretending to be.
+
+Facebook fixed the issue on Thursday. It also notified the U.S. Federal Bureau of Investigation, Department of Homeland Security, Congressional aides and the Data Protection Commission in Ireland, where the company has European headquarters.
+
+The Irish authority expressed concern in a statement that Facebook has been &quot;unable to clarify the nature of the breach and risk to users&quot; and said it was pressing Facebook for answers.
+
+Facebook reset the digital keys of the 50 million affected accounts, and as a precaution temporarily disabled &quot;view as&quot; and reset those keys for another 40 million that have been looked up through &quot;view as&quot; over the last year.
+
+About 90 million people will have to log back into Facebook or any of their apps that use a Facebooklogin, the company said.
+
+Two Facebook users sued the company over the breach in federal court in California on Friday.
+
+More than 6,000 users complained about the breach on Zuckerberg&#39;s Facebook page.
+
+&quot;I&#39;m so scared now. All my activities are on Facebook,&quot; Mohammad ZR Zia, a 25-year-old college student in Kuala Lumpur, Malaysia, who has been using the social media platform since 2009, told Reuters. His account was logged out earlier on Friday.
+
+The level of concern expressed on Facebook was enough that the company&#39;s automated system temporarily blocked sharing of some articles about the breach.
+
+&quot;Our security systems have detected that a lot of people are posting the same content, which could mean that it&#39;s spam,&quot; a message told users. Facebook later apologised for the misfire.
+
+Facebook has suffered narrower breaches before.
+
+In 2013, Facebook disclosed a software flaw that exposed 6 million users&#39; phone numbers and email addresses to unauthorised viewers for a year, while a technical glitch in 2008 revealed confidential birth-dates on 80 million Facebook users&#39; profiles.
+
+Reporting by Munsif Vengattil and Arjun Panchadar in Bengaluru and Paresh Dave in San Francisco; Additional reporting by Christopher Bing, Jim Finkle and David Shepardson in Washington, D.C., Joseph Menn in San Francisco and Angela Moon in New York; Editing by Clive McKeef

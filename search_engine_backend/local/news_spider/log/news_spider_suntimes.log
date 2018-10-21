@@ -1,0 +1,308 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://chicago.suntimes.com/feeds/
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:26:56] (NewsSpider-3) (1/112) Crawling and storing DONE - Rapper Mac Miller dead following apparent overdose
+INFO:root:[2018-09-08 18:26:56] (NewsSpider-4) (2/112) Crawling and storing DONE - Democrats make final attempt to block Kavanaugh confirmation
+INFO:root:[2018-09-08 18:27:03] (NewsSpider-3) (3/112) Crawling and storing DONE - The Grid: Exploring the Norwood Park neighborhood
+INFO:root:[2018-09-08 18:27:10] (NewsSpider-3) (4/112) Crawling and storing DONE - 29-year-old man shot inside Gary establishment
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://chicago.suntimes.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-10) Start! ==========
+WARNING:root:[2018-10-14 10:50:59] (NewsSpider-9) Article Not Exists on https://chicago.suntimes.com/entertainment/bad-times-at-the-el-royale-review-movie-jeff-bridges-jon-hamm-dakota-johnson-richard-roeper/
+INFO:root:[2018-10-14 10:51:00] (NewsSpider-6) (1/104) Crawling and storing DONE - Dear Abby: My therapist finds me on dating site, starts flirting
+INFO:root:[2018-10-14 10:51:01] (NewsSpider-1) (2/104) Crawling and storing DONE - 11 shot — 2 killed — Saturday in city gun violence
+INFO:root:[2018-10-14 10:51:01] (NewsSpider-10) (3/104) Crawling and storing DONE - Serena Williams talks motherhood, insecurities at conference
+INFO:root:[2018-10-14 10:51:01] (NewsSpider-2) (4/104) Crawling and storing DONE - Cook County misdemeanor court: Where trespassing won’t get you life, even if your neighbor says it should
+INFO:root:[2018-10-14 10:51:01] (NewsSpider-3) (5/104) Crawling and storing DONE - Urgent but emotional, ‘The Hate U Give’ reflects the realities of right now
+INFO:root:[2018-10-14 10:51:01] (NewsSpider-7) (6/104) Crawling and storing DONE - Abhi the Nomad has lived in many lands on his way to hip-hop succes
+INFO:root:[2018-10-14 10:51:02] (NewsSpider-8) (7/104) Crawling and storing DONE - EDITORIAL: Van Dyke’s guilty verdict brings relief, sadness, and a sense of hope
+INFO:root:[2018-10-14 10:51:02] (NewsSpider-5) (8/104) Crawling and storing DONE - The Grid: Exploring the Pullman neighborhood
+INFO:root:[2018-10-14 10:51:10] (NewsSpider-4) (9/104) Crawling and storing DONE - Flood of Colombian cocaine headed to Chicago, other big U.S. cities, DEA says
+WARNING:root:[2018-10-14 10:51:11] (NewsSpider-10) Article Not Exists on https://chicago.suntimes.com/instagram/edison-park-dining-best-restaurants-things-to-do-parks-events-the-grid/
+WARNING:root:[2018-10-14 10:51:12] (NewsSpider-2) Article Not Exists on https://chicago.suntimes.com/news/man-shot-lower-west-side/
+WARNING:root:[2018-10-14 10:51:12] (NewsSpider-6) Article Not Exists on https://chicago.suntimes.com/sports/bears-dolphins-akiem-hicks-defense-analysis/
+INFO:root:[2018-10-14 10:51:14] (NewsSpider-3) (10/104) Crawling and storing DONE - Toughness personified: Blackhawks star Duncan Keith reaches 1,000-game milestone
+INFO:root:[2018-10-14 10:51:14] (NewsSpider-7) (11/104) Crawling and storing DONE - Priest at Little Village parish charged with sexually abusing 2 women
+INFO:root:[2018-10-14 10:51:19] (NewsSpider-8) (12/104) Crawling and storing DONE - ‘Chicago PD’ set draws Muslim community’s ire
+INFO:root:[2018-10-14 10:51:21] (NewsSpider-1) (13/104) Crawling and storing DONE - Leon Lederman, Nobel Prize-winning physicist who led Fermilab, has died at 96
+INFO:root:[2018-10-14 10:51:22] (NewsSpider-9) (14/104) Crawling and storing DONE - Daley’s statement on nephew’s homicide case to stay secret: court
+WARNING:root:[2018-10-14 10:51:22] (NewsSpider-4) Article Not Exists on https://chicago.suntimes.com/entertainment/chai-tea-recipe-food-restaurant-logan-square/
+WARNING:root:[2018-10-14 10:51:22] (NewsSpider-2) Article Not Exists on https://chicago.suntimes.com/entertainment/john-h-bryan-jr-sara-lee-corporation-ceo-chicago-philanthropist-arts-patron-millennium-park-lake-bluff-farnsworth-house-national-trust-historic-preservation-obituary/
+INFO:root:[2018-10-14 10:51:24] (NewsSpider-10) (15/104) Crawling and storing DONE - Before and after Laquan, I stand at a Chicago crossroads of love and hate
+INFO:root:[2018-10-14 10:51:30] (NewsSpider-8) (16/104) Crawling and storing DONE - Don’t let a small group of naysayers kill the Obama Presidential Center
+INFO:root:[2018-10-14 10:51:31] (NewsSpider-6) (17/104) Crawling and storing DONE - Dear Abby: Jobless man, 24, overwhelmed by family chores he’s expected to do
+INFO:root:[2018-10-14 10:51:31] (NewsSpider-5) (18/104) Crawling and storing DONE - J.B. and the Gov: The One Percent takes on The One Percent
+INFO:root:[2018-10-14 10:51:32] (NewsSpider-3) (19/104) Crawling and storing DONE - Don Sandburg, last surviving member of original ‘Bozo’s Circus’ cast, dies at 87
+INFO:root:[2018-10-14 10:51:34] (NewsSpider-7) (20/104) Crawling and storing DONE - Ukrainian Village: Churches, history, where to eat, shop, things to do
+INFO:root:[2018-10-14 10:51:35] (NewsSpider-2) (21/104) Crawling and storing DONE - 2 wounded, 1 critically, in Gresham shooting
+INFO:root:[2018-10-14 10:51:35] (NewsSpider-10) (22/104) Crawling and storing DONE - ENDORSEMENT: Kwame Raoul for Illinois attorney general
+INFO:root:[2018-10-14 10:51:35] (NewsSpider-4) (23/104) Crawling and storing DONE - 2 wounded in Gresham shooting
+WARNING:root:[2018-10-14 10:51:41] (NewsSpider-8) Article Not Exists on https://chicago.suntimes.com/news/friday-shootings-oct-12-2018/
+INFO:root:[2018-10-14 10:51:43] (NewsSpider-5) (24/104) Crawling and storing DONE - Democratic activists push for the polls with third Chicago Women’s March
+WARNING:root:[2018-10-14 10:51:45] (NewsSpider-1) Article Not Exists on https://chicago.suntimes.com/jobs-at-the-chicago-sun-times/
+INFO:root:[2018-10-14 10:51:45] (NewsSpider-3) (25/104) Crawling and storing DONE - Man shot while hanging out with friends in Little Village
+WARNING:root:[2018-10-14 10:51:47] (NewsSpider-4) Article Not Exists on https://chicago.suntimes.com/opinion/susana-mendoza-illinois-comptroller-endorsement-democrat-2018-general-election/
+WARNING:root:[2018-10-14 10:51:47] (NewsSpider-10) Article Not Exists on https://chicago.suntimes.com/sports/chicago-bears-mitch-trubisky-six-touchdowns-nfl-draft-matt-nagy-carson-wentz/
+INFO:root:[2018-10-14 10:51:47] (NewsSpider-7) (26/104) Crawling and storing DONE - Chicago’s population drops for third year in a row, losing 3,825 in 2017: Census
+INFO:root:[2018-10-14 10:51:54] (NewsSpider-8) (27/104) Crawling and storing DONE - Shooting on I-57 wounds 3, shuts down expressway for hours
+INFO:root:[2018-10-14 10:51:55] (NewsSpider-6) (28/104) Crawling and storing DONE - Shots fired at group wounds 1 near Garfield Park
+WARNING:root:[2018-10-14 10:51:56] (NewsSpider-3) Article Not Exists on https://chicago.suntimes.com/news/hate-crime-numbers-in-chicago-fell-in-2017-and-experts-arent-sure-why/
+INFO:root:[2018-10-14 10:51:56] (NewsSpider-9) (29/104) Crawling and storing DONE - A 4-block radius on the West Side is at the heart of Chicago’s opioid epidemic
+INFO:root:[2018-10-14 10:51:57] (NewsSpider-1) (30/104) Crawling and storing DONE - With Dolphins’ Ryan Tannehill questionable, will the Bears face a backup QB?
+WARNING:root:[2018-10-14 10:51:57] (NewsSpider-2) Article Not Exists on https://chicago.suntimes.com/news/rahm-emanuel-election-candidates-chicago-mayor-mccarthy-lightfoot-vallas/
+INFO:root:[2018-10-14 10:51:58] (NewsSpider-10) (31/104) Crawling and storing DONE - Pothole complaints up 14 percent in Chicago — the most in 3 years
+INFO:root:[2018-10-14 10:51:58] (NewsSpider-7) (32/104) Crawling and storing DONE - Bears notebook: Prince Amukamara, Anthony Miller to return vs. Dolphins
+INFO:root:[2018-10-14 10:52:04] (NewsSpider-4) (33/104) Crawling and storing DONE - Don’t loot Chicago’s cultural heritage by selling Kerry James Marshall painting
+WARNING:root:[2018-10-14 10:52:05] (NewsSpider-8) Article Not Exists on https://chicago.suntimes.com/news/mom-has-to-stay-at-school-with-kindergartner-because-cps-hasnt-provided-nurse/
+WARNING:root:[2018-10-14 10:52:06] (NewsSpider-5) Article Not Exists on https://chicago.suntimes.com/politics/hillary-clinton-president-donald-trump-you-asked-russia-to-hack-me/
+WARNING:root:[2018-10-14 10:52:09] (NewsSpider-7) Article Not Exists on https://chicago.suntimes.com/news/private-chicago-city-hauler-is-diverting-tons-of-recyclables-to-its-landfills/
+INFO:root:[2018-10-14 10:52:11] (NewsSpider-2) (34/104) Crawling and storing DONE - LGBTQ Democrat running for County Board calls Republican attack ad homophobic
+INFO:root:[2018-10-14 10:52:11] (NewsSpider-10) (35/104) Crawling and storing DONE - 18 shot — 2 fatally — since Friday evening
+WARNING:root:[2018-10-14 10:52:16] (NewsSpider-9) Article Not Exists on https://chicago.suntimes.com/cannabis/chef-mindy-segal-cannabis-medical-marijuana-edibles/
+INFO:root:[2018-10-14 10:52:16] (NewsSpider-4) (36/104) Crawling and storing DONE - Fittingly, Duncan Keith and Brent Seabrook hit milestones on same night
+INFO:root:[2018-10-14 10:52:17] (NewsSpider-6) (37/104) Crawling and storing DONE - Musicians’ strike forces cancellation of second Lyric Opera show
+WARNING:root:[2018-10-14 10:52:18] (NewsSpider-8) Article Not Exists on https://chicago.suntimes.com/entertainment/chance-the-rapper-pizza-to-benefit-his-charity/
+INFO:root:[2018-10-14 10:52:20] (NewsSpider-7) (38/104) Crawling and storing DONE - ENDORSEMENT: Jesse White for Illinois secretary of state
+WARNING:root:[2018-10-14 10:52:22] (NewsSpider-10) Article Not Exists on https://chicago.suntimes.com/news/50-years-guman-killed-neighbor-apartment-gym-reggie-daniel-darrin-joss/
+INFO:root:[2018-10-14 10:52:24] (NewsSpider-2) (39/104) Crawling and storing DONE - How a feline lover got tricked into becoming a dog person
+WARNING:root:[2018-10-14 10:52:26] (NewsSpider-9) Article Not Exists on https://chicago.suntimes.com/news/teen-shot-in-chicago-lawn-2/
+WARNING:root:[2018-10-14 10:52:28] (NewsSpider-1) Article Not Exists on https://chicago.suntimes.com/politics/kevin-morrison-cook-county-board-commissioners-15th-district-democratic-nominee-2018-general-election/
+INFO:root:[2018-10-14 10:52:29] (NewsSpider-8) (40/104) Crawling and storing DONE - Arnold Schwarzenegger: ‘I stepped over the line’ with women
+INFO:root:[2018-10-14 10:52:29] (NewsSpider-6) (41/104) Crawling and storing DONE - Sun-Times announces new Chicago neighborhood video series: ‘The Grid’
+INFO:root:[2018-10-14 10:52:34] (NewsSpider-4) (42/104) Crawling and storing DONE - Pot Topics: Chicago’s PharmaCann sold in record deal; pot legal in Canada soon
+WARNING:root:[2018-10-14 10:52:36] (NewsSpider-3) Article Not Exists on https://chicago.suntimes.com/opinion/endorsements-congress-2018-general-election-illinois-sean-casten-lauren-underwood-jesus-chuy-garcia-mike-quigly-brad-schneider-robin-kelly-danny-davis-raja-krishnamoorthi-jan-schakowsky-bill-foster-bo/
+INFO:root:[2018-10-14 10:52:36] (NewsSpider-9) (43/104) Crawling and storing DONE - Cook County Board 17th District Democratic nominee: Abdelnasser Rashid
+INFO:root:[2018-10-14 10:52:39] (NewsSpider-8) (44/104) Crawling and storing DONE - Every day on Chicago streets, there are 319 crashes; Chatham block has the most
+INFO:root:[2018-10-14 10:52:40] (NewsSpider-6) (45/104) Crawling and storing DONE - Man, 53, shot to death in Roseland
+WARNING:root:[2018-10-14 10:52:41] (NewsSpider-7) Article Not Exists on https://chicago.suntimes.com/instagram/bridgeport-chicago-neighborhood-exploring-things-to-do-the-grid/
+INFO:root:[2018-10-14 10:52:43] (NewsSpider-10) (46/104) Crawling and storing DONE - Warner Saunders — ‘towering figure in broadcast in Chicago’ — dies at 83
+INFO:root:[2018-10-14 10:52:44] (NewsSpider-2) (47/104) Crawling and storing DONE - Seeking T-Mobile merger, Sprint touts great cell coverage to consumers but tells the FCC its service ‘lags,’ can’t match competitors
+INFO:root:[2018-10-14 10:52:45] (NewsSpider-4) (48/104) Crawling and storing DONE - Here’s what’s new in and around Wrigley Field in 2018
+INFO:root:[2018-10-14 10:52:45] (NewsSpider-1) (49/104) Crawling and storing DONE - Architect Peter Roesch dies, was among last living students of Mies van der Rohe
+INFO:root:[2018-10-14 10:52:48] (NewsSpider-3) (50/104) Crawling and storing DONE - Forget the ideological trinkets, Dems, and focus on the economy
+INFO:root:[2018-10-14 10:52:48] (NewsSpider-9) (51/104) Crawling and storing DONE - Man shot in Englewood
+INFO:root:[2018-10-14 10:52:52] (NewsSpider-8) (52/104) Crawling and storing DONE - Florida officials fear Hurricane Michael’s death toll will rise
+INFO:root:[2018-10-14 10:52:53] (NewsSpider-6) (53/104) Crawling and storing DONE - Teen wounded in Englewood drive-by attack
+INFO:root:[2018-10-14 10:52:54] (NewsSpider-2) (54/104) Crawling and storing DONE - In a blow to Cook County Circuit Judge Matthew Coghlan, his colleagues give reelection money to Democratic Party
+INFO:root:[2018-10-14 10:52:55] (NewsSpider-5) (55/104) Crawling and storing DONE - Man, 22, shot in hip in Lithuanian Plaza
+INFO:root:[2018-10-14 10:52:56] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:52:57] (NewsSpider-7) (56/104) Crawling and storing DONE - FBI: $1K reward offered for robber who hit 3 NW suburban bank branches
+INFO:root:[2018-10-14 10:52:57] (NewsSpider-1) (57/104) Crawling and storing DONE - Teen shot to death in Austin
+INFO:root:[2018-10-14 10:52:57] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:52:57] (NewsSpider-4) (58/104) Crawling and storing DONE - Cook County Board 17th District Republican nominee: Sean Morrison
+INFO:root:[2018-10-14 10:52:57] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:52:58] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:52:58] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 10:52:59] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 10:53:00] (NewsSpider-9) (59/104) Crawling and storing DONE - Chicago mayoral candidate Bill Daley’s campaign treasurer is lawyer who hired ghost payroller on taxpayers’ dime
+INFO:root:[2018-10-14 10:53:01] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:53:02] (NewsSpider-8) (60/104) Crawling and storing DONE - 3 films today at the Chicago International Film Festival
+INFO:root:[2018-10-14 10:53:03] (NewsSpider-3) (61/104) Crawling and storing DONE - Plenty of insults, apologies, attacks in final gov debate — but not many answers
+INFO:root:[2018-10-14 10:53:04] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:53:05] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 10:53:09] ========== (NewsSpider-6) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://chicago.suntimes.com/feeds/
+INFO:root:[2018-10-14 17:44:29] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:29] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:29] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:29] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:29] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:44:37] (NewsSpider-3) (1/129) Crawling and storing DONE - Cook County property tax system unfair and needs fixing, review concludes
+INFO:root:[2018-10-14 17:44:37] (NewsSpider-4) (2/129) Crawling and storing DONE - A 4-block radius on the West Side is at the heart of Chicago’s opioid epidemic
+INFO:root:[2018-10-14 17:44:37] (NewsSpider-2) (3/129) Crawling and storing DONE - Fact-check: Bruce Rauner overstates facts about states with graduated income tax
+INFO:root:[2018-10-14 17:44:46] (NewsSpider-4) (4/129) Crawling and storing DONE - ENDORSEMENT: Kwame Raoul for Illinois attorney general
+INFO:root:[2018-10-14 17:44:48] (NewsSpider-2) (5/129) Crawling and storing DONE - Dear Abby: My therapist finds me on dating site, starts flirting
+INFO:root:[2018-10-14 17:44:49] (NewsSpider-1) (6/129) Crawling and storing DONE - Cook County Board 8th District Democratic nominee: Luis Arroyo Jr.
+INFO:root:[2018-10-14 17:44:49] (NewsSpider-5) (7/129) Crawling and storing DONE - The Grid: Exploring the Pullman neighborhood
+INFO:root:[2018-10-14 17:44:54] (NewsSpider-3) (8/129) Crawling and storing DONE - 18 shot — 2 fatally — since Friday evening
+INFO:root:[2018-10-14 17:44:55] (NewsSpider-2) (9/129) Crawling and storing DONE - Cook County Board 9th District Democratic nominee: Frank L. McPartlin
+INFO:root:[2018-10-14 17:44:56] (NewsSpider-5) (10/129) Crawling and storing DONE - ENDORSEMENT: Jesse White for Illinois secretary of state
+INFO:root:[2018-10-14 17:44:57] (NewsSpider-1) (11/129) Crawling and storing DONE - Chicago pastry Chef Mindy Segal launches 2nd line of cannabis-infused sweets
+INFO:root:[2018-10-14 17:44:58] (NewsSpider-4) (12/129) Crawling and storing DONE - The Grid: Exploring the Bridgeport neighborhood
+INFO:root:[2018-10-14 17:45:00] (NewsSpider-2) (13/129) Crawling and storing DONE - Man, 60, charged with shooting man to death in Robbins
+INFO:root:[2018-10-14 17:45:00] (NewsSpider-3) (14/129) Crawling and storing DONE - ‘Bad Times at the El Royale’ an homage to the Tarantino homages
+INFO:root:[2018-10-14 17:45:05] (NewsSpider-1) (15/129) Crawling and storing DONE - Cook County Board repeals soda tax
+INFO:root:[2018-10-14 17:45:07] (NewsSpider-4) (16/129) Crawling and storing DONE - Illinois Politics Becomes the Plaything of the Rich
+INFO:root:[2018-10-14 17:45:09] (NewsSpider-2) (17/129) Crawling and storing DONE - Dolphins QB Ryan Tannehill out, backup Brock Osweiler in vs. Bears
+INFO:root:[2018-10-14 17:45:11] (NewsSpider-1) (18/129) Crawling and storing DONE - Van Dyke prosecutor on taking the case: ‘Nobody thought it was a great idea’
+INFO:root:[2018-10-14 17:45:13] (NewsSpider-5) (19/129) Crawling and storing DONE - Urgent but emotional, ‘The Hate U Give’ reflects the realities of right now
+INFO:root:[2018-10-14 17:45:15] (NewsSpider-4) (20/129) Crawling and storing DONE - Pothole complaints up 14 percent in Chicago — the most in 3 years
+INFO:root:[2018-10-14 17:45:16] (NewsSpider-2) (21/129) Crawling and storing DONE - Cook County Board 9th District Republican nominee: Peter Silvestri
+INFO:root:[2018-10-14 17:45:16] (NewsSpider-3) (22/129) Crawling and storing DONE - If Larry Hoover were freed, he’d bring ‘fear of God’ to streets, advocate says
+INFO:root:[2018-10-14 17:45:21] (NewsSpider-1) (23/129) Crawling and storing DONE - Ukrainian Village: Churches, history, where to eat, shop, things to do
+INFO:root:[2018-10-14 17:45:21] (NewsSpider-5) (24/129) Crawling and storing DONE - Game of thrones? Watchdog sees ‘scheme to defraud’ in Pritzker toilet tax break
+INFO:root:[2018-10-14 17:45:22] (NewsSpider-4) (25/129) Crawling and storing DONE - Mom stays with kindergartner because Chicago Public Schools haven’t provided nurse
+INFO:root:[2018-10-14 17:45:23] (NewsSpider-2) (26/129) Crawling and storing DONE - Daley’s statement on nephew’s homicide case to stay secret: court
+INFO:root:[2018-10-14 17:45:28] (NewsSpider-5) (27/129) Crawling and storing DONE - Plenty of insults, apologies, attacks in final gov debate — but not many answers
+INFO:root:[2018-10-14 17:45:30] (NewsSpider-4) (28/129) Crawling and storing DONE - Don’t loot Chicago’s cultural heritage by selling Kerry James Marshall painting
+INFO:root:[2018-10-14 17:45:30] (NewsSpider-2) (29/129) Crawling and storing DONE - Don Sandburg, last surviving member of original ‘Bozo’s Circus’ cast, dies at 87
+INFO:root:[2018-10-14 17:45:33] (NewsSpider-1) (30/129) Crawling and storing DONE - Cook County Board 11th District Democratic nominee: John P. Daley
+INFO:root:[2018-10-14 17:45:35] (NewsSpider-2) (31/129) Crawling and storing DONE - Pot Topics: Chicago’s PharmaCann sold in record deal; pot legal in Canada soon
+INFO:root:[2018-10-14 17:45:35] (NewsSpider-5) (32/129) Crawling and storing DONE - All over in overtime: Bears miss field goal, lose wild finish to Dolphins
+INFO:root:[2018-10-14 17:45:36] (NewsSpider-4) (33/129) Crawling and storing DONE - The Grid: Exploring the Edison Park neighborhood
+INFO:root:[2018-10-14 17:45:37] (NewsSpider-3) (34/129) Crawling and storing DONE - Rauner falsely claims graduated income taxes always hurt the middle class
+INFO:root:[2018-10-14 17:45:39] (NewsSpider-1) (35/129) Crawling and storing DONE - Musicians’ strike forces cancellation of second Lyric Opera show
+INFO:root:[2018-10-14 17:45:42] (NewsSpider-2) (36/129) Crawling and storing DONE - Ready or not, Bulls players are poised for the start of the regular season
+INFO:root:[2018-10-14 17:45:43] (NewsSpider-5) (37/129) Crawling and storing DONE - EDITORIAL: Sun-Times endorses these 12 congressional candidates – and here’s why
+INFO:root:[2018-10-14 17:45:43] (NewsSpider-4) (38/129) Crawling and storing DONE - Every day on Chicago streets, there are 319 crashes; Chatham block has the most
+INFO:root:[2018-10-14 17:45:45] (NewsSpider-3) (39/129) Crawling and storing DONE - Fact-check: Rauner, Pritzker threw ‘lots of heat, little light’ at Sun-Times
+INFO:root:[2018-10-14 17:45:47] (NewsSpider-1) (40/129) Crawling and storing DONE - Warner Saunders — ‘towering figure in broadcast in Chicago’ — dies at 83
+INFO:root:[2018-10-14 17:45:48] (NewsSpider-2) (41/129) Crawling and storing DONE - Last straw? Many Cook County residents not too sweet on soda tax
+INFO:root:[2018-10-14 17:45:50] (NewsSpider-5) (42/129) Crawling and storing DONE - Cook County Board 17th District Republican nominee: Sean Morrison
+INFO:root:[2018-10-14 17:45:52] (NewsSpider-3) (43/129) Crawling and storing DONE - John H. Bryan Jr., renowned Chicago philanthropist, longtime Sara Lee CEO, dies
+INFO:root:[2018-10-14 17:45:53] (NewsSpider-4) (44/129) Crawling and storing DONE - Democratic nominee for Illinois governor: J.B. Pritzker
+INFO:root:[2018-10-14 17:45:56] (NewsSpider-1) (45/129) Crawling and storing DONE - Rahm’s out — Latest list of Chicago mayoral candidates who are in, considering
+INFO:root:[2018-10-14 17:45:57] (NewsSpider-5) (46/129) Crawling and storing DONE - Cook County Board 14th District Democratic nominee: Scott R. Britton
+INFO:root:[2018-10-14 17:46:00] (NewsSpider-3) (47/129) Crawling and storing DONE - Preckwinkle: Soda tax was all about money, and the county needs it
+INFO:root:[2018-10-14 17:46:05] (NewsSpider-5) (48/129) Crawling and storing DONE - Community activist raises reward for info on Rogers Park killer to $23K
+INFO:root:[2018-10-14 17:46:06] (NewsSpider-4) (49/129) Crawling and storing DONE - Private Chicago city hauler is diverting tons of recyclables to its landfills
+INFO:root:[2018-10-14 17:46:07] (NewsSpider-2) (50/129) Crawling and storing DONE - 50 years for gunman who killed neighbor in River West apartment building gym
+INFO:root:[2018-10-14 17:46:07] (NewsSpider-1) (51/129) Crawling and storing DONE - Chicago mayoral candidate Bill Daley’s campaign treasurer is lawyer who hired ghost payroller on taxpayers’ dime
+INFO:root:[2018-10-14 17:46:07] (NewsSpider-3) (52/129) Crawling and storing DONE - Here’s what’s new in and around Wrigley Field in 2018
+INFO:root:[2018-10-14 17:46:13] (NewsSpider-3) (53/129) Crawling and storing DONE - Cook County Board 14th District Republican nominee: Gregg Goslin
+INFO:root:[2018-10-14 17:46:14] (NewsSpider-4) (54/129) Crawling and storing DONE - Democratic activists push for the polls with third Chicago Women’s March
+INFO:root:[2018-10-14 17:46:15] (NewsSpider-5) (55/129) Crawling and storing DONE - Leon Lederman, Nobel Prize-winning physicist who led Fermilab, has died at 96
+INFO:root:[2018-10-14 17:46:15] (NewsSpider-1) (56/129) Crawling and storing DONE - Cook County Board 17th District Democratic nominee: Abdelnasser Rashid
+INFO:root:[2018-10-14 17:46:21] (NewsSpider-2) (57/129) Crawling and storing DONE - Republican nominee for Illinois governor: Bruce Rauner
+INFO:root:[2018-10-14 17:46:22] (NewsSpider-3) (58/129) Crawling and storing DONE - Cook County Board 11th District Democratic nominee: John P. Daley
+INFO:root:[2018-10-14 17:46:23] (NewsSpider-5) (59/129) Crawling and storing DONE - Abhi the Nomad has lived in many lands on his way to hip-hop succes
+INFO:root:[2018-10-14 17:46:24] (NewsSpider-1) (60/129) Crawling and storing DONE - Shooting on I-57 wounds 3, shuts down expressway for hours
+INFO:root:[2018-10-14 17:46:24] (NewsSpider-4) (61/129) Crawling and storing DONE - Flood of Colombian cocaine headed to Chicago, other big U.S. cities, DEA says
+INFO:root:[2018-10-14 17:46:26] (NewsSpider-2) (62/129) Crawling and storing DONE - Cook County Board 3rd District Republican candidate: George Blakemore
+INFO:root:[2018-10-14 17:46:29] (NewsSpider-3) (63/129) Crawling and storing DONE - Alec Baldwin vows to break the talk show model by going deep
+INFO:root:[2018-10-14 17:46:29] (NewsSpider-1) (64/129) Crawling and storing DONE - Don’t let a small group of naysayers kill the Obama Presidential Center
+INFO:root:[2018-10-14 17:46:31] (NewsSpider-5) (65/129) Crawling and storing DONE - How a feline lover got tricked into becoming a dog person
+INFO:root:[2018-10-14 17:46:32] (NewsSpider-4) (66/129) Crawling and storing DONE - Cook County Board 13th District Republican nominee: Chris Hanusiak
+INFO:root:[2018-10-14 17:46:33] (NewsSpider-2) (67/129) Crawling and storing DONE - In a blow to Cook County Circuit Judge Matthew Coghlan, his colleagues give reelection money to Democratic Party
+INFO:root:[2018-10-14 17:46:36] (NewsSpider-1) (68/129) Crawling and storing DONE - Food We Love: Making the perfect cup of chai
+INFO:root:[2018-10-14 17:46:36] (NewsSpider-3) (69/129) Crawling and storing DONE - Bears vs. Dolphins: Final score and highlights for Week 6
+INFO:root:[2018-10-14 17:46:37] (NewsSpider-5) (70/129) Crawling and storing DONE - Man critically wounded in East Garfield Park shooting
+INFO:root:[2018-10-14 17:46:38] (NewsSpider-4) (71/129) Crawling and storing DONE - Watch the 2018 Race for Illinois Governor Forum in Its Entirety
+INFO:root:[2018-10-14 17:46:38] (NewsSpider-2) (72/129) Crawling and storing DONE - Jason Van Dyke reading, writing letters from Rock Island as he awaits sentencing
+INFO:root:[2018-10-14 17:46:43] (NewsSpider-3) (73/129) Crawling and storing DONE - 2 films today at the Chicago International Film Festival
+INFO:root:[2018-10-14 17:46:43] (NewsSpider-1) (74/129) Crawling and storing DONE - For J.B. Pritzker, mansion’s disrepair has saved $230K in taxes
+INFO:root:[2018-10-14 17:46:44] (NewsSpider-4) (75/129) Crawling and storing DONE - Here’s the transcript of lively Rauner-Pritzker debate at the Sun-Times
+INFO:root:[2018-10-14 17:46:44] (NewsSpider-5) (76/129) Crawling and storing DONE - Citing safety concerns, officials ship Van Dyke to jail 3 hours west of Chicago
+INFO:root:[2018-10-14 17:46:48] (NewsSpider-5) (77/129) Crawling and storing DONE - Chicago’s population drops for third year in a row, losing 3,825 in 2017: Census
+INFO:root:[2018-10-14 17:46:49] (NewsSpider-3) (78/129) Crawling and storing DONE - Cook County Board 15th District Republican nominee: Timothy O. Schneider
+INFO:root:[2018-10-14 17:46:49] (NewsSpider-1) (79/129) Crawling and storing DONE - Cook County Board 11th District Republican nominee: Steven S. Graves
+INFO:root:[2018-10-14 17:46:49] (NewsSpider-2) (80/129) Crawling and storing DONE - Sun-Times announces new Chicago neighborhood video series: ‘The Grid’
+INFO:root:[2018-10-14 17:46:50] (NewsSpider-4) (81/129) Crawling and storing DONE - Cook County Board 13th District Democratic nominee: Larry Suffredin
+INFO:root:[2018-10-14 17:46:54] (NewsSpider-1) (82/129) Crawling and storing DONE - Chance the Rapper pizza sales to benefit his charity
+INFO:root:[2018-10-14 17:46:54] (NewsSpider-3) (83/129) Crawling and storing DONE - Cook County Board 3rd District Democratic candidate: Bill Lowry
+INFO:root:[2018-10-14 17:46:54] (NewsSpider-2) (84/129) Crawling and storing DONE - EDITORIAL: Van Dyke’s guilty verdict brings relief, sadness, and a sense of hope
+INFO:root:[2018-10-14 17:46:55] (NewsSpider-5) (85/129) Crawling and storing DONE - Architect Peter Roesch dies, was among last living students of Mies van der Rohe
+INFO:root:[2018-10-14 17:46:55] (NewsSpider-4) (86/129) Crawling and storing DONE - Debatus interruptus: Rauner and Pritzker bring sharp elbows to Sun-Times debate
+INFO:root:[2018-10-14 17:47:00] (NewsSpider-1) (87/129) Crawling and storing DONE - J.B. and the Gov: The One Percent takes on The One Percent
+INFO:root:[2018-10-14 17:47:00] (NewsSpider-3) (88/129) Crawling and storing DONE - Seeking T-Mobile merger, Sprint touts great cell coverage to consumers but tells the FCC its service ‘lags,’ can’t match competitors
+INFO:root:[2018-10-14 17:47:01] (NewsSpider-2) (89/129) Crawling and storing DONE - Cook County Board 15th District Democratic nominee: Kevin B. Morrison
+INFO:root:[2018-10-14 17:47:01] (NewsSpider-4) (90/129) Crawling and storing DONE - Cook County Assessor Republican nominee: Joseph Paglia
+INFO:root:[2018-10-14 17:47:05] (NewsSpider-4) (91/129) Crawling and storing DONE - Cook County Assessor Democratic nominee: Frederick ‘Fritz’ Kaegi
+INFO:root:[2018-10-14 17:47:07] (NewsSpider-2) (92/129) Crawling and storing DONE - Hate-crime numbers in Chicago fell in 2017, and experts aren’t sure why
+INFO:root:[2018-10-14 17:47:07] (NewsSpider-3) (93/129) Crawling and storing DONE - Dear Abby: Jobless man, 24, overwhelmed by family chores he’s expected to do
+INFO:root:[2018-10-14 17:47:07] (NewsSpider-1) (94/129) Crawling and storing DONE - After one huge step, Mitch Trubisky can’t go back to where he was before
+INFO:root:[2018-10-14 17:47:10] (NewsSpider-4) (95/129) Crawling and storing DONE - Teen shot to death in Austin
+INFO:root:[2018-10-14 17:47:11] (NewsSpider-5) (96/129) Crawling and storing DONE - Priest at Little Village parish charged with sexually abusing 2 women
+INFO:root:[2018-10-14 17:47:14] (NewsSpider-2) (97/129) Crawling and storing DONE - Police: 5-year-old girl dead, 5 kids among 7 others hurt in SW Side crash
+INFO:root:[2018-10-14 17:47:18] (NewsSpider-5) (98/129) Crawling and storing DONE - Cook County Board 8th District Democratic nominee: Luis Arroyo Jr.
+INFO:root:[2018-10-14 17:47:19] (NewsSpider-2) (99/129) Crawling and storing DONE - Cook County Board 8th District Republican nominee: Walter Zarnecki
+INFO:root:[2018-10-14 17:47:19] (NewsSpider-1) (100/129) Crawling and storing DONE - Before and after Laquan, I stand at a Chicago crossroads of love and hate
+INFO:root:[2018-10-14 17:47:19] (NewsSpider-4) (101/129) Crawling and storing DONE - WATCH: Rauner, Pritzker face Sun-Times Editorial Board
+INFO:root:[2018-10-14 17:47:19] (NewsSpider-3) (102/129) Crawling and storing DONE - Arnold Schwarzenegger: ‘I stepped over the line’ with women
+INFO:root:[2018-10-14 17:47:23] (NewsSpider-5) (103/129) Crawling and storing DONE - Man charged with crashing stolen vehicle while eluding cops, leaving 3 kids hurt
+INFO:root:[2018-10-14 17:47:23] (NewsSpider-1) (104/129) Crawling and storing DONE - Fittingly, Duncan Keith and Brent Seabrook hit milestones on same night
+INFO:root:[2018-10-14 17:47:24] (NewsSpider-4) (105/129) Crawling and storing DONE - ENDORSEMENT: Susana A. Mendoza for Illinois comptroller
+INFO:root:[2018-10-14 17:47:26] (NewsSpider-3) (106/129) Crawling and storing DONE - LGBTQ Democrat running for County Board calls Republican attack ad homophobic
+INFO:root:[2018-10-14 17:47:27] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:47:28] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 17:47:28] (NewsSpider-5) (107/129) Crawling and storing DONE - Hillary Clinton to President Donald Trump: ‘You asked Russia to hack me’
+INFO:root:[2018-10-14 17:47:31] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:47:31] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 17:47:32] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://chicago.suntimes.com/feeds/
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-10-14 18:40:33] (NewsSpider-1) Article Not Exists on https://chicago.suntimes.com/politics/karen-roothaan-mwrd-green-party-candidate-6-year-term-2018-general-election/
+INFO:root:[2018-10-14 18:42:18] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 18:42:19] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:42:22] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:42:23] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:42:24] ========== (NewsSpider-4) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://chicago.suntimes.com/feeds/
+INFO:root:[2018-10-14 19:27:55] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:55] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:55] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:55] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:55] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:28:00] (NewsSpider-3) (1/109) Crawling and storing DONE - All over in overtime: Bears miss field goal, lose wild finish to Dolphins
+INFO:root:[2018-10-14 19:28:01] (NewsSpider-1) (2/109) Crawling and storing DONE - Fact-check: Bruce Rauner overstates facts about states with graduated income tax
+INFO:root:[2018-10-14 19:28:02] (NewsSpider-4) (3/109) Crawling and storing DONE - MWRD Democratic nominee for 6-year term: Marcelino Garcia
+INFO:root:[2018-10-14 19:28:02] (NewsSpider-5) (4/109) Crawling and storing DONE - Republican nominee for Illinois governor: Bruce Rauner
+INFO:root:[2018-10-14 19:28:07] (NewsSpider-3) (5/109) Crawling and storing DONE - MWRD Democratic nominee for 6-year term: Debra Shore
+INFO:root:[2018-10-14 19:28:08] (NewsSpider-1) (6/109) Crawling and storing DONE - LGBTQ Democrat running for County Board calls Republican attack ad homophobic
+INFO:root:[2018-10-14 19:28:08] (NewsSpider-2) (7/109) Crawling and storing DONE - Priest at Little Village parish charged with sexually abusing 2 women
+INFO:root:[2018-10-14 19:28:15] (NewsSpider-1) (8/109) Crawling and storing DONE - In a blow to Cook County Circuit Judge Matthew Coghlan, his colleagues give reelection money to Democratic Party
+INFO:root:[2018-10-14 19:28:16] (NewsSpider-2) (9/109) Crawling and storing DONE - Leon Lederman, Nobel Prize-winning physicist who led Fermilab, has died at 96
+INFO:root:[2018-10-14 19:28:22] (NewsSpider-4) (10/109) Crawling and storing DONE - Ukrainian Village: Churches, history, where to eat, shop, things to do
+INFO:root:[2018-10-14 19:28:24] (NewsSpider-2) (11/109) Crawling and storing DONE - MWRD Democratic nominee for 6-year term: Kari K. Steele
+INFO:root:[2018-10-14 19:28:27] (NewsSpider-5) (12/109) Crawling and storing DONE - Debatus interruptus: Rauner and Pritzker bring sharp elbows to Sun-Times debate
+INFO:root:[2018-10-14 19:28:29] (NewsSpider-4) (13/109) Crawling and storing DONE - Man critically wounded in East Garfield Park shooting
+INFO:root:[2018-10-14 19:28:30] (NewsSpider-2) (14/109) Crawling and storing DONE - Fittingly, Duncan Keith and Brent Seabrook hit milestones on same night
+INFO:root:[2018-10-14 19:28:32] (NewsSpider-1) (15/109) Crawling and storing DONE - Ready or not, Bulls players are poised for the start of the regular season
+INFO:root:[2018-10-14 19:28:34] (NewsSpider-3) (16/109) Crawling and storing DONE - Food We Love: Making the perfect cup of chai
+INFO:root:[2018-10-14 19:28:38] (NewsSpider-2) (17/109) Crawling and storing DONE - Private Chicago city hauler is diverting tons of recyclables to its landfills
+INFO:root:[2018-10-14 19:28:41] (NewsSpider-5) (18/109) Crawling and storing DONE - ENDORSEMENT: Jesse White for Illinois secretary of state
+INFO:root:[2018-10-14 19:28:46] (NewsSpider-4) (19/109) Crawling and storing DONE - Dear Abby: My therapist finds me on dating site, starts flirting
+INFO:root:[2018-10-14 19:28:46] (NewsSpider-2) (20/109) Crawling and storing DONE - Chicago pastry Chef Mindy Segal launches 2nd line of cannabis-infused sweets
+INFO:root:[2018-10-14 19:28:49] (NewsSpider-3) (21/109) Crawling and storing DONE - ENDORSEMENT: Susana A. Mendoza for Illinois comptroller
+INFO:root:[2018-10-14 19:28:50] (NewsSpider-5) (22/109) Crawling and storing DONE - Police: 5-year-old girl dead, 5 kids among 7 others hurt in SW Side crash
+INFO:root:[2018-10-14 19:28:56] (NewsSpider-3) (23/109) Crawling and storing DONE - Shooting on I-57 wounds 3, shuts down expressway for hours
+INFO:root:[2018-10-14 19:29:05] (NewsSpider-3) (24/109) Crawling and storing DONE - Every day on Chicago streets, there are 319 crashes; Chatham block has the most
+INFO:root:[2018-10-14 19:29:05] (NewsSpider-5) (25/109) Crawling and storing DONE - Bears vs. Dolphins: Final score and highlights for Week 6
+INFO:root:[2018-10-14 19:29:07] (NewsSpider-2) (26/109) Crawling and storing DONE - 50 years for gunman who killed neighbor in River West apartment building gym
+INFO:root:[2018-10-14 19:29:10] (NewsSpider-4) (27/109) Crawling and storing DONE - Man, 60, charged with shooting man to death in Robbins
+INFO:root:[2018-10-14 19:29:10] (NewsSpider-1) (28/109) Crawling and storing DONE - John H. Bryan Jr., renowned Chicago philanthropist, longtime Sara Lee CEO, dies
+INFO:root:[2018-10-14 19:29:11] (NewsSpider-2) (29/109) Crawling and storing DONE - The Grid: Exploring the Pullman neighborhood
+INFO:root:[2018-10-14 19:29:15] (NewsSpider-1) (30/109) Crawling and storing DONE - How a feline lover got tricked into becoming a dog person
+INFO:root:[2018-10-14 19:29:17] (NewsSpider-4) (31/109) Crawling and storing DONE - Democratic nominee for Illinois governor: J.B. Pritzker
+INFO:root:[2018-10-14 19:29:17] (NewsSpider-3) (32/109) Crawling and storing DONE - Community activist raises reward for info on Rogers Park killer to $23K
+INFO:root:[2018-10-14 19:29:29] (NewsSpider-1) (33/109) Crawling and storing DONE - Watch the 2018 Race for Illinois Governor Forum in Its Entirety
+INFO:root:[2018-10-14 19:29:30] (NewsSpider-2) (34/109) Crawling and storing DONE - Illinois Politics Becomes the Plaything of the Rich
+INFO:root:[2018-10-14 19:29:33] (NewsSpider-4) (35/109) Crawling and storing DONE - Rauner falsely claims graduated income taxes always hurt the middle class
+INFO:root:[2018-10-14 19:29:41] (NewsSpider-1) (36/109) Crawling and storing DONE - J.B. and the Gov: The One Percent takes on The One Percent
+INFO:root:[2018-10-14 19:29:44] (NewsSpider-3) (37/109) Crawling and storing DONE - Teen shot in West Pullman
+INFO:root:[2018-10-14 19:29:45] (NewsSpider-4) (38/109) Crawling and storing DONE - Architect Peter Roesch dies, was among last living students of Mies van der Rohe
+INFO:root:[2018-10-14 19:29:48] (NewsSpider-4) (39/109) Crawling and storing DONE - ENDORSEMENT: Kwame Raoul for Illinois attorney general
+INFO:root:[2018-10-14 19:29:51] (NewsSpider-3) (40/109) Crawling and storing DONE - WATCH: Rauner, Pritzker face Sun-Times Editorial Board
+INFO:root:[2018-10-14 19:29:54] (NewsSpider-5) (41/109) Crawling and storing DONE - MWRD Green Party nominee for 6-year term: Karen Roothaan
+INFO:root:[2018-10-14 19:29:56] (NewsSpider-4) (42/109) Crawling and storing DONE - The Grid: Exploring the Bridgeport neighborhood
+INFO:root:[2018-10-14 19:29:59] (NewsSpider-3) (43/109) Crawling and storing DONE - The Grid: Exploring the Edison Park neighborhood
+INFO:root:[2018-10-14 19:30:02] (NewsSpider-1) (44/109) Crawling and storing DONE - Citing safety concerns, officials ship Van Dyke to jail 3 hours west of Chicago
+INFO:root:[2018-10-14 19:30:03] (NewsSpider-3) (45/109) Crawling and storing DONE - 2 films today at the Chicago International Film Festival
+INFO:root:[2018-10-14 19:30:08] (NewsSpider-2) (46/109) Crawling and storing DONE - Chance the Rapper pizza sales to benefit his charity
+INFO:root:[2018-10-14 19:30:08] (NewsSpider-1) (47/109) Crawling and storing DONE - Alec Baldwin vows to break the talk show model by going deep
+INFO:root:[2018-10-14 19:30:11] (NewsSpider-5) (48/109) Crawling and storing DONE - Flood of Colombian cocaine headed to Chicago, other big U.S. cities, DEA says
+INFO:root:[2018-10-14 19:30:12] (NewsSpider-2) (49/109) Crawling and storing DONE - Teen shot to death in Austin
+INFO:root:[2018-10-14 19:30:12] (NewsSpider-1) (50/109) Crawling and storing DONE - Abhi the Nomad has lived in many lands on his way to hip-hop succes
+INFO:root:[2018-10-14 19:30:14] (NewsSpider-3) (51/109) Crawling and storing DONE - Before and after Laquan, I stand at a Chicago crossroads of love and hate
+INFO:root:[2018-10-14 19:30:16] (NewsSpider-4) (52/109) Crawling and storing DONE - Jason Van Dyke reading, writing letters from Rock Island as he awaits sentencing
+INFO:root:[2018-10-14 19:30:17] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:30:18] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:30:18] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 19:30:21] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 19:30:22] ========== (NewsSpider-5) Thread END ==========

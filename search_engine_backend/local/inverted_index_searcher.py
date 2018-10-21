@@ -9,7 +9,7 @@ class InvertedIndexSearcher:
         self.spark_session = SparkSession.builder.getOrCreate()
         self.database = SQLContext(self.spark_session) 
         self.df = self.database.read.format("jdbc").options(
-            url="jdbc:mysql://localhost:3306/course_cloud_computing_18fall?serverTimezone=UTC", 
+            url="jdbc:mysql://localhost:3306/news?serverTimezone=UTC", 
             driver="com.mysql.jdbc.Driver", 
             dbtable="inverted_index",
             user="root", 

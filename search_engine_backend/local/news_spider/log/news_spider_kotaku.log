@@ -1,0 +1,64 @@
+INFO:root:[2018-09-08 18:26:54] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:54] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:54] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:55] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:55] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:27:08] (NewsSpider-3) (1/225) Crawling and storing DONE - Breathing life into Dead Cells
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:32] ========== (NewsSpider-10) Start! ==========
+WARNING:root:[2018-10-14 10:50:57] (NewsSpider-3) Article Not Exists on https://kinjadeals.theinventory.com/these-40-headphones-have-noice-cancelation-that-actual-1828546242
+WARNING:root:[2018-10-14 10:51:08] (NewsSpider-9) Article Not Exists on http://kotaku.com/5841946/this-star-wars-game-was-so-bad-they-should-have-made-more-of-them
+WARNING:root:[2018-10-14 10:51:18] (NewsSpider-6) Article Not Exists on https://thebests.kotaku.com/the-best-australians-in-video-games-1787953438#replies
+WARNING:root:[2018-10-14 10:51:39] (NewsSpider-8) Article Not Exists on https://kotaku.com/these-1-350-game-boy-themed-jordans-almost-look-worth-1829721394
+WARNING:root:[2018-10-14 10:51:43] (NewsSpider-9) Article Not Exists on https://steamed.kotaku.com/total-war-game-gets-review-bombed-on-steam-over-women-g-1829283785
+WARNING:root:[2018-10-14 10:51:50] (NewsSpider-5) Article Not Exists on https://cosplay.kotaku.com/if-sailor-moon-was-goth-1828779235
+WARNING:root:[2018-10-14 10:51:54] (NewsSpider-9) Article Not Exists on https://kinjadeals.theinventory.com/sundays-best-deals-microsd-cards-super-mario-party-y-1829738938
+INFO:root:[2018-10-14 10:54:57] (NewsSpider-4) (1/171) Crawling and storing DONE - Call of Duty: Black Ops 4 more anticipated this holiday than Red Dead Redemption 2
+INFO:root:[2018-10-14 10:55:53] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:55:53] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:55:54] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 10:55:54] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:55:55] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:55:55] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:55:55] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:55:58] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 10:55:58] ========== (NewsSpider-6) Thread END ==========
+INFO:root:[2018-10-14 10:55:59] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 17:44:13] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:13] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:13] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:13] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:13] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:48:28] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 17:48:29] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 17:48:29] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:48:30] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:48:32] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 18:39:12] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:12] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:12] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:12] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:12] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 18:43:51] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:43:52] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 18:43:52] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:43:53] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:43:53] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:31:28] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:31:28] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 19:31:30] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 19:31:30] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:31:31] ========== (NewsSpider-5) Thread END ==========

@@ -1,0 +1,16 @@
+title source_url url tags publish_date authors summary text
+Online fraud is still around, and that's not a bad thing|https://www.cnbc.com|https://www.cnbc.com/2017/11/16/online-fraud-is-still-around-and-thats-not-a-bad-thing.html||2017-11-16|Nick Wells,Leo Lintang,Getty Images||Persistent online fraud is here to stay.
+
+At least that&#39;s according to data from Forter, an e-commerce fraud-prevention company, in its annual Fraud Attack Index 2017. CNBC got a first-look at the report, which is to be released Thursday.
+
+Online fraud attacks have leveled off in the past year, after spiking in prior years. Just over 2 percent of domestic transactions were at risk of fraud, according to the report. Repeat fraudsters are shifting to new hunting grounds, ordinary people are getting in on the action and the world is starting to see the effects of massive data breaches — like the hack of information on 145 million people at credit reporting firm Equifax earlier this year.
+
+The stability of online fraud is a good thing, but it&#39;s still above what used to be expected. Across industries and fraud attack methods, the &quot;new normal&quot; means companies need to be vigilant, according to Michael Reitblat, CEO of Forter.
+
+&quot;[Fraud] has been here forever and it&#39;s probably going to remain forever,&quot; he said. &quot;Every time you close one breach, they migrate somewhere else.&quot;
+
+Forter is a venture capital-backed cybersecurity firm that specializes in real-time fraud detection. It teamed up with the Merchant Risk Council to publish the annual report after analyzing millions of transactions, both successful and attempted.
+
+Forter&#39;s clients are companies like Delivery.com and Fiverr, that have e-commerce operations. As a middleman, Forter uses anonymous shopper data and aggregates it to find patterns of fraud that are applicable to many different clients. Machine learning allows the system to react quickly and evolve as different methods of fraud gain prevalence.
+
+When a shopper clicks &quot;complete transaction&quot; on one of Forter&#39;s client&#39;s sites, Forter&#39;s system runs through some 6,000 data elements — things like what device is being used, who the buyer and seller are and where the item is being shipped — to estimate the risk that the transaction isn&#39;t above board. It then tells the system whether or not to allow the transaction to go through.

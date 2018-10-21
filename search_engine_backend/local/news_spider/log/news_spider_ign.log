@@ -1,0 +1,1102 @@
+ERROR:urllib3.connection:Certificate did not match expected hostname: world.ign.com. Certificate: {'serialNumber': '09A8F2E0B3AFC6FAB7008E015121271E', 'caIssuers': ('http://crt.sca1b.amazontrust.com/sca1b.crt',), 'subjectAltName': (('DNS', '*.ziffdavisinternational.com'),), 'notBefore': 'Aug 24 00:00:00 2017 GMT', 'subject': ((('commonName', '*.ziffdavisinternational.com'),),), 'OCSP': ('http://ocsp.sca1b.amazontrust.com',), 'crlDistributionPoints': ('http://crl.sca1b.amazontrust.com/sca1b.crl',), 'notAfter': 'Sep 24 12:00:00 2018 GMT', 'issuer': ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('organizationalUnitName', 'Server CA 1B'),), (('commonName', 'Amazon'),)), 'version': 3}
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='world.ign.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'world.ign.com' doesn't match '*.ziffdavisinternational.com'",),))
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.ign.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.ign.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.ign.com/rss
+INFO:root:[2018-09-08 18:26:50] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:50] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:26:53] (NewsSpider-1) (1/383) Crawling and storing DONE - Official First Trailer
+INFO:root:[2018-09-08 18:26:54] (NewsSpider-3) (2/383) Crawling and storing DONE - 9 Questions About How the Purge Actually Works
+INFO:root:[2018-09-08 18:26:54] (NewsSpider-4) (3/383) Crawling and storing DONE - Divinity: Original Sin 2 Definitive Edition Review
+INFO:root:[2018-09-08 18:26:56] (NewsSpider-5) (4/383) Crawling and storing DONE - The 25 Best Superhero Movies
+INFO:root:[2018-09-08 18:26:58] (NewsSpider-1) (5/383) Crawling and storing DONE - Iron Fist Season 2 Review
+INFO:root:[2018-09-08 18:26:59] (NewsSpider-4) (6/383) Crawling and storing DONE - Divinity: Original Sin 2 Definitive Edition Review
+INFO:root:[2018-09-08 18:27:01] (NewsSpider-3) (7/383) Crawling and storing DONE - Venom and 24 More Geek Movies Still to Come This Year
+INFO:root:[2018-09-08 18:27:03] (NewsSpider-1) (8/383) Crawling and storing DONE - Full Match Played by Valve (4K)
+INFO:root:[2018-09-08 18:27:03] (NewsSpider-5) (9/383) Crawling and storing DONE - Monster Hunter Generations Ultimate Review
+INFO:root:[2018-09-08 18:27:04] (NewsSpider-4) (11/383) Crawling and storing DONE - SPOILERS! The Nun Director Explains That Final Scene
+INFO:root:[2018-09-08 18:27:07] (NewsSpider-1) (12/383) Crawling and storing DONE - Two Point Hospital Review
+INFO:root:[2018-09-08 18:27:09] (NewsSpider-3) (14/383) Crawling and storing DONE - 22 Games and Release Dates Announced for Switch in the Nintendo Switch Nindies Showcase Summer 2018
+INFO:root:[2018-09-08 18:27:09] (NewsSpider-4) (15/383) Crawling and storing DONE - Fortnite: Will It Ever Die?
+INFO:root:[2018-09-08 18:27:09] (NewsSpider-2) (16/383) Crawling and storing DONE - Destiny 2: Forsaken Review in Progress
+INFO:root:[2018-09-08 18:27:09] (NewsSpider-1) (17/383) Crawling and storing DONE - What is Ray Tracing, and Should You Care?
+INFO:root:[2018-09-08 18:27:12] (NewsSpider-5) (18/383) Crawling and storing DONE - Mega Man 11 Demo Gameplay on Switch
+INFO:root:[2018-09-08 18:27:12] (NewsSpider-3) (19/383) Crawling and storing DONE - How and Where to Preorder the Samsung Galaxy Note 9
+INFO:root:[2018-09-08 18:27:13] (NewsSpider-2) (20/383) Crawling and storing DONE - Amazon Hits $1 trillion in Market Value
+INFO:root:[2018-09-08 18:27:15] (NewsSpider-4) (22/383) Crawling and storing DONE - Brooklyn Nine-Nine Gets Supersized Season 6 at NBC
+INFO:root:[2018-09-08 18:27:16] (NewsSpider-2) (23/383) Crawling and storing DONE - Ironheart Takes Off in New Marvel Solo Series
+INFO:root:[2018-09-08 18:27:16] (NewsSpider-1) (24/383) Crawling and storing DONE - 22 Games and Release Dates Announced for Switch in the Nintendo Switch Nindies Showcase Summer 2018
+INFO:root:[2018-09-08 18:27:17] (NewsSpider-3) (25/383) Crawling and storing DONE - Best Comic-Con 2018 Exclusive Collectibles
+INFO:root:[2018-09-08 18:27:17] (NewsSpider-2) (27/383) Crawling and storing DONE - Gamescom 2018: More Nvidia RTX Details Revealed
+INFO:root:[2018-09-08 18:27:18] (NewsSpider-1) (28/383) Crawling and storing DONE - Prepare To Try: Save Solaire
+INFO:root:[2018-09-08 18:27:19] (NewsSpider-5) (29/383) Crawling and storing DONE - Metro Exodus Nvidia Trailer
+INFO:root:[2018-09-08 18:27:20] (NewsSpider-3) (30/383) Crawling and storing DONE - What We Think Apple Has in Store for the iPhone
+INFO:root:[2018-09-08 18:27:20] (NewsSpider-1) (31/383) Crawling and storing DONE - Harvest Moon Creator Explains Why He Wants to Make a Little Dragons Cafe Sequel
+INFO:root:[2018-09-08 18:27:20] (NewsSpider-4) (32/383) Crawling and storing DONE - 22 Games and Release Dates Announced for Switch in the Nintendo Switch Nindies Showcase Summer 2018
+INFO:root:[2018-09-08 18:27:20] (NewsSpider-2) (33/383) Crawling and storing DONE - Dragon Quest XI: Echoes of an Elusive Age Review
+INFO:root:[2018-09-08 18:27:23] (NewsSpider-2) (35/383) Crawling and storing DONE - Brooklyn Nine-Nine Gets Supersized Season 6 at NBC
+INFO:root:[2018-09-08 18:27:24] (NewsSpider-4) (36/383) Crawling and storing DONE - 30 Years of The Blue Bomber: The Evolution of Mega Man
+INFO:root:[2018-09-08 18:27:24] (NewsSpider-1) (37/383) Crawling and storing DONE - Four Player Chicken Gang Gameplay With Developers
+INFO:root:[2018-09-08 18:27:25] (NewsSpider-3) (39/383) Crawling and storing DONE - The Best Cheap G-Sync Monitors
+INFO:root:[2018-09-08 18:27:28] (NewsSpider-4) (40/383) Crawling and storing DONE - Fortnite Needs More New Modes Like "Getaway"
+INFO:root:[2018-09-08 18:27:28] (NewsSpider-2) (41/383) Crawling and storing DONE - Iron Fist Season 2 Ending Explained: What That Twist Means for Season 3
+INFO:root:[2018-09-08 18:27:28] (NewsSpider-1) (42/383) Crawling and storing DONE - Blue Yeti Microphone Review
+INFO:root:[2018-09-08 18:27:28] (NewsSpider-5) (43/383) Crawling and storing DONE - 2018 Fall Games: A Preview of 34 Upcoming Games
+INFO:root:[2018-09-08 18:27:29] (NewsSpider-3) (44/383) Crawling and storing DONE - The Happytime Murders Review
+INFO:root:[2018-09-08 18:27:31] (NewsSpider-4) (45/383) Crawling and storing DONE - EA Reveals Player Ratings for FIFA 19
+INFO:root:[2018-09-08 18:27:31] (NewsSpider-1) (46/383) Crawling and storing DONE - Blue Yeti Nano Review
+INFO:root:[2018-09-08 18:27:32] (NewsSpider-5) (47/383) Crawling and storing DONE - Daily Deals: Alienware 8th Gen Intel 6-Core GeForce GTX 1080 Gaming Deskop for $1080
+INFO:root:[2018-09-08 18:27:32] (NewsSpider-2) (48/383) Crawling and storing DONE - The Predator Review
+INFO:root:[2018-09-08 18:27:32] (NewsSpider-3) (49/383) Crawling and storing DONE - Marvel Reveals Hidden Connection Between Wolverine and Venom
+INFO:root:[2018-09-08 18:27:32] (NewsSpider-1) (50/383) Crawling and storing DONE - F1 2018 Review
+INFO:root:[2018-09-08 18:27:33] (NewsSpider-5) (51/383) Crawling and storing DONE - The Predator Review
+INFO:root:[2018-09-08 18:27:35] (NewsSpider-4) (53/383) Crawling and storing DONE - Sea of Thieves: Forsaken Shores Teaser Trailer
+INFO:root:[2018-09-08 18:27:36] (NewsSpider-2) (55/383) Crawling and storing DONE - Hayley Atwell on How Her Howards End Character Compares to Peggy Carter
+INFO:root:[2018-09-08 18:27:37] (NewsSpider-1) (57/383) Crawling and storing DONE - Mega Man 11 Demo Gameplay on Switch
+INFO:root:[2018-09-08 18:27:37] (NewsSpider-2) (58/383) Crawling and storing DONE - 11 Minutes of The World Ends With You Nintendo Switch Gameplay
+INFO:root:[2018-09-08 18:27:37] (NewsSpider-3) (59/383) Crawling and storing DONE - Amazon Fire TV Cube Review
+INFO:root:[2018-09-08 18:27:38] (NewsSpider-5) (60/383) Crawling and storing DONE - Nintendo Appears to Leak the Name of the Yoshi Switch Game
+INFO:root:[2018-09-08 18:27:40] (NewsSpider-3) (61/383) Crawling and storing DONE - Reigns: Game of Thrones Announced
+INFO:root:[2018-09-08 18:27:40] (NewsSpider-5) (63/383) Crawling and storing DONE - 18 Big Things Coming From Marvel and DC in November
+INFO:root:[2018-09-08 18:27:42] (NewsSpider-3) (64/383) Crawling and storing DONE - The Little Stranger Review
+INFO:root:[2018-09-08 18:27:43] (NewsSpider-1) (66/383) Crawling and storing DONE - Predicting the Top 10 Fall Box Office Movies
+INFO:root:[2018-09-08 18:27:44] (NewsSpider-1) (68/383) Crawling and storing DONE - HBO Tops Netflix, Amazon and Hulu in Quality Original Programming, According to Study
+INFO:root:[2018-09-08 18:27:47] (NewsSpider-1) (71/383) Crawling and storing DONE - Red Dead Redemption 2 New Plot Details Revealed
+INFO:root:[2018-09-08 18:27:47] (NewsSpider-2) (72/383) Crawling and storing DONE - The 25 Best Superhero Movies
+INFO:root:[2018-09-08 18:27:49] (NewsSpider-1) (74/383) Crawling and storing DONE - Rebel Galaxy Outlaw: Watch an Hour of Gameplay Footage
+INFO:root:[2018-09-08 18:27:50] (NewsSpider-2) (76/383) Crawling and storing DONE - 16 Things We Learned on the Set of The Happytime Murders
+INFO:root:[2018-09-08 18:27:51] (NewsSpider-5) (77/383) Crawling and storing DONE - Gamescom 2018: Nvidia Unveils All-New RTX Series GPUs
+INFO:root:[2018-09-08 18:27:53] (NewsSpider-3) (79/383) Crawling and storing DONE - Battlefield V Wiki Guide
+INFO:root:[2018-09-08 18:27:53] (NewsSpider-1) (80/383) Crawling and storing DONE - Monster Hunter Generations Ultimate Review
+INFO:root:[2018-09-08 18:27:54] (NewsSpider-5) (81/383) Crawling and storing DONE - Night of the Living Dead: How a Simple Mistake Helped the Film Become a Classic
+INFO:root:[2018-09-08 18:27:56] (NewsSpider-3) (82/383) Crawling and storing DONE - Viewsonic PX747-4K Projector Review
+INFO:root:[2018-09-08 18:27:56] (NewsSpider-1) (84/383) Crawling and storing DONE - Iron Fist Season 2 Ending Explained: What That Twist Means for Season 3
+INFO:root:[2018-09-08 18:27:57] (NewsSpider-5) (85/383) Crawling and storing DONE - Battlefield 5 RTX 2080 Ti Gameplay (1080p 60fps)
+INFO:root:[2018-09-08 18:27:57] (NewsSpider-1) (86/383) Crawling and storing DONE - Battlefield 5 Nvidia Trailer
+INFO:root:[2018-09-08 18:27:59] (NewsSpider-3) (87/383) Crawling and storing DONE - Destiny 2: Forsaken Review in Progress
+INFO:root:[2018-09-08 18:27:59] (NewsSpider-5) (88/383) Crawling and storing DONE - Hellboy: The Board Game Leans into the Weirdest Adventures Big Red Has Been On
+INFO:root:[2018-09-08 18:27:59] (NewsSpider-2) (89/383) Crawling and storing DONE - Castle Rock Episode 9 Review: "Henry Deaver"
+INFO:root:[2018-09-08 18:28:00] (NewsSpider-1) (91/383) Crawling and storing DONE - LEGO Builds Life-Size, Drivable Technic Bugatti Chiron
+INFO:root:[2018-09-08 18:28:03] (NewsSpider-5) (94/383) Crawling and storing DONE - Uncharted Exclusive Clip: Nathan Fillion Plays Nathan Drake in New Fan Film
+INFO:root:[2018-09-08 18:28:03] (NewsSpider-3) (95/383) Crawling and storing DONE - We Saw The Ultimate Predator Decapitate a Predator at Comic-Con 2018
+INFO:root:[2018-09-08 18:28:05] (NewsSpider-2) (98/383) Crawling and storing DONE - SPOILERS! The Nun Director Explains That Final Scene
+INFO:root:[2018-09-08 18:28:05] (NewsSpider-5) (99/383) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-09-08 18:28:07] (NewsSpider-3) (100/383) Crawling and storing DONE - Fortnite Comes to Android as a Timed Samsung Exclusive
+INFO:root:[2018-09-08 18:28:07] (NewsSpider-1) (101/383) Crawling and storing DONE - Samsung Launches The Galaxy Note 9 with Fortnite
+INFO:root:[2018-09-08 18:28:07] (NewsSpider-2) (102/383) Crawling and storing DONE - Dave Bautista Responds to IGN Comments
+INFO:root:[2018-09-08 18:28:09] (NewsSpider-1) (105/383) Crawling and storing DONE - Aquaman: SDCC Exclusive Footage Reveals Classic Costume
+INFO:root:[2018-09-08 18:28:09] (NewsSpider-2) (106/383) Crawling and storing DONE - Fortnite: Will It Ever Die?
+INFO:root:[2018-09-08 18:28:10] (NewsSpider-1) (107/383) Crawling and storing DONE - Anime Omake: Getting Started in Anime
+INFO:root:[2018-09-08 18:28:11] (NewsSpider-2) (110/383) Crawling and storing DONE - Iron Fist Season 2 Ending Explained: What That Twist Means for Season 3
+INFO:root:[2018-09-08 18:28:11] (NewsSpider-3) (111/383) Crawling and storing DONE - The Predator Review
+INFO:root:[2018-09-08 18:28:14] (NewsSpider-1) (113/383) Crawling and storing DONE - Lucky Pokemon Are Now Available in Pokemon Go
+INFO:root:[2018-09-08 18:28:14] (NewsSpider-5) (114/383) Crawling and storing DONE - Every Important Dragon Ball Transformation, Power-Up, and Fusion So Far
+INFO:root:[2018-09-08 18:28:15] (NewsSpider-1) (115/383) Crawling and storing DONE - Captain Marvel: First Official Photo Revealed
+INFO:root:[2018-09-08 18:28:17] (NewsSpider-3) (117/383) Crawling and storing DONE - 5 Minutes of NBA 2K19 Gameplay
+INFO:root:[2018-09-08 18:28:18] (NewsSpider-2) (118/383) Crawling and storing DONE - Samson G-Track Pro USB Microphone Review
+INFO:root:[2018-09-08 18:28:18] (NewsSpider-5) (119/383) Crawling and storing DONE - NBA Live 19 Review
+INFO:root:[2018-09-08 18:28:18] (NewsSpider-1) (120/383) Crawling and storing DONE - Daily Deals: 55" 4K Smart HDTV for $299.99, Overwatch for $12
+INFO:root:[2018-09-08 18:28:18] (NewsSpider-1) (121/383) Crawling and storing DONE - The Nun Review
+INFO:root:[2018-09-08 18:28:21] (NewsSpider-1) (125/383) Crawling and storing DONE - Samsung C32HG70 Curved Gaming Monitor Review
+INFO:root:[2018-09-08 18:28:24] (NewsSpider-1) (128/383) Crawling and storing DONE - Mario Kart 64: All 150cc Cups Finished In 27 Minutes
+INFO:root:[2018-09-08 18:28:24] (NewsSpider-5) (129/383) Crawling and storing DONE - Scarlet Finds a Great New Home at DC (Scarlet #1 Review)
+INFO:root:[2018-09-08 18:28:27] (NewsSpider-1) (130/383) Crawling and storing DONE - Our Favorite New Switch Games This Week- NVC Highlight
+INFO:root:[2018-09-08 18:28:27] (NewsSpider-5) (131/383) Crawling and storing DONE - Walmart Has Great Deals on Prebuilt Gaming PCs
+INFO:root:[2018-09-08 18:28:28] (NewsSpider-5) (132/383) Crawling and storing DONE - Daily Deals: Overwatch for $12, Phantom Black Xbox Controller for $59.99, Switch Pro Controller on Sale
+INFO:root:[2018-09-08 18:28:29] (NewsSpider-5) (133/383) Crawling and storing DONE - Sea of Thieves: Forsaken Shores Teaser Trailer
+INFO:root:[2018-09-08 18:28:33] (NewsSpider-5) (136/383) Crawling and storing DONE - 11 Awesome Destiny Fan Creations You Need to See
+INFO:root:[2018-09-08 18:28:33] (NewsSpider-1) (137/383) Crawling and storing DONE - The Happytime Murders: Have a Look Inside The InkHole
+INFO:root:[2018-09-08 18:28:35] (NewsSpider-5) (138/383) Crawling and storing DONE - Our 5 Most Anticipated Fall Movies
+INFO:root:[2018-09-08 18:28:36] (NewsSpider-5) (139/383) Crawling and storing DONE - Walmart Sale on TVs: Get a 55-Inch 4K for as Little as $250
+INFO:root:[2018-09-08 18:28:37] (NewsSpider-1) (140/383) Crawling and storing DONE - Pokemon Go Fest 2018 Proves Pokemon Go Is Alive and Well
+INFO:root:[2018-09-08 18:28:39] (NewsSpider-5) (141/383) Crawling and storing DONE - 15 Big Things Coming From Marvel and DC in September
+INFO:root:[2018-09-08 18:28:40] (NewsSpider-1) (142/383) Crawling and storing DONE - Where Are The Avengers in Spider-Man on PS4?
+INFO:root:[2018-09-08 18:28:42] (NewsSpider-5) (143/383) Crawling and storing DONE - White Boy Rick Review
+INFO:root:[2018-09-08 18:28:43] (NewsSpider-1) (144/383) Crawling and storing DONE - There Was a Witcher Movie and Series in 2001
+INFO:root:[2018-09-08 18:28:46] (NewsSpider-1) (146/383) Crawling and storing DONE - Captain Marvel: What to Know About the Brie Larson Movie Before Avengers 4
+INFO:root:[2018-09-08 18:28:47] (NewsSpider-5) (147/383) Crawling and storing DONE - 2018 Fall Games: A Preview of 34 Upcoming Games
+INFO:root:[2018-09-08 18:28:49] (NewsSpider-1) (148/383) Crawling and storing DONE - Every Marvel Netflix Season Review (So Far)
+INFO:root:[2018-09-08 18:28:50] (NewsSpider-5) (149/383) Crawling and storing DONE - Prepare To Try: Save Solaire
+INFO:root:[2018-09-08 18:28:50] (NewsSpider-1) (150/383) Crawling and storing DONE - YOUR Spider-Man Questions Answered! (Spoiler Free)
+INFO:root:[2018-09-08 18:28:54] (NewsSpider-5) (153/383) Crawling and storing DONE - DCEU Movies: Every Upcoming Film in the DC Universe
+INFO:root:[2018-09-08 18:28:56] (NewsSpider-1) (154/383) Crawling and storing DONE - Iron Fist Season 2 Post-Credits Scene Teases Daredevil Season 3
+INFO:root:[2018-09-08 18:28:56] (NewsSpider-5) (155/383) Crawling and storing DONE - Far Cry 5: Dead Living Zombies DLC Review
+INFO:root:[2018-09-08 18:28:56] (NewsSpider-1) (156/383) Crawling and storing DONE - Bioware Announces Anthem Demo Release Date
+INFO:root:[2018-09-08 18:28:59] (NewsSpider-5) (157/383) Crawling and storing DONE - 9 Minutes of NHL 19 Gameplay
+INFO:root:[2018-09-08 18:29:02] (NewsSpider-1) (158/383) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-09-08 18:29:03] (NewsSpider-5) (159/383) Crawling and storing DONE - New Smash Bros Ultimate Details, Capcom on Bringing More Cloud Games to Switch, Wolfenstein 2, and more!
+INFO:root:[2018-09-08 18:29:03] (NewsSpider-1) (160/383) Crawling and storing DONE - Red Dead Redemption 2: Rockstar Reveals New Character Information
+INFO:root:[2018-09-08 18:29:06] (NewsSpider-5) (161/383) Crawling and storing DONE - Old Man Logan & 14 New Marvel Legends Revealed
+INFO:root:[2018-09-08 18:29:07] (NewsSpider-5) (163/383) Crawling and storing DONE - Dogfighting with Outlaws in Space Gameplay
+INFO:root:[2018-09-08 18:29:10] (NewsSpider-5) (165/383) Crawling and storing DONE - The Purge Series Premiere: "What is America?" Review
+INFO:root:[2018-09-08 18:29:11] (NewsSpider-1) (166/383) Crawling and storing DONE - Red Dead Redemption 2 New Plot Details Revealed
+INFO:root:[2018-09-08 18:29:15] (NewsSpider-1) (168/383) Crawling and storing DONE - NBA Live 19 Review
+ERROR:urllib3.connection:Certificate did not match expected hostname: world.ign.com. Certificate: {'notBefore': 'Sep 10 00:00:00 2018 GMT', 'issuer': ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('organizationalUnitName', 'Server CA 1B'),), (('commonName', 'Amazon'),)), 'subjectAltName': (('DNS', '*.ziffdavisinternational.com'), ('DNS', 'ziffdavisinternational.com')), 'serialNumber': '044B9E3A854250126D15AFEBD188F977', 'OCSP': ('http://ocsp.sca1b.amazontrust.com',), 'subject': ((('commonName', '*.ziffdavisinternational.com'),),), 'version': 3, 'crlDistributionPoints': ('http://crl.sca1b.amazontrust.com/sca1b.crl',), 'notAfter': 'Oct 10 12:00:00 2019 GMT', 'caIssuers': ('http://crt.sca1b.amazontrust.com/sca1b.crt',)}
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='world.ign.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'world.ign.com' doesn't match either of '*.ziffdavisinternational.com', 'ziffdavisinternational.com'",),))
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feeds
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:42] ========== (NewsSpider-10) Start! ==========
+WARNING:root:[2018-10-14 10:50:52] (NewsSpider-8) Article Not Exists on https://www.ign.com/games/kingdom-hearts-the-story-so-far
+WARNING:root:[2018-10-14 10:50:52] (NewsSpider-7) Article Not Exists on https://www.ign.com/videos/2018/10/05/dragon-ball-super-broly-trailer-2-breakdown-db-minus-is-canon
+WARNING:root:[2018-10-14 10:50:52] (NewsSpider-9) Article Not Exists on https://www.ign.com/articles/2018/10/12/the-romanoffs-season-1-premiere-the-violet-hour-the-royal-we-review
+INFO:root:[2018-10-14 10:50:53] (NewsSpider-4) (2/389) Crawling and storing DONE - Game Scoop! 497: Should New Game+ Be Standard in Single-player Games?
+INFO:root:[2018-10-14 10:50:55] (NewsSpider-5) (3/389) Crawling and storing DONE - Unboxing the Call of Duty: Black Ops 4 Mystery Box Edition
+INFO:root:[2018-10-14 10:50:55] (NewsSpider-6) (5/389) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 10:50:55] (NewsSpider-10) (6/389) Crawling and storing DONE - Where to Get the PlayStation Classic, C64 Mini Super NES and NES Classic, and More
+INFO:root:[2018-10-14 10:51:04] (NewsSpider-1) (7/389) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 10:51:07] (NewsSpider-9) (8/389) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+WARNING:root:[2018-10-14 10:51:08] (NewsSpider-8) Article Not Exists on http://www.ign.com/articles/2018/10/08/david-harbours-hellboy-reboot-first-footage-revealed#article_comments
+INFO:root:[2018-10-14 10:51:09] (NewsSpider-7) (10/389) Crawling and storing DONE - This Silent Hills Artist’s Frankenstein Manga Is Terrifying
+INFO:root:[2018-10-14 10:51:10] (NewsSpider-6) (12/389) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 10:51:11] (NewsSpider-3) (13/389) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 10:51:11] (NewsSpider-10) (14/389) Crawling and storing DONE - A Star is Born Review
+INFO:root:[2018-10-14 10:51:11] (NewsSpider-5) (15/389) Crawling and storing DONE - Dark Phoenix: Exclusive Photos and Director Simon Kinberg and Sophie Turner on Alien Villains
+WARNING:root:[2018-10-14 10:51:22] (NewsSpider-7) Article Not Exists on https://www.ign.com/articles/2018/10/10/nightflyers-series-premiere-review
+WARNING:root:[2018-10-14 10:51:22] (NewsSpider-10) Article Not Exists on https://www.ign.com/articles/2018/10/12/netflixs-the-haunting-of-hill-house-season-1-review?read
+INFO:root:[2018-10-14 10:51:23] (NewsSpider-9) (16/389) Crawling and storing DONE - Mega Man 11 Review
+INFO:root:[2018-10-14 10:51:23] (NewsSpider-1) (17/389) Crawling and storing DONE - DuckTales Season 2 Premiere First Look: "The Most Dangerous Game... Night"
+INFO:root:[2018-10-14 10:51:26] (NewsSpider-4) (18/389) Crawling and storing DONE - What We Want Most from Switch 2.0
+INFO:root:[2018-10-14 10:51:26] (NewsSpider-5) (19/389) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 10:51:27] (NewsSpider-8) (20/389) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 10:51:27] (NewsSpider-3) (21/389) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 10:51:31] (NewsSpider-2) (22/389) Crawling and storing DONE - Toys R Us Bankruptcy Auction Canceled, Brand May Live on After All
+INFO:root:[2018-10-14 10:51:33] (NewsSpider-10) (23/389) Crawling and storing DONE - 15 Big Things Coming From Marvel and DC in September
+INFO:root:[2018-10-14 10:51:34] (NewsSpider-7) (24/389) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 10:51:36] (NewsSpider-9) (25/389) Crawling and storing DONE - Hitman 2: Ghost Mode Multiplayer Official Trailer
+INFO:root:[2018-10-14 10:51:40] (NewsSpider-5) (26/389) Crawling and storing DONE - Thronebreaker: The Witcher Tales
+INFO:root:[2018-10-14 10:51:42] (NewsSpider-4) (27/389) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 10:51:45] (NewsSpider-2) (30/389) Crawling and storing DONE - Spider-Geddon Rehashes an Old Favorite (Spider-Geddon #1 Review)
+INFO:root:[2018-10-14 10:51:45] (NewsSpider-6) (31/389) Crawling and storing DONE - Xbox & Alexa Revolutionize Your Gaming Experience
+WARNING:root:[2018-10-14 10:51:47] (NewsSpider-9) Article Not Exists on https://www.ign.com/videos/2018/10/13/assassins-creed-odyssey-between-two-worlds-ending-spoilers#video-comments
+INFO:root:[2018-10-14 10:51:50] (NewsSpider-7) (32/389) Crawling and storing DONE - Valkyria Chronicles 4 Review
+INFO:root:[2018-10-14 10:51:53] (NewsSpider-5) (34/389) Crawling and storing DONE - The Hearthstone Pop-up Book Is Amazing
+INFO:root:[2018-10-14 10:51:56] (NewsSpider-4) (35/389) Crawling and storing DONE - 17 Big Things Coming From Marvel and DC in December
+INFO:root:[2018-10-14 10:51:56] (NewsSpider-3) (36/389) Crawling and storing DONE - CitizenCon Trailer
+INFO:root:[2018-10-14 10:51:56] (NewsSpider-1) (37/389) Crawling and storing DONE - Every Special Weapon Gameplay (Stage 1)
+INFO:root:[2018-10-14 10:51:57] (NewsSpider-6) (38/389) Crawling and storing DONE - Super Smash Bros. Ultimate Blog Update: Wii Fit Trainer, Dr. Mario, and Greninja Detailed (Week 17)
+INFO:root:[2018-10-14 10:51:58] (NewsSpider-2) (39/389) Crawling and storing DONE - What We Want Most from Switch 2.0
+INFO:root:[2018-10-14 10:52:00] (NewsSpider-8) (41/389) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 10:52:01] (NewsSpider-7) (42/389) Crawling and storing DONE - Canceled TV Shows of 2018
+INFO:root:[2018-10-14 10:52:09] (NewsSpider-4) (45/389) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+INFO:root:[2018-10-14 10:52:11] (NewsSpider-9) (46/389) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 10:52:11] (NewsSpider-5) (48/389) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 10:52:11] (NewsSpider-8) (49/389) Crawling and storing DONE - Who is the Ghost of Kosmos? (Spoilers!)
+INFO:root:[2018-10-14 10:52:11] (NewsSpider-1) (50/389) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 10:52:12] (NewsSpider-7) (51/389) Crawling and storing DONE - Titans: What Jason Todd Brings to Titans
+INFO:root:[2018-10-14 10:52:17] (NewsSpider-10) (53/389) Crawling and storing DONE - The Man Who Killed Don Quixote Review
+INFO:root:[2018-10-14 10:52:22] (NewsSpider-4) (54/389) Crawling and storing DONE - The First 15 Minutes of The World Ends With You: Final Remix on Switch
+INFO:root:[2018-10-14 10:52:22] (NewsSpider-3) (55/389) Crawling and storing DONE - 11 Awesome Destiny Fan Creations You Need to See
+INFO:root:[2018-10-14 10:52:24] (NewsSpider-9) (56/389) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 10:52:24] (NewsSpider-1) (57/389) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 10:52:25] (NewsSpider-5) (58/389) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 10:52:25] (NewsSpider-7) (59/389) Crawling and storing DONE - Amazing Spider-Man Takes a Fun Detour (The Amazing Spider-Man #6 Review)
+INFO:root:[2018-10-14 10:52:25] (NewsSpider-8) (60/389) Crawling and storing DONE - First Look: Super Mario Party Face-Off!
+INFO:root:[2018-10-14 10:52:29] (NewsSpider-10) (61/389) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 10:52:29] (NewsSpider-6) (62/389) Crawling and storing DONE - Predicting the Top 10 Fall Box Office Movies
+INFO:root:[2018-10-14 10:52:34] (NewsSpider-3) (63/389) Crawling and storing DONE - NYCC Cosplay Spotlight: Nadya Sonika
+INFO:root:[2018-10-14 10:52:36] (NewsSpider-4) (64/389) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 10:52:36] (NewsSpider-9) (65/389) Crawling and storing DONE - Debut Trailer (Japanese)
+INFO:root:[2018-10-14 10:52:37] (NewsSpider-1) (67/389) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 10:52:39] (NewsSpider-7) (68/389) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 10:52:40] (NewsSpider-2) (69/389) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 10:52:41] (NewsSpider-10) (70/389) Crawling and storing DONE - Pet Sematary: Check out 7 Photos From the Stephen King Remake
+INFO:root:[2018-10-14 10:52:42] (NewsSpider-6) (71/389) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 10:52:46] (NewsSpider-8) (72/389) Crawling and storing DONE - Black Panther Writer, Director Ryan Coogler Returning for Sequel
+INFO:root:[2018-10-14 10:52:47] (NewsSpider-5) (73/389) Crawling and storing DONE - XCOM 2: War of the Chosen
+INFO:root:[2018-10-14 10:52:48] (NewsSpider-4) (74/389) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 10:52:48] (NewsSpider-1) (75/389) Crawling and storing DONE - Daily Deals: Valkyria Chronicles 4 for $10 Off, Gloomhaven in Stock
+INFO:root:[2018-10-14 10:52:49] (NewsSpider-9) (76/389) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 10:52:53] (NewsSpider-7) (77/389) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 10:52:54] (NewsSpider-2) (79/389) Crawling and storing DONE - Google Announces a New Pixel Phone, And Some New Hardware Too
+INFO:root:[2018-10-14 10:52:58] (NewsSpider-8) (81/389) Crawling and storing DONE - Supernatural Season 14 Premiere: "Stranger in a Strange Land" Review
+INFO:root:[2018-10-14 10:53:01] (NewsSpider-1) (82/389) Crawling and storing DONE - Batman #56 Only Tells Half the Story (Batman #56 Review)
+INFO:root:[2018-10-14 10:53:05] (NewsSpider-7) (84/389) Crawling and storing DONE - Call of Duty: Black Ops 4 Requires 50GB Day One Patch
+INFO:root:[2018-10-14 10:53:05] (NewsSpider-6) (85/389) Crawling and storing DONE - A Frankenstein Manga From Silent Hills Artist Junji Ito
+INFO:root:[2018-10-14 10:53:06] (NewsSpider-9) (86/389) Crawling and storing DONE - Joaquin Phoenix Is Shown Smoking in Chaotic New Joker Scene
+INFO:root:[2018-10-14 10:53:06] (NewsSpider-5) (87/389) Crawling and storing DONE - SPECIAL Perk Cards
+INFO:root:[2018-10-14 10:53:06] (NewsSpider-2) (88/389) Crawling and storing DONE - Metal Gear Solid 2 and 3 Now Backward Compatible on Xbox One
+INFO:root:[2018-10-14 10:53:07] (NewsSpider-10) (89/389) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 10:53:12] (NewsSpider-4) (91/389) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 10:53:15] (NewsSpider-5) (92/389) Crawling and storing DONE - Call of Duty Black Ops 4 Zombies
+INFO:root:[2018-10-14 10:53:16] (NewsSpider-6) (93/389) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 10:53:16] (NewsSpider-1) (94/389) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 10:53:17] (NewsSpider-3) (95/389) Crawling and storing DONE - PSN Name Changes Officially Announced by Sony
+INFO:root:[2018-10-14 10:53:17] (NewsSpider-9) (96/389) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 10:53:18] (NewsSpider-7) (97/389) Crawling and storing DONE - Daily Deals: Preorder Call of Duty: Black Ops 4, Get $10 Amazon or $15 Dell Credit
+INFO:root:[2018-10-14 10:53:18] (NewsSpider-10) (98/389) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 10:53:19] (NewsSpider-8) (99/389) Crawling and storing DONE - Best Comic-Con 2018 Exclusive Collectibles
+INFO:root:[2018-10-14 10:53:23] (NewsSpider-4) (100/389) Crawling and storing DONE - Darksiders 3: 2 DLC Packs Announced
+INFO:root:[2018-10-14 10:53:24] (NewsSpider-1) (101/389) Crawling and storing DONE - Beautiful Boy
+INFO:root:[2018-10-14 10:53:25] (NewsSpider-9) (102/389) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 10:53:25] (NewsSpider-6) (103/389) Crawling and storing DONE - Where to Get the PlayStation Classic, C64 Mini Super NES and NES Classic, and More
+INFO:root:[2018-10-14 10:53:26] (NewsSpider-5) (104/389) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 10:53:27] (NewsSpider-2) (106/389) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 10:53:29] (NewsSpider-3) (107/389) Crawling and storing DONE - Get Six Months Xbox Live Gold for the Price of Three at Amazon
+INFO:root:[2018-10-14 10:53:30] (NewsSpider-8) (108/389) Crawling and storing DONE - Hell Fest Exclusive Poster and Featurette with Producer Gale Anne Hurd
+INFO:root:[2018-10-14 10:53:31] (NewsSpider-10) (109/389) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 10:53:31] (NewsSpider-4) (110/389) Crawling and storing DONE - The 10 Best Haunted House Movies
+INFO:root:[2018-10-14 10:53:35] (NewsSpider-1) (111/389) Crawling and storing DONE - DCEU Movies: Every Upcoming Film in the DC Universe
+INFO:root:[2018-10-14 10:53:35] (NewsSpider-6) (112/389) Crawling and storing DONE - Prepare To Try: Save Solaire
+INFO:root:[2018-10-14 10:53:36] (NewsSpider-9) (113/389) Crawling and storing DONE - South Park: "The Problem With a Poo" Review
+INFO:root:[2018-10-14 10:53:37] (NewsSpider-5) (114/389) Crawling and storing DONE - Where to Get the PlayStation Classic, C64 Mini Super NES and NES Classic, and More
+INFO:root:[2018-10-14 10:53:38] (NewsSpider-7) (115/389) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 10:53:39] (NewsSpider-8) (116/389) Crawling and storing DONE - Kick-Ass: The Board Game Makes Even the Boring Parts of Being a Superhero Fun
+INFO:root:[2018-10-14 10:53:40] (NewsSpider-10) (117/389) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 10:53:44] (NewsSpider-4) (119/389) Crawling and storing DONE - 18 Big Things Coming From Marvel and DC in November
+INFO:root:[2018-10-14 10:53:45] (NewsSpider-9) (121/389) Crawling and storing DONE - LucidSound LS35X Wireless Gaming Headset Review
+INFO:root:[2018-10-14 10:53:48] (NewsSpider-2) (123/389) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 10:53:48] (NewsSpider-7) (124/389) Crawling and storing DONE - Beautiful Boy Review
+INFO:root:[2018-10-14 10:53:51] (NewsSpider-8) (126/389) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 10:53:53] (NewsSpider-10) (127/389) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 10:53:53] (NewsSpider-4) (128/389) Crawling and storing DONE - The Happytime Murders: Have a Look Inside The InkHole
+INFO:root:[2018-10-14 10:53:54] (NewsSpider-1) (129/389) Crawling and storing DONE - Pet Sematary
+INFO:root:[2018-10-14 10:53:54] (NewsSpider-9) (130/389) Crawling and storing DONE - What We Want From A Nintendo Switch Redesign
+INFO:root:[2018-10-14 10:54:06] (NewsSpider-5) (132/389) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+INFO:root:[2018-10-14 10:54:06] (NewsSpider-3) (133/389) Crawling and storing DONE - Hellboy: The Board Game Leans into the Weirdest Adventures Big Red Has Been On
+INFO:root:[2018-10-14 10:54:22] (NewsSpider-2) (134/389) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 10:54:22] (NewsSpider-7) (135/389) Crawling and storing DONE - Spider-Geddon Shocks With a Lethal Opener
+INFO:root:[2018-10-14 10:54:22] (NewsSpider-8) (136/389) Crawling and storing DONE - HyperX Pulsefire FPS Pro Gaming Mouse Review
+INFO:root:[2018-10-14 10:54:23] (NewsSpider-9) (137/389) Crawling and storing DONE - What We Want Most from Switch 2.0
+INFO:root:[2018-10-14 10:54:26] (NewsSpider-4) (138/389) Crawling and storing DONE - Forza Horizon 4 Review
+INFO:root:[2018-10-14 10:54:27] (NewsSpider-6) (140/389) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 10:54:27] (NewsSpider-7) (142/389) Crawling and storing DONE - Microsoft Announces Global Game Streaming Service, Project xCloud, Beta Next Year
+INFO:root:[2018-10-14 10:54:28] (NewsSpider-8) (143/389) Crawling and storing DONE - PS5 Features We Really Want
+INFO:root:[2018-10-14 10:54:28] (NewsSpider-2) (144/389) Crawling and storing DONE - Is Dota 2 Really Harder than League of Legends?
+INFO:root:[2018-10-14 10:54:56] (NewsSpider-9) (145/389) Crawling and storing DONE - Asus ROG Strix GeForce RTX 2080Ti OC Review
+INFO:root:[2018-10-14 10:54:56] (NewsSpider-4) (146/389) Crawling and storing DONE - Our Reaction to Super Smash Bros. Nintendo Direct
+INFO:root:[2018-10-14 10:54:58] (NewsSpider-3) (147/389) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 10:55:04] (NewsSpider-10) (148/389) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 10:55:07] (NewsSpider-4) (150/389) Crawling and storing DONE - Goosebumps 2: Haunted Halloween Review
+INFO:root:[2018-10-14 10:55:07] (NewsSpider-6) (151/389) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 10:55:08] (NewsSpider-2) (152/389) Crawling and storing DONE - New Version of Nintendo Switch Reportedly Planned for 2019
+INFO:root:[2018-10-14 10:55:08] (NewsSpider-8) (153/389) Crawling and storing DONE - HP OMEN Sequencer Gaming Keyboard Review
+INFO:root:[2018-10-14 10:55:09] (NewsSpider-5) (154/389) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 10:55:09] (NewsSpider-3) (155/389) Crawling and storing DONE - M. Night Shyamalan Explains How Unbreakable Got a Sequel in Glass
+INFO:root:[2018-10-14 10:55:10] (NewsSpider-7) (156/389) Crawling and storing DONE - Bad Times at the El Royale Review
+INFO:root:[2018-10-14 10:55:20] (NewsSpider-6) (157/389) Crawling and storing DONE - New Shows of 2018-2019: All the Broadcast Series Premiering This Season
+INFO:root:[2018-10-14 10:55:20] (NewsSpider-9) (159/389) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 10:55:22] (NewsSpider-4) (161/389) Crawling and storing DONE - Suicide Squad Director David Ayer Responds to James Gunn Hiring
+INFO:root:[2018-10-14 10:55:22] (NewsSpider-7) (162/389) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 10:55:25] (NewsSpider-8) (163/389) Crawling and storing DONE - HyperX Cloud Mix Bluetooth Gaming Headset Review
+INFO:root:[2018-10-14 10:55:40] (NewsSpider-2) (164/389) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 10:55:42] (NewsSpider-9) (166/389) Crawling and storing DONE - Our First Look at Pet Sematary Is Promising... and Creepy as Hell
+INFO:root:[2018-10-14 10:55:42] (NewsSpider-5) (167/389) Crawling and storing DONE - Daily Deals: Preorder Call of Duty: Black Ops 4, Get $10 Amazon or $15 Dell Credit
+INFO:root:[2018-10-14 10:55:43] (NewsSpider-10) (168/389) Crawling and storing DONE - Encountering the Kraken on the Titanic Zombies Map
+INFO:root:[2018-10-14 10:55:45] (NewsSpider-8) (169/389) Crawling and storing DONE - PSN Name Changes Officially Announced by Sony
+INFO:root:[2018-10-14 10:55:45] (NewsSpider-2) (171/389) Crawling and storing DONE - Old Man Logan & 14 New Marvel Legends Revealed
+INFO:root:[2018-10-14 10:55:46] (NewsSpider-1) (172/389) Crawling and storing DONE - FIFA 19 Review
+INFO:root:[2018-10-14 10:55:46] (NewsSpider-4) (173/389) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 10:55:46] (NewsSpider-3) (174/389) Crawling and storing DONE - Microsoft Reportedly Planning to Acquire Pillars of Eternity Dev Obsidian Entertainment
+INFO:root:[2018-10-14 10:55:47] (NewsSpider-5) (175/389) Crawling and storing DONE - Call of Duty: Blackout EPIC Victory Gameplay (+ Bonus Ajax Unlock)
+INFO:root:[2018-10-14 10:55:48] (NewsSpider-8) (176/389) Crawling and storing DONE - IGN Deals Newsletter
+INFO:root:[2018-10-14 10:55:49] (NewsSpider-10) (178/389) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 10:55:50] (NewsSpider-1) (179/389) Crawling and storing DONE - Encountering the Kraken on the Titanic Zombies Map
+INFO:root:[2018-10-14 10:55:50] (NewsSpider-6) (180/389) Crawling and storing DONE - What We Want Most from Switch 2.0
+INFO:root:[2018-10-14 10:55:50] (NewsSpider-7) (181/389) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 10:55:51] (NewsSpider-2) (182/389) Crawling and storing DONE - Mario Kart 64: All 150cc Cups Finished In 27 Minutes
+INFO:root:[2018-10-14 10:55:51] (NewsSpider-4) (183/389) Crawling and storing DONE - We Visited Arkham Asylum At The Warner Bros. Festival of Frights
+INFO:root:[2018-10-14 10:55:51] (NewsSpider-9) (184/389) Crawling and storing DONE - Domestic Trailer 1
+INFO:root:[2018-10-14 10:55:52] (NewsSpider-5) (185/389) Crawling and storing DONE - The Walking Dead Comic Still Drags (The Walking Dead #184 Review)
+INFO:root:[2018-10-14 10:55:52] (NewsSpider-3) (186/389) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 10:55:54] (NewsSpider-8) (187/389) Crawling and storing DONE - Carnage Explained: Who Is the Psychopathic Symbiote and Foe of Venom?
+INFO:root:[2018-10-14 10:55:54] (NewsSpider-6) (188/389) Crawling and storing DONE - How Anime Inspires Pop Culture
+INFO:root:[2018-10-14 10:55:55] (NewsSpider-4) (190/389) Crawling and storing DONE - New Captain Marvel Comic Launching Ahead of MCU Movie
+INFO:root:[2018-10-14 10:55:55] (NewsSpider-10) (191/389) Crawling and storing DONE - New Hellboy Footage Shown at New York Comic Con: Full Breakdown
+INFO:root:[2018-10-14 10:55:55] (NewsSpider-2) (192/389) Crawling and storing DONE - ASUS ROG Strix GL503V Scar Edition Gaming Laptop Review
+INFO:root:[2018-10-14 10:55:57] (NewsSpider-9) (193/389) Crawling and storing DONE - Hearthstone: Team 5 on Designing the Witchwood Set
+INFO:root:[2018-10-14 10:55:57] (NewsSpider-3) (194/389) Crawling and storing DONE - This Creepy Destiny 2 Mask We Made Looks Terrible
+INFO:root:[2018-10-14 10:55:58] (NewsSpider-8) (196/389) Crawling and storing DONE - Super Smash Bros. Ultimate Blog Update: Wii Fit Trainer, Dr. Mario, and Greninja Detailed (Week 17)
+INFO:root:[2018-10-14 10:56:00] (NewsSpider-1) (198/389) Crawling and storing DONE - The Purge Invites You to the Carnival of Flesh
+INFO:root:[2018-10-14 10:56:01] (NewsSpider-2) (201/389) Crawling and storing DONE - How to Kill Venom
+INFO:root:[2018-10-14 10:56:01] (NewsSpider-4) (202/389) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 10:56:02] (NewsSpider-7) (203/389) Crawling and storing DONE - Samsung Q9FN QLED 4K HDR Television Review
+INFO:root:[2018-10-14 10:56:03] (NewsSpider-3) (204/389) Crawling and storing DONE - Joaquin Phoenix Is Shown Smoking in Chaotic New Joker Scene
+INFO:root:[2018-10-14 10:56:04] (NewsSpider-8) (205/389) Crawling and storing DONE - Aladdin: How the New Teaser Trailer Recreates the Animated Disney Movie
+INFO:root:[2018-10-14 10:56:04] (NewsSpider-2) (206/389) Crawling and storing DONE - Every Special Weapon Gameplay (Stage 1)
+INFO:root:[2018-10-14 10:56:04] (NewsSpider-1) (207/389) Crawling and storing DONE - Asus ROG Swift PG27UQ Gaming Monitor Review
+INFO:root:[2018-10-14 10:56:05] (NewsSpider-9) (209/389) Crawling and storing DONE - Undertale Review
+INFO:root:[2018-10-14 10:56:07] (NewsSpider-6) (210/389) Crawling and storing DONE - XCOM 2: War of the Chosen Review
+INFO:root:[2018-10-14 10:56:07] (NewsSpider-7) (212/389) Crawling and storing DONE - The Hearthstone Pop-up Book Is Amazing
+INFO:root:[2018-10-14 10:56:08] (NewsSpider-3) (213/389) Crawling and storing DONE - A Day with Fallout 76
+INFO:root:[2018-10-14 10:56:09] (NewsSpider-8) (214/389) Crawling and storing DONE - Pokemon From Diamond and Pearl Headed to Pokemon GO Soon
+INFO:root:[2018-10-14 10:56:10] (NewsSpider-1) (216/389) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 10:56:11] (NewsSpider-9) (219/389) Crawling and storing DONE - Clown Trap Trailer
+INFO:root:[2018-10-14 10:56:14] (NewsSpider-7) (222/389) Crawling and storing DONE - Netflix Has Released Over 650 Hours of Content in 3 Months, Says Survey
+INFO:root:[2018-10-14 10:56:14] (NewsSpider-2) (224/389) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 10:56:15] (NewsSpider-1) (225/389) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 10:56:15] (NewsSpider-3) (226/389) Crawling and storing DONE - The Best Venom vs. Carnage Comics
+INFO:root:[2018-10-14 10:56:15] (NewsSpider-10) (227/389) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 10:56:17] (NewsSpider-5) (228/389) Crawling and storing DONE - Apple Confirms New iPhone XS, iPhone XS Max and iPhone XR Models, Release Dates and Prices
+INFO:root:[2018-10-14 10:56:18] (NewsSpider-9) (230/389) Crawling and storing DONE - Glass is the Third Act We Always Wanted for Unbreakable
+INFO:root:[2018-10-14 10:56:19] (NewsSpider-8) (231/389) Crawling and storing DONE - Hands-On With The New Gaming-Focused Razer Phone 2
+INFO:root:[2018-10-14 10:56:20] (NewsSpider-4) (232/389) Crawling and storing DONE - Daily Deals: Preorder Call of Duty: Black Ops 4, Get $10 Amazon or $15 Dell Credit
+INFO:root:[2018-10-14 10:56:21] (NewsSpider-7) (233/389) Crawling and storing DONE - Prepare To Try: Save Solaire
+INFO:root:[2018-10-14 10:56:21] (NewsSpider-3) (234/389) Crawling and storing DONE - The Stories Behind Spider-Man, Ratchet and Clank, Sunset Overdrive, and More! An Hour With Ted Price – IGN Unfiltered #35
+INFO:root:[2018-10-14 10:56:22] (NewsSpider-10) (236/389) Crawling and storing DONE - Asus ROG Zephyrus M Gaming Laptop Review
+INFO:root:[2018-10-14 10:56:23] (NewsSpider-4) (237/389) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 10:56:23] (NewsSpider-6) (238/389) Crawling and storing DONE - Red Dead Redemption 2 Rumored Achievements and Trophies Leaked
+INFO:root:[2018-10-14 10:56:23] (NewsSpider-8) (239/389) Crawling and storing DONE - Who is the Ghost of Kosmos? (Spoilers!)
+INFO:root:[2018-10-14 10:56:26] (NewsSpider-2) (242/389) Crawling and storing DONE - Aladdin: How the New Teaser Trailer Recreates the Animated Disney Movie
+INFO:root:[2018-10-14 10:56:26] (NewsSpider-3) (243/389) Crawling and storing DONE - Game Scoop! 500: Our Favorite Games IGN Has Ever Covered
+INFO:root:[2018-10-14 10:56:27] (NewsSpider-1) (244/389) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 10:56:27] (NewsSpider-10) (245/389) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 10:56:28] (NewsSpider-4) (246/389) Crawling and storing DONE - Etrian Odyssey Nexus
+INFO:root:[2018-10-14 10:56:28] (NewsSpider-5) (247/389) Crawling and storing DONE - Heroes in Crisis: Lives Lost as Horrible Tragedy Strikes the DC Universe
+INFO:root:[2018-10-14 10:56:28] (NewsSpider-8) (248/389) Crawling and storing DONE - 25 Wild Fallout 76 Enemies Spotted in 3 Hours Across West Virginia
+INFO:root:[2018-10-14 10:56:30] (NewsSpider-6) (249/389) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 10:56:31] (NewsSpider-3) (250/389) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 10:56:31] (NewsSpider-2) (252/389) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 10:56:32] (NewsSpider-7) (253/389) Crawling and storing DONE - Square Enix Announces 9-Game Kingdom Hearts Compilation
+INFO:root:[2018-10-14 10:56:33] (NewsSpider-1) (254/389) Crawling and storing DONE - Marvel Teases New Guardians of the Galaxy Team Roster
+INFO:root:[2018-10-14 10:56:33] (NewsSpider-10) (255/389) Crawling and storing DONE - HyperX Alloy FPS RGB Gaming Keyboard Review
+INFO:root:[2018-10-14 10:56:34] (NewsSpider-8) (256/389) Crawling and storing DONE - Teen Millionaire Builds Doc Ock Suit in Real Life
+INFO:root:[2018-10-14 10:56:35] (NewsSpider-4) (259/389) Crawling and storing DONE - Official IGN App Now Available on Xbox One
+INFO:root:[2018-10-14 10:56:36] (NewsSpider-3) (261/389) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 10:56:38] (NewsSpider-8) (262/389) Crawling and storing DONE - This Silent Hills Artist’s Frankenstein Manga Is Terrifying
+INFO:root:[2018-10-14 10:56:38] (NewsSpider-7) (263/389) Crawling and storing DONE - Thronebreaker: The Witcher Tales
+INFO:root:[2018-10-14 10:56:38] (NewsSpider-2) (264/389) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 10:56:39] (NewsSpider-9) (265/389) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 10:56:39] (NewsSpider-5) (266/389) Crawling and storing DONE - Up and Vanished Season 2: Listen to the New Case from the Podcast Phenomenon
+INFO:root:[2018-10-14 10:56:41] (NewsSpider-4) (268/389) Crawling and storing DONE - Graphic Novel Review: Wonder Woman
+INFO:root:[2018-10-14 10:56:42] (NewsSpider-3) (270/389) Crawling and storing DONE - Face Your Fears Trailer
+INFO:root:[2018-10-14 10:56:44] (NewsSpider-9) (274/389) Crawling and storing DONE - Call of Duty: Blackout EPIC Victory Gameplay (+ Bonus Ajax Unlock)
+INFO:root:[2018-10-14 10:56:45] (NewsSpider-3) (277/389) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 10:56:46] (NewsSpider-5) (278/389) Crawling and storing DONE - Canceled TV Shows of 2018
+INFO:root:[2018-10-14 10:56:48] (NewsSpider-9) (280/389) Crawling and storing DONE - Debut Trailer (Japanese)
+INFO:root:[2018-10-14 10:56:49] (NewsSpider-6) (281/389) Crawling and storing DONE - Glass Trailer 2
+INFO:root:[2018-10-14 10:56:49] (NewsSpider-7) (283/389) Crawling and storing DONE - HyperX Pulsefire Surge RGB Gaming Mouse Review
+INFO:root:[2018-10-14 10:56:49] (NewsSpider-2) (284/389) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 10:56:50] (NewsSpider-3) (285/389) Crawling and storing DONE - Venom: Eddie Brock Faces New Revelations and a New Enemy
+INFO:root:[2018-10-14 10:56:50] (NewsSpider-10) (286/389) Crawling and storing DONE - How Anime Inspires Pop Culture
+INFO:root:[2018-10-14 10:56:52] (NewsSpider-1) (287/389) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 10:56:52] (NewsSpider-5) (288/389) Crawling and storing DONE - The Best Noise Canceling Headphones
+INFO:root:[2018-10-14 10:56:53] (NewsSpider-4) (290/389) Crawling and storing DONE - The Final Arena Fight (Spoilers!)
+INFO:root:[2018-10-14 10:56:54] (NewsSpider-3) (291/389) Crawling and storing DONE - Sounds of Earthfall Invasion Video
+INFO:root:[2018-10-14 10:56:54] (NewsSpider-6) (292/389) Crawling and storing DONE - IGN Movies Podcast, Episode 25: James Bond Casting, Star Trek 4, and Guardians Vol. 3
+INFO:root:[2018-10-14 10:56:54] (NewsSpider-10) (294/389) Crawling and storing DONE - Aquaman Director James Wan Previewed New Footage and Revealed More Influences on His DC Movie
+INFO:root:[2018-10-14 10:56:55] (NewsSpider-8) (295/389) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 10:56:55] (NewsSpider-7) (296/389) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 10:56:55] (NewsSpider-1) (297/389) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 10:56:56] (NewsSpider-5) (298/389) Crawling and storing DONE - Get More Storage for Your Nintendo Switch With These MicroSD Cards on Sale
+INFO:root:[2018-10-14 10:56:58] (NewsSpider-9) (299/389) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 10:56:59] (NewsSpider-3) (300/389) Crawling and storing DONE - Game Scoop! 496: Our Take on Spider-Man PS4
+INFO:root:[2018-10-14 10:56:59] (NewsSpider-4) (301/389) Crawling and storing DONE - Under the Silver Lake Review
+INFO:root:[2018-10-14 10:56:59] (NewsSpider-6) (302/389) Crawling and storing DONE - Every IGN Hitman Review
+INFO:root:[2018-10-14 10:57:00] (NewsSpider-2) (303/389) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 10:57:00] (NewsSpider-1) (305/389) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 10:57:01] (NewsSpider-7) (307/389) Crawling and storing DONE - Square Enix Announces 9-Game Kingdom Hearts Compilation
+INFO:root:[2018-10-14 10:57:01] (NewsSpider-8) (308/389) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 10:57:02] (NewsSpider-2) (310/389) Crawling and storing DONE - Amazing Cosplay in 2 Minutes at NYCC 2018
+INFO:root:[2018-10-14 10:57:04] (NewsSpider-6) (311/389) Crawling and storing DONE - Game Scoop! 499: What We Want From This "New Era" of Marvel Games
+INFO:root:[2018-10-14 10:57:05] (NewsSpider-4) (312/389) Crawling and storing DONE - The Best Samsung Galaxy Note 9 Cases
+INFO:root:[2018-10-14 10:57:05] (NewsSpider-8) (313/389) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 10:57:06] (NewsSpider-10) (314/389) Crawling and storing DONE - Batman the Animated Series: Gotham Under Siege Perfectly Captures One of the Best Cartoon Shows Ever
+INFO:root:[2018-10-14 10:57:06] (NewsSpider-3) (315/389) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 10:57:06] (NewsSpider-5) (316/389) Crawling and storing DONE - Razer Nommo Pro Gaming Speakers Review
+INFO:root:[2018-10-14 10:57:07] (NewsSpider-1) (317/389) Crawling and storing DONE - The Mandalorian: Jon Favreau Reveals Familiar Star Wars Weapon
+INFO:root:[2018-10-14 10:57:08] (NewsSpider-9) (319/389) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 10:57:09] (NewsSpider-6) (320/389) Crawling and storing DONE - This Creepy Destiny 2 Mask We Made Looks Terrible
+INFO:root:[2018-10-14 10:57:10] (NewsSpider-3) (322/389) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 10:57:10] (NewsSpider-8) (323/389) Crawling and storing DONE - 14 Biggest Things Coming From Marvel and DC in October
+INFO:root:[2018-10-14 10:57:11] (NewsSpider-4) (324/389) Crawling and storing DONE - Razer Blade 15 Gaming Laptop Review
+INFO:root:[2018-10-14 10:57:11] (NewsSpider-7) (326/389) Crawling and storing DONE - The Marine 6: Close Quarters Exclusive Trailer Debut and Blu-ray Details
+INFO:root:[2018-10-14 10:57:12] (NewsSpider-9) (328/389) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 10:57:13] (NewsSpider-1) (329/389) Crawling and storing DONE - Stranger Things Gets a Bland Comic Spinoff (Stranger Things #1 Review)
+INFO:root:[2018-10-14 10:57:13] (NewsSpider-10) (330/389) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 10:57:14] (NewsSpider-8) (332/389) Crawling and storing DONE - Zotac GeForce RTX 2080 Ti AMP Review
+INFO:root:[2018-10-14 10:57:14] (NewsSpider-3) (333/389) Crawling and storing DONE - Acer Predator Cestus 500 Gaming Mouse Review
+INFO:root:[2018-10-14 10:57:18] (NewsSpider-7) (334/389) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 10:57:18] (NewsSpider-9) (335/389) Crawling and storing DONE - Best 2018 Alienware Deals for PC Gaming
+INFO:root:[2018-10-14 10:57:18] (NewsSpider-5) (336/389) Crawling and storing DONE - Art Is King in Batman: Damned (Batman: Damned
+INFO:root:[2018-10-14 10:57:18] (NewsSpider-2) (337/389) Crawling and storing DONE - Every Big Marvel Series Just Revealed
+INFO:root:[2018-10-14 10:57:20] (NewsSpider-6) (341/389) Crawling and storing DONE - Project xCloud Blade Animation
+INFO:root:[2018-10-14 10:57:21] (NewsSpider-10) (342/389) Crawling and storing DONE - IGN Is Now On Snapchat
+INFO:root:[2018-10-14 10:57:22] (NewsSpider-5) (343/389) Crawling and storing DONE - How the Writer Who Revamped Captain Marvel Is Bringing a Whole New Mythology to Aquaman
+INFO:root:[2018-10-14 10:57:23] (NewsSpider-2) (344/389) Crawling and storing DONE - Between Two Worlds Ending (Spoilers!)
+INFO:root:[2018-10-14 10:57:23] (NewsSpider-9) (345/389) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 10:57:24] (NewsSpider-4) (346/389) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 10:57:24] (NewsSpider-1) (347/389) Crawling and storing DONE - Astro Bot Rescue Mission Review
+INFO:root:[2018-10-14 10:57:25] (NewsSpider-8) (349/389) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 10:57:25] (NewsSpider-6) (350/389) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 10:57:27] (NewsSpider-10) (352/389) Crawling and storing DONE - Venom Was Originally a Woman Who Blamed Her Miscarriage on Spider-Man
+INFO:root:[2018-10-14 10:57:29] (NewsSpider-5) (354/389) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 10:57:30] (NewsSpider-4) (357/389) Crawling and storing DONE - Acer Predator Aethon 500 Gaming Keyboard Review
+INFO:root:[2018-10-14 10:57:30] (NewsSpider-7) (358/389) Crawling and storing DONE - Pokemon Crossover Event Begins in Animal Crossing: Pocket Camp
+INFO:root:[2018-10-14 10:57:31] (NewsSpider-8) (359/389) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 10:57:32] (NewsSpider-6) (360/389) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 10:57:32] (NewsSpider-10) (361/389) Crawling and storing DONE - The 15 Best Horror TV Shows of the Last 10 Years
+INFO:root:[2018-10-14 10:57:32] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 10:57:33] (NewsSpider-1) (363/389) Crawling and storing DONE - Why the PS4 Spider-Man Deserves His Own Comic
+INFO:root:[2018-10-14 10:57:33] (NewsSpider-4) (364/389) Crawling and storing DONE - HP OMEN Reactor Gaming Mouse Review
+INFO:root:[2018-10-14 10:57:33] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:57:33] ========== (NewsSpider-6) Thread END ==========
+INFO:root:[2018-10-14 10:57:33] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:57:33] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 10:57:34] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:57:34] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:57:35] (NewsSpider-9) (366/389) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 10:57:35] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 10:57:35] (NewsSpider-2) (367/389) Crawling and storing DONE - Razer Huntsman Elite Gaming Keyboard Review
+INFO:root:[2018-10-14 10:57:36] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:57:36] ========== (NewsSpider-2) Thread END ==========
+ERROR:urllib3.connection:Certificate did not match expected hostname: world.ign.com. Certificate: {'crlDistributionPoints': ('http://crl.sca1b.amazontrust.com/sca1b.crl',), 'notAfter': 'Oct 10 12:00:00 2019 GMT', 'subjectAltName': (('DNS', '*.ziffdavisinternational.com'), ('DNS', 'ziffdavisinternational.com')), 'notBefore': 'Sep 10 00:00:00 2018 GMT', 'issuer': ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('organizationalUnitName', 'Server CA 1B'),), (('commonName', 'Amazon'),)), 'serialNumber': '044B9E3A854250126D15AFEBD188F977', 'caIssuers': ('http://crt.sca1b.amazontrust.com/sca1b.crt',), 'OCSP': ('http://ocsp.sca1b.amazontrust.com',), 'version': 3, 'subject': ((('commonName', '*.ziffdavisinternational.com'),),)}
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='world.ign.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'world.ign.com' doesn't match either of '*.ziffdavisinternational.com', 'ziffdavisinternational.com'",),))
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feeds
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 17:42:20] ========== (NewsSpider-10) Start! ==========
+INFO:root:[2018-10-14 17:42:21] (NewsSpider-5) (1/385) Crawling and storing DONE - This Creepy Destiny 2 Mask We Made Looks Terrible
+INFO:root:[2018-10-14 17:42:21] (NewsSpider-1) (2/385) Crawling and storing DONE - M. Night Shyamalan Explains How Unbreakable Got a Sequel in Glass
+INFO:root:[2018-10-14 17:42:22] (NewsSpider-3) (4/385) Crawling and storing DONE - The Best Samsung Galaxy Note 9 Cases
+INFO:root:[2018-10-14 17:42:22] (NewsSpider-10) (5/385) Crawling and storing DONE - The Happytime Murders: Have a Look Inside The InkHole
+INFO:root:[2018-10-14 17:42:22] (NewsSpider-9) (6/385) Crawling and storing DONE - Where to Get the PlayStation Classic, C64 Mini Super NES and NES Classic, and More
+INFO:root:[2018-10-14 17:42:22] (NewsSpider-2) (8/385) Crawling and storing DONE - Up and Vanished Season 2: Listen to the New Case from the Podcast Phenomenon
+INFO:root:[2018-10-14 17:42:22] (NewsSpider-7) (9/385) Crawling and storing DONE - Prepare To Try: Save Solaire
+INFO:root:[2018-10-14 17:42:23] (NewsSpider-3) (11/385) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 17:42:24] (NewsSpider-4) (12/385) Crawling and storing DONE - Marvel Teases New Guardians of the Galaxy Team Roster
+INFO:root:[2018-10-14 17:42:24] (NewsSpider-2) (14/385) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 17:42:24] (NewsSpider-1) (16/385) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 17:42:24] (NewsSpider-7) (17/385) Crawling and storing DONE - Face Your Fears Trailer
+INFO:root:[2018-10-14 17:42:25] (NewsSpider-9) (18/385) Crawling and storing DONE - Pet Sematary: Check out 7 Photos From the Stephen King Remake
+INFO:root:[2018-10-14 17:42:25] (NewsSpider-3) (19/385) Crawling and storing DONE - Teen Millionaire Builds Doc Ock Suit in Real Life
+INFO:root:[2018-10-14 17:42:25] (NewsSpider-6) (20/385) Crawling and storing DONE - Microsoft Announces Global Game Streaming Service, Project xCloud, Beta Next Year
+INFO:root:[2018-10-14 17:42:26] (NewsSpider-10) (21/385) Crawling and storing DONE - Get Six Months Xbox Live Gold for the Price of Three at Amazon
+INFO:root:[2018-10-14 17:42:26] (NewsSpider-2) (23/385) Crawling and storing DONE - Super Smash Bros. Ultimate Blog Update: Wii Fit Trainer, Dr. Mario, and Greninja Detailed (Week 17)
+INFO:root:[2018-10-14 17:42:26] (NewsSpider-7) (24/385) Crawling and storing DONE - Amazing Spider-Man Takes a Fun Detour (The Amazing Spider-Man #6 Review)
+INFO:root:[2018-10-14 17:42:27] (NewsSpider-4) (26/385) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 17:42:27] (NewsSpider-5) (27/385) Crawling and storing DONE - Daily Deals: Valkyria Chronicles 4 for $10 Off, Gloomhaven in Stock
+INFO:root:[2018-10-14 17:42:28] (NewsSpider-6) (29/385) Crawling and storing DONE - Nightflyers Series Premiere Review
+INFO:root:[2018-10-14 17:42:28] (NewsSpider-3) (30/385) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 17:42:29] (NewsSpider-8) (33/385) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 17:42:29] (NewsSpider-9) (34/385) Crawling and storing DONE - 11 Awesome Destiny Fan Creations You Need to See
+INFO:root:[2018-10-14 17:42:30] (NewsSpider-1) (36/385) Crawling and storing DONE - Who is the Ghost of Kosmos? (Spoilers!)
+INFO:root:[2018-10-14 17:42:30] (NewsSpider-3) (37/385) Crawling and storing DONE - Apple Confirms New iPhone XS, iPhone XS Max and iPhone XR Models, Release Dates and Prices
+INFO:root:[2018-10-14 17:42:30] (NewsSpider-1) (38/385) Crawling and storing DONE - Titans: What Jason Todd Brings to Titans
+INFO:root:[2018-10-14 17:42:30] (NewsSpider-5) (39/385) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 17:42:31] (NewsSpider-9) (40/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:42:31] (NewsSpider-6) (41/385) Crawling and storing DONE - A Star is Born Review
+INFO:root:[2018-10-14 17:42:31] (NewsSpider-4) (42/385) Crawling and storing DONE - Hellboy: The Board Game Leans into the Weirdest Adventures Big Red Has Been On
+INFO:root:[2018-10-14 17:42:32] (NewsSpider-7) (45/385) Crawling and storing DONE - The Stories Behind Spider-Man, Ratchet and Clank, Sunset Overdrive, and More! An Hour With Ted Price – IGN Unfiltered #35
+INFO:root:[2018-10-14 17:42:32] (NewsSpider-2) (46/385) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 17:42:32] (NewsSpider-1) (47/385) Crawling and storing DONE - Forza Horizon 4 Review
+INFO:root:[2018-10-14 17:42:33] (NewsSpider-9) (48/385) Crawling and storing DONE - HyperX Alloy FPS RGB Gaming Keyboard Review
+INFO:root:[2018-10-14 17:42:33] (NewsSpider-5) (49/385) Crawling and storing DONE - HP OMEN Sequencer Gaming Keyboard Review
+INFO:root:[2018-10-14 17:42:33] (NewsSpider-3) (50/385) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 17:42:35] (NewsSpider-4) (54/385) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 17:42:35] (NewsSpider-7) (55/385) Crawling and storing DONE - Domestic Trailer 1
+INFO:root:[2018-10-14 17:42:35] (NewsSpider-9) (56/385) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 17:42:36] (NewsSpider-6) (57/385) Crawling and storing DONE - Hitman 2: Ghost Mode Multiplayer Official Trailer
+INFO:root:[2018-10-14 17:42:36] (NewsSpider-10) (58/385) Crawling and storing DONE - 10 Best Call of Duty Games of All Time
+INFO:root:[2018-10-14 17:42:36] (NewsSpider-2) (59/385) Crawling and storing DONE - Batman the Animated Series: Gotham Under Siege Perfectly Captures One of the Best Cartoon Shows Ever
+INFO:root:[2018-10-14 17:42:36] (NewsSpider-1) (60/385) Crawling and storing DONE - Predicting the Top 10 Fall Box Office Movies
+INFO:root:[2018-10-14 17:42:36] (NewsSpider-5) (61/385) Crawling and storing DONE - Asus ROG Swift PG27UQ Gaming Monitor Review
+INFO:root:[2018-10-14 17:42:36] (NewsSpider-8) (62/385) Crawling and storing DONE - The Hearthstone Pop-up Book Is Amazing
+INFO:root:[2018-10-14 17:42:37] (NewsSpider-4) (63/385) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 17:42:37] (NewsSpider-3) (64/385) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 17:42:38] (NewsSpider-2) (66/385) Crawling and storing DONE - HyperX Pulsefire Surge RGB Gaming Mouse Review
+INFO:root:[2018-10-14 17:42:38] (NewsSpider-8) (67/385) Crawling and storing DONE - Pokemon Crossover Event Begins in Animal Crossing: Pocket Camp
+INFO:root:[2018-10-14 17:42:38] (NewsSpider-5) (68/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:42:38] (NewsSpider-7) (69/385) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 17:42:39] (NewsSpider-4) (70/385) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 17:42:39] (NewsSpider-8) (71/385) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 17:42:40] (NewsSpider-2) (74/385) Crawling and storing DONE - Thronebreaker: The Witcher Tales
+INFO:root:[2018-10-14 17:42:40] (NewsSpider-1) (75/385) Crawling and storing DONE - 17 Big Things Coming From Marvel and DC in December
+INFO:root:[2018-10-14 17:42:40] (NewsSpider-6) (76/385) Crawling and storing DONE - Mega Man 11 Review
+INFO:root:[2018-10-14 17:42:41] (NewsSpider-7) (78/385) Crawling and storing DONE - 25 Wild Fallout 76 Enemies Spotted in 3 Hours Across West Virginia
+INFO:root:[2018-10-14 17:42:41] (NewsSpider-8) (81/385) Crawling and storing DONE - Square Enix Announces 9-Game Kingdom Hearts Compilation
+INFO:root:[2018-10-14 17:42:41] (NewsSpider-4) (82/385) Crawling and storing DONE - FIFA 19 Review
+INFO:root:[2018-10-14 17:42:41] (NewsSpider-3) (83/385) Crawling and storing DONE - Acer Predator Aethon 500 Gaming Keyboard Review
+INFO:root:[2018-10-14 17:42:42] (NewsSpider-7) (84/385) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 17:42:42] (NewsSpider-5) (85/385) Crawling and storing DONE - IGN Deals Newsletter
+INFO:root:[2018-10-14 17:42:42] (NewsSpider-1) (86/385) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 17:42:42] (NewsSpider-10) (87/385) Crawling and storing DONE - We Visited Arkham Asylum At The Warner Bros. Festival of Frights
+INFO:root:[2018-10-14 17:42:43] (NewsSpider-9) (88/385) Crawling and storing DONE - Toys R Us Bankruptcy Auction Canceled, Brand May Live on After All
+INFO:root:[2018-10-14 17:42:43] (NewsSpider-6) (89/385) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 17:42:43] (NewsSpider-7) (90/385) Crawling and storing DONE - Fallout 76: 45 Things We Learned
+INFO:root:[2018-10-14 17:42:43] (NewsSpider-8) (91/385) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 17:42:43] (NewsSpider-4) (92/385) Crawling and storing DONE - How to Kill Venom
+INFO:root:[2018-10-14 17:42:43] (NewsSpider-9) (94/385) Crawling and storing DONE - The Marine 6: Close Quarters Exclusive Trailer Debut and Blu-ray Details
+INFO:root:[2018-10-14 17:42:44] (NewsSpider-10) (95/385) Crawling and storing DONE - New Captain Marvel Comic Launching Ahead of MCU Movie
+INFO:root:[2018-10-14 17:42:44] (NewsSpider-2) (96/385) Crawling and storing DONE - Red Dead Redemption 2 Rumored Achievements and Trophies Leaked
+INFO:root:[2018-10-14 17:42:45] (NewsSpider-5) (97/385) Crawling and storing DONE - 14 Biggest Things Coming From Marvel and DC in October
+INFO:root:[2018-10-14 17:42:45] (NewsSpider-7) (98/385) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 17:42:45] (NewsSpider-3) (99/385) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 17:42:45] (NewsSpider-9) (100/385) Crawling and storing DONE - This Creepy Destiny 2 Mask We Made Looks Terrible
+INFO:root:[2018-10-14 17:42:46] (NewsSpider-10) (101/385) Crawling and storing DONE - XCOM 2: War of the Chosen
+INFO:root:[2018-10-14 17:42:46] (NewsSpider-1) (102/385) Crawling and storing DONE - Hell Fest Exclusive Poster and Featurette with Producer Gale Anne Hurd
+INFO:root:[2018-10-14 17:42:46] (NewsSpider-8) (103/385) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 17:42:47] (NewsSpider-4) (104/385) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 17:42:47] (NewsSpider-9) (106/385) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 17:42:47] (NewsSpider-1) (107/385) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 17:42:47] (NewsSpider-2) (108/385) Crawling and storing DONE - 15 Big Things Coming From Marvel and DC in September
+INFO:root:[2018-10-14 17:42:48] (NewsSpider-6) (109/385) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 17:42:48] (NewsSpider-5) (110/385) Crawling and storing DONE - What We Want Most from Switch 2.0
+INFO:root:[2018-10-14 17:42:48] (NewsSpider-10) (111/385) Crawling and storing DONE - Pokemon From Diamond and Pearl Headed to Pokemon GO Soon
+INFO:root:[2018-10-14 17:42:48] (NewsSpider-1) (112/385) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 17:42:49] (NewsSpider-7) (113/385) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 17:42:49] (NewsSpider-3) (114/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:42:49] (NewsSpider-8) (115/385) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 17:42:49] (NewsSpider-4) (117/385) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 17:42:50] (NewsSpider-7) (118/385) Crawling and storing DONE - Under the Silver Lake Review
+INFO:root:[2018-10-14 17:42:50] (NewsSpider-6) (119/385) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 17:42:50] (NewsSpider-5) (121/385) Crawling and storing DONE - Beautiful Boy
+INFO:root:[2018-10-14 17:42:50] (NewsSpider-3) (122/385) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+INFO:root:[2018-10-14 17:42:51] (NewsSpider-2) (123/385) Crawling and storing DONE - The Purge Invites You to the Carnival of Flesh
+INFO:root:[2018-10-14 17:42:51] (NewsSpider-1) (126/385) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 17:42:52] (NewsSpider-7) (127/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:42:52] (NewsSpider-5) (129/385) Crawling and storing DONE - A Frankenstein Manga From Silent Hills Artist Junji Ito
+INFO:root:[2018-10-14 17:42:52] (NewsSpider-6) (130/385) Crawling and storing DONE - Razer Huntsman Elite Gaming Keyboard Review
+INFO:root:[2018-10-14 17:42:53] (NewsSpider-7) (131/385) Crawling and storing DONE - The Man Who Killed Don Quixote Review
+INFO:root:[2018-10-14 17:42:53] (NewsSpider-9) (134/385) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 17:42:53] (NewsSpider-8) (135/385) Crawling and storing DONE - Batman #56 Only Tells Half the Story (Batman #56 Review)
+INFO:root:[2018-10-14 17:42:54] (NewsSpider-10) (136/385) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+INFO:root:[2018-10-14 17:42:54] (NewsSpider-7) (137/385) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 17:42:55] (NewsSpider-8) (140/385) Crawling and storing DONE - The Walking Dead Comic Still Drags (The Walking Dead #184 Review)
+INFO:root:[2018-10-14 17:42:55] (NewsSpider-5) (141/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:42:55] (NewsSpider-7) (142/385) Crawling and storing DONE - Square Enix Announces 9-Game Kingdom Hearts Compilation
+INFO:root:[2018-10-14 17:42:55] (NewsSpider-4) (143/385) Crawling and storing DONE - How Anime Inspires Pop Culture
+INFO:root:[2018-10-14 17:42:55] (NewsSpider-3) (144/385) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 17:42:57] (NewsSpider-10) (147/385) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 17:42:57] (NewsSpider-5) (148/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:42:57] (NewsSpider-4) (150/385) Crawling and storing DONE - The Mandalorian: Jon Favreau Reveals Familiar Star Wars Weapon
+INFO:root:[2018-10-14 17:42:58] (NewsSpider-7) (151/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:42:58] (NewsSpider-8) (152/385) Crawling and storing DONE - Zotac GeForce RTX 2080 Ti AMP Review
+INFO:root:[2018-10-14 17:42:58] (NewsSpider-10) (154/385) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 17:42:59] (NewsSpider-9) (155/385) Crawling and storing DONE - Unboxing the Call of Duty: Black Ops 4 Mystery Box Edition
+INFO:root:[2018-10-14 17:42:59] (NewsSpider-2) (156/385) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 17:42:59] (NewsSpider-4) (157/385) Crawling and storing DONE - Kick-Ass: The Board Game Makes Even the Boring Parts of Being a Superhero Fun
+INFO:root:[2018-10-14 17:42:59] (NewsSpider-3) (158/385) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 17:43:00] (NewsSpider-7) (159/385) Crawling and storing DONE - Project xCloud Blade Animation
+INFO:root:[2018-10-14 17:43:00] (NewsSpider-6) (160/385) Crawling and storing DONE - New Hellboy Footage Shown at New York Comic Con: Full Breakdown
+INFO:root:[2018-10-14 17:43:00] (NewsSpider-9) (162/385) Crawling and storing DONE - SPECIAL Perk Cards
+INFO:root:[2018-10-14 17:43:01] (NewsSpider-10) (165/385) Crawling and storing DONE - LucidSound LS35X Wireless Gaming Headset Review
+INFO:root:[2018-10-14 17:43:02] (NewsSpider-5) (166/385) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 17:43:03] (NewsSpider-2) (168/385) Crawling and storing DONE - HP OMEN Reactor Gaming Mouse Review
+INFO:root:[2018-10-14 17:43:03] (NewsSpider-3) (169/385) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 17:43:03] (NewsSpider-6) (170/385) Crawling and storing DONE - Hearthstone: Team 5 on Designing the Witchwood Set
+INFO:root:[2018-10-14 17:43:04] (NewsSpider-5) (172/385) Crawling and storing DONE - ASUS ROG Strix GL503V Scar Edition Gaming Laptop Review
+INFO:root:[2018-10-14 17:43:04] (NewsSpider-2) (174/385) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 17:43:04] (NewsSpider-8) (175/385) Crawling and storing DONE - Official IGN App Now Available on Xbox One
+INFO:root:[2018-10-14 17:43:05] (NewsSpider-10) (176/385) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 17:43:05] (NewsSpider-2) (177/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:43:05] (NewsSpider-1) (178/385) Crawling and storing DONE - Razer Blade 15 Gaming Laptop Review
+INFO:root:[2018-10-14 17:43:05] (NewsSpider-9) (179/385) Crawling and storing DONE - Metal Gear Solid 2 and 3 Now Backward Compatible on Xbox One
+INFO:root:[2018-10-14 17:43:05] (NewsSpider-8) (181/385) Crawling and storing DONE - Get More Storage for Your Nintendo Switch With These MicroSD Cards on Sale
+INFO:root:[2018-10-14 17:43:06] (NewsSpider-3) (182/385) Crawling and storing DONE - Spider-Geddon Rehashes an Old Favorite (Spider-Geddon #1 Review)
+INFO:root:[2018-10-14 17:43:06] (NewsSpider-4) (183/385) Crawling and storing DONE - Dragon Ball Super: Broly Trailer #2 Breakdown
+INFO:root:[2018-10-14 17:43:06] (NewsSpider-2) (184/385) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 17:43:07] (NewsSpider-1) (185/385) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 17:43:07] (NewsSpider-5) (186/385) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 17:43:08] (NewsSpider-4) (189/385) Crawling and storing DONE - Encountering the Kraken on the Titanic Zombies Map
+INFO:root:[2018-10-14 17:43:08] (NewsSpider-7) (190/385) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 17:43:08] (NewsSpider-3) (192/385) Crawling and storing DONE - Aladdin: How the New Teaser Trailer Recreates the Animated Disney Movie
+INFO:root:[2018-10-14 17:43:09] (NewsSpider-7) (193/385) Crawling and storing DONE - Supernatural Season 14 Premiere: "Stranger in a Strange Land" Review
+INFO:root:[2018-10-14 17:43:09] (NewsSpider-6) (194/385) Crawling and storing DONE - 18 Big Things Coming From Marvel and DC in November
+INFO:root:[2018-10-14 17:43:09] (NewsSpider-8) (195/385) Crawling and storing DONE - The First 15 Minutes of The World Ends With You: Final Remix on Switch
+INFO:root:[2018-10-14 17:43:09] (NewsSpider-4) (196/385) Crawling and storing DONE - Xbox & Alexa Revolutionize Your Gaming Experience
+INFO:root:[2018-10-14 17:43:10] (NewsSpider-3) (199/385) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 17:43:10] (NewsSpider-9) (200/385) Crawling and storing DONE - Heroes in Crisis: Lives Lost as Horrible Tragedy Strikes the DC Universe
+INFO:root:[2018-10-14 17:43:10] (NewsSpider-10) (201/385) Crawling and storing DONE - Between Two Worlds Ending (Spoilers!)
+INFO:root:[2018-10-14 17:43:11] (NewsSpider-4) (202/385) Crawling and storing DONE - DuckTales Season 2 Premiere First Look: "The Most Dangerous Game... Night"
+INFO:root:[2018-10-14 17:43:11] (NewsSpider-6) (203/385) Crawling and storing DONE - Carnage Explained: Who Is the Psychopathic Symbiote and Foe of Venom?
+INFO:root:[2018-10-14 17:43:12] (NewsSpider-5) (205/385) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 17:43:12] (NewsSpider-10) (206/385) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 17:43:12] (NewsSpider-7) (207/385) Crawling and storing DONE - What We Want From A Nintendo Switch Redesign
+INFO:root:[2018-10-14 17:43:13] (NewsSpider-4) (208/385) Crawling and storing DONE - Undertale Review
+INFO:root:[2018-10-14 17:43:13] (NewsSpider-6) (209/385) Crawling and storing DONE - Encountering the Kraken on the Titanic Zombies Map
+INFO:root:[2018-10-14 17:43:13] (NewsSpider-3) (210/385) Crawling and storing DONE - Sounds of Earthfall Invasion Video
+INFO:root:[2018-10-14 17:43:14] (NewsSpider-9) (212/385) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 17:43:14] (NewsSpider-4) (213/385) Crawling and storing DONE - Thronebreaker: The Witcher Tales
+INFO:root:[2018-10-14 17:43:14] (NewsSpider-10) (214/385) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 17:43:15] (NewsSpider-8) (215/385) Crawling and storing DONE - The Best Noise Canceling Headphones
+INFO:root:[2018-10-14 17:43:15] (NewsSpider-7) (216/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:43:15] (NewsSpider-5) (217/385) Crawling and storing DONE - Dark Phoenix: Exclusive Photos and Director Simon Kinberg and Sophie Turner on Alien Villains
+INFO:root:[2018-10-14 17:43:16] (NewsSpider-8) (219/385) Crawling and storing DONE - Game Scoop! 500: Our Favorite Games IGN Has Ever Covered
+INFO:root:[2018-10-14 17:43:17] (NewsSpider-3) (220/385) Crawling and storing DONE - Game Scoop! 496: Our Take on Spider-Man PS4
+INFO:root:[2018-10-14 17:43:17] (NewsSpider-1) (222/385) Crawling and storing DONE - Microsoft Reportedly Planning to Acquire Pillars of Eternity Dev Obsidian Entertainment
+INFO:root:[2018-10-14 17:43:18] (NewsSpider-9) (223/385) Crawling and storing DONE - South Park: "The Problem With a Poo" Review
+INFO:root:[2018-10-14 17:43:18] (NewsSpider-10) (224/385) Crawling and storing DONE - The Best Venom vs. Carnage Comics
+INFO:root:[2018-10-14 17:43:18] (NewsSpider-8) (225/385) Crawling and storing DONE - This Silent Hills Artist’s Frankenstein Manga Is Terrifying
+INFO:root:[2018-10-14 17:43:18] (NewsSpider-4) (226/385) Crawling and storing DONE - A Day with Fallout 76
+INFO:root:[2018-10-14 17:43:18] (NewsSpider-10) (228/385) Crawling and storing DONE - Is Dota 2 Really Harder than League of Legends?
+INFO:root:[2018-10-14 17:43:19] (NewsSpider-7) (229/385) Crawling and storing DONE - Beautiful Boy Review
+INFO:root:[2018-10-14 17:43:19] (NewsSpider-6) (230/385) Crawling and storing DONE - Clown Trap Trailer
+INFO:root:[2018-10-14 17:43:19] (NewsSpider-5) (231/385) Crawling and storing DONE - Fallout 76: 45 Things We Learned
+INFO:root:[2018-10-14 17:43:20] (NewsSpider-3) (232/385) Crawling and storing DONE - Every Special Weapon Gameplay (Stage 1)
+INFO:root:[2018-10-14 17:43:20] (NewsSpider-9) (233/385) Crawling and storing DONE - Our Reaction to Super Smash Bros. Nintendo Direct
+INFO:root:[2018-10-14 17:43:20] (NewsSpider-1) (234/385) Crawling and storing DONE - Glass Trailer 2
+INFO:root:[2018-10-14 17:43:21] (NewsSpider-6) (236/385) Crawling and storing DONE - Acer Predator Cestus 500 Gaming Mouse Review
+INFO:root:[2018-10-14 17:43:21] (NewsSpider-7) (237/385) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 17:43:21] (NewsSpider-4) (238/385) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 17:43:21] (NewsSpider-10) (239/385) Crawling and storing DONE - Amazing Cosplay in 2 Minutes at NYCC 2018
+INFO:root:[2018-10-14 17:43:21] (NewsSpider-6) (240/385) Crawling and storing DONE - Every IGN Hitman Review
+INFO:root:[2018-10-14 17:43:22] (NewsSpider-8) (241/385) Crawling and storing DONE - Every Big Marvel Series Just Revealed
+INFO:root:[2018-10-14 17:43:22] (NewsSpider-10) (242/385) Crawling and storing DONE - Super Smash Bros. Ultimate Blog Update: Wii Fit Trainer, Dr. Mario, and Greninja Detailed (Week 17)
+INFO:root:[2018-10-14 17:43:22] (NewsSpider-3) (243/385) Crawling and storing DONE - Glass is the Third Act We Always Wanted for Unbreakable
+INFO:root:[2018-10-14 17:43:23] (NewsSpider-7) (244/385) Crawling and storing DONE - How Anime Inspires Pop Culture
+INFO:root:[2018-10-14 17:43:23] (NewsSpider-6) (246/385) Crawling and storing DONE - Joaquin Phoenix Is Shown Smoking in Chaotic New Joker Scene
+INFO:root:[2018-10-14 17:43:23] (NewsSpider-1) (247/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:43:23] (NewsSpider-5) (248/385) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 17:43:23] (NewsSpider-10) (249/385) Crawling and storing DONE - New Hellboy Footage Shown at New York Comic Con: Full Breakdown
+INFO:root:[2018-10-14 17:43:23] (NewsSpider-4) (250/385) Crawling and storing DONE - Daily Deals: Akira 35th Anniversary Box Set for $121
+INFO:root:[2018-10-14 17:43:23] (NewsSpider-8) (251/385) Crawling and storing DONE - My Hero Academia Offers More Relatable Superheroes with Refreshing Motivations
+INFO:root:[2018-10-14 17:43:24] (NewsSpider-7) (252/385) Crawling and storing DONE - Canceled TV Shows of 2018
+INFO:root:[2018-10-14 17:43:25] (NewsSpider-9) (253/385) Crawling and storing DONE - Best Comic-Con 2018 Exclusive Collectibles
+INFO:root:[2018-10-14 17:43:25] (NewsSpider-3) (254/385) Crawling and storing DONE - HyperX Cloud Mix Bluetooth Gaming Headset Review
+INFO:root:[2018-10-14 17:43:26] (NewsSpider-10) (256/385) Crawling and storing DONE - Prepare To Try: Save Solaire
+INFO:root:[2018-10-14 17:43:26] (NewsSpider-5) (257/385) Crawling and storing DONE - Venom Was Originally a Woman Who Blamed Her Miscarriage on Spider-Man
+INFO:root:[2018-10-14 17:43:26] (NewsSpider-4) (259/385) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 17:43:26] (NewsSpider-6) (260/385) Crawling and storing DONE - New Shows of 2018-2019: All the Broadcast Series Premiering This Season
+INFO:root:[2018-10-14 17:43:27] (NewsSpider-10) (261/385) Crawling and storing DONE - Aladdin: How the New Teaser Trailer Recreates the Animated Disney Movie
+INFO:root:[2018-10-14 17:43:28] (NewsSpider-8) (263/385) Crawling and storing DONE - Amazon Prime Day 2018: Guide to All the Best Deals
+INFO:root:[2018-10-14 17:43:28] (NewsSpider-3) (264/385) Crawling and storing DONE - How the Writer Who Revamped Captain Marvel Is Bringing a Whole New Mythology to Aquaman
+INFO:root:[2018-10-14 17:43:28] (NewsSpider-6) (266/385) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 17:43:29] (NewsSpider-7) (267/385) Crawling and storing DONE - Goosebumps 2: Haunted Halloween Review
+INFO:root:[2018-10-14 17:43:29] (NewsSpider-8) (268/385) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 17:43:29] (NewsSpider-10) (269/385) Crawling and storing DONE - Venom: Eddie Brock Faces New Revelations and a New Enemy
+INFO:root:[2018-10-14 17:43:30] (NewsSpider-6) (270/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 17:43:30] (NewsSpider-1) (271/385) Crawling and storing DONE - Astro Bot Rescue Mission Review
+INFO:root:[2018-10-14 17:43:30] (NewsSpider-4) (272/385) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 17:43:30] (NewsSpider-10) (273/385) Crawling and storing DONE - HyperX Pulsefire FPS Pro Gaming Mouse Review
+INFO:root:[2018-10-14 17:43:31] (NewsSpider-9) (274/385) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 17:43:31] (NewsSpider-3) (275/385) Crawling and storing DONE - Google Announces a New Pixel Phone, And Some New Hardware Too
+INFO:root:[2018-10-14 17:43:31] (NewsSpider-7) (276/385) Crawling and storing DONE - The Final Arena Fight (Spoilers!)
+INFO:root:[2018-10-14 17:43:31] (NewsSpider-5) (277/385) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 17:43:32] (NewsSpider-9) (278/385) Crawling and storing DONE - Our First Look at Pet Sematary Is Promising... and Creepy as Hell
+INFO:root:[2018-10-14 17:43:32] (NewsSpider-6) (279/385) Crawling and storing DONE - Who is the Ghost of Kosmos? (Spoilers!)
+INFO:root:[2018-10-14 17:43:32] (NewsSpider-8) (280/385) Crawling and storing DONE - Game Scoop! 497: Should New Game+ Be Standard in Single-player Games?
+INFO:root:[2018-10-14 17:43:33] (NewsSpider-9) (282/385) Crawling and storing DONE - The 15 Best Horror TV Shows of the Last 10 Years
+INFO:root:[2018-10-14 17:43:33] (NewsSpider-1) (283/385) Crawling and storing DONE - Asus ROG Strix GeForce RTX 2080Ti OC Review
+INFO:root:[2018-10-14 17:43:33] (NewsSpider-3) (284/385) Crawling and storing DONE - Debut Trailer (Japanese)
+INFO:root:[2018-10-14 17:43:34] (NewsSpider-10) (286/385) Crawling and storing DONE - My Hero Academia Offers More Relatable Superheroes with Refreshing Motivations
+INFO:root:[2018-10-14 17:43:34] (NewsSpider-7) (287/385) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 17:43:35] (NewsSpider-9) (289/385) Crawling and storing DONE - Spider-Geddon Shocks With a Lethal Opener
+INFO:root:[2018-10-14 17:43:35] (NewsSpider-1) (290/385) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 17:43:35] (NewsSpider-10) (291/385) Crawling and storing DONE - This Silent Hills Artist’s Frankenstein Manga Is Terrifying
+INFO:root:[2018-10-14 17:43:36] (NewsSpider-4) (292/385) Crawling and storing DONE - Daily Deals: Akira 35th Anniversary Box Set for $121
+INFO:root:[2018-10-14 17:43:36] (NewsSpider-5) (293/385) Crawling and storing DONE - IGN Movies Podcast, Episode 25: James Bond Casting, Star Trek 4, and Guardians Vol. 3
+INFO:root:[2018-10-14 17:43:36] (NewsSpider-8) (294/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 17:43:36] (NewsSpider-10) (295/385) Crawling and storing DONE - Netflix Has Released Over 650 Hours of Content in 3 Months, Says Survey
+INFO:root:[2018-10-14 17:43:37] (NewsSpider-7) (296/385) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 17:43:37] (NewsSpider-6) (297/385) Crawling and storing DONE - Etrian Odyssey Nexus
+INFO:root:[2018-10-14 17:43:37] (NewsSpider-4) (298/385) Crawling and storing DONE - DCEU Movies: Every Upcoming Film in the DC Universe
+INFO:root:[2018-10-14 17:43:37] (NewsSpider-1) (300/385) Crawling and storing DONE - Black Panther Writer, Director Ryan Coogler Returning for Sequel
+INFO:root:[2018-10-14 17:43:38] (NewsSpider-5) (301/385) Crawling and storing DONE - Asus ROG Zephyrus M Gaming Laptop Review
+INFO:root:[2018-10-14 17:43:39] (NewsSpider-8) (302/385) Crawling and storing DONE - CitizenCon Trailer
+INFO:root:[2018-10-14 17:43:40] (NewsSpider-7) (303/385) Crawling and storing DONE - Where to Get the PlayStation Classic, C64 Mini Super NES and NES Classic, and More
+INFO:root:[2018-10-14 17:43:40] (NewsSpider-9) (304/385) Crawling and storing DONE - PSN Name Changes Officially Announced by Sony
+INFO:root:[2018-10-14 17:43:42] (NewsSpider-3) (306/385) Crawling and storing DONE - Stranger Things Gets a Bland Comic Spinoff (Stranger Things #1 Review)
+INFO:root:[2018-10-14 17:43:43] (NewsSpider-6) (307/385) Crawling and storing DONE - PSN Name Changes Officially Announced by Sony
+INFO:root:[2018-10-14 17:43:43] (NewsSpider-4) (308/385) Crawling and storing DONE - Mario Kart 64: All 150cc Cups Finished In 27 Minutes
+INFO:root:[2018-10-14 17:43:44] (NewsSpider-5) (309/385) Crawling and storing DONE - New Version of Nintendo Switch Reportedly Planned for 2019
+INFO:root:[2018-10-14 17:43:45] (NewsSpider-9) (311/385) Crawling and storing DONE - Hands-On With The New Gaming-Focused Razer Phone 2
+INFO:root:[2018-10-14 17:43:51] (NewsSpider-6) (313/385) Crawling and storing DONE - IGN Is Now On Snapchat
+INFO:root:[2018-10-14 17:43:51] (NewsSpider-4) (314/385) Crawling and storing DONE - Aquaman Director James Wan Previewed New Footage and Revealed More Influences on His DC Movie
+INFO:root:[2018-10-14 17:43:51] (NewsSpider-10) (315/385) Crawling and storing DONE - Razer Nommo Pro Gaming Speakers Review
+INFO:root:[2018-10-14 17:43:56] (NewsSpider-7) (317/385) Crawling and storing DONE - NYCC Cosplay Spotlight: Nadya Sonika
+INFO:root:[2018-10-14 17:43:56] (NewsSpider-1) (318/385) Crawling and storing DONE - Valkyria Chronicles 4 Review
+ERROR:urllib3.connection:Certificate did not match expected hostname: world.ign.com. Certificate: {'crlDistributionPoints': ('http://crl.sca1b.amazontrust.com/sca1b.crl',), 'notBefore': 'Sep 10 00:00:00 2018 GMT', 'subject': ((('commonName', '*.ziffdavisinternational.com'),),), 'version': 3, 'issuer': ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('organizationalUnitName', 'Server CA 1B'),), (('commonName', 'Amazon'),)), 'notAfter': 'Oct 10 12:00:00 2019 GMT', 'serialNumber': '044B9E3A854250126D15AFEBD188F977', 'OCSP': ('http://ocsp.sca1b.amazontrust.com',), 'subjectAltName': (('DNS', '*.ziffdavisinternational.com'), ('DNS', 'ziffdavisinternational.com')), 'caIssuers': ('http://crt.sca1b.amazontrust.com/sca1b.crt',)}
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='world.ign.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'world.ign.com' doesn't match either of '*.ziffdavisinternational.com', 'ziffdavisinternational.com'",),))
+INFO:root:[2018-10-14 17:44:01] (NewsSpider-10) (321/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Requires 50GB Day One Patch
+INFO:root:[2018-10-14 17:44:02] (NewsSpider-9) (322/385) Crawling and storing DONE - Canceled TV Shows of 2018
+INFO:root:[2018-10-14 17:44:02] (NewsSpider-6) (323/385) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 17:44:04] (NewsSpider-5) (325/385) Crawling and storing DONE - Why the PS4 Spider-Man Deserves His Own Comic
+INFO:root:[2018-10-14 17:44:06] (NewsSpider-1) (326/385) Crawling and storing DONE - First Look: Super Mario Party Face-Off!
+INFO:root:[2018-10-14 17:44:07] (NewsSpider-8) (328/385) Crawling and storing DONE - Old Man Logan & 14 New Marvel Legends Revealed
+INFO:root:[2018-10-14 17:44:09] (NewsSpider-4) (329/385) Crawling and storing DONE - Call of Duty: Blackout EPIC Victory Gameplay (+ Bonus Ajax Unlock)
+INFO:root:[2018-10-14 17:44:11] (NewsSpider-6) (330/385) Crawling and storing DONE - The Hearthstone Pop-up Book Is Amazing
+INFO:root:[2018-10-14 17:44:11] (NewsSpider-9) (331/385) Crawling and storing DONE - Graphic Novel Review: Wonder Woman
+INFO:root:[2018-10-14 17:44:12] (NewsSpider-1) (332/385) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 17:44:14] (NewsSpider-10) (333/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 17:44:15] (NewsSpider-3) (334/385) Crawling and storing DONE - XCOM 2: War of the Chosen Review
+INFO:root:[2018-10-14 17:44:16] (NewsSpider-7) (336/385) Crawling and storing DONE - Between Two Worlds Ending (Spoilers!)
+INFO:root:[2018-10-14 17:44:17] (NewsSpider-5) (337/385) Crawling and storing DONE - Suicide Squad Director David Ayer Responds to James Gunn Hiring
+INFO:root:[2018-10-14 17:44:18] (NewsSpider-4) (339/385) Crawling and storing DONE - PS5 Features We Really Want
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/rss
+INFO:root:[2018-10-14 17:44:20] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:20] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:20] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:20] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:20] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:44:24] (NewsSpider-7) (343/385) Crawling and storing DONE - The 10 Best Haunted House Movies
+INFO:root:[2018-10-14 17:44:24] (NewsSpider-9) (344/385) Crawling and storing DONE - Joaquin Phoenix Is Shown Smoking in Chaotic New Joker Scene
+INFO:root:[2018-10-14 17:44:25] (NewsSpider-5) (345/385) Crawling and storing DONE - Art Is King in Batman: Damned (Batman: Damned
+INFO:root:[2018-10-14 17:44:25] (NewsSpider-8) (346/385) Crawling and storing DONE - Daily Deals: Akira 35th Anniversary Box Set for $121
+INFO:root:[2018-10-14 17:44:26] (NewsSpider-4) (2/385) Crawling and storing DONE - IGN Is Now On Snapchat
+INFO:root:[2018-10-14 17:44:26] (NewsSpider-5) (3/385) Crawling and storing DONE - The Walking Dead Comic Still Drags (The Walking Dead #184 Review)
+INFO:root:[2018-10-14 17:44:26] (NewsSpider-6) (347/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:44:27] (NewsSpider-2) (4/385) Crawling and storing DONE - We Visited Arkham Asylum At The Warner Bros. Festival of Frights
+INFO:root:[2018-10-14 17:44:28] (NewsSpider-3) (5/385) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 17:44:28] (NewsSpider-4) (348/385) Crawling and storing DONE - Every Special Weapon Gameplay (Stage 1)
+INFO:root:[2018-10-14 17:44:35] (NewsSpider-5) (352/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 17:44:35] (NewsSpider-7) (353/385) Crawling and storing DONE - Pet Sematary
+INFO:root:[2018-10-14 17:44:35] (NewsSpider-9) (354/385) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 17:44:35] (NewsSpider-4) (6/385) Crawling and storing DONE - Debut Trailer (Japanese)
+INFO:root:[2018-10-14 17:44:35] (NewsSpider-5) (7/385) Crawling and storing DONE - Razer Huntsman Elite Gaming Keyboard Review
+INFO:root:[2018-10-14 17:44:36] (NewsSpider-3) (8/385) Crawling and storing DONE - Red Dead Redemption 2 Rumored Achievements and Trophies Leaked
+INFO:root:[2018-10-14 17:44:36] (NewsSpider-2) (9/385) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 17:44:36] (NewsSpider-4) (355/385) Crawling and storing DONE - Game Scoop! 499: What We Want From This "New Era" of Marvel Games
+INFO:root:[2018-10-14 17:44:37] (NewsSpider-6) (356/385) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+INFO:root:[2018-10-14 17:44:39] (NewsSpider-1) (10/385) Crawling and storing DONE - Suicide Squad Director David Ayer Responds to James Gunn Hiring
+INFO:root:[2018-10-14 17:44:41] (NewsSpider-1) (357/385) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 17:44:42] (NewsSpider-7) (358/385) Crawling and storing DONE - Bad Times at the El Royale Review
+INFO:root:[2018-10-14 17:44:43] (NewsSpider-10) (359/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:44:43] (NewsSpider-8) (360/385) Crawling and storing DONE - Samsung Q9FN QLED 4K HDR Television Review
+INFO:root:[2018-10-14 17:44:44] (NewsSpider-5) (11/385) Crawling and storing DONE - This Silent Hills Artist’s Frankenstein Manga Is Terrifying
+INFO:root:[2018-10-14 17:44:44] (NewsSpider-4) (361/385) Crawling and storing DONE - Debut Trailer (Japanese)
+INFO:root:[2018-10-14 17:44:44] (NewsSpider-3) (362/385) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 17:44:44] (NewsSpider-5) (363/385) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 17:44:44] (NewsSpider-2) (12/385) Crawling and storing DONE - New Captain Marvel Comic Launching Ahead of MCU Movie
+INFO:root:[2018-10-14 17:44:44] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 17:44:45] (NewsSpider-3) (13/385) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 17:44:45] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 17:44:45] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:44:46] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:44:46] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 17:44:47] (NewsSpider-9) (365/385) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 17:44:48] ========== (NewsSpider-6) Thread END ==========
+INFO:root:[2018-10-14 17:44:49] (NewsSpider-1) (366/385) Crawling and storing DONE - What We Want Most from Switch 2.0
+INFO:root:[2018-10-14 17:44:49] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 17:44:50] (NewsSpider-7) (367/385) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 17:44:51] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 17:44:51] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 17:44:53] (NewsSpider-2) (16/385) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 17:44:53] (NewsSpider-5) (17/385) Crawling and storing DONE - Canceled TV Shows of 2018
+INFO:root:[2018-10-14 17:44:54] (NewsSpider-1) (18/385) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 17:44:54] (NewsSpider-3) (19/385) Crawling and storing DONE - Bad Times at the El Royale Review
+INFO:root:[2018-10-14 17:45:03] (NewsSpider-4) (22/385) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 17:45:04] (NewsSpider-3) (23/385) Crawling and storing DONE - Canceled TV Shows of 2018
+INFO:root:[2018-10-14 17:45:09] (NewsSpider-2) (24/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:45:09] (NewsSpider-5) (25/385) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 17:45:10] (NewsSpider-1) (26/385) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 17:45:12] (NewsSpider-3) (27/385) Crawling and storing DONE - Beautiful Boy Review
+INFO:root:[2018-10-14 17:45:16] (NewsSpider-5) (29/385) Crawling and storing DONE - DuckTales Season 2 Premiere First Look: "The Most Dangerous Game... Night"
+INFO:root:[2018-10-14 17:45:16] (NewsSpider-2) (30/385) Crawling and storing DONE - Mega Man 11 Review
+INFO:root:[2018-10-14 17:45:17] (NewsSpider-1) (31/385) Crawling and storing DONE - 25 Wild Fallout 76 Enemies Spotted in 3 Hours Across West Virginia
+INFO:root:[2018-10-14 17:45:19] (NewsSpider-4) (33/385) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 17:45:21] (NewsSpider-5) (34/385) Crawling and storing DONE - Supernatural Season 14 Premiere: "Stranger in a Strange Land" Review
+INFO:root:[2018-10-14 17:45:26] (NewsSpider-3) (36/385) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 17:45:27] (NewsSpider-4) (37/385) Crawling and storing DONE - Face Your Fears Trailer
+INFO:root:[2018-10-14 17:45:32] (NewsSpider-5) (39/385) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 17:45:32] (NewsSpider-3) (41/385) Crawling and storing DONE - How to Kill Venom
+INFO:root:[2018-10-14 17:45:33] (NewsSpider-4) (42/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:45:35] (NewsSpider-1) (43/385) Crawling and storing DONE - Game Scoop! 500: Our Favorite Games IGN Has Ever Covered
+INFO:root:[2018-10-14 17:45:39] (NewsSpider-5) (44/385) Crawling and storing DONE - Razer Blade 15 Gaming Laptop Review
+INFO:root:[2018-10-14 17:45:41] (NewsSpider-3) (45/385) Crawling and storing DONE - Between Two Worlds Ending (Spoilers!)
+INFO:root:[2018-10-14 17:45:42] (NewsSpider-4) (46/385) Crawling and storing DONE - PSN Name Changes Officially Announced by Sony
+INFO:root:[2018-10-14 17:45:44] (NewsSpider-1) (48/385) Crawling and storing DONE - The Stories Behind Spider-Man, Ratchet and Clank, Sunset Overdrive, and More! An Hour With Ted Price – IGN Unfiltered #35
+INFO:root:[2018-10-14 17:45:47] (NewsSpider-5) (49/385) Crawling and storing DONE - A Frankenstein Manga From Silent Hills Artist Junji Ito
+INFO:root:[2018-10-14 17:45:48] (NewsSpider-2) (50/385) Crawling and storing DONE - 17 Big Things Coming From Marvel and DC in December
+INFO:root:[2018-10-14 17:45:48] (NewsSpider-3) (51/385) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 17:45:51] (NewsSpider-1) (52/385) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+INFO:root:[2018-10-14 17:45:56] (NewsSpider-2) (54/385) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 17:45:56] (NewsSpider-3) (55/385) Crawling and storing DONE - Acer Predator Cestus 500 Gaming Mouse Review
+INFO:root:[2018-10-14 17:45:58] (NewsSpider-5) (56/385) Crawling and storing DONE - Apple Confirms New iPhone XS, iPhone XS Max and iPhone XR Models, Release Dates and Prices
+INFO:root:[2018-10-14 17:45:58] (NewsSpider-1) (57/385) Crawling and storing DONE - Spider-Geddon Shocks With a Lethal Opener
+INFO:root:[2018-10-14 17:46:05] (NewsSpider-4) (61/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:46:07] (NewsSpider-5) (62/385) Crawling and storing DONE - Hitman 2: Ghost Mode Multiplayer Official Trailer
+INFO:root:[2018-10-14 17:46:08] (NewsSpider-3) (63/385) Crawling and storing DONE - XCOM 2: War of the Chosen
+INFO:root:[2018-10-14 17:46:11] (NewsSpider-2) (65/385) Crawling and storing DONE - This Silent Hills Artist’s Frankenstein Manga Is Terrifying
+INFO:root:[2018-10-14 17:46:13] (NewsSpider-4) (66/385) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 17:46:13] (NewsSpider-5) (67/385) Crawling and storing DONE - The Happytime Murders: Have a Look Inside The InkHole
+INFO:root:[2018-10-14 17:46:14] (NewsSpider-3) (68/385) Crawling and storing DONE - Between Two Worlds Ending (Spoilers!)
+INFO:root:[2018-10-14 17:46:17] (NewsSpider-1) (69/385) Crawling and storing DONE - 15 Big Things Coming From Marvel and DC in September
+INFO:root:[2018-10-14 17:46:19] (NewsSpider-2) (70/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 17:46:22] (NewsSpider-5) (71/385) Crawling and storing DONE - The Hearthstone Pop-up Book Is Amazing
+INFO:root:[2018-10-14 17:46:23] (NewsSpider-4) (73/385) Crawling and storing DONE - Aladdin: How the New Teaser Trailer Recreates the Animated Disney Movie
+INFO:root:[2018-10-14 17:46:27] (NewsSpider-5) (75/385) Crawling and storing DONE - My Hero Academia Offers More Relatable Superheroes with Refreshing Motivations
+INFO:root:[2018-10-14 17:46:31] (NewsSpider-4) (78/385) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 17:46:32] (NewsSpider-3) (79/385) Crawling and storing DONE - Every Special Weapon Gameplay (Stage 1)
+INFO:root:[2018-10-14 17:46:32] (NewsSpider-5) (80/385) Crawling and storing DONE - FIFA 19 Review
+INFO:root:[2018-10-14 17:46:33] (NewsSpider-2) (81/385) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 17:46:37] (NewsSpider-4) (82/385) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+INFO:root:[2018-10-14 17:46:38] (NewsSpider-5) (84/385) Crawling and storing DONE - Stranger Things Gets a Bland Comic Spinoff (Stranger Things #1 Review)
+INFO:root:[2018-10-14 17:46:38] (NewsSpider-2) (85/385) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 17:46:38] (NewsSpider-3) (86/385) Crawling and storing DONE - Glass is the Third Act We Always Wanted for Unbreakable
+INFO:root:[2018-10-14 17:46:42] (NewsSpider-4) (87/385) Crawling and storing DONE - My Hero Academia Offers More Relatable Superheroes with Refreshing Motivations
+INFO:root:[2018-10-14 17:46:43] (NewsSpider-5) (88/385) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 17:46:43] (NewsSpider-1) (89/385) Crawling and storing DONE - Metal Gear Solid 2 and 3 Now Backward Compatible on Xbox One
+INFO:root:[2018-10-14 17:46:44] (NewsSpider-3) (90/385) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 17:46:47] (NewsSpider-5) (92/385) Crawling and storing DONE - The Mandalorian: Jon Favreau Reveals Familiar Star Wars Weapon
+INFO:root:[2018-10-14 17:46:48] (NewsSpider-4) (93/385) Crawling and storing DONE - Hellboy: The Board Game Leans into the Weirdest Adventures Big Red Has Been On
+INFO:root:[2018-10-14 17:46:49] (NewsSpider-1) (94/385) Crawling and storing DONE - Asus ROG Strix GeForce RTX 2080Ti OC Review
+INFO:root:[2018-10-14 17:46:50] (NewsSpider-3) (95/385) Crawling and storing DONE - How Anime Inspires Pop Culture
+INFO:root:[2018-10-14 17:46:50] (NewsSpider-2) (96/385) Crawling and storing DONE - Amazing Cosplay in 2 Minutes at NYCC 2018
+INFO:root:[2018-10-14 17:46:52] (NewsSpider-1) (97/385) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 17:46:55] (NewsSpider-4) (98/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:46:55] (NewsSpider-3) (99/385) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 17:46:56] (NewsSpider-2) (100/385) Crawling and storing DONE - PSN Name Changes Are Coming, But There Are Some Issues
+INFO:root:[2018-10-14 17:46:59] (NewsSpider-4) (101/385) Crawling and storing DONE - The Best Samsung Galaxy Note 9 Cases
+INFO:root:[2018-10-14 17:46:59] (NewsSpider-1) (102/385) Crawling and storing DONE - Call of Duty: Blackout EPIC Victory Gameplay (+ Bonus Ajax Unlock)
+INFO:root:[2018-10-14 17:47:00] (NewsSpider-3) (103/385) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 17:47:02] (NewsSpider-2) (105/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:47:02] (NewsSpider-4) (106/385) Crawling and storing DONE - ASUS ROG Strix GL503V Scar Edition Gaming Laptop Review
+INFO:root:[2018-10-14 17:47:06] (NewsSpider-1) (107/385) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 17:47:07] (NewsSpider-5) (108/385) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 17:47:07] (NewsSpider-4) (109/385) Crawling and storing DONE - Pokemon From Diamond and Pearl Headed to Pokemon GO Soon
+INFO:root:[2018-10-14 17:47:09] (NewsSpider-3) (111/385) Crawling and storing DONE - XCOM 2: War of the Chosen Review
+INFO:root:[2018-10-14 17:47:11] (NewsSpider-4) (112/385) Crawling and storing DONE - Fallout 76: 45 Things We Learned
+INFO:root:[2018-10-14 17:47:11] (NewsSpider-5) (113/385) Crawling and storing DONE - Joaquin Phoenix Is Shown Smoking in Chaotic New Joker Scene
+INFO:root:[2018-10-14 17:47:11] (NewsSpider-1) (114/385) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 17:47:17] (NewsSpider-4) (117/385) Crawling and storing DONE - Valkyria Chronicles 4 Review
+INFO:root:[2018-10-14 17:47:18] (NewsSpider-5) (118/385) Crawling and storing DONE - The Man Who Killed Don Quixote Review
+INFO:root:[2018-10-14 17:47:20] (NewsSpider-3) (121/385) Crawling and storing DONE - Encountering the Kraken on the Titanic Zombies Map
+INFO:root:[2018-10-14 17:47:24] (NewsSpider-4) (122/385) Crawling and storing DONE - Sounds of Earthfall Invasion Video
+INFO:root:[2018-10-14 17:47:24] (NewsSpider-5) (123/385) Crawling and storing DONE - Why the PS4 Spider-Man Deserves His Own Comic
+INFO:root:[2018-10-14 17:47:25] (NewsSpider-1) (124/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:47:25] (NewsSpider-2) (125/385) Crawling and storing DONE - HyperX Pulsefire Surge RGB Gaming Mouse Review
+INFO:root:[2018-10-14 17:47:27] (NewsSpider-3) (126/385) Crawling and storing DONE - Best Comic-Con 2018 Exclusive Collectibles
+INFO:root:[2018-10-14 17:47:29] (NewsSpider-4) (127/385) Crawling and storing DONE - Game Scoop! 496: Our Take on Spider-Man PS4
+INFO:root:[2018-10-14 17:47:31] (NewsSpider-5) (128/385) Crawling and storing DONE - HyperX Cloud Mix Bluetooth Gaming Headset Review
+INFO:root:[2018-10-14 17:47:32] (NewsSpider-3) (129/385) Crawling and storing DONE - Marvel Teases New Guardians of the Galaxy Team Roster
+INFO:root:[2018-10-14 17:47:32] (NewsSpider-1) (130/385) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 17:47:33] (NewsSpider-2) (131/385) Crawling and storing DONE - Every Big Marvel Series Just Revealed
+INFO:root:[2018-10-14 17:47:36] (NewsSpider-3) (132/385) Crawling and storing DONE - Heroes in Crisis: Lives Lost as Horrible Tragedy Strikes the DC Universe
+INFO:root:[2018-10-14 17:47:37] (NewsSpider-5) (133/385) Crawling and storing DONE - Nintendo Switch Review
+INFO:root:[2018-10-14 17:47:45] (NewsSpider-5) (136/385) Crawling and storing DONE - The Marine 6: Close Quarters Exclusive Trailer Debut and Blu-ray Details
+INFO:root:[2018-10-14 17:47:45] (NewsSpider-4) (137/385) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 17:47:49] (NewsSpider-2) (138/385) Crawling and storing DONE - What We Want Most from Switch 2.0
+INFO:root:[2018-10-14 17:47:50] (NewsSpider-5) (139/385) Crawling and storing DONE - Teen Millionaire Builds Doc Ock Suit in Real Life
+INFO:root:[2018-10-14 17:47:50] (NewsSpider-1) (141/385) Crawling and storing DONE - DCEU Movies: Every Upcoming Film in the DC Universe
+INFO:root:[2018-10-14 17:47:51] (NewsSpider-4) (142/385) Crawling and storing DONE - Every Special Weapon Gameplay (Stage 1)
+INFO:root:[2018-10-14 17:47:53] (NewsSpider-2) (143/385) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 17:47:54] (NewsSpider-3) (144/385) Crawling and storing DONE - Dark Phoenix: Exclusive Photos and Director Simon Kinberg and Sophie Turner on Alien Villains
+INFO:root:[2018-10-14 17:47:54] (NewsSpider-1) (145/385) Crawling and storing DONE - PS5 Features We Really Want
+INFO:root:[2018-10-14 17:47:54] (NewsSpider-5) (146/385) Crawling and storing DONE - Zotac GeForce RTX 2080 Ti AMP Review
+INFO:root:[2018-10-14 17:47:55] (NewsSpider-4) (147/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:47:57] (NewsSpider-5) (148/385) Crawling and storing DONE - Unboxing the Call of Duty: Black Ops 4 Mystery Box Edition
+INFO:root:[2018-10-14 17:47:58] (NewsSpider-1) (149/385) Crawling and storing DONE - The Hearthstone Pop-up Book Is Amazing
+INFO:root:[2018-10-14 17:47:59] (NewsSpider-4) (150/385) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 17:48:02] (NewsSpider-1) (153/385) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 17:48:02] (NewsSpider-5) (154/385) Crawling and storing DONE - Asus ROG Swift PG27UQ Gaming Monitor Review
+INFO:root:[2018-10-14 17:48:03] (NewsSpider-4) (155/385) Crawling and storing DONE - SPECIAL Perk Cards
+INFO:root:[2018-10-14 17:48:07] (NewsSpider-2) (157/385) Crawling and storing DONE - Who is the Ghost of Kosmos? (Spoilers!)
+INFO:root:[2018-10-14 17:48:07] (NewsSpider-4) (158/385) Crawling and storing DONE - Google Announces a New Pixel Phone, And Some New Hardware Too
+INFO:root:[2018-10-14 17:48:07] (NewsSpider-1) (159/385) Crawling and storing DONE - First Look: Super Mario Party Face-Off!
+INFO:root:[2018-10-14 17:48:09] (NewsSpider-2) (160/385) Crawling and storing DONE - What We Want Most from Switch 2.0
+INFO:root:[2018-10-14 17:48:10] (NewsSpider-3) (161/385) Crawling and storing DONE - Astro Bot Rescue Mission Review
+INFO:root:[2018-10-14 17:48:11] (NewsSpider-5) (162/385) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 17:48:11] (NewsSpider-1) (163/385) Crawling and storing DONE - Xbox & Alexa Revolutionize Your Gaming Experience
+INFO:root:[2018-10-14 17:48:13] (NewsSpider-4) (164/385) Crawling and storing DONE - New Hellboy Footage Shown at New York Comic Con: Full Breakdown
+INFO:root:[2018-10-14 17:48:13] (NewsSpider-2) (165/385) Crawling and storing DONE - Our Reaction to Super Smash Bros. Nintendo Direct
+INFO:root:[2018-10-14 17:48:14] (NewsSpider-3) (166/385) Crawling and storing DONE - Undertale Review
+INFO:root:[2018-10-14 17:48:15] (NewsSpider-5) (167/385) Crawling and storing DONE - Samsung Q9FN QLED 4K HDR Television Review
+INFO:root:[2018-10-14 17:48:16] (NewsSpider-2) (168/385) Crawling and storing DONE - IGN Deals Newsletter
+INFO:root:[2018-10-14 17:48:19] (NewsSpider-5) (170/385) Crawling and storing DONE - Who is the Ghost of Kosmos? (Spoilers!)
+INFO:root:[2018-10-14 17:48:22] (NewsSpider-2) (173/385) Crawling and storing DONE - Fallout 76: 45 Things We Learned
+INFO:root:[2018-10-14 17:48:23] (NewsSpider-5) (175/385) Crawling and storing DONE - Pokemon Crossover Event Begins in Animal Crossing: Pocket Camp
+INFO:root:[2018-10-14 17:48:25] (NewsSpider-3) (176/385) Crawling and storing DONE - 18 Big Things Coming From Marvel and DC in November
+INFO:root:[2018-10-14 17:48:26] (NewsSpider-4) (178/385) Crawling and storing DONE - Red Dead Redemption 2 Is a Brutal World for a Lone Cowboy
+INFO:root:[2018-10-14 17:48:27] (NewsSpider-5) (179/385) Crawling and storing DONE - How the Writer Who Revamped Captain Marvel Is Bringing a Whole New Mythology to Aquaman
+INFO:root:[2018-10-14 17:48:28] (NewsSpider-2) (180/385) Crawling and storing DONE - Forza Horizon 4 Review
+INFO:root:[2018-10-14 17:48:28] (NewsSpider-3) (181/385) Crawling and storing DONE - The Final Arena Fight (Spoilers!)
+INFO:root:[2018-10-14 17:48:28] (NewsSpider-4) (182/385) Crawling and storing DONE - The Purge Invites You to the Carnival of Flesh
+INFO:root:[2018-10-14 17:48:29] (NewsSpider-5) (183/385) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 17:48:31] (NewsSpider-2) (184/385) Crawling and storing DONE - Stardew Valley Launching on Mobile This Month
+INFO:root:[2018-10-14 17:48:32] (NewsSpider-5) (185/385) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 17:48:33] (NewsSpider-4) (186/385) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 17:48:34] (NewsSpider-3) (187/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:48:35] (NewsSpider-4) (188/385) Crawling and storing DONE - Graphic Novel Review: Wonder Woman
+INFO:root:[2018-10-14 17:48:35] (NewsSpider-2) (189/385) Crawling and storing DONE - Project xCloud Blade Animation
+INFO:root:[2018-10-14 17:48:35] (NewsSpider-5) (190/385) Crawling and storing DONE - Our Dream PS5 Launch Games
+INFO:root:[2018-10-14 17:48:37] (NewsSpider-2) (191/385) Crawling and storing DONE - LucidSound LS35X Wireless Gaming Headset Review
+INFO:root:[2018-10-14 17:48:37] (NewsSpider-3) (192/385) Crawling and storing DONE - Etrian Odyssey Nexus
+INFO:root:[2018-10-14 17:48:37] (NewsSpider-5) (193/385) Crawling and storing DONE - IGN Movies Podcast, Episode 25: James Bond Casting, Star Trek 4, and Guardians Vol. 3
+INFO:root:[2018-10-14 17:48:39] (NewsSpider-5) (196/385) Crawling and storing DONE - Prepare To Try: Save Solaire
+INFO:root:[2018-10-14 17:48:40] (NewsSpider-3) (197/385) Crawling and storing DONE - Spider-Geddon Rehashes an Old Favorite (Spider-Geddon #1 Review)
+INFO:root:[2018-10-14 17:48:41] (NewsSpider-3) (199/385) Crawling and storing DONE - The 15 Best Horror TV Shows of the Last 10 Years
+INFO:root:[2018-10-14 17:48:42] (NewsSpider-5) (200/385) Crawling and storing DONE - Amazon Prime Day 2018: Guide to All the Best Deals
+INFO:root:[2018-10-14 17:48:42] (NewsSpider-4) (201/385) Crawling and storing DONE - M. Night Shyamalan Explains How Unbreakable Got a Sequel in Glass
+INFO:root:[2018-10-14 17:48:44] (NewsSpider-5) (202/385) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 17:48:44] (NewsSpider-3) (203/385) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 17:48:45] (NewsSpider-4) (204/385) Crawling and storing DONE - Kick-Ass: The Board Game Makes Even the Boring Parts of Being a Superhero Fun
+INFO:root:[2018-10-14 17:48:45] (NewsSpider-2) (205/385) Crawling and storing DONE - Venom Was Originally a Woman Who Blamed Her Miscarriage on Spider-Man
+INFO:root:[2018-10-14 17:48:46] (NewsSpider-3) (206/385) Crawling and storing DONE - Pet Sematary: Check out 7 Photos From the Stephen King Remake
+INFO:root:[2018-10-14 17:48:47] (NewsSpider-4) (208/385) Crawling and storing DONE - Titans: What Jason Todd Brings to Titans
+INFO:root:[2018-10-14 17:48:47] (NewsSpider-5) (209/385) Crawling and storing DONE - Where to Get the PlayStation Classic, C64 Mini Super NES and NES Classic, and More
+INFO:root:[2018-10-14 17:48:49] (NewsSpider-2) (210/385) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 17:48:49] (NewsSpider-3) (211/385) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 17:48:50] (NewsSpider-4) (212/385) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 17:48:50] (NewsSpider-3) (213/385) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 17:48:50] (NewsSpider-5) (214/385) Crawling and storing DONE - Thronebreaker: The Witcher Tales
+INFO:root:[2018-10-14 17:48:51] (NewsSpider-3) (215/385) Crawling and storing DONE - Donut County Review
+INFO:root:[2018-10-14 17:48:52] (NewsSpider-5) (216/385) Crawling and storing DONE - Our First Look at Pet Sematary Is Promising... and Creepy as Hell
+INFO:root:[2018-10-14 17:48:53] (NewsSpider-2) (217/385) Crawling and storing DONE - Heavy Metal Icons Discuss the Weird Link Between Metal and Games
+INFO:root:[2018-10-14 17:48:54] (NewsSpider-5) (220/385) Crawling and storing DONE - HyperX Pulsefire FPS Pro Gaming Mouse Review
+INFO:root:[2018-10-14 17:48:55] (NewsSpider-4) (221/385) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 17:48:56] (NewsSpider-2) (223/385) Crawling and storing DONE - Super Smash Bros. Ultimate Blog Update: Wii Fit Trainer, Dr. Mario, and Greninja Detailed (Week 17)
+INFO:root:[2018-10-14 17:48:58] (NewsSpider-2) (225/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Requires 50GB Day One Patch
+INFO:root:[2018-10-14 17:48:59] (NewsSpider-4) (226/385) Crawling and storing DONE - Daily Deals: Akira 35th Anniversary Box Set for $121
+INFO:root:[2018-10-14 17:49:00] (NewsSpider-5) (228/385) Crawling and storing DONE - Riverdale Season 3 Premiere Review: "Labor Day"
+INFO:root:[2018-10-14 17:49:01] (NewsSpider-2) (229/385) Crawling and storing DONE - Encountering the Kraken on the Titanic Zombies Map
+INFO:root:[2018-10-14 17:49:03] (NewsSpider-5) (233/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:49:03] (NewsSpider-3) (234/385) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 17:49:05] (NewsSpider-2) (235/385) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 17:49:06] (NewsSpider-5) (237/385) Crawling and storing DONE - Up and Vanished Season 2: Listen to the New Case from the Podcast Phenomenon
+INFO:root:[2018-10-14 17:49:06] (NewsSpider-3) (238/385) Crawling and storing DONE - Constantine: City of Demons Review
+INFO:root:[2018-10-14 17:49:07] (NewsSpider-5) (240/385) Crawling and storing DONE - Game Scoop! 499: What We Want From This "New Era" of Marvel Games
+INFO:root:[2018-10-14 17:49:07] (NewsSpider-4) (241/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:49:08] (NewsSpider-3) (242/385) Crawling and storing DONE - Domestic Trailer 1
+INFO:root:[2018-10-14 17:49:08] (NewsSpider-2) (243/385) Crawling and storing DONE - Predicting the Top 10 Fall Box Office Movies
+INFO:root:[2018-10-14 17:49:10] (NewsSpider-3) (244/385) Crawling and storing DONE - Hearthstone: Team 5 on Designing the Witchwood Set
+INFO:root:[2018-10-14 17:49:10] (NewsSpider-4) (245/385) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 17:49:11] (NewsSpider-2) (247/385) Crawling and storing DONE - Joaquin Phoenix Is Shown Smoking in Chaotic New Joker Scene
+INFO:root:[2018-10-14 17:49:12] (NewsSpider-3) (248/385) Crawling and storing DONE - Asus ROG Zephyrus M Gaming Laptop Review
+INFO:root:[2018-10-14 17:49:12] (NewsSpider-4) (249/385) Crawling and storing DONE - WWE 2K19 Review
+INFO:root:[2018-10-14 17:49:12] (NewsSpider-5) (250/385) Crawling and storing DONE - Every IGN Hitman Review
+INFO:root:[2018-10-14 17:49:14] (NewsSpider-2) (251/385) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 17:49:15] (NewsSpider-4) (253/385) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 17:49:15] (NewsSpider-3) (254/385) Crawling and storing DONE - Dragon Ball Super: Broly Trailer #2 Breakdown
+INFO:root:[2018-10-14 17:49:16] (NewsSpider-3) (255/385) Crawling and storing DONE - 14 Biggest Things Coming From Marvel and DC in October
+INFO:root:[2018-10-14 17:49:17] (NewsSpider-4) (256/385) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 17:49:17] (NewsSpider-2) (258/385) Crawling and storing DONE - First Man Review
+INFO:root:[2018-10-14 17:49:19] (NewsSpider-2) (259/385) Crawling and storing DONE - New Shows of 2018-2019: All the Broadcast Series Premiering This Season
+INFO:root:[2018-10-14 17:49:21] (NewsSpider-4) (262/385) Crawling and storing DONE - The First 15 Minutes of The World Ends With You: Final Remix on Switch
+INFO:root:[2018-10-14 17:49:22] (NewsSpider-2) (263/385) Crawling and storing DONE - Goosebumps 2: Haunted Halloween Review
+INFO:root:[2018-10-14 17:49:23] (NewsSpider-5) (264/385) Crawling and storing DONE - Battlerite Royale Early Access Review
+INFO:root:[2018-10-14 17:49:24] (NewsSpider-2) (265/385) Crawling and storing DONE - Official IGN App Now Available on Xbox One
+INFO:root:[2018-10-14 17:49:24] (NewsSpider-5) (266/385) Crawling and storing DONE - Super Smash Bros. Ultimate Blog Update: Wii Fit Trainer, Dr. Mario, and Greninja Detailed (Week 17)
+INFO:root:[2018-10-14 17:49:25] (NewsSpider-4) (268/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 17:49:26] (NewsSpider-3) (270/385) Crawling and storing DONE - Nightflyers Series Premiere Review
+INFO:root:[2018-10-14 17:49:27] (NewsSpider-4) (271/385) Crawling and storing DONE - What We Want From A Nintendo Switch Redesign
+INFO:root:[2018-10-14 17:49:27] (NewsSpider-2) (272/385) Crawling and storing DONE - Netflix Has Released Over 650 Hours of Content in 3 Months, Says Survey
+INFO:root:[2018-10-14 17:49:30] (NewsSpider-3) (273/385) Crawling and storing DONE - Batman #56 Only Tells Half the Story (Batman #56 Review)
+INFO:root:[2018-10-14 17:49:30] (NewsSpider-2) (274/385) Crawling and storing DONE - Thronebreaker: The Witcher Tales
+INFO:root:[2018-10-14 17:49:30] (NewsSpider-5) (275/385) Crawling and storing DONE - Aladdin: How the New Teaser Trailer Recreates the Animated Disney Movie
+INFO:root:[2018-10-14 17:49:30] (NewsSpider-4) (276/385) Crawling and storing DONE - Space Hulk: Tactics Review
+INFO:root:[2018-10-14 17:49:32] (NewsSpider-3) (277/385) Crawling and storing DONE - How Anime Inspires Pop Culture
+INFO:root:[2018-10-14 17:49:33] (NewsSpider-5) (279/385) Crawling and storing DONE - Is Dota 2 Really Harder than League of Legends?
+INFO:root:[2018-10-14 17:49:34] (NewsSpider-4) (281/385) Crawling and storing DONE - Clown Trap Trailer
+INFO:root:[2018-10-14 17:49:35] (NewsSpider-2) (282/385) Crawling and storing DONE - Venom: Eddie Brock Faces New Revelations and a New Enemy
+INFO:root:[2018-10-14 17:49:35] (NewsSpider-5) (283/385) Crawling and storing DONE - Game Scoop! 501: Will You Draft Dodge the Streaming Console War?
+INFO:root:[2018-10-14 17:49:35] (NewsSpider-4) (284/385) Crawling and storing DONE - Google Launches Pixel 3, Slate, and Home Hub
+INFO:root:[2018-10-14 17:49:36] (NewsSpider-2) (285/385) Crawling and storing DONE - Is Reign of Terror A New Diablo Game?
+INFO:root:[2018-10-14 17:49:36] (NewsSpider-3) (286/385) Crawling and storing DONE - The World Ends With You: Final Remix Review
+INFO:root:[2018-10-14 17:49:37] (NewsSpider-3) (287/385) Crawling and storing DONE - HyperX Alloy FPS RGB Gaming Keyboard Review
+INFO:root:[2018-10-14 17:49:39] (NewsSpider-5) (290/385) Crawling and storing DONE - Debut Trailer (Japanese)
+INFO:root:[2018-10-14 17:49:39] (NewsSpider-2) (291/385) Crawling and storing DONE - HP OMEN Sequencer Gaming Keyboard Review
+INFO:root:[2018-10-14 17:49:39] (NewsSpider-3) (292/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 17:49:41] (NewsSpider-3) (293/385) Crawling and storing DONE - Hands-On With The New Gaming-Focused Razer Phone 2
+INFO:root:[2018-10-14 17:49:41] (NewsSpider-2) (294/385) Crawling and storing DONE - Beautiful Boy
+INFO:root:[2018-10-14 17:49:42] (NewsSpider-4) (295/385) Crawling and storing DONE - Prepare To Try: Save Solaire
+INFO:root:[2018-10-14 17:49:43] (NewsSpider-5) (296/385) Crawling and storing DONE - 10 Best Call of Duty Games of All Time
+INFO:root:[2018-10-14 17:49:44] (NewsSpider-3) (297/385) Crawling and storing DONE - Amazing Spider-Man Takes a Fun Detour (The Amazing Spider-Man #6 Review)
+INFO:root:[2018-10-14 17:49:44] (NewsSpider-5) (298/385) Crawling and storing DONE - South Park: "The Problem With a Poo" Review
+INFO:root:[2018-10-14 17:49:44] (NewsSpider-2) (299/385) Crawling and storing DONE - A Day with Fallout 76
+INFO:root:[2018-10-14 17:49:45] (NewsSpider-4) (300/385) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 17:49:45] (NewsSpider-5) (301/385) Crawling and storing DONE - CitizenCon Trailer
+INFO:root:[2018-10-14 17:49:46] (NewsSpider-2) (302/385) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 17:49:47] (NewsSpider-5) (303/385) Crawling and storing DONE - New Hellboy Footage Shown at New York Comic Con: Full Breakdown
+INFO:root:[2018-10-14 17:49:48] (NewsSpider-3) (304/385) Crawling and storing DONE - Daily Deals: Valkyria Chronicles 4 for $10 Off, Gloomhaven in Stock
+INFO:root:[2018-10-14 17:49:49] (NewsSpider-2) (306/385) Crawling and storing DONE - Daily Deals: Akira 35th Anniversary Box Set for $121
+INFO:root:[2018-10-14 17:49:49] (NewsSpider-5) (307/385) Crawling and storing DONE - Toys R Us Bankruptcy Auction Canceled, Brand May Live on After All
+INFO:root:[2018-10-14 17:49:50] (NewsSpider-4) (308/385) Crawling and storing DONE - Game Scoop! 497: Should New Game+ Be Standard in Single-player Games?
+INFO:root:[2018-10-14 17:49:50] (NewsSpider-3) (309/385) Crawling and storing DONE - A Star is Born Review
+INFO:root:[2018-10-14 17:49:52] (NewsSpider-2) (310/385) Crawling and storing DONE - NYCC Cosplay Spotlight: Nadya Sonika
+INFO:root:[2018-10-14 17:49:53] (NewsSpider-4) (312/385) Crawling and storing DONE - The Best Venom vs. Carnage Comics
+INFO:root:[2018-10-14 17:49:54] (NewsSpider-3) (313/385) Crawling and storing DONE - Star Wars Comic Writer Fired by Marvel
+INFO:root:[2018-10-14 17:49:54] (NewsSpider-2) (314/385) Crawling and storing DONE - Jamie Lee Curtis Ranks Halloween Candy
+INFO:root:[2018-10-14 17:49:56] (NewsSpider-5) (315/385) Crawling and storing DONE - Under the Silver Lake Review
+INFO:root:[2018-10-14 17:49:56] (NewsSpider-4) (316/385) Crawling and storing DONE - PSN Name Changes Officially Announced by Sony
+INFO:root:[2018-10-14 17:49:57] (NewsSpider-5) (317/385) Crawling and storing DONE - The 10 Best Haunted House Movies
+INFO:root:[2018-10-14 17:49:57] (NewsSpider-3) (318/385) Crawling and storing DONE - Square Enix Announces 9-Game Kingdom Hearts Compilation
+INFO:root:[2018-10-14 17:49:58] (NewsSpider-2) (319/385) Crawling and storing DONE - Mario Kart 64: All 150cc Cups Finished In 27 Minutes
+INFO:root:[2018-10-14 17:49:59] (NewsSpider-3) (320/385) Crawling and storing DONE - New Version of Nintendo Switch Reportedly Planned for 2019
+INFO:root:[2018-10-14 17:50:00] (NewsSpider-4) (321/385) Crawling and storing DONE - This Creepy Destiny 2 Mask We Made Looks Terrible
+INFO:root:[2018-10-14 17:50:03] (NewsSpider-2) (325/385) Crawling and storing DONE - Super Mario Party Review
+INFO:root:[2018-10-14 17:50:04] (NewsSpider-5) (326/385) Crawling and storing DONE - Pet Sematary
+INFO:root:[2018-10-14 17:50:06] (NewsSpider-4) (328/385) Crawling and storing DONE - HP OMEN Reactor Gaming Mouse Review
+INFO:root:[2018-10-14 17:50:06] (NewsSpider-2) (329/385) Crawling and storing DONE - Batman the Animated Series: Gotham Under Siege Perfectly Captures One of the Best Cartoon Shows Ever
+INFO:root:[2018-10-14 17:50:06] (NewsSpider-3) (331/385) Crawling and storing DONE - Avengers 4 Uniforms Possibly Leaked Via Action Figure Box
+INFO:root:[2018-10-14 17:50:09] (NewsSpider-5) (334/385) Crawling and storing DONE - Get More Storage for Your Nintendo Switch With These MicroSD Cards on Sale
+INFO:root:[2018-10-14 17:50:09] (NewsSpider-2) (335/385) Crawling and storing DONE - Fallout 76 Is a Strangely Lonely Multiplayer Game
+INFO:root:[2018-10-14 17:50:09] (NewsSpider-3) (336/385) Crawling and storing DONE - Daily Deals: Akira 35th Anniversary Box Set for $121
+INFO:root:[2018-10-14 17:50:11] (NewsSpider-2) (339/385) Crawling and storing DONE - Square Enix Announces 9-Game Kingdom Hearts Compilation
+INFO:root:[2018-10-14 17:50:12] (NewsSpider-3) (340/385) Crawling and storing DONE - This Creepy Destiny 2 Mask We Made Looks Terrible
+INFO:root:[2018-10-14 17:50:13] (NewsSpider-4) (341/385) Crawling and storing DONE - Black Panther Writer, Director Ryan Coogler Returning for Sequel
+INFO:root:[2018-10-14 17:50:14] (NewsSpider-3) (342/385) Crawling and storing DONE - 11 Awesome Destiny Fan Creations You Need to See
+INFO:root:[2018-10-14 17:50:14] (NewsSpider-5) (343/385) Crawling and storing DONE - The Flash Season 5 Premiere: "Nora" Review
+INFO:root:[2018-10-14 17:50:14] (NewsSpider-2) (344/385) Crawling and storing DONE - The Best Noise Canceling Headphones
+INFO:root:[2018-10-14 17:50:16] (NewsSpider-4) (345/385) Crawling and storing DONE - Aquaman Director James Wan Previewed New Footage and Revealed More Influences on His DC Movie
+INFO:root:[2018-10-14 17:50:16] (NewsSpider-3) (346/385) Crawling and storing DONE - Acer Predator Aethon 500 Gaming Keyboard Review
+INFO:root:[2018-10-14 17:50:17] (NewsSpider-5) (348/385) Crawling and storing DONE - Get Six Months Xbox Live Gold for the Price of Three at Amazon
+INFO:root:[2018-10-14 17:50:18] (NewsSpider-2) (350/385) Crawling and storing DONE - Razer Nommo Pro Gaming Speakers Review
+INFO:root:[2018-10-14 17:50:19] (NewsSpider-3) (351/385) Crawling and storing DONE - Sony Is Officially Working on a Next-Gen Console
+INFO:root:[2018-10-14 17:50:20] (NewsSpider-4) (352/385) Crawling and storing DONE - Daily Deals: Batman The Complete Animated Series Digital Deluxe Edition in Stock
+INFO:root:[2018-10-14 17:50:21] (NewsSpider-3) (354/385) Crawling and storing DONE - Art Is King in Batman: Damned (Batman: Damned
+INFO:root:[2018-10-14 17:50:21] (NewsSpider-2) (355/385) Crawling and storing DONE - Call of Duty: Black Ops 4 Zombies Titanic Map Makes Me Feel Like the King of the World
+INFO:root:[2018-10-14 17:50:22] (NewsSpider-4) (356/385) Crawling and storing DONE - Old Man Logan & 14 New Marvel Legends Revealed
+INFO:root:[2018-10-14 17:50:24] (NewsSpider-3) (358/385) Crawling and storing DONE - Carnage Explained: Who Is the Psychopathic Symbiote and Foe of Venom?
+INFO:root:[2018-10-14 17:50:26] (NewsSpider-2) (360/385) Crawling and storing DONE - Iron Fist Canceled: No Season 3 at Netflix
+INFO:root:[2018-10-14 17:50:26] (NewsSpider-3) (361/385) Crawling and storing DONE - Daredevil Season 3 Premiere Review
+INFO:root:[2018-10-14 17:50:27] (NewsSpider-2) (363/385) Crawling and storing DONE - Microsoft Announces Global Game Streaming Service, Project xCloud, Beta Next Year
+INFO:root:[2018-10-14 17:50:27] (NewsSpider-4) (364/385) Crawling and storing DONE - Hell Fest Exclusive Poster and Featurette with Producer Gale Anne Hurd
+INFO:root:[2018-10-14 17:50:28] (NewsSpider-2) (365/385) Crawling and storing DONE - Where to Get the PlayStation Classic, C64 Mini Super NES and NES Classic, and More
+INFO:root:[2018-10-14 17:50:28] (NewsSpider-3) (366/385) Crawling and storing DONE - Microsoft Reportedly Planning to Acquire Pillars of Eternity Dev Obsidian Entertainment
+INFO:root:[2018-10-14 17:50:30] (NewsSpider-5) (367/385) Crawling and storing DONE - Glass Trailer 2
+INFO:root:[2018-10-14 17:50:30] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:50:30] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:50:30] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 17:50:31] ========== (NewsSpider-3) Thread END ==========
+ERROR:urllib3.connection:Certificate did not match expected hostname: world.ign.com. Certificate: {'version': 3, 'notBefore': 'Sep 10 00:00:00 2018 GMT', 'issuer': ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('organizationalUnitName', 'Server CA 1B'),), (('commonName', 'Amazon'),)), 'subjectAltName': (('DNS', '*.ziffdavisinternational.com'), ('DNS', 'ziffdavisinternational.com')), 'notAfter': 'Oct 10 12:00:00 2019 GMT', 'subject': ((('commonName', '*.ziffdavisinternational.com'),),), 'OCSP': ('http://ocsp.sca1b.amazontrust.com',), 'crlDistributionPoints': ('http://crl.sca1b.amazontrust.com/sca1b.crl',), 'caIssuers': ('http://crt.sca1b.amazontrust.com/sca1b.crt',), 'serialNumber': '044B9E3A854250126D15AFEBD188F977'}
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='world.ign.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'world.ign.com' doesn't match either of '*.ziffdavisinternational.com', 'ziffdavisinternational.com'",),))
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feeds
+INFO:root:[2018-10-14 18:39:23] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:23] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:23] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:23] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:23] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 18:46:06] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:46:07] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 18:46:08] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:46:09] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:46:09] ========== (NewsSpider-1) Thread END ==========
+ERROR:urllib3.connection:Certificate did not match expected hostname: world.ign.com. Certificate: {'serialNumber': '044B9E3A854250126D15AFEBD188F977', 'crlDistributionPoints': ('http://crl.sca1b.amazontrust.com/sca1b.crl',), 'subjectAltName': (('DNS', '*.ziffdavisinternational.com'), ('DNS', 'ziffdavisinternational.com')), 'subject': ((('commonName', '*.ziffdavisinternational.com'),),), 'caIssuers': ('http://crt.sca1b.amazontrust.com/sca1b.crt',), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('organizationalUnitName', 'Server CA 1B'),), (('commonName', 'Amazon'),)), 'OCSP': ('http://ocsp.sca1b.amazontrust.com',), 'version': 3, 'notBefore': 'Sep 10 00:00:00 2018 GMT', 'notAfter': 'Oct 10 12:00:00 2019 GMT'}
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='world.ign.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'world.ign.com' doesn't match either of '*.ziffdavisinternational.com', 'ziffdavisinternational.com'",),))
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.ign.com/feeds
+INFO:root:[2018-10-14 19:27:48] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:48] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:48] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:48] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:48] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:27:54] (NewsSpider-3) (1/11) Crawling and storing DONE - How Fan-Based Projects Are Helping Preserve Video Games History
+INFO:root:[2018-10-14 19:27:55] (NewsSpider-4) (2/11) Crawling and storing DONE - Game Scoop! 496: Our Take on Spider-Man PS4
+INFO:root:[2018-10-14 19:27:56] (NewsSpider-5) (3/11) Crawling and storing DONE - Our Reaction to Super Smash Bros. Nintendo Direct
+INFO:root:[2018-10-14 19:27:58] (NewsSpider-1) (4/11) Crawling and storing DONE - My Hero Academia Offers More Relatable Superheroes with Refreshing Motivations
+INFO:root:[2018-10-14 19:28:01] (NewsSpider-3) (5/11) Crawling and storing DONE - The Best Samsung Galaxy Note 9 Cases
+INFO:root:[2018-10-14 19:28:03] (NewsSpider-5) (6/11) Crawling and storing DONE - How Fan-Based Projects Are Helping Preserve Video Games History
+INFO:root:[2018-10-14 19:28:04] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 19:28:06] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 19:28:06] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:28:09] (NewsSpider-1) (7/11) Crawling and storing DONE - 10 Best Call of Duty Games of All Time
+INFO:root:[2018-10-14 19:28:09] (NewsSpider-3) (8/11) Crawling and storing DONE - Aladdin: How the New Teaser Trailer Recreates the Animated Disney Movie
+INFO:root:[2018-10-14 19:28:10] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:28:10] ========== (NewsSpider-3) Thread END ==========

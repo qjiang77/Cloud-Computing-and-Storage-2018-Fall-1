@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "news_spider.py", line 15, in <module>
+    import torndb
+  File "/home/blackfrog/.local/lib/python3.5/site-packages/torndb.py", line 33, in <module>
+    import MySQLdb.constants
+ImportError: No module named 'MySQLdb'

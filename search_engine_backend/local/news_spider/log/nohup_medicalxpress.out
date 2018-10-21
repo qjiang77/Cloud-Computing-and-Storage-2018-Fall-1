@@ -1,0 +1,130 @@
+256->71->60 for http://medicalxpress.com
+256->71->0 for https://medicalxpress.com
+[2018-10-14 19:27:34] ========== (NewsSpider-1) Start! ==========
+[2018-10-14 19:27:34] ========== (NewsSpider-2) Start! ==========
+[2018-10-14 19:27:34] ========== (NewsSpider-3) Start! ==========
+[2018-10-14 19:27:34] ========== (NewsSpider-4) Start! ==========
+[2018-10-14 19:27:34] ========== (NewsSpider-5) Start! ==========
+[2018-10-14 19:27:41] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:41] Error when printing
+[2018-10-14 19:27:41] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:41] Error when printing
+[2018-10-14 19:27:41] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:41] Error when printing
+[2018-10-14 19:27:41] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:41] Error when printing
+[2018-10-14 19:27:41] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:41] Error when printing
+[2018-10-14 19:27:49] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:49] Error when printing
+[2018-10-14 19:27:50] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:50] Error when printing
+[2018-10-14 19:27:50] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:50] Error when printing
+[2018-10-14 19:27:50] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:50] Error when printing
+[2018-10-14 19:27:51] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:51] Error when printing
+[2018-10-14 19:27:58] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:58] Error when printing
+[2018-10-14 19:27:58] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:58] Error when printing
+[2018-10-14 19:27:58] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:58] Error when printing
+[2018-10-14 19:27:58] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:58] Error when printing
+[2018-10-14 19:27:59] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:27:59] Error when printing
+[2018-10-14 19:28:03] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:03] Error when printing
+[2018-10-14 19:28:05] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:05] Error when printing
+[2018-10-14 19:28:05] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:05] Error when printing
+[2018-10-14 19:28:06] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:06] Error when printing
+[2018-10-14 19:28:07] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:07] Error when printing
+[2018-10-14 19:28:11] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:11] Error when printing
+[2018-10-14 19:28:13] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:13] Error when printing
+[2018-10-14 19:28:14] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:14] Error when printing
+[2018-10-14 19:28:15] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:15] Error when printing
+[2018-10-14 19:28:15] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:15] Error when printing
+[2018-10-14 19:28:21] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:21] Error when printing
+[2018-10-14 19:28:22] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:22] Error when printing
+[2018-10-14 19:28:22] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:22] Error when printing
+[2018-10-14 19:28:24] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:24] Error when printing
+[2018-10-14 19:28:24] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:24] Error when printing
+[2018-10-14 19:28:29] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:29] Error when printing
+[2018-10-14 19:28:30] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:30] Error when printing
+[2018-10-14 19:28:30] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:30] Error when printing
+[2018-10-14 19:28:30] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:30] Error when printing
+[2018-10-14 19:28:31] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:31] Error when printing
+[2018-10-14 19:28:37] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:37] Error when printing
+[2018-10-14 19:28:38] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:38] Error when printing
+[2018-10-14 19:28:38] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:38] Error when printing
+[2018-10-14 19:28:38] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:38] Error when printing
+[2018-10-14 19:28:39] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:39] Error when printing
+[2018-10-14 19:28:44] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:44] Error when printing
+[2018-10-14 19:28:45] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:45] Error when printing
+[2018-10-14 19:28:45] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:45] Error when printing
+[2018-10-14 19:28:46] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:46] Error when printing
+[2018-10-14 19:28:51] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:51] Error when printing
+[2018-10-14 19:28:53] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:53] Error when printing
+[2018-10-14 19:28:53] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:53] Error when printing
+[2018-10-14 19:28:53] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:53] Error when printing
+[2018-10-14 19:28:53] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:53] Error when printing
+[2018-10-14 19:28:57] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:57] Error when printing
+[2018-10-14 19:28:59] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:59] Error when printing
+[2018-10-14 19:29:01] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:01] Error when printing
+[2018-10-14 19:29:01] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:01] Error when printing
+[2018-10-14 19:29:01] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:01] Error when printing
+[2018-10-14 19:29:04] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:04] Error when printing
+[2018-10-14 19:29:05] ========== (NewsSpider-2) Thread END ==========
+[2018-10-14 19:29:07] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:07] Error when printing
+[2018-10-14 19:29:08] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:08] Error when printing
+[2018-10-14 19:29:08] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:08] Error when printing
+[2018-10-14 19:29:08] ========== (NewsSpider-5) Thread END ==========
+[2018-10-14 19:29:09] ========== (NewsSpider-3) Thread END ==========
+[2018-10-14 19:29:09] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:09] Error when printing
+[2018-10-14 19:29:11] ========== (NewsSpider-1) Thread END ==========
+[2018-10-14 19:29:11] ========== (NewsSpider-4) Thread END ==========

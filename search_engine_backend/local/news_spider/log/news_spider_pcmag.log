@@ -1,0 +1,97 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feeds
+INFO:root:[2018-09-08 18:11:36] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:11:36] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:11:36] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:11:36] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:11:36] ========== (NewsSpider-5) Start! ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feeds
+INFO:root:[2018-09-08 18:26:52] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:53] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:53] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:53] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:53] ========== (NewsSpider-5) Start! ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feeds
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:10] ========== (NewsSpider-10) Start! ==========
+WARNING:root:[2018-10-14 10:50:50] (NewsSpider-1) Article Not Exists on https://www.pcmag.com/news/364332/the-mta-wants-tech-based-ideas-for-fixing-the-nyc-subway
+INFO:root:[2018-10-14 10:53:23] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:53:23] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:53:24] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:53:24] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 10:53:26] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 10:53:26] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:53:26] ========== (NewsSpider-6) Thread END ==========
+INFO:root:[2018-10-14 10:53:31] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 10:53:34] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:53:37] ========== (NewsSpider-5) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feed
+INFO:root:[2018-10-14 17:44:07] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:07] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:07] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:07] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:07] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:47:41] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:47:42] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 17:47:43] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:47:45] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 17:47:48] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feeds
+INFO:root:[2018-10-14 18:38:58] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:38:58] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:38:58] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:38:58] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:38:58] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-10-14 18:40:57] (NewsSpider-3) Article Not Exists on https://www.pcmag.com/article/351228/save-up-to-50-percent-off-quickbooks-online
+WARNING:root:[2018-10-14 18:41:02] (NewsSpider-1) Article Not Exists on https://www.pcmag.com/article/364259/save-20-percent-on-stellar-phoenix-windows-data-recovery
+WARNING:root:[2018-10-14 18:41:03] (NewsSpider-5) Article Not Exists on https://www.pcmag.com/commentary/364041/i-love-my-tivo-but-im-probably-not-buying-the-new-one
+WARNING:root:[2018-10-14 18:41:11] (NewsSpider-4) Article Not Exists on http://www.pcmag.com/article/350474/how-to-set-up-an-amazon-echo
+INFO:root:[2018-10-14 18:42:47] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:42:49] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:42:51] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:42:53] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:42:55] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feeds
+INFO:root:[2018-10-14 19:27:28] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:28] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:28] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:28] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:28] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-10-14 19:28:54] (NewsSpider-4) Article Not Exists on https://www.pcmag.com/feature/359971/11-essential-android-oreo-tips
+INFO:root:[2018-10-14 19:30:43] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 19:30:45] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 19:30:46] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 19:30:47] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:30:49] ========== (NewsSpider-2) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.pcmag.com/feeds
+INFO:root:[2018-10-21 14:02:10] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-21 14:02:10] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-21 14:02:10] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-21 14:02:10] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-21 14:02:10] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-21 14:04:08] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-21 14:04:08] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-21 14:04:08] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-21 14:04:10] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-21 14:04:10] ========== (NewsSpider-2) Thread END ==========

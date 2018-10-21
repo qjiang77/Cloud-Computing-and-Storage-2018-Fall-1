@@ -1,0 +1,42 @@
+title source_url url tags publish_date authors summary text
+More FaceID, More Encryption, Less Spam: Is Privacy The Best Reason to Buy Apple iPhones?|http://www.huffingtonpost.in|https://www.huffingtonpost.in/2018/10/19/more-faceid-more-encryption-less-spam-is-privacy-the-best-reason-to-buy-apple-iphones_a_23564577/?ncid=other_topnaventr_coabgdcpxri&utm_campaign=topnav||2018-10-19|Gopal Sathe,Gopal Sathe Writes For For Huffpost India,Is Based In Bangalore.||BENGALURU, Karnataka— Apple CEO Tim Cook has been talking up privacy, user data, and why the company won&#39;t see security breaches like the ones Facebook has experienced again and again this year.
+
+The company has launched a new privacywebsite that explains what the company&#39;s privacy and security settings in simple language, and also provides tips on how to secure your device, effective passwords, and how to control data sharing.
+
+Privacy is finally becoming a selling point for the company that makes some of the most expensive phones available in India, but can Apple do more?
+
+In India, Apple was locked into a face-off with the Telecom Regulatory Authority of India (TRAI) for a long time, because TRAI wanted the company to implement its Do Not Disturb app to fight spam callers. Apple pointed out that the app was made for Android by developers here in a way that makes use of how Android functions, and doesn&#39;t work on iOS.
+
+In response, Apple developed a call and SMS spam reporting feature for iOS 12, which has rolled out to global users around the world, and allowed the DND app without providing access to call records. As this is part of a global rollout, other apps such as Truecaller can also make use of this new feature.
+
+In a conversation with HuffPost India, Apple executives talked about the importance of customer privacy, why encryption of customer&#39;s data is a net good, and the role the company can play is stemming the spread of fake news over WhatsApp, a growing concern in India and other parts of the world.
+
+FaceID drove up the use of pass-code
+
+Although Apple did not share the exact numbers, most security experts have frequently pointed out that customers left their phones unlocked rather than even using a simple four-digit pass-code. The addition of TouchID—the fingerprint sensor on the home button of iPhones—drove the use of pass-codes up to around 85%, and on phones which support FaceID—Apple&#39;s face-recognition sign-in—the number of people using pass-codes is even higher.
+
+Thomas Peter / Reuters
+
+This is significant because the biggest threat model for a typical consumer whose financial and other personal data is stored on the phone, is leaving the device unattended. Since both TouchID and FaceID require a pass-code to enable, even if someone else gains access to your device, unless they have your pass-code, the data should remain secure.
+
+Famously, after the San Bernardino shootings in the USA, America&#39;s FBI had asked Apple for access to the accused&#39;s phone, which was locked, and the company had refused to break the encryption. Eventually, the FBI gained access to the device, and since then, Apple has worked to increase device security.
+
+The company argues that if it doesn&#39;t provide encryption, users who wish to have the feature will still be able to use numerous different tools to accomplish this, and rather than making encryption something that is only benefiting criminals, and people who are highly engaged with security issues, the company is of the opinion that everyone&#39;s data should be protected.
+
+Individual privacy means fake news on WhatsApp will be hard to stop
+
+While Fake News in the West is mostly a FaceBook problem, in India instant messaging platforms, particularly WhatsApp, are a major source for misinformation. The Facebook-owned company has tried a number of steps, including adding a &quot;Forwarded&quot; label to show which messages were simply forwarded—and testing limiting how many people forwarded messages can be sent to at one time.
+
+However, it has met with limited success, and the government wants to bring traceability to WhatsApp messages, saying this is required to fight child pornography, and lynchings.
+
+While visiting Bengaluru, Ponnurangam Kumaraguru who formed the Precog Research Group at IIIT-Delhi, and is behind the AASMA social media monitoring tool used by the government, said that WhatsApp&#39;s encryption means that it is impossible to preemptively identify fake news, but once it is shared by users, it should be possible to identify, with the goal of containing misinformation.
+
+Apple also agreed that in order to preserve the privacy of users, the company wouldn&#39;t be able to control how third parties like WhatsApp are used by customers. Since the WhatsApp data is encrypted, the only way that Apple could actually address fake news would be to view the content before it is sent, on the user&#39;s device, which would violate all users&#39; privacy.
+
+Apple can&#39;t stop third parties
+
+Although Apple talked a lot about how it has made improvements to its own apps—such as, for example, on-device AI processing of photos to identify people and create smart albums; differential privacy which means that location data is first given in a generalized way, and then specific details are shared depend on what the user wants to do; anti-tracking features on Safari that make it harder for websites to identify individuals—once users are on a third-party application, the amount of control that&#39;s possible is obviously less.
+
+Although Apple has taken strict action against companies that violate user privacy, including giants like Facebook, its storefront is a giant marketplace which can be exploited in a number of ways. For that matter, although Apple took digs at Google when pointing out that it was carrying out AI processing on-device, it still continues to offer Google Search as its default option (although users can change settings, and limit tracking even on search).
+
+Last month, Google reportedly paid Apple $9 billion (roughly Rs. 66,172 crore), up from $1 billion in 2014, in order to remain the default search engine on Apple&#39;s Safari browser. Google is famously the company that tracks the most data about anyone because of how ubiquitous its services are, and Apple will have to try and find a middle ground between giving customers the services they want, and also ensuring users&#39; privacy going forward.

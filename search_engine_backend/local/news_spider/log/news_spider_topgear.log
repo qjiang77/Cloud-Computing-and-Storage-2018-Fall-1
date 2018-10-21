@@ -1,0 +1,116 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.topgear.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.topgear.com/feeds
+INFO:root:[2018-09-08 18:26:48] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:48] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:48] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:48] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:48] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:26:51] (NewsSpider-2) (1/115) Crawling and storing DONE - Video: all you need to know about the Bugatti Divo
+INFO:root:[2018-09-08 18:26:55] (NewsSpider-4) (2/115) Crawling and storing DONE - The Top Gear top nine: cancelled prototypes
+INFO:root:[2018-09-08 18:26:56] (NewsSpider-2) (3/115) Crawling and storing DONE - McLaren might become 100 per cent EV in the future
+INFO:root:[2018-09-08 18:27:01] (NewsSpider-2) (4/115) Crawling and storing DONE - Video: a closer look at the McLaren 600LT
+WARNING:newspaper.parsers:fromstring() returned an invalid string: ...
+CRITICAL:newspaper.extractors:Must extract urls from either html, text or doc!
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:24] ========== (NewsSpider-10) Start! ==========
+WARNING:root:[2018-10-14 10:50:33] (NewsSpider-1) Article Not Exists on http://www.topgear.com/car-news/supercars/ford-recalls-nearly-200-gt-supercars
+INFO:root:[2018-10-14 10:50:34] (NewsSpider-2) (2/23) Crawling and storing DONE - BMW 3 Series: which is your favourite generation?
+INFO:root:[2018-10-14 10:50:35] (NewsSpider-5) (3/23) Crawling and storing DONE - Gallery: 34 years of amazing DTM-winning cars
+INFO:root:[2018-10-14 10:50:35] (NewsSpider-6) (4/23) Crawling and storing DONE - The new Honda NSX GT3 Evo looks amazing
+INFO:root:[2018-10-14 10:50:36] (NewsSpider-3) (5/23) Crawling and storing DONE - The Mitsuoka ‘Rock Star’ is a Mazda MX-5 in Corvette fancy dress
+INFO:root:[2018-10-14 10:50:36] (NewsSpider-8) (7/23) Crawling and storing DONE - W Series is a new, women-only race series
+INFO:root:[2018-10-14 10:50:37] (NewsSpider-10) (8/23) Crawling and storing DONE - This is the 1,000bhp+ McLaren Speedtail’s very long tail
+WARNING:root:[2018-10-14 10:50:46] (NewsSpider-2) Article Not Exists on http://www.topgear.com/car-news/movies/idris-elba-has-joined-fast-furious-franchise
+WARNING:root:[2018-10-14 10:50:46] (NewsSpider-8) Article Not Exists on http://www.topgear.com/car-news/asias-got-fresh-new-brand-can-you-guess-country
+WARNING:root:[2018-10-14 10:50:47] (NewsSpider-6) Article Not Exists on http://www.topgear.com/car-news/electric/formula-es-new-santiago-street-circuit
+WARNING:root:[2018-10-14 10:50:48] (NewsSpider-9) Article Not Exists on http://www.topgear.com/car-news/eight-things-you-need-know-new-porsche-911
+INFO:root:[2018-10-14 10:50:48] (NewsSpider-1) (11/23) Crawling and storing DONE - The Mercedes-AMG One feels like a GT3 car “in fast forward”
+INFO:root:[2018-10-14 10:50:49] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 10:50:50] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:50:50] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:50:50] (NewsSpider-4) (12/23) Crawling and storing DONE - Everything you need to know about cars this week: 14 Oct 2018
+INFO:root:[2018-10-14 10:50:52] (NewsSpider-3) (13/23) Crawling and storing DONE - The next Porsche 911 is ready to go hybrid
+INFO:root:[2018-10-14 10:50:52] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:50:52] (NewsSpider-7) (14/23) Crawling and storing DONE - You can now order one of 300 UK-bound Toyota Supras
+INFO:root:[2018-10-14 10:50:53] (NewsSpider-10) (15/23) Crawling and storing DONE - Vauxhall to cut Viva and Adam city cars in 2019
+INFO:root:[2018-10-14 10:50:53] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:50:53] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:50:55] ========== (NewsSpider-7) Thread END ==========
+WARNING:root:[2018-10-14 10:50:58] (NewsSpider-8) Article Not Exists on http://www.topgear.com/car-news/top-gear-magazine/speed-week-18-tgs-guide-circuit-de-charade
+INFO:root:[2018-10-14 10:50:58] ========== (NewsSpider-8) Thread END ==========
+WARNING:root:[2018-10-14 10:50:58] (NewsSpider-2) Article Not Exists on http://www.topgear.com/car-news/electric/bollinger-b2-electric-pick-4x4-detroit
+INFO:root:[2018-10-14 10:51:01] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:51:03] (NewsSpider-6) (16/23) Crawling and storing DONE - Video: the tech behind the Renault Megane RS
+INFO:root:[2018-10-14 10:51:06] ========== (NewsSpider-6) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.topgear.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.topgear.com/rss
+INFO:root:[2018-10-14 17:44:00] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:00] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:00] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:00] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:00] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-10-14 17:44:09] (NewsSpider-1) Article Not Exists on http://www.topgear.com/car-news/electric/bollinger-b2-electric-pick-4x4-detroit
+WARNING:root:[2018-10-14 17:44:09] (NewsSpider-2) Article Not Exists on http://www.topgear.com/car-news/paris-motor-show/mercedes-amg-one-feels-gt3-car-fast-forward
+WARNING:root:[2018-10-14 17:44:09] (NewsSpider-4) Article Not Exists on http://www.topgear.com/car-news/supercars/ford-recalls-nearly-200-gt-supercars
+INFO:root:[2018-10-14 17:44:09] (NewsSpider-5) (2/23) Crawling and storing DONE - Gallery: 34 years of amazing DTM-winning cars
+WARNING:root:[2018-10-14 17:44:20] (NewsSpider-1) Article Not Exists on http://www.topgear.com/car-news/electric/we-get-very-sideways-audis-new-e-tron-ev
+WARNING:root:[2018-10-14 17:44:20] (NewsSpider-5) Article Not Exists on http://www.topgear.com/car-news/top-gear-magazine/speed-week-18-tgs-guide-circuit-de-charade
+INFO:root:[2018-10-14 17:44:21] (NewsSpider-3) (3/23) Crawling and storing DONE - The next Porsche 911 is ready to go hybrid
+INFO:root:[2018-10-14 17:44:22] (NewsSpider-2) (4/23) Crawling and storing DONE - The new Honda NSX GT3 Evo looks amazing
+WARNING:root:[2018-10-14 17:44:30] (NewsSpider-5) Article Not Exists on http://www.topgear.com/car-news/movies/idris-elba-has-joined-fast-furious-franchise
+WARNING:root:[2018-10-14 17:44:30] (NewsSpider-1) Article Not Exists on http://www.topgear.com/car-news/electric/formula-es-new-santiago-street-circuit
+INFO:root:[2018-10-14 17:44:30] (NewsSpider-3) (6/23) Crawling and storing DONE - Eight things you need to know: the new Porsche 911
+INFO:root:[2018-10-14 17:44:31] (NewsSpider-2) (7/23) Crawling and storing DONE - The Mitsuoka ‘Rock Star’ is a Mazda MX-5 in Corvette fancy dress
+INFO:root:[2018-10-14 17:44:32] (NewsSpider-4) (8/23) Crawling and storing DONE - BMW 3 Series: which is your favourite generation?
+WARNING:root:[2018-10-14 17:44:40] (NewsSpider-5) Article Not Exists on http://www.topgear.com/car-news/weird/segway-has-made-go-kart-and-its-awesome
+INFO:root:[2018-10-14 17:44:41] (NewsSpider-1) (9/23) Crawling and storing DONE - Video: the tech behind the Renault Megane RS
+WARNING:root:[2018-10-14 17:44:41] (NewsSpider-2) Article Not Exists on http://www.topgear.com/car-news/british/1000bhp-mclaren-speedtails-very-long-tail
+INFO:root:[2018-10-14 17:44:43] (NewsSpider-4) (10/23) Crawling and storing DONE - W Series is a new, women-only race series
+INFO:root:[2018-10-14 17:44:43] (NewsSpider-3) (11/23) Crawling and storing DONE - Vauxhall to cut Viva and Adam city cars in 2019
+INFO:root:[2018-10-14 17:44:44] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:44:44] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 17:44:50] (NewsSpider-5) (12/23) Crawling and storing DONE - Everything you need to know about cars this week: 14 Oct 2018
+INFO:root:[2018-10-14 17:44:52] (NewsSpider-2) (13/23) Crawling and storing DONE - You can now order one of 300 UK-bound Toyota Supras
+INFO:root:[2018-10-14 17:44:52] (NewsSpider-1) (14/23) Crawling and storing DONE - Asia’s got a fresh new brand, but can you guess the country?
+INFO:root:[2018-10-14 17:44:53] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:44:54] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 17:44:54] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 18:39:02] ========== (NewsSpider-5) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='www.topgear.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.topgear.com/feeds
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:27:29] ========== (NewsSpider-5) Thread END ==========

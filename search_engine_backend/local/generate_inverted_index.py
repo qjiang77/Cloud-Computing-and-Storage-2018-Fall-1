@@ -7,7 +7,8 @@ from pyspark.sql.types import *
 # 1. Create RDD to process the articles to get inverted index
 # 2. convert RDD to DataFrame
 # 3. save the DataFrame to MySQL
-path_articles = "/home/blackfrog/Documents/Cloud_Computing/news_spider/articles"
+#path_articles = "/home/blackfrog/Documents/Cloud_Computing/news_spider/articles"
+path_articles = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_spider/articles")
 spark_context = SparkContext( 'local[*]', 'demo')
 #spark_context = SparkContext()
 
