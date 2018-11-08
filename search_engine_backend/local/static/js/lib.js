@@ -31,3 +31,27 @@ function greetUser() {
     t = setTimeout('greetUser()', 500)
 }
 
+
+function listenEnterEvent() {
+	var form = document.getElementById("search-form");
+	//var input = document.getElementsByName("search")[0];
+	//alert(input.value);
+	// Execute a function when the user releases a key on the keyboard
+	form.addEventListener("keyup", function(event) {
+  	// Cancel the default action, if needed
+  		event.preventDefault();
+  		// Number 13 is the "Enter" key on the keyboard
+		
+			  		
+		if (event.keyCode === 13) {
+			var input = document.getElementsByName("search")[0];
+			//alert(input.value);			
+			if (input.value == ""){
+				alert("Please input what you want to search.");			
+			}
+			else{
+				form.submit();
+			}
+  		}
+	});
+}

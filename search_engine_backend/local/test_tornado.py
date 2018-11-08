@@ -91,7 +91,7 @@ class SearchHandler(RequestHandler):
         #art = article()
         #path_article_dirs = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_spider/articles")
 
-        input_text = self.get_query_argument(name="keyword")
+        input_text = self.get_query_argument(name="search")
 
         q = Query("q")
         #print input_text
