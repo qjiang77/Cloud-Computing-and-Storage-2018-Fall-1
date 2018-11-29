@@ -1,0 +1,2 @@
+dependency:
+	textblob (pip install textblob)
