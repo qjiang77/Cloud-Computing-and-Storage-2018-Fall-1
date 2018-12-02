@@ -32,7 +32,7 @@ class mapper:
 		
 		cities['Frequency'] = pd.Series(freq).values
 		cities = cities[(cities['Frequency'] > 0)]
-		return cities
+		return cities.to_dict('records')
 
 if __name__ == '__main__':
 	a = {'text' : 'gainesville good'}
