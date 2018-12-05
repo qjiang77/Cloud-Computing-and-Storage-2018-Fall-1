@@ -1,0 +1,455 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://screen.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://news.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feed
+INFO:root:[2018-09-08 18:27:01] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:27:01] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:27:02] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:27:02] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:27:02] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:27:04] (NewsSpider-5) (1/473) Crawling and storing DONE - ESG: Fuerte crecimiento de los fondos pasivos
+INFO:root:[2018-09-08 18:27:04] (NewsSpider-3) (2/473) Crawling and storing DONE - Invertir en volatilidad
+INFO:root:[2018-09-08 18:27:05] (NewsSpider-2) (3/473) Crawling and storing DONE - Investing classroom: Understanding the news
+INFO:root:[2018-09-08 18:27:07] (NewsSpider-2) (4/473) Crawling and storing DONE - Nokia: Morningstar mantiene su precio objetivo
+INFO:root:[2018-09-08 18:27:20] (NewsSpider-4) (5/473) Crawling and storing DONE - Lassen sich Anlagestile aus Charaktereigenschaften ableiten?
+INFO:root:[2018-09-08 18:27:27] (NewsSpider-4) (6/473) Crawling and storing DONE - Los fondos de pensiones cambian de piel
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://screen.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://news.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feeds
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:45] ========== (NewsSpider-10) Start! ==========
+INFO:root:[2018-10-14 10:50:52] (NewsSpider-8) (1/447) Crawling and storing DONE - Karkki odottaa, maltatko sinä?
+INFO:root:[2018-10-14 10:50:52] (NewsSpider-9) (2/447) Crawling and storing DONE - ¿Cómo hacer que su bebé se jubile millonario? (2)
+INFO:root:[2018-10-14 10:50:52] (NewsSpider-10) (3/447) Crawling and storing DONE - Los fondos españoles más expuestos a Facebook
+INFO:root:[2018-10-14 10:51:02] (NewsSpider-1) (4/447) Crawling and storing DONE - Blockchain: Die disruptive Macht der Dezentralisierung
+INFO:root:[2018-10-14 10:51:03] (NewsSpider-5) (5/447) Crawling and storing DONE - Morningstar lanza sus índices de sostenibilidad
+WARNING:root:[2018-10-14 10:51:03] (NewsSpider-8) Article Not Exists on https://www.morningstar.com.au/learn/article/welcome-to-morningstar-premium/163310
+INFO:root:[2018-10-14 10:51:09] (NewsSpider-2) (6/447) Crawling and storing DONE - 10 gráficos para ilustrar estos últimos 10 años
+INFO:root:[2018-10-14 10:51:11] (NewsSpider-6) (7/447) Crawling and storing DONE - Voiture électrique: la Chine devrait conserver son avance
+WARNING:root:[2018-10-14 10:51:11] (NewsSpider-9) Article Not Exists on http://www.morningstar.com.au/Stocks/SignalGNews/20181012/436316
+INFO:root:[2018-10-14 10:51:11] (NewsSpider-3) (8/447) Crawling and storing DONE - ETFs para protegerse contra la inflación en la Zona Euro
+INFO:root:[2018-10-14 10:51:19] (NewsSpider-2) (9/447) Crawling and storing DONE - Wie ich lernte, den Glauben zu verlieren
+INFO:root:[2018-10-14 10:51:23] (NewsSpider-3) (10/447) Crawling and storing DONE - Comentario semanal de mercado
+INFO:root:[2018-10-14 10:51:23] (NewsSpider-7) (11/447) Crawling and storing DONE - Comentario semanal de mercado
+INFO:root:[2018-10-14 10:51:33] (NewsSpider-8) (12/447) Crawling and storing DONE - Cuando la integridad tiene recompensa
+INFO:root:[2018-10-14 10:51:40] (NewsSpider-6) (13/447) Crawling and storing DONE - Was Monte Carlo mit Ihrer Altersvorsorge zu tun hat
+INFO:root:[2018-10-14 10:51:42] (NewsSpider-9) (14/447) Crawling and storing DONE - Im Juli erleben Fonds ein zaghaftes Comeback – mit einer signifikanten Ausnahme
+INFO:root:[2018-10-14 10:51:43] (NewsSpider-1) (15/447) Crawling and storing DONE - Personalie Albrecht: Morningstar Analyst Ratings für DWS-Deutschlandfonds ausgesetzt
+INFO:root:[2018-10-14 10:51:44] (NewsSpider-10) (16/447) Crawling and storing DONE - Coca y Pepsi: ventaja competitiva y rentabilidad por dividendo
+WARNING:root:[2018-10-14 10:51:48] (NewsSpider-4) Article Not Exists on http://www.morningstar.com.au/learn/article/stay-the-course-amid-market-downturn-say-morn/171053
+INFO:root:[2018-10-14 10:51:53] (NewsSpider-1) (17/447) Crawling and storing DONE - Noch ein Punkt für Gryffindor: Indexfonds sind gut für Corporate Governance
+INFO:root:[2018-10-14 10:51:56] (NewsSpider-5) (18/447) Crawling and storing DONE - Valores europeos 5 estrellas (Septiembre 2018)
+WARNING:root:[2018-10-14 10:51:56] (NewsSpider-2) Article Not Exists on http://www.morningstar.com.au/Stocks/SignalGNews/20181012/436288
+INFO:root:[2018-10-14 10:52:02] (NewsSpider-1) (19/447) Crawling and storing DONE - Neue Fonds-Ratings am Markt
+INFO:root:[2018-10-14 10:52:04] (NewsSpider-2) (20/447) Crawling and storing DONE - Investing classroom: Understanding the news
+INFO:root:[2018-10-14 10:52:05] (NewsSpider-8) (21/447) Crawling and storing DONE - El Factor Investing: ¿En qué consiste?
+INFO:root:[2018-10-14 10:52:07] (NewsSpider-7) (22/447) Crawling and storing DONE - Gestión activa vs gestión pasiva: un debate falseado
+INFO:root:[2018-10-14 10:52:12] (NewsSpider-1) (23/447) Crawling and storing DONE - PERSPECTIVAS: Desmontando mitos sobre los planes de pensiones
+INFO:root:[2018-10-14 10:52:14] (NewsSpider-6) (24/447) Crawling and storing DONE - ¿Cómo valorar el riesgo de carbono de un fondo?
+WARNING:root:[2018-10-14 10:52:20] (NewsSpider-3) Article Not Exists on http://www.morningstar.com.au/etfs/article/5-transparency-benefits-of-etfs/170142
+INFO:root:[2018-10-14 10:52:21] (NewsSpider-9) (25/447) Crawling and storing DONE - Faktor-Investments können die Geduld von Investoren belasten
+INFO:root:[2018-10-14 10:52:22] (NewsSpider-6) (26/447) Crawling and storing DONE - GAM-rahastojen sijoittaja – seuraa uutisia
+INFO:root:[2018-10-14 10:52:22] (NewsSpider-7) (27/447) Crawling and storing DONE - ¿Cuáles son los países más expuestos al cambio climático?
+INFO:root:[2018-10-14 10:52:24] (NewsSpider-2) (28/447) Crawling and storing DONE - ¿Cómo hacer que su bebé se jubile millonario?
+INFO:root:[2018-10-14 10:52:26] (NewsSpider-8) (29/447) Crawling and storing DONE - Investing Classroom: Thinking like an analyst
+INFO:root:[2018-10-14 10:52:29] (NewsSpider-5) (30/447) Crawling and storing DONE - Comprendre les indices : actions américaines
+INFO:root:[2018-10-14 10:52:31] (NewsSpider-2) (31/447) Crawling and storing DONE - ¿Qué tasa de rescate aplicar durante la jubilación?
+INFO:root:[2018-10-14 10:52:35] (NewsSpider-8) (32/447) Crawling and storing DONE - UBS ETF MSCI USA: Rating Gold
+INFO:root:[2018-10-14 10:52:43] (NewsSpider-8) (33/447) Crawling and storing DONE - Gestión pasiva: los ETFs baten a los fondos índice
+INFO:root:[2018-10-14 10:52:59] (NewsSpider-9) (34/447) Crawling and storing DONE - Neue Fonds-Ratings am Markt
+INFO:root:[2018-10-14 10:53:08] (NewsSpider-9) (35/447) Crawling and storing DONE - Top 10 ETFs más visitados en enero 2017
+INFO:root:[2018-10-14 10:53:10] (NewsSpider-8) (36/447) Crawling and storing DONE - Les actions américaines ont été tirées par le
+INFO:root:[2018-10-14 10:53:11] (NewsSpider-6) (37/447) Crawling and storing DONE - Do Declining Oil Prices Signal a Problem for Stocks?
+INFO:root:[2018-10-14 10:53:13] (NewsSpider-3) (38/447) Crawling and storing DONE - Invertir en pequeñas empresas globales vía ETFs
+INFO:root:[2018-10-14 10:53:13] (NewsSpider-5) (39/447) Crawling and storing DONE - Investing Classroom: Management quality
+INFO:root:[2018-10-14 10:53:16] (NewsSpider-4) (40/447) Crawling and storing DONE - Los nuevos lanzamientos de ETFs del 2016
+INFO:root:[2018-10-14 10:53:16] (NewsSpider-8) (41/447) Crawling and storing DONE - ¿Qué hacer antes y después de contratar un plan de pensiones?
+INFO:root:[2018-10-14 10:53:19] (NewsSpider-3) (42/447) Crawling and storing DONE - Unbeliebtheit als Renditequelle
+INFO:root:[2018-10-14 10:53:21] (NewsSpider-9) (43/447) Crawling and storing DONE - La Champions de las Gestoras: Segundo Trimestre 2018
+INFO:root:[2018-10-14 10:53:21] (NewsSpider-8) (44/447) Crawling and storing DONE - Morningstar Marktbarometer: Öl-Aktien sorgen für Value-Erholung
+INFO:root:[2018-10-14 10:53:25] (NewsSpider-7) (45/447) Crawling and storing DONE - Un ETF de qualité pour parier sur Wall Street
+INFO:root:[2018-10-14 10:53:26] (NewsSpider-3) (46/447) Crawling and storing DONE - 5 raisons derrière le désamour des investisseurs américains pour les actions européennes
+INFO:root:[2018-10-14 10:53:26] (NewsSpider-8) (47/447) Crawling and storing DONE - Comparativa ETFs: Renta Variable Turquía
+INFO:root:[2018-10-14 10:53:27] (NewsSpider-1) (48/447) Crawling and storing DONE - Euroopan vuoden salkunhoitaja - ehdokkaat
+INFO:root:[2018-10-14 10:53:33] (NewsSpider-7) (49/447) Crawling and storing DONE - Steigende Märkte und Zuflüsse bringen Indextrackern neuen Rekord
+INFO:root:[2018-10-14 10:53:33] (NewsSpider-1) (50/447) Crawling and storing DONE - Gestion d’actifs : les pièges à éviter quand la volatilité revient
+INFO:root:[2018-10-14 10:53:40] (NewsSpider-2) (51/447) Crawling and storing DONE - Errores al planificar su jubilación: subestimar la inflación futura
+INFO:root:[2018-10-14 10:53:40] (NewsSpider-4) (52/447) Crawling and storing DONE - ¿En qué fondos alternativos invierten los fondos perfilados?
+INFO:root:[2018-10-14 10:53:42] (NewsSpider-1) (53/447) Crawling and storing DONE - Fondita säilyttää Silver-arvosanansa
+INFO:root:[2018-10-14 10:53:43] (NewsSpider-9) (54/447) Crawling and storing DONE - Morningstar TV: Crisis turca
+INFO:root:[2018-10-14 10:53:44] (NewsSpider-5) (55/447) Crawling and storing DONE - Nettomerkinnät pakkasella kesäkuussa
+INFO:root:[2018-10-14 10:53:46] (NewsSpider-6) (56/447) Crawling and storing DONE - Dem Bond-Rätsel auf der Spur
+INFO:root:[2018-10-14 10:53:49] (NewsSpider-7) (57/447) Crawling and storing DONE - Kehrt die Volatilität zurück? Eine Checkliste für Anleger
+INFO:root:[2018-10-14 10:53:49] (NewsSpider-8) (58/447) Crawling and storing DONE - No sólo importan los costes
+INFO:root:[2018-10-14 10:53:50] (NewsSpider-3) (59/447) Crawling and storing DONE - Actions émergentes : à quand le rebond ?
+INFO:root:[2018-10-14 10:53:50] (NewsSpider-5) (60/447) Crawling and storing DONE - Rahastosijoittaja ei Suomessa juhli
+INFO:root:[2018-10-14 10:53:54] (NewsSpider-2) (61/447) Crawling and storing DONE - ¿Qué ETFs compraron los inversores europeos en 2016?
+INFO:root:[2018-10-14 10:54:00] (NewsSpider-9) (62/447) Crawling and storing DONE - Amundi veut accélérer dans l’investissement responsable
+INFO:root:[2018-10-14 10:54:02] (NewsSpider-7) (63/447) Crawling and storing DONE - Diciembre 2015: Todos los planes españoles 5 estrellas
+INFO:root:[2018-10-14 10:54:06] (NewsSpider-1) (64/447) Crawling and storing DONE - Mitmachen und gewinnen: Die grosse Morningstar ETF-Umfrage
+INFO:root:[2018-10-14 10:54:22] (NewsSpider-9) (65/447) Crawling and storing DONE - ¿Cómo prepararse para un aumento de tipos?
+INFO:root:[2018-10-14 10:54:25] (NewsSpider-1) (66/447) Crawling and storing DONE - 3 ETF de qualité pour s’exposer aux actions européennes
+INFO:root:[2018-10-14 10:54:27] (NewsSpider-3) (67/447) Crawling and storing DONE - La liga de las estrellas: Octubre 2018
+INFO:root:[2018-10-14 10:54:59] (NewsSpider-1) (68/447) Crawling and storing DONE - Investing classroom: Using financial services
+INFO:root:[2018-10-14 10:55:09] (NewsSpider-7) (69/447) Crawling and storing DONE - PERSPECTIVAS: Rentabilidad, ¿reflejo del riesgo o de la habilidad gestora?
+INFO:root:[2018-10-14 10:55:41] (NewsSpider-5) (70/447) Crawling and storing DONE - Pourquoi les ETF smart beta n’ont pas protégé du regain de volatilité ?
+INFO:root:[2018-10-14 10:55:41] (NewsSpider-8) (71/447) Crawling and storing DONE - El mejor sistema de inversión no es para todos
+INFO:root:[2018-10-14 10:55:42] (NewsSpider-1) (72/447) Crawling and storing DONE - Zehn Jahre nach Lehman: (k)ein bisschen weise?
+INFO:root:[2018-10-14 10:55:45] (NewsSpider-3) (73/447) Crawling and storing DONE - Iliad : juste valeur abaissée après l’enchère sur le spectre italien
+INFO:root:[2018-10-14 10:55:50] (NewsSpider-3) (74/447) Crawling and storing DONE - Correlaciones Categorías (Septiembre 2018)
+INFO:root:[2018-10-14 10:55:51] (NewsSpider-8) (75/447) Crawling and storing DONE - ¿Funciona el Morningstar Analyst Rating?
+INFO:root:[2018-10-14 10:55:55] (NewsSpider-8) (76/447) Crawling and storing DONE - ¿En qué ETFs invierten los fondos españoles?
+INFO:root:[2018-10-14 10:55:57] (NewsSpider-4) (77/447) Crawling and storing DONE - Los mitos de la inversión
+INFO:root:[2018-10-14 10:55:58] (NewsSpider-5) (78/447) Crawling and storing DONE - ¿Cuánto puede valer Uber?
+INFO:root:[2018-10-14 10:56:00] (NewsSpider-3) (79/447) Crawling and storing DONE - Cáncer: Las 4 farmacéuticas mejor posicionadas
+INFO:root:[2018-10-14 10:56:01] (NewsSpider-9) (80/447) Crawling and storing DONE - Berkshire Hathaway bleibt ein Top-Favorit
+INFO:root:[2018-10-14 10:56:02] (NewsSpider-5) (81/447) Crawling and storing DONE - Le GIEC recommande de limiter à 1,5 °C le réchauffement planétaire
+INFO:root:[2018-10-14 10:56:05] (NewsSpider-8) (82/447) Crawling and storing DONE - ETFs: ¿Qué es el Tracking Error?
+INFO:root:[2018-10-14 10:56:06] (NewsSpider-5) (83/447) Crawling and storing DONE - Investing classroom: Financial statements
+INFO:root:[2018-10-14 10:56:13] (NewsSpider-9) (84/447) Crawling and storing DONE - Roboadvisors: un juego para grandes empresas
+INFO:root:[2018-10-14 10:56:13] (NewsSpider-3) (85/447) Crawling and storing DONE - La ciclicidad de los factores
+INFO:root:[2018-10-14 10:56:14] (NewsSpider-1) (86/447) Crawling and storing DONE - Pourquoi la courbe des taux s’aplatit-elle?
+INFO:root:[2018-10-14 10:56:17] (NewsSpider-8) (87/447) Crawling and storing DONE - Die Entzauberung von Alpha-Strategien
+INFO:root:[2018-10-14 10:56:17] (NewsSpider-9) (88/447) Crawling and storing DONE - Brexit : l’ampleur du crash boursier serait limitée
+INFO:root:[2018-10-14 10:56:18] (NewsSpider-4) (89/447) Crawling and storing DONE - Barómetro Morningstar del Mercado Europeo (Septiembre 2018)
+INFO:root:[2018-10-14 10:56:18] (NewsSpider-3) (90/447) Crawling and storing DONE - Morningstarin tuoreita rahastoarvioita kesältä
+INFO:root:[2018-10-14 10:56:19] (NewsSpider-1) (91/447) Crawling and storing DONE - Baromètre Euronext des entreprises technologiques (juillet-août 2018)
+INFO:root:[2018-10-14 10:56:22] (NewsSpider-8) (92/447) Crawling and storing DONE - Apple: Investoren sehen iPhone-Potenzial zu optimistisch
+INFO:root:[2018-10-14 10:56:22] (NewsSpider-4) (93/447) Crawling and storing DONE - Nokia: Morningstar mantiene su precio objetivo
+INFO:root:[2018-10-14 10:56:22] (NewsSpider-9) (94/447) Crawling and storing DONE - Fondos destacados: Renta Variable Estilo Valor
+INFO:root:[2018-10-14 10:56:26] (NewsSpider-3) (95/447) Crawling and storing DONE - Fama-French kontra Graham-Buffett
+INFO:root:[2018-10-14 10:56:27] (NewsSpider-8) (96/447) Crawling and storing DONE - PERSPECTIVAS: Las empresas y las pensiones
+INFO:root:[2018-10-14 10:56:27] (NewsSpider-1) (97/447) Crawling and storing DONE - ¿Caídas del 14% y 5% para dos fondos de BMN?
+INFO:root:[2018-10-14 10:56:31] (NewsSpider-4) (98/447) Crawling and storing DONE - 3 ETFs de calidad para exponerse a las acciones europeas
+INFO:root:[2018-10-14 10:56:32] (NewsSpider-9) (99/447) Crawling and storing DONE - Flujos de Fondos Europa 2016: Activos vs Pasivos
+INFO:root:[2018-10-14 10:56:34] (NewsSpider-5) (100/447) Crawling and storing DONE - Nuevos Morningstar Analyst Ratings: Octubre 2016
+INFO:root:[2018-10-14 10:56:37] (NewsSpider-3) (101/447) Crawling and storing DONE - Todos los números de InvertirEnFondos
+INFO:root:[2018-10-14 10:56:38] (NewsSpider-8) (102/447) Crawling and storing DONE - Qu’est-ce que l’investissement responsable ?
+INFO:root:[2018-10-14 10:56:39] (NewsSpider-2) (103/447) Crawling and storing DONE - 4 idées de fonds actions émergentes
+INFO:root:[2018-10-14 10:56:40] (NewsSpider-5) (104/447) Crawling and storing DONE - ETFs que cobran comisiones demasiado altas
+INFO:root:[2018-10-14 10:56:42] (NewsSpider-8) (105/447) Crawling and storing DONE - Panorama européen des fonds ISR
+INFO:root:[2018-10-14 10:56:43] (NewsSpider-9) (106/447) Crawling and storing DONE - Títulos europeos de calidad a buen precio (julio 2018)
+INFO:root:[2018-10-14 10:56:43] (NewsSpider-1) (107/447) Crawling and storing DONE - Enero 2016: Todos los planes españoles 5 estrellas
+INFO:root:[2018-10-14 10:56:44] (NewsSpider-4) (108/447) Crawling and storing DONE - Septiembre 2018: Todos los fondos españoles 5 estrellas
+INFO:root:[2018-10-14 10:56:44] (NewsSpider-2) (109/447) Crawling and storing DONE - Les banques italiennes aux mains du gouvernement
+INFO:root:[2018-10-14 10:56:44] (NewsSpider-5) (110/447) Crawling and storing DONE - Kolme vinkkiä, miten toimia heiluvilla markkinoilla
+INFO:root:[2018-10-14 10:56:49] (NewsSpider-2) (111/447) Crawling and storing DONE - Szenarien für die Investoren-Rendite: Sag es mir durch den Trichter
+INFO:root:[2018-10-14 10:56:50] (NewsSpider-9) (112/447) Crawling and storing DONE - Top 10 fondos más visitados en septiembre 2018
+INFO:root:[2018-10-14 10:56:53] (NewsSpider-1) (113/447) Crawling and storing DONE - Vastuullisuusrating vahvistuu
+INFO:root:[2018-10-14 10:56:57] (NewsSpider-1) (114/447) Crawling and storing DONE - Panorama europeo de los fondos socialmente responsables
+INFO:root:[2018-10-14 10:57:00] (NewsSpider-1) (115/447) Crawling and storing DONE - Deutschland-Flaggschiffe der DWS abgestuft
+INFO:root:[2018-10-14 10:57:02] (NewsSpider-8) (116/447) Crawling and storing DONE - Willkommen im Faktor-Zoo!
+INFO:root:[2018-10-14 10:57:05] (NewsSpider-8) (117/447) Crawling and storing DONE - Investing Classroom: Competitive positioning
+INFO:root:[2018-10-14 10:57:05] (NewsSpider-2) (118/447) Crawling and storing DONE - ¿Cómo elegir un ETF sostenible?
+INFO:root:[2018-10-14 10:57:06] (NewsSpider-9) (119/447) Crawling and storing DONE - ¿En qué ETFs de renta fija invierten los fondos españoles?
+INFO:root:[2018-10-14 10:57:09] (NewsSpider-9) (120/447) Crawling and storing DONE - ¿Tiene su fondo riesgo de carbono?
+INFO:root:[2018-10-14 10:57:11] (NewsSpider-1) (121/447) Crawling and storing DONE - Bajo Riesgo vs Alto Riesgo
+INFO:root:[2018-10-14 10:57:12] (NewsSpider-4) (122/447) Crawling and storing DONE - ¿Invertir en bonos con la divisa cubierta?
+INFO:root:[2018-10-14 10:57:15] (NewsSpider-3) (123/447) Crawling and storing DONE - Tendencias en el mercado europeo de ETFs
+INFO:root:[2018-10-14 10:57:15] (NewsSpider-1) (124/447) Crawling and storing DONE - Nuestra herramienta para valorar los mercados
+INFO:root:[2018-10-14 10:57:16] (NewsSpider-4) (125/447) Crawling and storing DONE - Ist Diversifikation nur etwas für die Unwissenden?
+INFO:root:[2018-10-14 10:57:20] (NewsSpider-8) (126/447) Crawling and storing DONE - Nuevos Morningstar Analyst Ratings Abril 2015
+INFO:root:[2018-10-14 10:57:27] (NewsSpider-9) (127/447) Crawling and storing DONE - „Auch als USA-Fondsmanager würde ich Apple nicht kaufen“
+WARNING:root:[2018-10-14 10:57:28] (NewsSpider-5) Article Not Exists on http://www.hk.morningstar.com/news/archive.aspx
+INFO:root:[2018-10-14 10:57:30] (NewsSpider-9) (128/447) Crawling and storing DONE - Flujos Europa: Gestión activa vs gestión pasiva (agosto 2018)
+INFO:root:[2018-10-14 10:57:36] (NewsSpider-4) (129/447) Crawling and storing DONE - Absicherungskosten killen Bond-Performance
+INFO:root:[2018-10-14 10:57:36] (NewsSpider-8) (130/447) Crawling and storing DONE - Sijoittajat varovaisina maaliskuussa
+INFO:root:[2018-10-14 10:57:39] (NewsSpider-8) (131/447) Crawling and storing DONE - Stocks Could Rise 10% in 2016
+INFO:root:[2018-10-14 10:57:39] (NewsSpider-9) (132/447) Crawling and storing DONE - ¿Cómo hacer que su bebé se jubile millonario? (3)
+INFO:root:[2018-10-14 10:57:40] (NewsSpider-4) (133/447) Crawling and storing DONE - ¿Qué hago con mi fondo emergente?
+INFO:root:[2018-10-14 10:57:40] (NewsSpider-5) (134/447) Crawling and storing DONE - Tekninen "preemio"-sana on nyt myyntivaltti
+INFO:root:[2018-10-14 10:57:40] (NewsSpider-1) (135/447) Crawling and storing DONE - Uudet suomalaisrahastot usein erityistarpeisiin
+INFO:root:[2018-10-14 10:57:42] (NewsSpider-9) (136/447) Crawling and storing DONE - ¿Cómo mejorar su selección de ETFs?
+INFO:root:[2018-10-14 10:57:42] (NewsSpider-3) (137/447) Crawling and storing DONE - ¿Por qué las compañías más grandes han batido al mercado?
+INFO:root:[2018-10-14 10:57:43] (NewsSpider-1) (138/447) Crawling and storing DONE - Actions européennes : trop de fonds ?
+INFO:root:[2018-10-14 10:57:43] (NewsSpider-2) (139/447) Crawling and storing DONE - Cómo enfocar la inversión en mercados emergentes
+INFO:root:[2018-10-14 10:57:44] (NewsSpider-3) (140/447) Crawling and storing DONE - Últimos cambios de Morningstar Analyst Ratings (1 Oct - 7 Oct)
+INFO:root:[2018-10-14 10:57:44] (NewsSpider-8) (141/447) Crawling and storing DONE - Morningstar Nachhaltigkeits-Atlas veröffentlicht
+INFO:root:[2018-10-14 10:57:46] (NewsSpider-8) (142/447) Crawling and storing DONE - Atlas de sostenibilidad Morningstar (Octubre 2018)
+INFO:root:[2018-10-14 10:57:47] (NewsSpider-5) (143/447) Crawling and storing DONE - Errores al planificar su jubilación: la rentabilidad de su cartera
+INFO:root:[2018-10-14 10:57:48] (NewsSpider-2) (144/447) Crawling and storing DONE - Analizando los Ratings de Morningstar
+INFO:root:[2018-10-14 10:57:51] (NewsSpider-5) (145/447) Crawling and storing DONE - Vastuullisen sijoittamisen a-b-c
+INFO:root:[2018-10-14 10:57:52] (NewsSpider-4) (146/447) Crawling and storing DONE - Wie misst man das Risiko eines Fonds?
+INFO:root:[2018-10-14 10:57:53] (NewsSpider-1) (147/447) Crawling and storing DONE - Flujos de Fondos: Octubre 2016
+INFO:root:[2018-10-14 10:57:56] (NewsSpider-5) (148/447) Crawling and storing DONE - Pfizer signalisiert mit CEO-Ernennung Kontinuität
+INFO:root:[2018-10-14 10:57:56] (NewsSpider-9) (149/447) Crawling and storing DONE - ¿Invertir en una red social?: mejor Tencent que Facebook
+INFO:root:[2018-10-14 10:57:56] (NewsSpider-1) (150/447) Crawling and storing DONE - Multi-Faktor-ETFs: Führen verschiedene Wege zum Ziel?
+INFO:root:[2018-10-14 10:57:58] (NewsSpider-1) (151/447) Crawling and storing DONE - Relación entre comisiones y rentabilidad
+INFO:root:[2018-10-14 10:57:59] (NewsSpider-2) (152/447) Crawling and storing DONE - ¿Está cara la bolsa americana?
+INFO:root:[2018-10-14 10:58:00] (NewsSpider-9) (153/447) Crawling and storing DONE - Sijoittajan lahjatoive: tuottoisa syntymäpäivä
+INFO:root:[2018-10-14 10:58:01] (NewsSpider-3) (154/447) Crawling and storing DONE - 3 valores tecnológicos de calidad
+INFO:root:[2018-10-14 10:58:01] (NewsSpider-5) (155/447) Crawling and storing DONE - Top 10 ETFs más visitados en septiembre 2018
+INFO:root:[2018-10-14 10:58:01] (NewsSpider-2) (156/447) Crawling and storing DONE - Mercados Frontera: terreno para los gestores activos
+INFO:root:[2018-10-14 10:58:02] (NewsSpider-8) (157/447) Crawling and storing DONE - Investing Classroom: The income statement
+INFO:root:[2018-10-14 10:58:03] (NewsSpider-1) (158/447) Crawling and storing DONE - Los fondos de pensiones cambian de piel
+INFO:root:[2018-10-14 10:58:04] (NewsSpider-3) (159/447) Crawling and storing DONE - Anlegerpsychologie: Das Ding mit dem inneren Schweinehund
+INFO:root:[2018-10-14 10:58:04] (NewsSpider-9) (160/447) Crawling and storing DONE - Das Morningstar (Sterne) Rating im Überblick
+INFO:root:[2018-10-14 10:58:07] (NewsSpider-8) (161/447) Crawling and storing DONE - Invertir en volatilidad
+INFO:root:[2018-10-14 10:58:08] (NewsSpider-9) (162/447) Crawling and storing DONE - Juni-Korrektur bringt Aktien-ETFs Abflüsse
+INFO:root:[2018-10-14 10:58:08] (NewsSpider-8) (163/447) Crawling and storing DONE - Millaista tuottoa voi odottaa korkorahastolta?
+INFO:root:[2018-10-14 10:58:09] (NewsSpider-1) (164/447) Crawling and storing DONE - Abverkauf von Emerging Markets- und Europa-ETFs im Mai
+INFO:root:[2018-10-14 10:58:11] (NewsSpider-3) (165/447) Crawling and storing DONE - Prudencia en las carteras
+INFO:root:[2018-10-14 10:58:11] (NewsSpider-2) (166/447) Crawling and storing DONE - Vencimiento de fondos garantizados: octubre 2018
+INFO:root:[2018-10-14 10:58:12] (NewsSpider-3) (167/447) Crawling and storing DONE - Septiembre 2018: Mejores y Peores Categorías
+WARNING:root:[2018-10-14 10:58:13] (NewsSpider-8) Article Not Exists on http://www.hk.morningstar.com/news/archive.aspx?templateid=8001&templatename=投資教室
+INFO:root:[2018-10-14 10:58:13] (NewsSpider-1) (168/447) Crawling and storing DONE - Deflation Hides the Growth in Consumer Spending
+INFO:root:[2018-10-14 10:58:14] (NewsSpider-2) (169/447) Crawling and storing DONE - PERSPECTIVAS: Confianza sobre el futuro financiero
+INFO:root:[2018-10-14 10:58:15] (NewsSpider-4) (170/447) Crawling and storing DONE - Lassen sich Anlagestile aus Charaktereigenschaften ableiten?
+INFO:root:[2018-10-14 10:58:15] (NewsSpider-5) (171/447) Crawling and storing DONE - Rahastosijoittajille hiiliriskin mittari
+INFO:root:[2018-10-14 10:58:15] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 10:58:16] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:58:17] (NewsSpider-2) (172/447) Crawling and storing DONE - Suomen Awards-voittajat 2018
+INFO:root:[2018-10-14 10:58:17] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 10:58:17] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:58:18] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:58:20] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:58:20] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://screen.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://news.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feeds
+INFO:root:[2018-10-14 17:44:22] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:22] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:22] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:22] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:22] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:44:26] (NewsSpider-5) (1/444) Crawling and storing DONE - 4 idées de fonds actions émergentes
+INFO:root:[2018-10-14 17:44:26] (NewsSpider-3) (2/444) Crawling and storing DONE - Comentario semanal de mercado
+INFO:root:[2018-10-14 17:44:34] (NewsSpider-3) (3/444) Crawling and storing DONE - 3 valores tecnológicos de calidad
+INFO:root:[2018-10-14 17:44:40] (NewsSpider-5) (4/444) Crawling and storing DONE - Panorama europeo de los fondos socialmente responsables
+INFO:root:[2018-10-14 17:44:41] (NewsSpider-3) (5/444) Crawling and storing DONE - ¿Invertir en una red social?: mejor Tencent que Facebook
+INFO:root:[2018-10-14 17:44:41] (NewsSpider-1) (6/444) Crawling and storing DONE - El mejor sistema de inversión no es para todos
+INFO:root:[2018-10-14 17:44:42] (NewsSpider-2) (7/444) Crawling and storing DONE - Todos los números de InvertirEnFondos
+INFO:root:[2018-10-14 17:44:47] (NewsSpider-2) (8/444) Crawling and storing DONE - Roboadvisors: un juego para grandes empresas
+INFO:root:[2018-10-14 17:44:48] (NewsSpider-4) (9/444) Crawling and storing DONE - Flujos Europa: Gestión activa vs gestión pasiva (agosto 2018)
+INFO:root:[2018-10-14 17:44:53] (NewsSpider-5) (10/444) Crawling and storing DONE - Pfizer signalisiert mit CEO-Ernennung Kontinuität
+INFO:root:[2018-10-14 17:44:58] (NewsSpider-3) (11/444) Crawling and storing DONE - Pourquoi les ETF smart beta n’ont pas protégé du regain de volatilité ?
+INFO:root:[2018-10-14 17:45:07] (NewsSpider-1) (12/444) Crawling and storing DONE - Do Declining Oil Prices Signal a Problem for Stocks?
+INFO:root:[2018-10-14 17:45:11] (NewsSpider-2) (13/444) Crawling and storing DONE - Los mitos de la inversión
+INFO:root:[2018-10-14 17:45:15] (NewsSpider-3) (14/444) Crawling and storing DONE - Fama-French kontra Graham-Buffett
+INFO:root:[2018-10-14 17:45:17] (NewsSpider-5) (15/444) Crawling and storing DONE - Im Juli erleben Fonds ein zaghaftes Comeback – mit einer signifikanten Ausnahme
+INFO:root:[2018-10-14 17:45:18] (NewsSpider-4) (16/444) Crawling and storing DONE - PERSPECTIVAS: Las empresas y las pensiones
+INFO:root:[2018-10-14 17:45:24] (NewsSpider-2) (17/444) Crawling and storing DONE - Amundi veut accélérer dans l’investissement responsable
+INFO:root:[2018-10-14 17:45:25] (NewsSpider-4) (18/444) Crawling and storing DONE - Willkommen im Faktor-Zoo!
+INFO:root:[2018-10-14 17:45:25] (NewsSpider-1) (19/444) Crawling and storing DONE - Berkshire Hathaway bleibt ein Top-Favorit
+INFO:root:[2018-10-14 17:45:31] (NewsSpider-1) (20/444) Crawling and storing DONE - Szenarien für die Investoren-Rendite: Sag es mir durch den Trichter
+INFO:root:[2018-10-14 17:45:36] (NewsSpider-4) (21/444) Crawling and storing DONE - Nuevos Morningstar Analyst Ratings Abril 2015
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://screen.morningstar.com/
+INFO:root:[2018-10-14 17:45:42] (NewsSpider-4) (22/444) Crawling and storing DONE - Zehn Jahre nach Lehman: (k)ein bisschen weise?
+INFO:root:[2018-10-14 17:45:44] (NewsSpider-5) (23/444) Crawling and storing DONE - ¿Cómo mejorar su selección de ETFs?
+INFO:root:[2018-10-14 17:45:45] (NewsSpider-2) (24/444) Crawling and storing DONE - Les actions américaines ont été tirées par le
+INFO:root:[2018-10-14 17:45:45] (NewsSpider-3) (25/444) Crawling and storing DONE - Prudencia en las carteras
+INFO:root:[2018-10-14 17:45:47] (NewsSpider-4) (26/444) Crawling and storing DONE - Neue Fonds-Ratings am Markt
+INFO:root:[2018-10-14 17:45:50] (NewsSpider-5) (27/444) Crawling and storing DONE - Vastuullisen sijoittamisen a-b-c
+INFO:root:[2018-10-14 17:45:50] (NewsSpider-1) (28/444) Crawling and storing DONE - Juni-Korrektur bringt Aktien-ETFs Abflüsse
+INFO:root:[2018-10-14 17:45:51] (NewsSpider-2) (29/444) Crawling and storing DONE - Actions émergentes : à quand le rebond ?
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://news.morningstar.com/
+INFO:root:[2018-10-14 17:45:56] (NewsSpider-1) (30/444) Crawling and storing DONE - Cáncer: Las 4 farmacéuticas mejor posicionadas
+INFO:root:[2018-10-14 17:45:56] (NewsSpider-5) (31/444) Crawling and storing DONE - Nokia: Morningstar mantiene su precio objetivo
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='etf.morningstar.com', port=443): Read timed out. (read timeout=7)
+INFO:root:[2018-10-14 17:46:06] (NewsSpider-2) (32/444) Crawling and storing DONE - Nuevos Morningstar Analyst Ratings: Octubre 2016
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feeds
+INFO:root:[2018-10-14 17:46:08] (NewsSpider-4) (33/444) Crawling and storing DONE - Invertir en volatilidad
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 17:46:08] ========== (NewsSpider-10) Start! ==========
+INFO:root:[2018-10-14 17:46:11] (NewsSpider-4) (34/444) Crawling and storing DONE - Millaista tuottoa voi odottaa korkorahastolta?
+INFO:root:[2018-10-14 17:46:12] (NewsSpider-9) (1/444) Crawling and storing DONE - Investing classroom: Using financial services
+INFO:root:[2018-10-14 17:46:16] (NewsSpider-2) (35/444) Crawling and storing DONE - ¿Cuáles son los países más expuestos al cambio climático?
+INFO:root:[2018-10-14 17:46:23] (NewsSpider-2) (36/444) Crawling and storing DONE - Sijoittajat varovaisina maaliskuussa
+INFO:root:[2018-10-14 17:46:27] (NewsSpider-2) (37/444) Crawling and storing DONE - Investing classroom: Financial statements
+INFO:root:[2018-10-14 17:46:27] (NewsSpider-3) (38/444) Crawling and storing DONE - 5 raisons derrière le désamour des investisseurs américains pour les actions européennes
+INFO:root:[2018-10-14 17:46:27] (NewsSpider-5) (39/444) Crawling and storing DONE - Die Entzauberung von Alpha-Strategien
+INFO:root:[2018-10-14 17:46:28] (NewsSpider-1) (40/444) Crawling and storing DONE - ¿Invertir en bonos con la divisa cubierta?
+INFO:root:[2018-10-14 17:46:31] (NewsSpider-5) (41/444) Crawling and storing DONE - No sólo importan los costes
+INFO:root:[2018-10-14 17:46:37] (NewsSpider-1) (42/444) Crawling and storing DONE - 10 gráficos para ilustrar estos últimos 10 años
+WARNING:root:[2018-10-14 17:46:39] (NewsSpider-4) Article Not Exists on http://www.hk.morningstar.com/news/archive.aspx?templateid=8001&templatename=投資教室
+INFO:root:[2018-10-14 17:46:42] (NewsSpider-1) (43/444) Crawling and storing DONE - Uudet suomalaisrahastot usein erityistarpeisiin
+INFO:root:[2018-10-14 17:46:44] (NewsSpider-2) (44/444) Crawling and storing DONE - Cuando la integridad tiene recompensa
+INFO:root:[2018-10-14 17:46:44] (NewsSpider-5) (45/444) Crawling and storing DONE - Le GIEC recommande de limiter à 1,5 °C le réchauffement planétaire
+INFO:root:[2018-10-14 17:46:45] (NewsSpider-4) (46/444) Crawling and storing DONE - Baromètre Euronext des entreprises technologiques (juillet-août 2018)
+INFO:root:[2018-10-14 17:46:47] (NewsSpider-3) (47/444) Crawling and storing DONE - Personalie Albrecht: Morningstar Analyst Ratings für DWS-Deutschlandfonds ausgesetzt
+INFO:root:[2018-10-14 17:46:47] (NewsSpider-1) (48/444) Crawling and storing DONE - Top 10 fondos más visitados en septiembre 2018
+INFO:root:[2018-10-14 17:46:47] (NewsSpider-2) (49/444) Crawling and storing DONE - ¿Cómo hacer que su bebé se jubile millonario?
+INFO:root:[2018-10-14 17:46:51] (NewsSpider-3) (50/444) Crawling and storing DONE - Barómetro Morningstar del Mercado Europeo (Septiembre 2018)
+INFO:root:[2018-10-14 17:46:52] (NewsSpider-2) (51/444) Crawling and storing DONE - Steigende Märkte und Zuflüsse bringen Indextrackern neuen Rekord
+INFO:root:[2018-10-14 17:46:56] (NewsSpider-4) (52/444) Crawling and storing DONE - Errores al planificar su jubilación: subestimar la inflación futura
+INFO:root:[2018-10-14 17:46:57] (NewsSpider-5) (53/444) Crawling and storing DONE - Morningstar lanza sus índices de sostenibilidad
+INFO:root:[2018-10-14 17:46:59] (NewsSpider-2) (54/444) Crawling and storing DONE - Dem Bond-Rätsel auf der Spur
+INFO:root:[2018-10-14 17:47:04] (NewsSpider-2) (55/444) Crawling and storing DONE - ¿Cómo hacer que su bebé se jubile millonario? (2)
+INFO:root:[2018-10-14 17:47:08] (NewsSpider-2) (56/444) Crawling and storing DONE - Comparativa ETFs: Renta Variable Turquía
+INFO:root:[2018-10-14 17:47:08] (NewsSpider-5) (57/444) Crawling and storing DONE - Valores europeos 5 estrellas (Septiembre 2018)
+INFO:root:[2018-10-14 17:47:13] (NewsSpider-2) (58/444) Crawling and storing DONE - Rahastosijoittajille hiiliriskin mittari
+INFO:root:[2018-10-14 17:47:16] (NewsSpider-3) (59/444) Crawling and storing DONE - Invertir en pequeñas empresas globales vía ETFs
+INFO:root:[2018-10-14 17:47:23] (NewsSpider-3) (60/444) Crawling and storing DONE - ¿Tiene su fondo riesgo de carbono?
+INFO:root:[2018-10-14 17:47:27] (NewsSpider-3) (61/444) Crawling and storing DONE - Blockchain: Die disruptive Macht der Dezentralisierung
+INFO:root:[2018-10-14 17:47:32] (NewsSpider-4) (62/444) Crawling and storing DONE - Lassen sich Anlagestile aus Charaktereigenschaften ableiten?
+INFO:root:[2018-10-14 17:47:36] (NewsSpider-3) (63/444) Crawling and storing DONE - Nettomerkinnät pakkasella kesäkuussa
+INFO:root:[2018-10-14 17:47:37] (NewsSpider-1) (64/444) Crawling and storing DONE - Multi-Faktor-ETFs: Führen verschiedene Wege zum Ziel?
+INFO:root:[2018-10-14 17:47:41] (NewsSpider-4) (65/444) Crawling and storing DONE - Rahastosijoittaja ei Suomessa juhli
+INFO:root:[2018-10-14 17:47:47] (NewsSpider-4) (66/444) Crawling and storing DONE - Septiembre 2018: Todos los fondos españoles 5 estrellas
+INFO:root:[2018-10-14 17:47:50] (NewsSpider-3) (67/444) Crawling and storing DONE - Últimos cambios de Morningstar Analyst Ratings (1 Oct - 7 Oct)
+INFO:root:[2018-10-14 17:47:52] (NewsSpider-5) (68/444) Crawling and storing DONE - Gestión activa vs gestión pasiva: un debate falseado
+INFO:root:[2018-10-14 17:47:55] (NewsSpider-1) (69/444) Crawling and storing DONE - ¿Funciona el Morningstar Analyst Rating?
+INFO:root:[2018-10-14 17:47:55] (NewsSpider-5) (70/444) Crawling and storing DONE - Euroopan vuoden salkunhoitaja - ehdokkaat
+INFO:root:[2018-10-14 17:47:56] (NewsSpider-3) (71/444) Crawling and storing DONE - Morningstarin tuoreita rahastoarvioita kesältä
+INFO:root:[2018-10-14 17:47:59] (NewsSpider-5) (72/444) Crawling and storing DONE - Comprendre les indices : actions américaines
+INFO:root:[2018-10-14 17:48:00] (NewsSpider-1) (73/444) Crawling and storing DONE - ETFs que cobran comisiones demasiado altas
+INFO:root:[2018-10-14 17:48:02] (NewsSpider-2) (74/444) Crawling and storing DONE - Qu’est-ce que l’investissement responsable ?
+INFO:root:[2018-10-14 17:48:04] (NewsSpider-5) (75/444) Crawling and storing DONE - Fondos destacados: Renta Variable Estilo Valor
+INFO:root:[2018-10-14 17:48:04] (NewsSpider-1) (76/444) Crawling and storing DONE - Enero 2016: Todos los planes españoles 5 estrellas
+INFO:root:[2018-10-14 17:48:04] (NewsSpider-3) (77/444) Crawling and storing DONE - Bajo Riesgo vs Alto Riesgo
+INFO:root:[2018-10-14 17:48:22] (NewsSpider-2) (78/444) Crawling and storing DONE - ¿Qué hacer antes y después de contratar un plan de pensiones?
+INFO:root:[2018-10-14 17:48:24] (NewsSpider-1) (79/444) Crawling and storing DONE - Panorama européen des fonds ISR
+INFO:root:[2018-10-14 17:48:26] (NewsSpider-1) (80/444) Crawling and storing DONE - La ciclicidad de los factores
+INFO:root:[2018-10-14 17:48:30] (NewsSpider-1) (81/444) Crawling and storing DONE - Gestion d’actifs : les pièges à éviter quand la volatilité revient
+INFO:root:[2018-10-14 17:48:32] (NewsSpider-1) (82/444) Crawling and storing DONE - Sijoittajan lahjatoive: tuottoisa syntymäpäivä
+INFO:root:[2018-10-14 17:48:33] (NewsSpider-5) (83/444) Crawling and storing DONE - Faktor-Investments können die Geduld von Investoren belasten
+INFO:root:[2018-10-14 17:48:35] (NewsSpider-1) (84/444) Crawling and storing DONE - Stocks Could Rise 10% in 2016
+INFO:root:[2018-10-14 17:48:36] (NewsSpider-1) (85/444) Crawling and storing DONE - Errores al planificar su jubilación: la rentabilidad de su cartera
+INFO:root:[2018-10-14 17:48:38] (NewsSpider-5) (86/444) Crawling and storing DONE - Actions européennes : trop de fonds ?
+INFO:root:[2018-10-14 17:48:42] (NewsSpider-1) (87/444) Crawling and storing DONE - Top 10 ETFs más visitados en septiembre 2018
+INFO:root:[2018-10-14 17:48:43] (NewsSpider-5) (88/444) Crawling and storing DONE - Les banques italiennes aux mains du gouvernement
+INFO:root:[2018-10-14 17:48:44] (NewsSpider-1) (89/444) Crawling and storing DONE - Deutschland-Flaggschiffe der DWS abgestuft
+INFO:root:[2018-10-14 17:48:46] (NewsSpider-1) (90/444) Crawling and storing DONE - ¿Cómo valorar el riesgo de carbono de un fondo?
+INFO:root:[2018-10-14 17:48:47] (NewsSpider-5) (91/444) Crawling and storing DONE - Vencimiento de fondos garantizados: octubre 2018
+INFO:root:[2018-10-14 17:48:49] (NewsSpider-2) (92/444) Crawling and storing DONE - ¿Cómo elegir un ETF sostenible?
+INFO:root:[2018-10-14 17:48:51] (NewsSpider-2) (93/444) Crawling and storing DONE - Investing Classroom: The income statement
+INFO:root:[2018-10-14 17:48:56] (NewsSpider-2) (94/444) Crawling and storing DONE - ¿Qué ETFs compraron los inversores europeos en 2016?
+INFO:root:[2018-10-14 17:49:01] (NewsSpider-5) (95/444) Crawling and storing DONE - Brexit : l’ampleur du crash boursier serait limitée
+INFO:root:[2018-10-14 17:49:04] (NewsSpider-5) (96/444) Crawling and storing DONE - Wie misst man das Risiko eines Fonds?
+INFO:root:[2018-10-14 17:49:07] (NewsSpider-5) (97/444) Crawling and storing DONE - Ist Diversifikation nur etwas für die Unwissenden?
+INFO:root:[2018-10-14 17:49:08] (NewsSpider-1) (98/444) Crawling and storing DONE - Deflation Hides the Growth in Consumer Spending
+INFO:root:[2018-10-14 17:49:12] (NewsSpider-2) (99/444) Crawling and storing DONE - Flujos de Fondos Europa 2016: Activos vs Pasivos
+INFO:root:[2018-10-14 17:49:18] (NewsSpider-5) (100/444) Crawling and storing DONE - Vastuullisuusrating vahvistuu
+INFO:root:[2018-10-14 17:49:19] (NewsSpider-1) (101/444) Crawling and storing DONE - ¿Está cara la bolsa americana?
+INFO:root:[2018-10-14 17:49:21] (NewsSpider-2) (102/444) Crawling and storing DONE - Los nuevos lanzamientos de ETFs del 2016
+INFO:root:[2018-10-14 17:49:24] (NewsSpider-5) (103/444) Crawling and storing DONE - GAM-rahastojen sijoittaja – seuraa uutisia
+INFO:root:[2018-10-14 17:49:26] (NewsSpider-5) (104/444) Crawling and storing DONE - 3 ETF de qualité pour s’exposer aux actions européennes
+INFO:root:[2018-10-14 17:49:30] (NewsSpider-2) (105/444) Crawling and storing DONE - Tekninen "preemio"-sana on nyt myyntivaltti
+INFO:root:[2018-10-14 17:49:31] (NewsSpider-2) (106/444) Crawling and storing DONE - Anlegerpsychologie: Das Ding mit dem inneren Schweinehund
+INFO:root:[2018-10-14 17:49:33] (NewsSpider-5) (107/444) Crawling and storing DONE - La liga de las estrellas: Octubre 2018
+INFO:root:[2018-10-14 17:49:36] (NewsSpider-5) (108/444) Crawling and storing DONE - Morningstar TV: Crisis turca
+INFO:root:[2018-10-14 17:49:40] (NewsSpider-5) (109/444) Crawling and storing DONE - PERSPECTIVAS: Confianza sobre el futuro financiero
+INFO:root:[2018-10-14 17:49:45] (NewsSpider-1) (110/444) Crawling and storing DONE - Cómo enfocar la inversión en mercados emergentes
+INFO:root:[2018-10-14 17:49:46] (NewsSpider-2) (111/444) Crawling and storing DONE - Investing classroom: Understanding the news
+INFO:root:[2018-10-14 17:49:48] (NewsSpider-2) (112/444) Crawling and storing DONE - ETFs: ¿Qué es el Tracking Error?
+INFO:root:[2018-10-14 17:49:50] (NewsSpider-1) (113/444) Crawling and storing DONE - Nuestra herramienta para valorar los mercados
+INFO:root:[2018-10-14 17:49:50] (NewsSpider-2) (114/444) Crawling and storing DONE - ¿En qué fondos alternativos invierten los fondos perfilados?
+INFO:root:[2018-10-14 17:49:54] (NewsSpider-5) (115/444) Crawling and storing DONE - Los fondos de pensiones cambian de piel
+INFO:root:[2018-10-14 17:49:57] (NewsSpider-5) (116/444) Crawling and storing DONE - Septiembre 2018: Mejores y Peores Categorías
+INFO:root:[2018-10-14 17:50:00] (NewsSpider-5) (117/444) Crawling and storing DONE - Tendencias en el mercado europeo de ETFs
+INFO:root:[2018-10-14 17:50:01] (NewsSpider-1) (118/444) Crawling and storing DONE - Analizando los Ratings de Morningstar
+INFO:root:[2018-10-14 17:50:03] (NewsSpider-2) (119/444) Crawling and storing DONE - Atlas de sostenibilidad Morningstar (Octubre 2018)
+INFO:root:[2018-10-14 17:50:05] (NewsSpider-5) (120/444) Crawling and storing DONE - Kolme vinkkiä, miten toimia heiluvilla markkinoilla
+INFO:root:[2018-10-14 17:50:09] (NewsSpider-2) (121/444) Crawling and storing DONE - Investing classroom: Using financial services
+INFO:root:[2018-10-14 17:50:09] (NewsSpider-5) (122/444) Crawling and storing DONE - 3 ETFs de calidad para exponerse a las acciones europeas
+INFO:root:[2018-10-14 17:50:11] (NewsSpider-5) (123/444) Crawling and storing DONE - Un ETF de qualité pour parier sur Wall Street
+INFO:root:[2018-10-14 17:50:18] (NewsSpider-5) (124/444) Crawling and storing DONE - Noch ein Punkt für Gryffindor: Indexfonds sind gut für Corporate Governance
+INFO:root:[2018-10-14 17:50:19] (NewsSpider-2) (125/444) Crawling and storing DONE - Absicherungskosten killen Bond-Performance
+INFO:root:[2018-10-14 17:50:20] (NewsSpider-2) (126/444) Crawling and storing DONE - Kehrt die Volatilität zurück? Eine Checkliste für Anleger
+INFO:root:[2018-10-14 17:50:21] (NewsSpider-1) (127/444) Crawling and storing DONE - ETFs para protegerse contra la inflación en la Zona Euro
+INFO:root:[2018-10-14 17:50:24] (NewsSpider-1) (128/444) Crawling and storing DONE - ¿Por qué las compañías más grandes han batido al mercado?
+INFO:root:[2018-10-14 17:50:27] (NewsSpider-2) (129/444) Crawling and storing DONE - Pourquoi la courbe des taux s’aplatit-elle?
+INFO:root:[2018-10-14 17:50:31] (NewsSpider-1) (130/444) Crawling and storing DONE - Correlaciones Categorías (Septiembre 2018)
+INFO:root:[2018-10-14 17:50:32] (NewsSpider-5) (131/444) Crawling and storing DONE - Morningstar Nachhaltigkeits-Atlas veröffentlicht
+INFO:root:[2018-10-14 17:50:33] (NewsSpider-2) (132/444) Crawling and storing DONE - Flujos de Fondos: Octubre 2016
+INFO:root:[2018-10-14 17:50:33] (NewsSpider-1) (133/444) Crawling and storing DONE - Neue Fonds-Ratings am Markt
+INFO:root:[2018-10-14 17:50:35] (NewsSpider-2) (134/444) Crawling and storing DONE - Unbeliebtheit als Renditequelle
+WARNING:root:[2018-10-14 17:50:37] (NewsSpider-5) Article Not Exists on http://www.hk.morningstar.com/news/archive.aspx
+WARNING:root:[2018-10-14 17:50:45] (NewsSpider-2) Article Not Exists on https://www.morningstar.com/articles/881384/state-street-global-advisors-has-mobilized-its-tim.html
+INFO:root:[2018-10-14 17:50:46] (NewsSpider-1) (135/444) Crawling and storing DONE - Suomen Awards-voittajat 2018
+INFO:root:[2018-10-14 17:50:46] (NewsSpider-2) (136/444) Crawling and storing DONE - Investing Classroom: Thinking like an analyst
+INFO:root:[2018-10-14 17:50:48] (NewsSpider-2) (137/444) Crawling and storing DONE - Diciembre 2015: Todos los planes españoles 5 estrellas
+INFO:root:[2018-10-14 17:50:51] (NewsSpider-5) (138/444) Crawling and storing DONE - Top 10 ETFs más visitados en enero 2017
+INFO:root:[2018-10-14 17:50:51] (NewsSpider-1) (139/444) Crawling and storing DONE - Investing Classroom: Competitive positioning
+INFO:root:[2018-10-14 17:50:52] (NewsSpider-5) (140/444) Crawling and storing DONE - Comentario semanal de mercado
+INFO:root:[2018-10-14 17:51:01] (NewsSpider-5) (141/444) Crawling and storing DONE - El Factor Investing: ¿En qué consiste?
+INFO:root:[2018-10-14 17:51:08] (NewsSpider-5) (142/444) Crawling and storing DONE - ¿En qué ETFs de renta fija invierten los fondos españoles?
+INFO:root:[2018-10-14 17:51:09] (NewsSpider-1) (143/444) Crawling and storing DONE - UBS ETF MSCI USA: Rating Gold
+INFO:root:[2018-10-14 17:51:13] (NewsSpider-1) (144/444) Crawling and storing DONE - Voiture électrique: la Chine devrait conserver son avance
+INFO:root:[2018-10-14 17:51:14] (NewsSpider-5) (145/444) Crawling and storing DONE - „Auch als USA-Fondsmanager würde ich Apple nicht kaufen“
+INFO:root:[2018-10-14 17:51:16] (NewsSpider-2) (146/444) Crawling and storing DONE - PERSPECTIVAS: Rentabilidad, ¿reflejo del riesgo o de la habilidad gestora?
+INFO:root:[2018-10-14 17:51:17] (NewsSpider-1) (147/444) Crawling and storing DONE - Karkki odottaa, maltatko sinä?
+INFO:root:[2018-10-14 17:51:21] (NewsSpider-2) (148/444) Crawling and storing DONE - Abverkauf von Emerging Markets- und Europa-ETFs im Mai
+INFO:root:[2018-10-14 17:51:27] (NewsSpider-2) (149/444) Crawling and storing DONE - ¿Qué hago con mi fondo emergente?
+INFO:root:[2018-10-14 17:51:27] (NewsSpider-5) (150/444) Crawling and storing DONE - La Champions de las Gestoras: Segundo Trimestre 2018
+INFO:root:[2018-10-14 17:51:29] (NewsSpider-1) (151/444) Crawling and storing DONE - Mercados Frontera: terreno para los gestores activos
+INFO:root:[2018-10-14 17:51:31] (NewsSpider-5) (152/444) Crawling and storing DONE - ¿En qué ETFs invierten los fondos españoles?
+INFO:root:[2018-10-14 17:51:31] (NewsSpider-1) (153/444) Crawling and storing DONE - Coca y Pepsi: ventaja competitiva y rentabilidad por dividendo
+INFO:root:[2018-10-14 17:51:37] (NewsSpider-1) (154/444) Crawling and storing DONE - PERSPECTIVAS: Desmontando mitos sobre los planes de pensiones
+INFO:root:[2018-10-14 17:51:40] (NewsSpider-5) (155/444) Crawling and storing DONE - ¿Cómo hacer que su bebé se jubile millonario? (3)
+INFO:root:[2018-10-14 17:51:42] (NewsSpider-1) (156/444) Crawling and storing DONE - Gestión pasiva: los ETFs baten a los fondos índice
+INFO:root:[2018-10-14 17:51:45] (NewsSpider-1) (157/444) Crawling and storing DONE - Iliad : juste valeur abaissée après l’enchère sur le spectre italien
+INFO:root:[2018-10-14 17:51:47] (NewsSpider-2) (158/444) Crawling and storing DONE - Investing Classroom: Management quality
+INFO:root:[2018-10-14 17:51:49] (NewsSpider-1) (159/444) Crawling and storing DONE - ¿Cuánto puede valer Uber?
+INFO:root:[2018-10-14 17:51:57] (NewsSpider-1) (160/444) Crawling and storing DONE - Das Morningstar (Sterne) Rating im Überblick
+INFO:root:[2018-10-14 17:51:59] (NewsSpider-1) (161/444) Crawling and storing DONE - Relación entre comisiones y rentabilidad
+INFO:root:[2018-10-14 17:51:59] (NewsSpider-5) (162/444) Crawling and storing DONE - Mitmachen und gewinnen: Die grosse Morningstar ETF-Umfrage
+INFO:root:[2018-10-14 17:52:01] (NewsSpider-1) (163/444) Crawling and storing DONE - ¿Cómo prepararse para un aumento de tipos?
+INFO:root:[2018-10-14 17:52:02] (NewsSpider-5) (164/444) Crawling and storing DONE - ¿Caídas del 14% y 5% para dos fondos de BMN?
+INFO:root:[2018-10-14 17:52:03] (NewsSpider-5) (165/444) Crawling and storing DONE - Apple: Investoren sehen iPhone-Potenzial zu optimistisch
+INFO:root:[2018-10-14 17:52:08] (NewsSpider-1) (166/444) Crawling and storing DONE - Fondita säilyttää Silver-arvosanansa
+INFO:root:[2018-10-14 17:52:15] (NewsSpider-1) (167/444) Crawling and storing DONE - ¿Qué tasa de rescate aplicar durante la jubilación?
+INFO:root:[2018-10-14 17:52:16] (NewsSpider-5) (168/444) Crawling and storing DONE - Morningstar Marktbarometer: Öl-Aktien sorgen für Value-Erholung
+INFO:root:[2018-10-14 17:52:24] (NewsSpider-5) (169/444) Crawling and storing DONE - Was Monte Carlo mit Ihrer Altersvorsorge zu tun hat
+INFO:root:[2018-10-14 17:52:27] (NewsSpider-1) (170/444) Crawling and storing DONE - Wie ich lernte, den Glauben zu verlieren
+INFO:root:[2018-10-14 17:52:28] (NewsSpider-5) (171/444) Crawling and storing DONE - Títulos europeos de calidad a buen precio (julio 2018)
+INFO:root:[2018-10-14 17:52:30] (NewsSpider-5) (172/444) Crawling and storing DONE - Los fondos españoles más expuestos a Facebook
+INFO:root:[2018-10-14 17:52:31] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:52:31] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://screen.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://news.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feeds
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:25] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-10-14 18:40:34] (NewsSpider-4) Article Not Exists on http://www.morningstar.com.au/Stocks/article/probe-into-musk-on-taking-tesla-private/170460
+WARNING:root:[2018-10-14 18:40:34] (NewsSpider-3) Article Not Exists on https://www.morningstar.com/articles/883860/so-much-for-the-bond-bubble.html
+WARNING:root:[2018-10-14 18:44:48] (NewsSpider-3) Article Not Exists on http://www.hk.morningstar.com/news/archive.aspx
+WARNING:root:[2018-10-14 18:45:09] (NewsSpider-1) Article Not Exists on http://www.hk.morningstar.com/news/archive.aspx?templateid=8001&templatename=投資教室
+INFO:root:[2018-10-14 18:46:13] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:46:13] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:46:13] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:46:15] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:46:16] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://screen.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: http://news.morningstar.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: http://www.morningstar.com/feed
+INFO:root:[2018-10-14 19:27:51] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:51] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:51] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:51] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:51] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:28:22] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 19:28:23] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:28:24] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 19:28:29] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:28:29] ========== (NewsSpider-3) Thread END ==========

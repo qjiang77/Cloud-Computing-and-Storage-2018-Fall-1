@@ -1,0 +1,60 @@
+title source_url url tags publish_date authors summary text
+You might not be anonymous, thanks to genealogy databases|http://cnn.com/health|http://cnn.com/2018/10/11/health/genetic-privacy-study/index.html||2018-10-11|Susan Scutti||(CNN) In the early 2000s, genetic testing emerged as a direct-to-consumer product that did not require a physician's involvement and the consequences of this shift could impact everyone.
+
+More than 60% of people with European ancestry can be identified by an anonymous DNA sample, simply by using data from consumer genetic databases, new research finds. This percentage includes those who haven't undergone DNA testing themselves, according to a study published Thursday in the journal Science.
+
+"Usually, we think about paternity tests, you can find the father, you can find siblings, but with the advance of more powerful techniques in genomics, you can now actually identify third cousins, even fourth cousins in some cases," said Yaniv Erlich, lead author of the study and an associate professor of computer science at Columbia University. Once distant relatives have been found, unidentified "anonymous" DNA can lead you to a specific person, according to the study.
+
+Gone fishing?
+
+More than 15 million people have used direct-to-consumer genetic tests as of April, according to Erlich and his co-authors. Because most genetic test companies allow their customers to download files of their raw genetic information, this has spurred third-party services from other companies, including GEDmatch , which allows people to upload their raw data for additional analysis, such as ancestry searches.
+
+These services appeal to many, including adoptees seeking their biological relatives, as it widens their search beyond the company where they were originally tested. In Erlich's words, "you fish in more ponds, you might find something."
+
+In fact, GEDmatch, which is intended solely for genealogical research, was instrumental in tracking the elusive Golden State Killer suspect. This year, investigators captured a suspect nearly 32 years after the killer's rampage ended by using crime scene DNA to conduct what is known as a long-range familial search. The search helped law enforcement identify a third cousin of the serial rapist and killer, while additional data led investigators to a suspect, who took a standard DNA test to confirm his identity.
+
+Based on this success, the long-range familial search is poised to become a standard investigative tool, Erlich and his co-authors suggest, so they conducted a study to understand its power. They began with an analysis of over 1 million anonymous genomes that had been sequenced by MyHeritage , a consumer genetic test provider for which Erlich serves as chief science officer.
+
+"We have a database of now over 1.75 million individuals, and we offer basically a test that you can learn about your past and find relatives," Erlich said, explaining that he and his colleagues "wanted to see what is the profile of matches that you get from an individual."
+
+The study highlights the results for people of European descent because "it just happens this is the largest group in our database," he said.
+
+For about 60% of the anonymous individuals whose genomes were analyzed, all of them of European descent, the researchers were able to find a relative at the level of third cousin or closer. For about 15% of these people, the closest relative found was a second cousin or closer, the study showed.
+
+Next, the team repeated this process on GEDmatch, an unrelated website with a privacy policy that allows users to compare those anonymous files that have been designated "public" by their owners. CNN has reached out to GEDmatch for comment.
+
+Here, Erlich's team found that the two databases, which use different strategies for identifying biological relatives, provided very similar results. This proved that the method can be replicated using different databases, he said.
+
+Once relatives are found, an anonymous person can be re-identified by constructing a family tree, searching for additional relatives and then triangulating from there, the study illustrated when the team re-identified a woman from her "anonymous" -- though publicly available -- DNA information.
+
+The data contained in genetic databases represent only a small portion of the total US population, Erlich noted. Once genetic databases cover roughly 2% of a population, though, nearly any person could be matched to at least a third cousin level and conceivably be identified by DNA, he and his co-authors estimate.
+
+Given the rapid growth of consumer genomics, such possibilities are probably achievable in the near future, they conclude.
+
+Combining databases
+
+Noah Rosenberg , a biology professor at Stanford University, said Erlich's study "shows that the Golden State Killer case was not an anomaly."
+
+"In a pretty large fraction of cases, it would be possible to use the technique used in that case to identify the contributor of a DNA sample," said Rosenberg, who was not involved in that study but is senior author of a separate study also published Thursday in the journal Cell.
+
+In his study, Rosenberg and his co-authors wanted to see "if databases commonly used in forensic genetics can communicate with databases commonly used in biomedical, genealogical and personal genomics research."
+
+DNA evidence has been admissible in US courts since the late 1980s, and since then law enforcement has been collecting DNA. Because each type of database uses "different pieces of the genome," Rosenberg said, the technique used in his study was different from the method employed in the Golden State Killer case.
+
+One of the pathologists had preserved a DNA sample from the killer, and this allowed the cold case investigators to go back, resequence and identify more genetic markers than found in typical forensic reports, Rosenberg explained. "If the DNA sample is not available to do that, then what might typically be available would be the forensic genetic markers."
+
+With less data available to law enforcement, what happens when investigators do not have the ability to retest a DNA sample?
+
+"It's scientifically possible for links to be made between different types of database," Rosenberg said. "We were able to find matches between samples in databases of non-overlapping genetic markers more than 90% of the time when they were samples from the same individual and around 30% of the time when they were samples from close relatives.
+
+"Different databases constructed for different purposes might independently not provide enough information to reveal a person's identity but by combining information from multiple databases identifications can be made," he said.
+
+His and Erlich's studies "are both about this principle that connecting multiple databases reveals information that's not contained in either databases and that might not be intended by the people who have made those databases," he said.
+
+Get CNN Health's weekly newsletter Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+
+Rosenberg hopes his study "will help catalyze a conversation among many different stakeholders in forensic genetics, genetic privacy and ancestry testing."
+
+Erlich and his co-authors concluded the study with ideas for reducing misuse of genetic databases. First, they call for changes to rules that allow discarded material in clinics to be subject to genetic testing. Requiring the consent of individuals before testing would "give better protection to human subjects," Erlich said. They also suggest that consumer genetic companies adopt a better strategy of encryption so that there is a "technical means to differentiate between legitimate and illegitimate searches."
+
+Rosenberg said, "those ideas merit some discussion. Another idea could be about what type of information is viewed as admissible in court."

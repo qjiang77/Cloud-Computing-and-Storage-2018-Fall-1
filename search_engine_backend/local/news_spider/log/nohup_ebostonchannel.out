@@ -1,0 +1,202 @@
+205->123->84 for http://thebostonchannel.com
+205->123->0 for http://thebostonchannel.com/travel
+205->123->0 for http://thebostonchannel.com/nowcast
+205->123->0 for http://thebostonchannel.com/health
+205->123->0 for http://thebostonchannel.com/health-source
+205->123->0 for http://thebostonchannel.com/alerts
+205->123->0 for http://thebostonchannel.com/internships
+205->123->0 for http://thebostonchannel.com/editorials
+205->123->0 for http://thebostonchannel.com/cityline
+205->123->0 for http://thebostonchannel.com/automotive
+205->123->0 for http://thebostonchannel.com/stay-and-play
+205->123->0 for http://thebostonchannel.com/contests
+205->123->0 for http://thebostonchannel.com/national-news
+205->123->0 for http://thebostonchannel.com/sports
+205->123->0 for http://thebostonchannel.com/money
+205->123->0 for http://thebostonchannel.com/education
+205->123->0 for http://thebostonchannel.com/weather
+205->123->0 for http://thebostonchannel.com/upload
+205->123->0 for http://thebostonchannel.com/community
+205->123->0 for http://thebostonchannel.com/rss
+205->123->0 for http://thebostonchannel.com/chronicle
+205->123->0 for http://thebostonchannel.com/closings
+205->123->0 for http://thebostonchannel.com/vuz
+205->123->0 for http://thebostonchannel.com/local-news
+205->123->0 for http://thebostonchannel.com/5-for-good
+205->123->0 for http://thebostonchannel.com/news-team
+205->123->0 for http://thebostonchannel.com/apps
+205->123->0 for http://thebostonchannel.com/wcvb-updates
+205->123->0 for http://thebostonchannel.com/entertainment
+205->123->0 for http://thebostonchannel.com/real-estate
+205->123->0 for http://thebostonchannel.com/traffic
+205->123->0 for http://thebostonchannel.com/politics
+205->123->0 for http://thebostonchannel.com/ulocal
+[2018-10-14 19:28:24] ========== (NewsSpider-1) Start! ==========
+[2018-10-14 19:28:24] ========== (NewsSpider-2) Start! ==========
+[2018-10-14 19:28:24] ========== (NewsSpider-3) Start! ==========
+[2018-10-14 19:28:24] ========== (NewsSpider-4) Start! ==========
+[2018-10-14 19:28:24] ========== (NewsSpider-5) Start! ==========
+[2018-10-14 19:28:37] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:37] Error when printing
+[2018-10-14 19:28:37] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:37] Error when printing
+[2018-10-14 19:28:37] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:37] Error when printing
+[2018-10-14 19:28:37] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:37] Error when printing
+[2018-10-14 19:28:38] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:38] Error when printing
+[2018-10-14 19:28:50] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:50] Error when printing
+[2018-10-14 19:28:51] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:51] Error when printing
+[2018-10-14 19:28:52] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:52] Error when printing
+[2018-10-14 19:28:53] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:53] Error when printing
+[2018-10-14 19:28:54] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:28:54] Error when printing
+[2018-10-14 19:29:04] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:04] Error when printing
+[2018-10-14 19:29:05] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:05] Error when printing
+[2018-10-14 19:29:05] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:05] Error when printing
+[2018-10-14 19:29:07] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:07] Error when printing
+[2018-10-14 19:29:08] (NewsSpider-1) (1/84) Crawling and storing DONE - When Is it Time to Get a Mammogram?
+[2018-10-14 19:29:08] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:08] Error when printing
+[2018-10-14 19:29:14] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:14] Error when printing
+[2018-10-14 19:29:15] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:15] Error when printing
+[2018-10-14 19:29:16] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:16] Error when printing
+[2018-10-14 19:29:19] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:19] Error when printing
+[2018-10-14 19:29:20] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:20] Error when printing
+[2018-10-14 19:29:25] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:25] Error when printing
+[2018-10-14 19:29:27] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:27] Error when printing
+[2018-10-14 19:29:27] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:27] Error when printing
+[2018-10-14 19:29:29] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:29] Error when printing
+[2018-10-14 19:29:32] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:32] Error when printing
+[2018-10-14 19:29:35] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:35] Error when printing
+[2018-10-14 19:29:36] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:36] Error when printing
+[2018-10-14 19:29:37] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:37] Error when printing
+[2018-10-14 19:29:39] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:39] Error when printing
+[2018-10-14 19:29:42] (NewsSpider-4) (2/84) Crawling and storing DONE - Why fall might be the best time to visit Cape Cod and the Islands
+[2018-10-14 19:29:42] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:42] Error when printing
+[2018-10-14 19:29:45] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:45] Error when printing
+[2018-10-14 19:29:47] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:47] Error when printing
+[2018-10-14 19:29:49] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:49] Error when printing
+[2018-10-14 19:29:50] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:50] Error when printing
+[2018-10-14 19:29:52] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:52] Error when printing
+[2018-10-14 19:29:53] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:53] Error when printing
+[2018-10-14 19:29:57] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:57] Error when printing
+[2018-10-14 19:29:59] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:29:59] Error when printing
+[2018-10-14 19:30:01] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:01] Error when printing
+[2018-10-14 19:30:02] (NewsSpider-2) (3/84) Crawling and storing DONE - How to Avoid Migraine Triggers
+[2018-10-14 19:30:03] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:03] Error when printing
+[2018-10-14 19:30:04] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:04] Error when printing
+[2018-10-14 19:30:08] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:08] Error when printing
+[2018-10-14 19:30:11] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:11] Error when printing
+[2018-10-14 19:30:12] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:12] Error when printing
+[2018-10-14 19:30:12] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:12] Error when printing
+[2018-10-14 19:30:13] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:13] Error when printing
+[2018-10-14 19:30:14] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:14] Error when printing
+[2018-10-14 19:30:17] (NewsSpider-5) (4/84) Crawling and storing DONE - Treating Chronic Pain With Integrative Therapies
+[2018-10-14 19:30:18] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:18] Error when printing
+[2018-10-14 19:30:18] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:18] Error when printing
+[2018-10-14 19:30:19] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:19] Error when printing
+[2018-10-14 19:30:21] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:21] Error when printing
+[2018-10-14 19:30:24] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:24] Error when printing
+[2018-10-14 19:30:26] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:26] Error when printing
+[2018-10-14 19:30:26] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:26] Error when printing
+[2018-10-14 19:30:28] (NewsSpider-1) (5/84) Crawling and storing DONE - Breast Cancer Myths Debunked
+[2018-10-14 19:30:28] (NewsSpider-3) (6/84) Crawling and storing DONE - 5 Tips for Protecting Your Lungs in the Cold Weather
+[2018-10-14 19:30:29] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:29] Error when printing
+[2018-10-14 19:30:29] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:29] Error when printing
+[2018-10-14 19:30:32] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:32] Error when printing
+[2018-10-14 19:30:35] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:35] Error when printing
+[2018-10-14 19:30:38] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:38] Error when printing
+[2018-10-14 19:30:38] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:38] Error when printing
+[2018-10-14 19:30:38] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:38] Error when printing
+[2018-10-14 19:30:40] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:40] Error when printing
+[2018-10-14 19:30:42] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:42] Error when printing
+[2018-10-14 19:30:43] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:43] Error when printing
+[2018-10-14 19:30:44] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:44] Error when printing
+[2018-10-14 19:30:46] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:46] Error when printing
+[2018-10-14 19:30:46] (NewsSpider-4) (7/84) Crawling and storing DONE - Breast Health: What to Do if You Find a Lump
+[2018-10-14 19:30:48] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:48] Error when printing
+[2018-10-14 19:30:50] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:50] Error when printing
+[2018-10-14 19:30:51] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:51] Error when printing
+[2018-10-14 19:30:53] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:53] Error when printing
+[2018-10-14 19:30:53] (NewsSpider-5) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:53] Error when printing
+[2018-10-14 19:30:54] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:54] Error when printing
+[2018-10-14 19:30:55] ========== (NewsSpider-5) Thread END ==========
+[2018-10-14 19:30:56] (NewsSpider-2) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:56] Error when printing
+[2018-10-14 19:30:57] (NewsSpider-1) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:57] Error when printing
+[2018-10-14 19:30:57] ========== (NewsSpider-2) Thread END ==========
+[2018-10-14 19:30:59] (NewsSpider-3) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:59] Error when printing
+[2018-10-14 19:30:59] (NewsSpider-4) unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-10-14 19:30:59] Error when printing
+[2018-10-14 19:30:59] ========== (NewsSpider-1) Thread END ==========
+[2018-10-14 19:30:59] ========== (NewsSpider-3) Thread END ==========
+[2018-10-14 19:31:02] ========== (NewsSpider-4) Thread END ==========

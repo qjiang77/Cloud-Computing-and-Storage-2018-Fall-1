@@ -1,0 +1,34 @@
+title source_url url tags publish_date authors summary text
+Facebook: Hackers accessed personal data from 29M accounts|http://thebusinessjournal.com|https://thebusinessjournal.com/facebook-hackers-accessed-personal-data-from-29m-accounts/|MAE ANDERSON,AP Technology Writer|2018-10-12|||
+
+Written by AP Technology Writer, MAE ANDERSON published on October 12, 2018 - 12:29 PM
+
+Share this:
+
+(AP) — Facebook says hackers accessed a wide swath of information — ranging from emails and phone numbers to more personal details like sites visited and places checked into — from millions of accounts as part of a security breach the company disclosed two weeks ago.
+
+Twenty-nine million accounts had some form of information stolen. Originally Facebook said 50 million accounts were affected, but that it didn’t know if they had been misused.
+
+The news comes at a jittery time ahead of the midterm elections when Facebook is fighting off misuse of its site on a number of fronts . The company said Friday there’s no evidence this is related to the midterms.
+
+On Friday Facebook said hackers accessed names, email addresses or phone numbers from these accounts. For 14 million of them, hackers got even more data, such as hometown, birthdate, the last 10 places they checked into or the 15 most recent searches.
+
+An additional 1 million accounts were affected, but hackers didn’t get any information from them.
+
+Facebook isn’t giving a breakdown of where these users are, but says the breach was “fairly broad.” It plans to send messages to people whose accounts were hacked.
+
+Facebook said third-party apps that use a Facebook login and Facebook apps like WhatsApp and Instagram were unaffected by the breach.
+
+Facebook said the FBI is investigating, but asked the company not to discuss who may be behind the attack. The company said it hasn’t ruled out the possibility of smaller-scale attacks that used the same vulnerability.
+
+Facebook has said the attackers gained the ability to “seize control” of those user accounts by stealing digital keys the company uses to keep users logged in. They could do so by exploiting three distinct bugs in Facebook’s code.
+
+The hackers began with a set of accounts they controlled, then used an automated process to access the digital keys for accounts that were “friends” with the accounts they had already compromised. That expanded to “friends of friends,” extending their access to about 400,000 accounts, and then went on from there to access 30 million accounts. There is no evidence that the hackers made any posts or took any other activity using the hacked accounts.
+
+The company said it has fixed the bugs and logged out affected users to reset those digital keys.
+
+At the time, CEO Mark Zuckerberg — whose own account was compromised — said attackers would have had the ability to view private messages or post on someone’s account, but there’s no sign that they did.
+
+Facebook Vice President Guy Rosen said in a call with reporters on Friday the company hasn’t ruled out the possibility of smaller-scale efforts to exploit the same vulnerability that the hackers used before it was disabled.
+
+The company has a website its 2 billion global users can use to check if their accounts have been accessed, and if so, exactly what information was stolen. It will also provide guidance on how to spot and deal with suspicious emails or texts. Facebook will also send messages directly to those people affected by the hack.

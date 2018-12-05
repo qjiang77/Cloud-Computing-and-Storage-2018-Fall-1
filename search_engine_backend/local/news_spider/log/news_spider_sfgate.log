@@ -1,0 +1,887 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feed/
+INFO:root:[2018-09-08 18:11:50] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:11:50] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:11:50] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:11:50] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:11:50] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:11:51] (NewsSpider-5) (1/305) Crawling and storing DONE - A year later: The fuse that lit the Battles of Berkeley
+INFO:root:[2018-09-08 18:11:51] (NewsSpider-3) (2/305) Crawling and storing DONE - A Russian Hill one-bedroom on Macondary Lane asking $797K
+INFO:root:[2018-09-08 18:11:54] (NewsSpider-2) (3/305) Crawling and storing DONE - Where Are the Best Places to Head for a Forest Knolls Dinner?
+INFO:root:[2018-09-08 18:11:54] (NewsSpider-5) (4/305) Crawling and storing DONE - Illinois governor approves marijuana as an opioid alternative
+INFO:root:[2018-09-08 18:11:58] (NewsSpider-5) (5/305) Crawling and storing DONE - Crocker Amazon home with a gazebo hot tub asking $899K
+INFO:root:[2018-09-08 18:12:00] (NewsSpider-2) (6/305) Crawling and storing DONE - Court: The crime is what you did, not what you could have done
+INFO:root:[2018-09-08 18:12:04] (NewsSpider-2) (7/305) Crawling and storing DONE - When the 49ers changed their logo, and fans revolted
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feed/
+INFO:root:[2018-09-08 18:27:30] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:27:30] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:27:30] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:27:30] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:27:30] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:27:31] (NewsSpider-2) (1/305) Crawling and storing DONE - Sink a 3: Stephen Curry tribute song is awesome.
+INFO:root:[2018-09-08 18:27:31] (NewsSpider-4) (2/305) Crawling and storing DONE - Cannabis 101: What You Need to Know
+INFO:root:[2018-09-08 18:27:32] (NewsSpider-3) (3/305) Crawling and storing DONE - Green living and jaw-dropping views in walkable Ashbury Heights
+INFO:root:[2018-09-08 18:27:34] (NewsSpider-1) (4/305) Crawling and storing DONE - Defining Your Privacy in a Time of Opt-ins & Notifications
+INFO:root:[2018-09-08 18:27:35] (NewsSpider-5) (5/305) Crawling and storing DONE - Meet the Farmers and Vintners at the Sierra Oro Farm Trail Passport Weekend
+INFO:root:[2018-09-08 18:27:36] (NewsSpider-3) (6/305) Crawling and storing DONE - San Francisco Opera toasts to a new season in style
+INFO:root:[2018-09-08 18:27:37] (NewsSpider-5) (7/305) Crawling and storing DONE - See rare pics of the Palace of Fine Arts as it marks its 100th anniversary
+INFO:root:[2018-09-08 18:27:43] (NewsSpider-1) (8/305) Crawling and storing DONE - Preserved San Francisco Victorian home, circa 1887, comes with $3,107 rental apartment
+INFO:root:[2018-09-08 18:27:46] (NewsSpider-1) (9/305) Crawling and storing DONE - Jeff Sessions gets smoked with rolling papers that support pot legalization
+INFO:root:[2018-09-08 18:27:49] (NewsSpider-1) (10/305) Crawling and storing DONE - Electrical equipment apparently explodes on Mission Street, halts business on 2 block stretch
+INFO:root:[2018-09-08 18:27:51] (NewsSpider-1) (11/305) Crawling and storing DONE - U.S. Senate passes farm bill that legalizes industrial hemp
+INFO:root:[2018-09-08 18:27:56] (NewsSpider-1) (12/305) Crawling and storing DONE - The battle over rent control in the East Bay
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='sfgate.stats.com', port=80): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='www.sfgate.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feed/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feeds/
+INFO:root:[2018-10-14 10:52:51] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:52:51] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:52:51] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:52:51] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:52:51] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:52:51] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:52:52] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:52:52] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:52:52] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:52:52] ========== (NewsSpider-10) Start! ==========
+INFO:root:[2018-10-14 10:53:00] (NewsSpider-2) (1/295) Crawling and storing DONE - Anne Brigman, a proto-feminist photographer, gets her due at Nevada Museum
+INFO:root:[2018-10-14 10:53:01] (NewsSpider-9) (2/295) Crawling and storing DONE - Major beer brand CEO says marijuana decriminalization is ‘inevitable’
+INFO:root:[2018-10-14 10:53:01] (NewsSpider-7) (3/295) Crawling and storing DONE - San Jose Earthquakes name Matias Almeyda new head coach
+INFO:root:[2018-10-14 10:53:03] (NewsSpider-6) (4/295) Crawling and storing DONE - With MLS-worst record, SJ Earthquakes fire head coach Mikael Stahre
+INFO:root:[2018-10-14 10:53:05] (NewsSpider-5) (5/295) Crawling and storing DONE - NASA releases new ‘head-scratcher’ images of Pluto
+INFO:root:[2018-10-14 10:53:06] (NewsSpider-4) (6/295) Crawling and storing DONE - The ‘Batman Effect’: Children in costume work harder, according to study
+INFO:root:[2018-10-14 10:53:11] (NewsSpider-1) (7/295) Crawling and storing DONE - Sea-to-Sky Corridor Spans Coastal Salish Culture
+INFO:root:[2018-10-14 10:53:12] (NewsSpider-8) (8/295) Crawling and storing DONE - Is Richmond the new Oakland? New ferry terminal attracts SF homebuyers, stokes gentrification fears
+INFO:root:[2018-10-14 10:53:14] (NewsSpider-7) (9/295) Crawling and storing DONE - Treasure Island Music Festival: A guide to the boutique indie festival on the Bay
+INFO:root:[2018-10-14 10:53:14] (NewsSpider-6) (10/295) Crawling and storing DONE - Finding the Best Burgers for a Balboa Park Lunch Extravaganza
+INFO:root:[2018-10-14 10:53:15] (NewsSpider-4) (11/295) Crawling and storing DONE - San Francisco Must-Try Establishments
+INFO:root:[2018-10-14 10:53:15] (NewsSpider-5) (12/295) Crawling and storing DONE - Stanford’s Jamel Brinkley among National Book Award finalists
+INFO:root:[2018-10-14 10:53:16] (NewsSpider-9) (13/295) Crawling and storing DONE - Could Cal be heading to Denver as a No. 5 seed?
+INFO:root:[2018-10-14 10:53:17] (NewsSpider-10) (14/295) Crawling and storing DONE - What Are Some Can’t-Miss Choices Near Corona Heights for Breakfast?
+INFO:root:[2018-10-14 10:53:19] (NewsSpider-1) (15/295) Crawling and storing DONE - It’s ethical to watch ‘Wonder Woman’ on home video
+INFO:root:[2018-10-14 10:53:21] (NewsSpider-3) (16/295) Crawling and storing DONE - 49ers’ Breida has a chance to play; Staley enjoying stability
+INFO:root:[2018-10-14 10:53:22] (NewsSpider-4) (17/295) Crawling and storing DONE - With Manfred Honeck at the helm, SF Symphony unleashes a heroic musical showing
+INFO:root:[2018-10-14 10:53:23] (NewsSpider-6) (18/295) Crawling and storing DONE - Poll: Support for marijuana legalization hits record 62 percent of Americans
+INFO:root:[2018-10-14 10:53:24] (NewsSpider-5) (19/295) Crawling and storing DONE - Marijuana is the most referenced drug in popular music, study finds
+INFO:root:[2018-10-14 10:53:29] (NewsSpider-9) (20/295) Crawling and storing DONE - Bay Area Soccer Roundup: SF City and SF Glens clash in SF Derby, El Farolito advances in NPSL playoffs
+INFO:root:[2018-10-14 10:53:29] (NewsSpider-1) (21/295) Crawling and storing DONE - Performance legend Shelton Mann premieres new work in SF
+INFO:root:[2018-10-14 10:53:29] (NewsSpider-2) (22/295) Crawling and storing DONE - A brief history of the off-the-court rivalry between the Warriors and Cavaliers
+INFO:root:[2018-10-14 10:53:31] (NewsSpider-10) (23/295) Crawling and storing DONE - Melissa McCarthy takes serious route in portraying notorious literary forger
+INFO:root:[2018-10-14 10:53:31] (NewsSpider-3) (24/295) Crawling and storing DONE - Is it time for a new personal brand?
+INFO:root:[2018-10-14 10:53:39] (NewsSpider-1) (25/295) Crawling and storing DONE - Artist Dinh Q. Lê “Returns” to California for His Largest Exhibition in a Decade
+INFO:root:[2018-10-14 10:53:39] (NewsSpider-5) (26/295) Crawling and storing DONE - All school and no play raises anxiety and depression in children
+INFO:root:[2018-10-14 10:53:43] (NewsSpider-10) (27/295) Crawling and storing DONE - What I’d ask at tonight’s debate
+INFO:root:[2018-10-14 10:53:45] (NewsSpider-3) (28/295) Crawling and storing DONE - Sheriff’s department to help some undocumented immigrants obtain visas
+INFO:root:[2018-10-14 10:53:47] (NewsSpider-2) (29/295) Crawling and storing DONE - When do Tahoe and Sierra ski areas open for 2017-2018?
+INFO:root:[2018-10-14 10:53:50] (NewsSpider-7) (30/295) Crawling and storing DONE - Lonely Planet’s Top 10 ‘value’ travel spots for 2016
+INFO:root:[2018-10-14 10:53:53] (NewsSpider-3) (31/295) Crawling and storing DONE - What Should Visitors Know About the Gay Pride Festival in San Francisco?
+INFO:root:[2018-10-14 10:53:59] (NewsSpider-9) (32/295) Crawling and storing DONE - Thursday CCS Open Division consolation basketball scores
+INFO:root:[2018-10-14 10:54:04] (NewsSpider-2) (33/295) Crawling and storing DONE - Court: The crime is what you did, not what you could have done
+INFO:root:[2018-10-14 10:54:05] (NewsSpider-8) (34/295) Crawling and storing DONE - Highlights from Treasure Island Music Festival 2018
+INFO:root:[2018-10-14 10:54:06] (NewsSpider-6) (35/295) Crawling and storing DONE - High Times postpones Sacramento Cannabis Cup
+INFO:root:[2018-10-14 10:54:08] (NewsSpider-5) (36/295) Crawling and storing DONE - Cal ranks 10th in Pac-12 in assists per game: Men’s basketball stats breakdown
+INFO:root:[2018-10-14 10:54:21] (NewsSpider-1) (37/295) Crawling and storing DONE - Green living and jaw-dropping views in walkable Ashbury Heights
+INFO:root:[2018-10-14 10:54:22] (NewsSpider-3) (38/295) Crawling and storing DONE - High Times postpones Sacramento Cannabis Cup
+INFO:root:[2018-10-14 10:54:22] (NewsSpider-4) (39/295) Crawling and storing DONE - Sea-to-Sky Corridor Enriches Visitors with Diverse Cultural Institutions
+INFO:root:[2018-10-14 10:54:23] (NewsSpider-7) (40/295) Crawling and storing DONE - Half Moon Bay boys run past Westmoor
+INFO:root:[2018-10-14 10:54:23] (NewsSpider-9) (41/295) Crawling and storing DONE - California’s struggling marijuana market considers new delivery rules
+INFO:root:[2018-10-14 10:54:25] (NewsSpider-10) (42/295) Crawling and storing DONE - “Village Music” world premiere
+INFO:root:[2018-10-14 10:54:25] (NewsSpider-2) (43/295) Crawling and storing DONE - 6 reasons to visit Mr. East Kitchen
+INFO:root:[2018-10-14 10:54:26] (NewsSpider-8) (44/295) Crawling and storing DONE - Jerusalem Quartet and guests explore new dimensions of string music
+INFO:root:[2018-10-14 10:54:28] (NewsSpider-6) (45/295) Crawling and storing DONE - Giving Bay Area children a life-changing education with the BASIC Fund
+INFO:root:[2018-10-14 10:54:28] (NewsSpider-1) (46/295) Crawling and storing DONE - Cypress Hill’s B-Real opens cannabis shop in Los Angeles
+INFO:root:[2018-10-14 10:54:29] (NewsSpider-3) (47/295) Crawling and storing DONE - More from Fantastic Friday of section boys hoop championships
+INFO:root:[2018-10-14 10:54:58] (NewsSpider-7) (48/295) Crawling and storing DONE - Jeff Sessions gets smoked with rolling papers that support pot legalization
+INFO:root:[2018-10-14 10:55:01] (NewsSpider-5) (49/295) Crawling and storing DONE - Celebrate the Bounty and Beauty of Sonoma Valley
+INFO:root:[2018-10-14 10:55:02] (NewsSpider-4) (50/295) Crawling and storing DONE - When the 49ers changed their logo, and fans revolted
+INFO:root:[2018-10-14 10:55:03] (NewsSpider-8) (51/295) Crawling and storing DONE - An enchanting program of pop music from Baroque-era Venice
+INFO:root:[2018-10-14 10:55:07] (NewsSpider-6) (52/295) Crawling and storing DONE - San Francisco Greek Film Festival returns for 15th edition
+INFO:root:[2018-10-14 10:55:08] (NewsSpider-7) (53/295) Crawling and storing DONE - If NCAA Tournament started today, would Cal be a No. 5 seed?
+INFO:root:[2018-10-14 10:55:11] (NewsSpider-9) (54/295) Crawling and storing DONE - Locker room antics (or did the players’ kiss raise eyebrows in ’48)
+INFO:root:[2018-10-14 10:55:17] (NewsSpider-3) (55/295) Crawling and storing DONE - This sunny Belvedere estate features bay views at every turn
+INFO:root:[2018-10-14 10:55:19] (NewsSpider-1) (56/295) Crawling and storing DONE - The Year in Crazy: 2014
+INFO:root:[2018-10-14 10:55:19] (NewsSpider-8) (57/295) Crawling and storing DONE - Hazy doctor-patient divide in Chekhov’s ‘Ward 6’
+INFO:root:[2018-10-14 10:55:20] (NewsSpider-2) (58/295) Crawling and storing DONE - The Bay’s colorful salt ponds are fading — and that’s a good thing
+INFO:root:[2018-10-14 10:55:20] (NewsSpider-7) (59/295) Crawling and storing DONE - A look at postseason superlatives for Cal basketball
+INFO:root:[2018-10-14 10:55:26] (NewsSpider-1) (60/295) Crawling and storing DONE - A Classic California Day Starts With Bubbles from Domaine Chandon
+INFO:root:[2018-10-14 10:55:38] (NewsSpider-3) (61/295) Crawling and storing DONE - Beyond the Pools and Patios, Palm Springs is Also an Adventure Paradise
+INFO:root:[2018-10-14 10:55:39] (NewsSpider-8) (62/295) Crawling and storing DONE - Sink a 3: Stephen Curry tribute song is awesome.
+INFO:root:[2018-10-14 10:55:40] (NewsSpider-9) (63/295) Crawling and storing DONE - Why a “good enough” marriage is best
+INFO:root:[2018-10-14 10:55:42] (NewsSpider-2) (64/295) Crawling and storing DONE - What Should Visitors Know About the Gay Pride Festival in San Francisco?
+INFO:root:[2018-10-14 10:55:43] (NewsSpider-6) (65/295) Crawling and storing DONE - Is StubHub lawsuit a thorn in Warriors’ rosy season?
+INFO:root:[2018-10-14 10:55:44] (NewsSpider-5) (66/295) Crawling and storing DONE - Check Out Monster’s Bash and New Year’s Eve Gala on USS Hornet
+INFO:root:[2018-10-14 10:55:44] (NewsSpider-1) (67/295) Crawling and storing DONE - New Colson Whitehead novel ‘The Nickel Boys’ to be published in July
+INFO:root:[2018-10-14 10:55:44] (NewsSpider-9) (68/295) Crawling and storing DONE - Archetype Brings Feel-Good, Plant-Forward Freshness to St. Helena!
+INFO:root:[2018-10-14 10:55:46] (NewsSpider-10) (69/295) Crawling and storing DONE - San Francisco Must-Try Establishments
+INFO:root:[2018-10-14 10:55:47] (NewsSpider-5) (70/295) Crawling and storing DONE - Dream Globally, Eat Locally: Inside the Hawaii Food and Wine Festival
+INFO:root:[2018-10-14 10:55:47] (NewsSpider-6) (71/295) Crawling and storing DONE - Tony-Winning Thriller Oslo Comes to the Marin Theatre Company
+INFO:root:[2018-10-14 10:55:48] (NewsSpider-8) (72/295) Crawling and storing DONE - Stanford soccer: Morris to skip senior season to turn pro
+INFO:root:[2018-10-14 10:55:48] (NewsSpider-9) (73/295) Crawling and storing DONE - You Have Each Other, but You Have No Friends
+INFO:root:[2018-10-14 10:55:48] (NewsSpider-4) (74/295) Crawling and storing DONE - 79-year-old woman converts van, hits the road for adventure
+INFO:root:[2018-10-14 10:55:49] (NewsSpider-7) (75/295) Crawling and storing DONE - De La Salle takes down Harvard-Westlake at MaxPreps MLK Jr. Classic
+INFO:root:[2018-10-14 10:55:49] (NewsSpider-10) (76/295) Crawling and storing DONE - Bay Bridge bike path: Still the road to nowhere
+INFO:root:[2018-10-14 10:55:50] (NewsSpider-2) (77/295) Crawling and storing DONE - Where Are the Best Places to Head for a Forest Knolls Dinner?
+INFO:root:[2018-10-14 10:55:50] (NewsSpider-1) (78/295) Crawling and storing DONE - Review: ‘The Fifth Risk,’ by Michael Lewis
+INFO:root:[2018-10-14 10:55:52] (NewsSpider-5) (79/295) Crawling and storing DONE - Stanford coach David Shaw explains his two-a-day practice strategy
+INFO:root:[2018-10-14 10:55:53] (NewsSpider-3) (80/295) Crawling and storing DONE - Here’s where Bay Area rents went down last month and what you can get for an average rent
+INFO:root:[2018-10-14 10:55:54] (NewsSpider-1) (81/295) Crawling and storing DONE - Pismo Pier Reopens During 72nd Annual Pismo Beach Clam Festival
+INFO:root:[2018-10-14 10:55:55] (NewsSpider-4) (82/295) Crawling and storing DONE - SFGate Registration and user FAQ
+INFO:root:[2018-10-14 10:55:56] (NewsSpider-7) (83/295) Crawling and storing DONE - See rare pics of the Palace of Fine Arts as it marks its 100th anniversary
+INFO:root:[2018-10-14 10:55:56] (NewsSpider-8) (84/295) Crawling and storing DONE - Olé for 10th Festival del Sole season
+INFO:root:[2018-10-14 10:55:57] (NewsSpider-10) (85/295) Crawling and storing DONE - Reasons for SF Giants optimism? We found some.
+INFO:root:[2018-10-14 10:55:58] (NewsSpider-5) (86/295) Crawling and storing DONE - Media Noche debuts in the Mission with Cubanos, croquetas, ice cream
+INFO:root:[2018-10-14 10:55:59] (NewsSpider-9) (87/295) Crawling and storing DONE - How Providence St. Joseph uses technology to improve mental health
+INFO:root:[2018-10-14 10:56:00] (NewsSpider-6) (88/295) Crawling and storing DONE - Sacramento program will help minority cannabis business owners
+INFO:root:[2018-10-14 10:56:00] (NewsSpider-4) (89/295) Crawling and storing DONE - Small tech startup plans to grow cannabis on the International Space Station
+INFO:root:[2018-10-14 10:56:00] (NewsSpider-3) (90/295) Crawling and storing DONE - Run away from “Race”
+INFO:root:[2018-10-14 10:56:01] (NewsSpider-2) (91/295) Crawling and storing DONE - Watch: Neil deGrasse Tyson advises against smoking weed in space
+INFO:root:[2018-10-14 10:56:02] (NewsSpider-10) (92/295) Crawling and storing DONE - Things to Do in the Bay Area That Are Worth the Time
+INFO:root:[2018-10-14 10:56:02] (NewsSpider-8) (93/295) Crawling and storing DONE - San Ramon Valley gets defensive to defeat short-handed Monte Vista
+INFO:root:[2018-10-14 10:56:02] (NewsSpider-5) (94/295) Crawling and storing DONE - Is There Any Better Way to Greet the Day?
+INFO:root:[2018-10-14 10:56:05] (NewsSpider-6) (95/295) Crawling and storing DONE - Cal pitcher’s trick shot goes viral
+INFO:root:[2018-10-14 10:56:06] (NewsSpider-4) (96/295) Crawling and storing DONE - Got Milk?
+INFO:root:[2018-10-14 10:56:07] (NewsSpider-9) (97/295) Crawling and storing DONE - Capuchino keeps cool; Answers amazing Mills rally with a buzzer-beater for the win
+INFO:root:[2018-10-14 10:56:08] (NewsSpider-5) (98/295) Crawling and storing DONE - Plastics are forever: Pacifica beachcombers still finding landfill fallout
+INFO:root:[2018-10-14 10:56:08] (NewsSpider-10) (99/295) Crawling and storing DONE - It’s Hard to Leave Kahala Resort, But That’s A Good Thing
+INFO:root:[2018-10-14 10:56:09] (NewsSpider-8) (100/295) Crawling and storing DONE - The Sea-to-Sky Corridor: Gateway to an Art Movement
+INFO:root:[2018-10-14 10:56:09] (NewsSpider-1) (101/295) Crawling and storing DONE - Move over millennials—a surprising new demographic is taking over the rental market
+INFO:root:[2018-10-14 10:56:09] (NewsSpider-3) (102/295) Crawling and storing DONE - FDA approves first drug derived from marijuana
+INFO:root:[2018-10-14 10:56:10] (NewsSpider-7) (103/295) Crawling and storing DONE - Bay Area Soccer: Jimmy Conrad joins SF Glens staff, Oakland teams clash in US Open Cup Qualifier
+INFO:root:[2018-10-14 10:56:12] (NewsSpider-5) (104/295) Crawling and storing DONE - Treasure Island Music Festival: A guide to the boutique indie festival on the Bay
+INFO:root:[2018-10-14 10:56:13] (NewsSpider-8) (105/295) Crawling and storing DONE - Temp jobs can help restart your career
+INFO:root:[2018-10-14 10:56:13] (NewsSpider-6) (106/295) Crawling and storing DONE - Local Olympians one year later: Where are they now?
+INFO:root:[2018-10-14 10:56:14] (NewsSpider-10) (107/295) Crawling and storing DONE - Member of recall group caught on video telling Ed Lee supporters to ‘Go back to China’
+INFO:root:[2018-10-14 10:56:15] (NewsSpider-1) (108/295) Crawling and storing DONE - Tim Roye’s Mission: Know the League
+INFO:root:[2018-10-14 10:56:16] (NewsSpider-3) (109/295) Crawling and storing DONE - Cal announces 8-person Hall of Fame class
+INFO:root:[2018-10-14 10:56:17] (NewsSpider-5) (110/295) Crawling and storing DONE - Some Oakland A’s predictions for 2016
+INFO:root:[2018-10-14 10:56:18] (NewsSpider-8) (111/295) Crawling and storing DONE - Leadership changes announced at Contemporary Jewish Museum, Museum of the African Diaspora
+INFO:root:[2018-10-14 10:56:18] (NewsSpider-9) (112/295) Crawling and storing DONE - Invisible Cars
+INFO:root:[2018-10-14 10:56:21] (NewsSpider-4) (113/295) Crawling and storing DONE - Advertising Careers: How Jason Sperling Created the Campaign of the Decade
+INFO:root:[2018-10-14 10:56:21] (NewsSpider-1) (114/295) Crawling and storing DONE - Growing Up in Alameda: Motorcycles? In the living room?
+INFO:root:[2018-10-14 10:56:21] (NewsSpider-6) (115/295) Crawling and storing DONE - Are you blindly cheating on your spouse?
+INFO:root:[2018-10-14 10:56:21] (NewsSpider-3) (116/295) Crawling and storing DONE - Tyrone Wallace, other Cal athletes recognized for academics
+INFO:root:[2018-10-14 10:56:22] (NewsSpider-10) (117/295) Crawling and storing DONE - What you can rent in San Francisco’s Mission District for $3,000
+INFO:root:[2018-10-14 10:56:22] (NewsSpider-7) (118/295) Crawling and storing DONE - 6 must-see acts at Treasure Island Music Festival 2018
+INFO:root:[2018-10-14 10:56:23] (NewsSpider-1) (119/295) Crawling and storing DONE - Chron Quiz: Food alert
+INFO:root:[2018-10-14 10:56:24] (NewsSpider-5) (120/295) Crawling and storing DONE - SF teacher asks for a little help and here’s what happened
+WARNING:root:[2018-10-14 10:56:24] (NewsSpider-2) Article Not Exists on http://www.sfgate.com/details/santa-rosa-california/2018-bmw-6-series-640-gran-turismo-i-xdrive-95407-wbajv6c51jbc99794
+INFO:root:[2018-10-14 10:56:24] (NewsSpider-8) (121/295) Crawling and storing DONE - Disneyland birthday: Tracing 60 years in 24 hours
+INFO:root:[2018-10-14 10:56:25] (NewsSpider-4) (122/295) Crawling and storing DONE - Why natural surfaces rule in rustic-chic design
+INFO:root:[2018-10-14 10:56:25] (NewsSpider-9) (123/295) Crawling and storing DONE - Preserved San Francisco Victorian home, circa 1887, comes with $3,107 rental apartment
+INFO:root:[2018-10-14 10:56:25] (NewsSpider-6) (124/295) Crawling and storing DONE - Eight Ways to Transform Special Education
+INFO:root:[2018-10-14 10:56:28] (NewsSpider-5) (125/295) Crawling and storing DONE - Review: ‘Reading Through the Night,’ by Jane Tompkins
+INFO:root:[2018-10-14 10:56:29] (NewsSpider-2) (126/295) Crawling and storing DONE - Things to Do in the Bay Area That Are Worth the Time
+INFO:root:[2018-10-14 10:56:29] (NewsSpider-6) (127/295) Crawling and storing DONE - Mistake costly as Earthquakes fall to Sounders
+INFO:root:[2018-10-14 10:56:29] (NewsSpider-4) (128/295) Crawling and storing DONE - What Is Special About the Deerfield Winery in Sonoma?
+INFO:root:[2018-10-14 10:56:31] (NewsSpider-8) (129/295) Crawling and storing DONE - Numbers that defined 2015-16 Cal basketball season
+INFO:root:[2018-10-14 10:56:33] (NewsSpider-5) (130/295) Crawling and storing DONE - Burning Man to sue feds over setting several traffic stops
+INFO:root:[2018-10-14 10:56:34] (NewsSpider-2) (131/295) Crawling and storing DONE - Re-create Jill Stuart’s romantic, yet psychedelic, waves
+INFO:root:[2018-10-14 10:56:34] (NewsSpider-4) (132/295) Crawling and storing DONE - 5 Off-the-Beaten-Path Hikes in Marin
+INFO:root:[2018-10-14 10:56:34] (NewsSpider-6) (133/295) Crawling and storing DONE - Monica Lundy examines ‘Deviance’ at Nancy Toomey Fine Art
+INFO:root:[2018-10-14 10:56:35] (NewsSpider-8) (134/295) Crawling and storing DONE - The next big step after an interview: Crafting a thank-you letter
+INFO:root:[2018-10-14 10:56:38] (NewsSpider-7) (135/295) Crawling and storing DONE - Amandla Stenberg dazzles in passionate, driven ‘The Hate U Give’
+INFO:root:[2018-10-14 10:56:38] (NewsSpider-9) (136/295) Crawling and storing DONE - What Attractions Make the Hard Rock Cafe San Francisco Worth a Visit?
+INFO:root:[2018-10-14 10:56:39] (NewsSpider-10) (137/295) Crawling and storing DONE - Painful Bay Area medical prices among highest in nation
+INFO:root:[2018-10-14 10:56:39] (NewsSpider-4) (138/295) Crawling and storing DONE - ‘Weedcraft Inc.’ lets gamers become legal marijuana tycoons
+INFO:root:[2018-10-14 10:56:39] (NewsSpider-8) (139/295) Crawling and storing DONE - A Knight’s Tale – The Backstory of Jousting and Sword Fighting at the Northern California Renaissance Faire
+INFO:root:[2018-10-14 10:56:40] (NewsSpider-5) (140/295) Crawling and storing DONE - A look at who Cal is targeting on the transfer market
+INFO:root:[2018-10-14 10:56:41] (NewsSpider-6) (141/295) Crawling and storing DONE - This week: Final 747 flights + LA tips + New routes
+INFO:root:[2018-10-14 10:56:41] (NewsSpider-3) (142/295) Crawling and storing DONE - Wednesday roundup: Buzzer-beater by Athens gives Bellarmine win over Serra
+INFO:root:[2018-10-14 10:56:44] (NewsSpider-10) (143/295) Crawling and storing DONE - Marijuana can enhance pleasure and frequency of sex, research finds
+INFO:root:[2018-10-14 10:56:44] (NewsSpider-4) (144/295) Crawling and storing DONE - Schaubühne’s ‘An Enemy of the People’ unsuccessfully tries to make Ibsen cool
+INFO:root:[2018-10-14 10:56:46] (NewsSpider-2) (145/295) Crawling and storing DONE - Wednesday roundup: Last-second 3-pointer lifts Serra to stunning Jungle Game win
+INFO:root:[2018-10-14 10:56:46] (NewsSpider-5) (146/295) Crawling and storing DONE - Bellarmine wins roller-coaster basketball game with St. Francis
+INFO:root:[2018-10-14 10:56:47] (NewsSpider-3) (147/295) Crawling and storing DONE - Cynthia Nixon supports marijuana legalization in New York
+INFO:root:[2018-10-14 10:56:49] (NewsSpider-8) (148/295) Crawling and storing DONE - 7 ways to add a pop of color to neutral home décor
+INFO:root:[2018-10-14 10:56:49] (NewsSpider-9) (149/295) Crawling and storing DONE - Promoting Quality of Life for People with Developmental Disabilities
+INFO:root:[2018-10-14 10:56:52] (NewsSpider-10) (150/295) Crawling and storing DONE - A snail that has Homeland Security worried
+INFO:root:[2018-10-14 10:56:52] (NewsSpider-6) (151/295) Crawling and storing DONE - SF musician Debbie Neigher introduces new project Lapel
+INFO:root:[2018-10-14 10:56:52] (NewsSpider-2) (152/295) Crawling and storing DONE - When homemakers became heroes: Lava Thomas drawings at Rena Bransten
+INFO:root:[2018-10-14 10:56:52] (NewsSpider-1) (153/295) Crawling and storing DONE - Jill Soloway, creator of ‘Transparent,’ discusses new memoir
+INFO:root:[2018-10-14 10:56:53] (NewsSpider-7) (154/295) Crawling and storing DONE - Where are YOU Watching the World Cup?
+INFO:root:[2018-10-14 10:56:53] (NewsSpider-5) (155/295) Crawling and storing DONE - Bring your baseball questions: A’s, Giants midseason chat
+INFO:root:[2018-10-14 10:56:55] (NewsSpider-9) (156/295) Crawling and storing DONE - Famous aluminum house built after Oakland firestorm listed for $1.998 million
+INFO:root:[2018-10-14 10:56:56] (NewsSpider-10) (157/295) Crawling and storing DONE - Rents are down double-digits in some surprising S.F. neighborhoods
+WARNING:root:[2018-10-14 10:56:56] (NewsSpider-8) Article Not Exists on http://www.sfgate.com/details/santa-rosa-california/2019-bmw-x3-sdrive30i-95407-5uxtr7c58kle97921
+INFO:root:[2018-10-14 10:56:56] (NewsSpider-3) (158/295) Crawling and storing DONE - Writers condemn author Stephen Elliott after he sues creator of ‘S–ty Media Men’ list
+INFO:root:[2018-10-14 10:56:57] (NewsSpider-6) (159/295) Crawling and storing DONE - These Family Wineries in Sonoma Are Committed to Small-Batch Winemaking
+INFO:root:[2018-10-14 10:56:57] (NewsSpider-5) (160/295) Crawling and storing DONE - Marijuana use among baby boomers is on the rise, study finds
+INFO:root:[2018-10-14 10:56:57] (NewsSpider-2) (161/295) Crawling and storing DONE - The History of Bartholomew Park Winery in Sonoma, CA
+INFO:root:[2018-10-14 10:56:59] (NewsSpider-1) (162/295) Crawling and storing DONE - 3-Day Getaway to Palm Springs: Clubs, Culture and Pool Time
+INFO:root:[2018-10-14 10:56:59] (NewsSpider-4) (163/295) Crawling and storing DONE - Utah Mormons clash over medical marijuana legalization
+INFO:root:[2018-10-14 10:57:00] (NewsSpider-7) (164/295) Crawling and storing DONE - Stienstra video: Rain arrives in time for ducks, geese, otters at wildlife paradise
+INFO:root:[2018-10-14 10:57:00] (NewsSpider-5) (165/295) Crawling and storing DONE - Find Purity and Perfection with AQUA Carpatica
+INFO:root:[2018-10-14 10:57:01] (NewsSpider-6) (166/295) Crawling and storing DONE - PayByPhone Launches Parking Extension Feature for Apple Watch
+INFO:root:[2018-10-14 10:57:01] (NewsSpider-1) (167/295) Crawling and storing DONE - ASAP Rocky ends first day of Treasure Island Music Festival with a bang, despite late start
+INFO:root:[2018-10-14 10:57:01] (NewsSpider-8) (168/295) Crawling and storing DONE - The battle over rent control in the East Bay
+INFO:root:[2018-10-14 10:57:02] (NewsSpider-3) (169/295) Crawling and storing DONE - Top 12 pre-impeachment collectibles – Hurry before Trump is gone!
+INFO:root:[2018-10-14 10:57:02] (NewsSpider-10) (170/295) Crawling and storing DONE - San Francisco Batman
+INFO:root:[2018-10-14 10:57:03] (NewsSpider-4) (171/295) Crawling and storing DONE - Reel Local News: Filmmaker Gallegos vies for national cinematography award
+INFO:root:[2018-10-14 10:57:03] (NewsSpider-5) (172/295) Crawling and storing DONE - What Is Special About the Deerfield Winery in Sonoma?
+INFO:root:[2018-10-14 10:57:03] (NewsSpider-6) (173/295) Crawling and storing DONE - The History of Bartholomew Park Winery in Sonoma, CA
+INFO:root:[2018-10-14 10:57:05] (NewsSpider-2) (174/295) Crawling and storing DONE - Cypress Hill launches new marijuana brand through online delivery service
+INFO:root:[2018-10-14 10:57:06] (NewsSpider-8) (175/295) Crawling and storing DONE - What kind of job do you want?
+INFO:root:[2018-10-14 10:57:06] (NewsSpider-7) (176/295) Crawling and storing DONE - Sam Choy to open Poke to the Max in Bay Area
+INFO:root:[2018-10-14 10:57:06] (NewsSpider-3) (177/295) Crawling and storing DONE - Día de Los Muertos at SOMArts honors longtime curator René Yañez
+INFO:root:[2018-10-14 10:57:07] (NewsSpider-1) (178/295) Crawling and storing DONE - Cheech and Chong tell Jeff Sessions to ‘try inhaling it’
+INFO:root:[2018-10-14 10:57:07] (NewsSpider-5) (179/295) Crawling and storing DONE - What Attractions Make the Hard Rock Cafe San Francisco Worth a Visit?
+INFO:root:[2018-10-14 10:57:07] (NewsSpider-9) (180/295) Crawling and storing DONE - Jimmy Buffett plans to release his own ‘Coral Reefer’ brand of marijuana
+INFO:root:[2018-10-14 10:57:08] (NewsSpider-10) (181/295) Crawling and storing DONE - Where Can Diners Find a Great Crocker-Amazon Lunch?
+INFO:root:[2018-10-14 10:57:09] (NewsSpider-4) (182/295) Crawling and storing DONE - 9 Convertibles That Boast The Most Legroom for Under $40K
+INFO:root:[2018-10-14 10:57:10] (NewsSpider-6) (183/295) Crawling and storing DONE - Whistler’s Shoulder Season Turning Heads with Fall for Arts
+INFO:root:[2018-10-14 10:57:11] (NewsSpider-8) (184/295) Crawling and storing DONE - Senator Elizabeth Warren says feds should ‘back off’ marijuana legalization
+INFO:root:[2018-10-14 10:57:11] (NewsSpider-10) (185/295) Crawling and storing DONE - Breaking: SF Mission’s Galería De La Raza forced out of longtime space by rent hike
+INFO:root:[2018-10-14 10:57:11] (NewsSpider-3) (186/295) Crawling and storing DONE - Medical marijuana can help reduce psychosis symptoms, study finds
+INFO:root:[2018-10-14 10:57:12] (NewsSpider-4) (187/295) Crawling and storing DONE - Medical marijuana availability doesn’t increase teen use, study finds
+INFO:root:[2018-10-14 10:57:13] (NewsSpider-10) (188/295) Crawling and storing DONE - Where Are the Best Places to Head for a Forest Knolls Dinner?
+INFO:root:[2018-10-14 10:57:14] (NewsSpider-8) (189/295) Crawling and storing DONE - Gallup poll: Americans believe tobacco is more harmful than marijuana
+INFO:root:[2018-10-14 10:57:15] (NewsSpider-6) (190/295) Crawling and storing DONE - Venice Recap
+INFO:root:[2018-10-14 10:57:17] (NewsSpider-4) (191/295) Crawling and storing DONE - Extended coverage: Tevis, Menlo sack Central Coast Section title
+INFO:root:[2018-10-14 10:57:18] (NewsSpider-3) (192/295) Crawling and storing DONE - What’s new in the ski mountains of Tahoe?
+INFO:root:[2018-10-14 10:57:18] (NewsSpider-9) (193/295) Crawling and storing DONE - The real Sheffs of ‘Beautiful Boy’ talk recovery and the influence of love
+INFO:root:[2018-10-14 10:57:19] (NewsSpider-10) (194/295) Crawling and storing DONE - Euphemisms bite the dust
+INFO:root:[2018-10-14 10:57:19] (NewsSpider-2) (195/295) Crawling and storing DONE - Wake up from a career nightmare
+INFO:root:[2018-10-14 10:57:19] (NewsSpider-6) (196/295) Crawling and storing DONE - Explore This Frank Lloyd Wright Masterpiece in Marin
+INFO:root:[2018-10-14 10:57:21] (NewsSpider-4) (197/295) Crawling and storing DONE - Study: Cannabis-derived CBD could help people quit tobacco
+INFO:root:[2018-10-14 10:57:21] (NewsSpider-9) (198/295) Crawling and storing DONE - Adorable one-bedroom SF cottage with mountain cabin vibes asks $1.195 million
+INFO:root:[2018-10-14 10:57:21] (NewsSpider-3) (199/295) Crawling and storing DONE - Looking at art through the eyes of Wayne Thiebaud at SFMOMA
+INFO:root:[2018-10-14 10:57:23] (NewsSpider-1) (200/295) Crawling and storing DONE - Who’s behind Oakland’s mysterious sugar tax sign?
+INFO:root:[2018-10-14 10:57:24] (NewsSpider-10) (201/295) Crawling and storing DONE - How Sharks look after first week of play
+INFO:root:[2018-10-14 10:57:24] (NewsSpider-6) (202/295) Crawling and storing DONE - ‘Broad City’ supports Cynthia Nixon by giving away a signed bong
+INFO:root:[2018-10-14 10:57:25] (NewsSpider-2) (203/295) Crawling and storing DONE - Take a Trip Back in Time for the USS Hornet’s 75th Anniversary!
+INFO:root:[2018-10-14 10:57:25] (NewsSpider-7) (204/295) Crawling and storing DONE - These Family Wineries in Sonoma Are Committed to Small-Batch Winemaking
+INFO:root:[2018-10-14 10:57:26] (NewsSpider-8) (205/295) Crawling and storing DONE - Around the Bay Area, special rental offers and help for homeless fire victims
+INFO:root:[2018-10-14 10:57:28] (NewsSpider-1) (206/295) Crawling and storing DONE - Cal’s Jared Goff signs with Nike
+INFO:root:[2018-10-14 10:57:29] (NewsSpider-4) (207/295) Crawling and storing DONE - First time on the open market: $10.9-million St. Regis three-bedroom on 38th floor
+INFO:root:[2018-10-14 10:57:29] (NewsSpider-9) (208/295) Crawling and storing DONE - ‘Camping,’ with Jennifer Garner and Lena Dunham, collapses under insincerity
+INFO:root:[2018-10-14 10:57:30] (NewsSpider-8) (209/295) Crawling and storing DONE - Bay Area Soccer Roundup: ‘Oakland Roots’ announced, USL East Bay heads to Concord, Street Soccer USA Cup in SF, Quakes play 2 this week
+INFO:root:[2018-10-14 10:57:30] (NewsSpider-7) (210/295) Crawling and storing DONE - Top 3 matchups in this week’s S.F. golf extravaganza
+INFO:root:[2018-10-14 10:57:33] (NewsSpider-3) (211/295) Crawling and storing DONE - Super-Crafty Halloween Contest winners are here!
+INFO:root:[2018-10-14 10:57:33] (NewsSpider-1) (212/295) Crawling and storing DONE - Q&A: Oregon Sen. Jeff Merkley pushes for safe banking in the legal marijuana industry
+INFO:root:[2018-10-14 10:57:33] (NewsSpider-8) (213/295) Crawling and storing DONE - Bay Area Soccer Roundup: Oakland Roots announce players, Quakes’ Wondolowski close to record, SF Glens youth hold tourney
+INFO:root:[2018-10-14 10:57:34] (NewsSpider-10) (214/295) Crawling and storing DONE - Inventory, price reductions on the rise as Bay Area buyers begin to balk at high prices
+INFO:root:[2018-10-14 10:57:35] (NewsSpider-2) (215/295) Crawling and storing DONE - A Dad’s Influence in Raising Empathetic and Considerate Children
+INFO:root:[2018-10-14 10:57:36] (NewsSpider-7) (216/295) Crawling and storing DONE - Modern waterfront residences with access to parks, transportation, and restaurants set to open soon!
+INFO:root:[2018-10-14 10:57:36] (NewsSpider-9) (217/295) Crawling and storing DONE - Wondo scores, but Red Bulls pressure too much for SJ Earthquakes
+INFO:root:[2018-10-14 10:57:37] (NewsSpider-8) (218/295) Crawling and storing DONE - Bay Area Soccer Roundup: Season ends for El Farolito, SF City, SF Glens; SJ Earthquakes to play Man United
+INFO:root:[2018-10-14 10:57:39] (NewsSpider-4) (219/295) Crawling and storing DONE - Transit riders bar hop on MUNI
+INFO:root:[2018-10-14 10:57:39] (NewsSpider-1) (220/295) Crawling and storing DONE - Stephen Curry and Jordan Spieth share stage in new commercial
+INFO:root:[2018-10-14 10:57:39] (NewsSpider-10) (221/295) Crawling and storing DONE - Major beer brand CEO says marijuana decriminalization is ‘inevitable’
+INFO:root:[2018-10-14 10:57:40] (NewsSpider-2) (222/295) Crawling and storing DONE - Rabies
+INFO:root:[2018-10-14 10:57:40] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:57:40] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:57:41] ========== (NewsSpider-6) Thread END ==========
+INFO:root:[2018-10-14 10:57:41] (NewsSpider-3) (223/295) Crawling and storing DONE - A year later: The fuse that lit the Battles of Berkeley
+INFO:root:[2018-10-14 10:57:42] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:57:42] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 10:57:42] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:57:43] (NewsSpider-8) (224/295) Crawling and storing DONE - Lane Kiffin feeling #blessed on Twitter: his followers aren’t so sure
+INFO:root:[2018-10-14 10:57:44] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:57:44] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:57:45] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 10:57:45] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feed/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feeds/
+INFO:root:[2018-10-14 17:45:31] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:45:31] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:45:31] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:45:31] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:45:31] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:45:37] (NewsSpider-1) (1/296) Crawling and storing DONE - Advertising Careers: How Jason Sperling Created the Campaign of the Decade
+INFO:root:[2018-10-14 17:45:39] (NewsSpider-2) (2/296) Crawling and storing DONE - Performance legend Shelton Mann premieres new work in SF
+INFO:root:[2018-10-14 17:45:40] (NewsSpider-5) (3/296) Crawling and storing DONE - Promoting Quality of Life for People with Developmental Disabilities
+INFO:root:[2018-10-14 17:45:41] (NewsSpider-3) (4/296) Crawling and storing DONE - Locker room antics (or did the players’ kiss raise eyebrows in ’48)
+INFO:root:[2018-10-14 17:45:48] (NewsSpider-2) (5/296) Crawling and storing DONE - Eight Ways to Transform Special Education
+INFO:root:[2018-10-14 17:45:48] (NewsSpider-4) (6/296) Crawling and storing DONE - New Colson Whitehead novel ‘The Nickel Boys’ to be published in July
+INFO:root:[2018-10-14 17:45:48] (NewsSpider-1) (7/296) Crawling and storing DONE - NASA releases new ‘head-scratcher’ images of Pluto
+INFO:root:[2018-10-14 17:45:52] (NewsSpider-5) (8/296) Crawling and storing DONE - Cal pitcher’s trick shot goes viral
+INFO:root:[2018-10-14 17:46:00] (NewsSpider-4) (9/296) Crawling and storing DONE - Tyrone Wallace, other Cal athletes recognized for academics
+INFO:root:[2018-10-14 17:46:01] (NewsSpider-1) (10/296) Crawling and storing DONE - What Attractions Make the Hard Rock Cafe San Francisco Worth a Visit?
+INFO:root:[2018-10-14 17:46:01] (NewsSpider-5) (11/296) Crawling and storing DONE - Cal ranks 10th in Pac-12 in assists per game: Men’s basketball stats breakdown
+INFO:root:[2018-10-14 17:46:04] (NewsSpider-3) (12/296) Crawling and storing DONE - Reel Local News: Filmmaker Gallegos vies for national cinematography award
+INFO:root:[2018-10-14 17:46:08] (NewsSpider-2) (13/296) Crawling and storing DONE - Top 3 matchups in this week’s S.F. golf extravaganza
+INFO:root:[2018-10-14 17:46:10] (NewsSpider-1) (14/296) Crawling and storing DONE - Bring your baseball questions: A’s, Giants midseason chat
+INFO:root:[2018-10-14 17:46:11] (NewsSpider-5) (15/296) Crawling and storing DONE - 79-year-old woman converts van, hits the road for adventure
+INFO:root:[2018-10-14 17:46:14] (NewsSpider-3) (16/296) Crawling and storing DONE - Sheriff’s department to help some undocumented immigrants obtain visas
+INFO:root:[2018-10-14 17:46:15] (NewsSpider-2) (17/296) Crawling and storing DONE - Wondo scores, but Red Bulls pressure too much for SJ Earthquakes
+INFO:root:[2018-10-14 17:46:18] (NewsSpider-5) (18/296) Crawling and storing DONE - Stanford’s Jamel Brinkley among National Book Award finalists
+INFO:root:[2018-10-14 17:46:20] (NewsSpider-3) (19/296) Crawling and storing DONE - 6 reasons to visit Mr. East Kitchen
+INFO:root:[2018-10-14 17:46:27] (NewsSpider-4) (20/296) Crawling and storing DONE - Marijuana can enhance pleasure and frequency of sex, research finds
+INFO:root:[2018-10-14 17:46:27] (NewsSpider-2) (21/296) Crawling and storing DONE - Lonely Planet’s Top 10 ‘value’ travel spots for 2016
+INFO:root:[2018-10-14 17:46:27] (NewsSpider-1) (22/296) Crawling and storing DONE - Treasure Island Music Festival: A guide to the boutique indie festival on the Bay
+INFO:root:[2018-10-14 17:46:27] (NewsSpider-5) (23/296) Crawling and storing DONE - All school and no play raises anxiety and depression in children
+INFO:root:[2018-10-14 17:46:37] (NewsSpider-5) (24/296) Crawling and storing DONE - Olé for 10th Festival del Sole season
+INFO:root:[2018-10-14 17:46:43] (NewsSpider-1) (25/296) Crawling and storing DONE - A Classic California Day Starts With Bubbles from Domaine Chandon
+INFO:root:[2018-10-14 17:46:43] (NewsSpider-4) (26/296) Crawling and storing DONE - Disneyland birthday: Tracing 60 years in 24 hours
+INFO:root:[2018-10-14 17:46:43] (NewsSpider-2) (27/296) Crawling and storing DONE - Inventory, price reductions on the rise as Bay Area buyers begin to balk at high prices
+INFO:root:[2018-10-14 17:46:45] (NewsSpider-5) (28/296) Crawling and storing DONE - Is Richmond the new Oakland? New ferry terminal attracts SF homebuyers, stokes gentrification fears
+INFO:root:[2018-10-14 17:46:46] (NewsSpider-3) (29/296) Crawling and storing DONE - Medical marijuana can help reduce psychosis symptoms, study finds
+INFO:root:[2018-10-14 17:46:49] (NewsSpider-1) (30/296) Crawling and storing DONE - Cypress Hill launches new marijuana brand through online delivery service
+INFO:root:[2018-10-14 17:46:50] (NewsSpider-4) (31/296) Crawling and storing DONE - High Times postpones Sacramento Cannabis Cup
+INFO:root:[2018-10-14 17:46:50] (NewsSpider-3) (32/296) Crawling and storing DONE - Rabies
+INFO:root:[2018-10-14 17:46:55] (NewsSpider-1) (33/296) Crawling and storing DONE - Amandla Stenberg dazzles in passionate, driven ‘The Hate U Give’
+INFO:root:[2018-10-14 17:46:57] (NewsSpider-3) (34/296) Crawling and storing DONE - The next big step after an interview: Crafting a thank-you letter
+INFO:root:[2018-10-14 17:46:58] (NewsSpider-5) (35/296) Crawling and storing DONE - Review: ‘Reading Through the Night,’ by Jane Tompkins
+INFO:root:[2018-10-14 17:46:59] (NewsSpider-4) (36/296) Crawling and storing DONE - Painful Bay Area medical prices among highest in nation
+INFO:root:[2018-10-14 17:47:00] (NewsSpider-2) (37/296) Crawling and storing DONE - Why natural surfaces rule in rustic-chic design
+INFO:root:[2018-10-14 17:47:03] (NewsSpider-3) (38/296) Crawling and storing DONE - Schaubühne’s ‘An Enemy of the People’ unsuccessfully tries to make Ibsen cool
+INFO:root:[2018-10-14 17:47:03] (NewsSpider-5) (39/296) Crawling and storing DONE - Capuchino keeps cool; Answers amazing Mills rally with a buzzer-beater for the win
+INFO:root:[2018-10-14 17:47:07] (NewsSpider-4) (40/296) Crawling and storing DONE - More from Fantastic Friday of section boys hoop championships
+INFO:root:[2018-10-14 17:47:09] (NewsSpider-3) (41/296) Crawling and storing DONE - The History of Bartholomew Park Winery in Sonoma, CA
+INFO:root:[2018-10-14 17:47:13] (NewsSpider-4) (42/296) Crawling and storing DONE - Transit riders bar hop on MUNI
+INFO:root:[2018-10-14 17:47:13] (NewsSpider-1) (43/296) Crawling and storing DONE - When do Tahoe and Sierra ski areas open for 2017-2018?
+INFO:root:[2018-10-14 17:47:15] (NewsSpider-5) (44/296) Crawling and storing DONE - A Knight’s Tale – The Backstory of Jousting and Sword Fighting at the Northern California Renaissance Faire
+INFO:root:[2018-10-14 17:47:19] (NewsSpider-4) (45/296) Crawling and storing DONE - When homemakers became heroes: Lava Thomas drawings at Rena Bransten
+INFO:root:[2018-10-14 17:47:20] (NewsSpider-5) (46/296) Crawling and storing DONE - Utah Mormons clash over medical marijuana legalization
+INFO:root:[2018-10-14 17:47:22] (NewsSpider-3) (47/296) Crawling and storing DONE - Cal Performances program of string sextets yields a blustery onslaught
+INFO:root:[2018-10-14 17:47:25] (NewsSpider-4) (48/296) Crawling and storing DONE - Medical marijuana availability doesn’t increase teen use, study finds
+INFO:root:[2018-10-14 17:47:25] (NewsSpider-2) (49/296) Crawling and storing DONE - Could Cal be heading to Denver as a No. 5 seed?
+INFO:root:[2018-10-14 17:47:28] (NewsSpider-5) (50/296) Crawling and storing DONE - Mistake costly as Earthquakes fall to Sounders
+INFO:root:[2018-10-14 17:47:28] (NewsSpider-3) (51/296) Crawling and storing DONE - SFGate Registration and user FAQ
+INFO:root:[2018-10-14 17:47:33] (NewsSpider-2) (52/296) Crawling and storing DONE - Sacramento program will help minority cannabis business owners
+WARNING:root:[2018-10-14 17:47:35] (NewsSpider-4) Article Not Exists on http://www.sfgate.com/details/petaluma-california/2019-toyota-4runner-trd-offroad-premium-94952-jtebu5jr7k5619493
+INFO:root:[2018-10-14 17:47:36] (NewsSpider-3) (53/296) Crawling and storing DONE - Check Out Monster’s Bash and New Year’s Eve Gala on USS Hornet
+INFO:root:[2018-10-14 17:47:36] (NewsSpider-5) (54/296) Crawling and storing DONE - Día de Los Muertos at SOMArts honors longtime curator René Yañez
+INFO:root:[2018-10-14 17:47:36] (NewsSpider-1) (55/296) Crawling and storing DONE - The Year in Crazy: 2014
+INFO:root:[2018-10-14 17:47:39] (NewsSpider-2) (56/296) Crawling and storing DONE - Wake up from a career nightmare
+INFO:root:[2018-10-14 17:47:41] (NewsSpider-5) (57/296) Crawling and storing DONE - Treasure Island Music Festival: A guide to the boutique indie festival on the Bay
+INFO:root:[2018-10-14 17:47:45] (NewsSpider-4) (58/296) Crawling and storing DONE - Reasons for SF Giants optimism? We found some.
+INFO:root:[2018-10-14 17:47:45] (NewsSpider-3) (59/296) Crawling and storing DONE - See rare pics of the Palace of Fine Arts as it marks its 100th anniversary
+INFO:root:[2018-10-14 17:47:46] (NewsSpider-1) (60/296) Crawling and storing DONE - The Sea-to-Sky Corridor: Gateway to an Art Movement
+INFO:root:[2018-10-14 17:47:47] (NewsSpider-2) (61/296) Crawling and storing DONE - Where Can Diners Find a Great Crocker-Amazon Lunch?
+INFO:root:[2018-10-14 17:47:50] (NewsSpider-5) (62/296) Crawling and storing DONE - Top 12 pre-impeachment collectibles – Hurry before Trump is gone!
+INFO:root:[2018-10-14 17:47:50] (NewsSpider-4) (63/296) Crawling and storing DONE - These Family Wineries in Sonoma Are Committed to Small-Batch Winemaking
+INFO:root:[2018-10-14 17:47:51] (NewsSpider-1) (64/296) Crawling and storing DONE - It’s Hard to Leave Kahala Resort, But That’s A Good Thing
+INFO:root:[2018-10-14 17:47:54] (NewsSpider-2) (65/296) Crawling and storing DONE - Jimmy Buffett plans to release his own ‘Coral Reefer’ brand of marijuana
+INFO:root:[2018-10-14 17:47:54] (NewsSpider-1) (66/296) Crawling and storing DONE - What Attractions Make the Hard Rock Cafe San Francisco Worth a Visit?
+INFO:root:[2018-10-14 17:47:56] (NewsSpider-5) (67/296) Crawling and storing DONE - Member of recall group caught on video telling Ed Lee supporters to ‘Go back to China’
+INFO:root:[2018-10-14 17:47:59] (NewsSpider-1) (68/296) Crawling and storing DONE - Whistler’s Shoulder Season Turning Heads with Fall for Arts
+INFO:root:[2018-10-14 17:47:59] (NewsSpider-2) (69/296) Crawling and storing DONE - A Dad’s Influence in Raising Empathetic and Considerate Children
+INFO:root:[2018-10-14 17:48:05] (NewsSpider-1) (70/296) Crawling and storing DONE - Local Olympians one year later: Where are they now?
+INFO:root:[2018-10-14 17:48:06] (NewsSpider-3) (71/296) Crawling and storing DONE - What Is Special About the Deerfield Winery in Sonoma?
+INFO:root:[2018-10-14 17:48:06] (NewsSpider-4) (72/296) Crawling and storing DONE - Move over millennials—a surprising new demographic is taking over the rental market
+INFO:root:[2018-10-14 17:48:07] (NewsSpider-5) (73/296) Crawling and storing DONE - With MLS-worst record, SJ Earthquakes fire head coach Mikael Stahre
+INFO:root:[2018-10-14 17:48:11] (NewsSpider-3) (74/296) Crawling and storing DONE - What Is Special About the Deerfield Winery in Sonoma?
+INFO:root:[2018-10-14 17:48:12] (NewsSpider-4) (75/296) Crawling and storing DONE - Pismo Pier Reopens During 72nd Annual Pismo Beach Clam Festival
+INFO:root:[2018-10-14 17:48:12] (NewsSpider-1) (76/296) Crawling and storing DONE - 5 Off-the-Beaten-Path Hikes in Marin
+INFO:root:[2018-10-14 17:48:12] (NewsSpider-5) (77/296) Crawling and storing DONE - Is it time for a new personal brand?
+INFO:root:[2018-10-14 17:48:15] (NewsSpider-4) (78/296) Crawling and storing DONE - 49ers’ Breida has a chance to play; Staley enjoying stability
+INFO:root:[2018-10-14 17:48:16] (NewsSpider-1) (79/296) Crawling and storing DONE - This sunny Belvedere estate features bay views at every turn
+INFO:root:[2018-10-14 17:48:16] (NewsSpider-5) (80/296) Crawling and storing DONE - High Times postpones Sacramento Cannabis Cup
+INFO:root:[2018-10-14 17:48:20] (NewsSpider-5) (81/296) Crawling and storing DONE - The battle over rent control in the East Bay
+INFO:root:[2018-10-14 17:48:21] (NewsSpider-1) (82/296) Crawling and storing DONE - San Francisco Must-Try Establishments
+INFO:root:[2018-10-14 17:48:22] (NewsSpider-4) (83/296) Crawling and storing DONE - Modern waterfront residences with access to parks, transportation, and restaurants set to open soon!
+INFO:root:[2018-10-14 17:48:23] (NewsSpider-5) (84/296) Crawling and storing DONE - SF singer-songwriter Debbie Neigher take music in new direction as Lapel
+INFO:root:[2018-10-14 17:48:27] (NewsSpider-3) (85/296) Crawling and storing DONE - Small tech startup plans to grow cannabis on the International Space Station
+INFO:root:[2018-10-14 17:48:27] (NewsSpider-5) (86/296) Crawling and storing DONE - A year later: The fuse that lit the Battles of Berkeley
+INFO:root:[2018-10-14 17:48:29] (NewsSpider-3) (87/296) Crawling and storing DONE - Bay Area Soccer: Jimmy Conrad joins SF Glens staff, Oakland teams clash in US Open Cup Qualifier
+INFO:root:[2018-10-14 17:48:30] (NewsSpider-1) (88/296) Crawling and storing DONE - Who’s behind Oakland’s mysterious sugar tax sign?
+INFO:root:[2018-10-14 17:48:31] (NewsSpider-5) (89/296) Crawling and storing DONE - Jill Soloway, creator of ‘Transparent,’ discusses new memoir
+INFO:root:[2018-10-14 17:48:31] (NewsSpider-4) (90/296) Crawling and storing DONE - Where Are the Best Places to Head for a Forest Knolls Dinner?
+INFO:root:[2018-10-14 17:48:34] (NewsSpider-1) (91/296) Crawling and storing DONE - Bay Bridge bike path: Still the road to nowhere
+INFO:root:[2018-10-14 17:48:34] (NewsSpider-4) (92/296) Crawling and storing DONE - Rents are down double-digits in some surprising S.F. neighborhoods
+INFO:root:[2018-10-14 17:48:34] (NewsSpider-5) (93/296) Crawling and storing DONE - Take a Trip Back in Time for the USS Hornet’s 75th Anniversary!
+INFO:root:[2018-10-14 17:48:35] (NewsSpider-2) (94/296) Crawling and storing DONE - Chron Quiz: Food alert
+INFO:root:[2018-10-14 17:48:35] (NewsSpider-1) (95/296) Crawling and storing DONE - Jeff Sessions gets smoked with rolling papers that support pot legalization
+INFO:root:[2018-10-14 17:48:35] (NewsSpider-3) (96/296) Crawling and storing DONE - Here’s where Bay Area rents went down last month and what you can get for an average rent
+INFO:root:[2018-10-14 17:48:36] (NewsSpider-4) (97/296) Crawling and storing DONE - This week: Final 747 flights + LA tips + New routes
+INFO:root:[2018-10-14 17:48:38] (NewsSpider-5) (98/296) Crawling and storing DONE - Is StubHub lawsuit a thorn in Warriors’ rosy season?
+INFO:root:[2018-10-14 17:48:39] (NewsSpider-1) (99/296) Crawling and storing DONE - Gallup poll: Americans believe tobacco is more harmful than marijuana
+INFO:root:[2018-10-14 17:48:40] (NewsSpider-4) (100/296) Crawling and storing DONE - Media Noche debuts in the Mission with Cubanos, croquetas, ice cream
+INFO:root:[2018-10-14 17:48:40] (NewsSpider-5) (101/296) Crawling and storing DONE - What kind of job do you want?
+INFO:root:[2018-10-14 17:48:41] (NewsSpider-3) (102/296) Crawling and storing DONE - A$AP Rocky ends first day of Treasure Island Music Festival with a bang, despite late start
+INFO:root:[2018-10-14 17:48:41] (NewsSpider-2) (103/296) Crawling and storing DONE - Q&A: Oregon Sen. Jeff Merkley pushes for safe banking in the legal marijuana industry
+INFO:root:[2018-10-14 17:48:42] (NewsSpider-4) (104/296) Crawling and storing DONE - Bay Area Soccer Roundup: Season ends for El Farolito, SF City, SF Glens; SJ Earthquakes to play Man United
+INFO:root:[2018-10-14 17:48:43] (NewsSpider-3) (105/296) Crawling and storing DONE - A brief history of the off-the-court rivalry between the Warriors and Cavaliers
+INFO:root:[2018-10-14 17:48:44] (NewsSpider-2) (106/296) Crawling and storing DONE - Famous aluminum house built after Oakland firestorm listed for $1.998 million
+INFO:root:[2018-10-14 17:48:45] (NewsSpider-4) (107/296) Crawling and storing DONE - San Francisco Must-Try Establishments
+INFO:root:[2018-10-14 17:48:46] (NewsSpider-5) (108/296) Crawling and storing DONE - Explore This Frank Lloyd Wright Masterpiece in Marin
+INFO:root:[2018-10-14 17:48:47] (NewsSpider-3) (109/296) Crawling and storing DONE - An enchanting program of pop music from Baroque-era Venice
+INFO:root:[2018-10-14 17:48:48] (NewsSpider-4) (110/296) Crawling and storing DONE - It’s ethical to watch ‘Wonder Woman’ on home video
+INFO:root:[2018-10-14 17:48:48] (NewsSpider-5) (111/296) Crawling and storing DONE - Green living and jaw-dropping views in walkable Ashbury Heights
+INFO:root:[2018-10-14 17:48:49] (NewsSpider-1) (112/296) Crawling and storing DONE - Major beer brand CEO says marijuana decriminalization is ‘inevitable’
+INFO:root:[2018-10-14 17:48:50] (NewsSpider-5) (113/296) Crawling and storing DONE - San Francisco Greek Film Festival returns for 15th edition
+INFO:root:[2018-10-14 17:48:51] (NewsSpider-2) (114/296) Crawling and storing DONE - Anne Brigman, a proto-feminist photographer, gets her due at Nevada Museum
+INFO:root:[2018-10-14 17:48:54] (NewsSpider-2) (115/296) Crawling and storing DONE - Are you blindly cheating on your spouse?
+INFO:root:[2018-10-14 17:48:54] (NewsSpider-3) (116/296) Crawling and storing DONE - Re-create Jill Stuart’s romantic, yet psychedelic, waves
+INFO:root:[2018-10-14 17:48:54] (NewsSpider-1) (117/296) Crawling and storing DONE - FDA approves first drug derived from marijuana
+INFO:root:[2018-10-14 17:48:55] (NewsSpider-4) (118/296) Crawling and storing DONE - First time on the open market: $10.9-million St. Regis three-bedroom on 38th floor
+INFO:root:[2018-10-14 17:48:57] (NewsSpider-5) (119/296) Crawling and storing DONE - Stanford coach David Shaw explains his two-a-day practice strategy
+INFO:root:[2018-10-14 17:48:57] (NewsSpider-4) (120/296) Crawling and storing DONE - Thursday CCS Open Division consolation basketball scores
+INFO:root:[2018-10-14 17:48:58] (NewsSpider-1) (121/296) Crawling and storing DONE - Dream Globally, Eat Locally: Inside the Hawaii Food and Wine Festival
+INFO:root:[2018-10-14 17:48:58] (NewsSpider-2) (122/296) Crawling and storing DONE - Bay Area Soccer Roundup: ‘Oakland Roots’ announced, USL East Bay heads to Concord, Street Soccer USA Cup in SF, Quakes play 2 this week
+INFO:root:[2018-10-14 17:49:01] (NewsSpider-5) (123/296) Crawling and storing DONE - Marijuana use among baby boomers is on the rise, study finds
+INFO:root:[2018-10-14 17:49:02] (NewsSpider-4) (124/296) Crawling and storing DONE - ‘Weedcraft Inc.’ lets gamers become legal marijuana tycoons
+INFO:root:[2018-10-14 17:49:02] (NewsSpider-2) (125/296) Crawling and storing DONE - What Should Visitors Know About the Gay Pride Festival in San Francisco?
+INFO:root:[2018-10-14 17:49:03] (NewsSpider-5) (126/296) Crawling and storing DONE - Giving Bay Area children a life-changing education with the BASIC Fund
+INFO:root:[2018-10-14 17:49:04] (NewsSpider-1) (127/296) Crawling and storing DONE - Adorable one-bedroom SF cottage with mountain cabin vibes asks $1.195 million
+INFO:root:[2018-10-14 17:49:05] (NewsSpider-2) (128/296) Crawling and storing DONE - Around the Bay Area, special rental offers and help for homeless fire victims
+INFO:root:[2018-10-14 17:49:05] (NewsSpider-3) (129/296) Crawling and storing DONE - Half Moon Bay boys run past Westmoor
+INFO:root:[2018-10-14 17:49:06] (NewsSpider-4) (130/296) Crawling and storing DONE - Why a “good enough” marriage is best
+INFO:root:[2018-10-14 17:49:08] (NewsSpider-1) (131/296) Crawling and storing DONE - San Jose Earthquakes name Matias Almeyda new head coach
+INFO:root:[2018-10-14 17:49:08] (NewsSpider-4) (132/296) Crawling and storing DONE - These Family Wineries in Sonoma Are Committed to Small-Batch Winemaking
+INFO:root:[2018-10-14 17:49:08] (NewsSpider-3) (133/296) Crawling and storing DONE - Cypress Hill’s B-Real opens cannabis shop in Los Angeles
+INFO:root:[2018-10-14 17:49:11] (NewsSpider-5) (134/296) Crawling and storing DONE - Archetype Brings Feel-Good, Plant-Forward Freshness to St. Helena!
+INFO:root:[2018-10-14 17:49:12] (NewsSpider-2) (135/296) Crawling and storing DONE - Writers condemn author Stephen Elliott after he sues creator of ‘S–ty Media Men’ list
+INFO:root:[2018-10-14 17:49:13] (NewsSpider-1) (136/296) Crawling and storing DONE - Hazy doctor-patient divide in Chekhov’s ‘Ward 6’
+INFO:root:[2018-10-14 17:49:14] (NewsSpider-3) (137/296) Crawling and storing DONE - Celebrate the Bounty and Beauty of Sonoma Valley
+INFO:root:[2018-10-14 17:49:15] (NewsSpider-1) (138/296) Crawling and storing DONE - 7 ways to add a pop of color to neutral home décor
+INFO:root:[2018-10-14 17:49:15] (NewsSpider-4) (139/296) Crawling and storing DONE - What you can rent in San Francisco’s Mission District for $3,000
+INFO:root:[2018-10-14 17:49:16] (NewsSpider-3) (140/296) Crawling and storing DONE - Stanford soccer: Morris to skip senior season to turn pro
+INFO:root:[2018-10-14 17:49:16] (NewsSpider-2) (141/296) Crawling and storing DONE - Where are YOU Watching the World Cup?
+INFO:root:[2018-10-14 17:49:17] (NewsSpider-4) (142/296) Crawling and storing DONE - What happened to the Ferris wheel? Rebooted Treasure Island Music Festival, now in Oakland, scales down
+INFO:root:[2018-10-14 17:49:18] (NewsSpider-3) (143/296) Crawling and storing DONE - Euphemisms bite the dust
+INFO:root:[2018-10-14 17:49:18] (NewsSpider-1) (144/296) Crawling and storing DONE - Extended coverage: Tevis, Menlo sack Central Coast Section title
+INFO:root:[2018-10-14 17:49:20] (NewsSpider-2) (145/296) Crawling and storing DONE - Cynthia Nixon supports marijuana legalization in New York
+INFO:root:[2018-10-14 17:49:20] (NewsSpider-4) (146/296) Crawling and storing DONE - Artist Dinh Q. Lê “Returns” to California for His Largest Exhibition in a Decade
+INFO:root:[2018-10-14 17:49:21] (NewsSpider-1) (147/296) Crawling and storing DONE - Tony-Winning Thriller Oslo Comes to the Marin Theatre Company
+INFO:root:[2018-10-14 17:49:21] (NewsSpider-2) (148/296) Crawling and storing DONE - Senator Elizabeth Warren says feds should ‘back off’ marijuana legalization
+INFO:root:[2018-10-14 17:49:21] (NewsSpider-5) (149/296) Crawling and storing DONE - Study: Cannabis-derived CBD could help people quit tobacco
+INFO:root:[2018-10-14 17:49:23] (NewsSpider-4) (150/296) Crawling and storing DONE - Bay Area Soccer Roundup: Oakland Roots announce players, Quakes’ Wondolowski close to record, SF Glens youth hold tourney
+INFO:root:[2018-10-14 17:49:23] (NewsSpider-5) (151/296) Crawling and storing DONE - Where Are the Best Places to Head for a Forest Knolls Dinner?
+INFO:root:[2018-10-14 17:49:24] (NewsSpider-2) (152/296) Crawling and storing DONE - Court: The crime is what you did, not what you could have done
+INFO:root:[2018-10-14 17:49:25] (NewsSpider-1) (153/296) Crawling and storing DONE - Wednesday roundup: Buzzer-beater by Athens gives Bellarmine win over Serra
+INFO:root:[2018-10-14 17:49:25] (NewsSpider-3) (154/296) Crawling and storing DONE - Growing Up in Alameda: Motorcycles? In the living room?
+INFO:root:[2018-10-14 17:49:26] (NewsSpider-5) (155/296) Crawling and storing DONE - What Are Some Can’t-Miss Choices Near Corona Heights for Breakfast?
+INFO:root:[2018-10-14 17:49:27] (NewsSpider-1) (156/296) Crawling and storing DONE - A snail that has Homeland Security worried
+INFO:root:[2018-10-14 17:49:27] (NewsSpider-4) (157/296) Crawling and storing DONE - Numbers that defined 2015-16 Cal basketball season
+INFO:root:[2018-10-14 17:49:28] (NewsSpider-3) (158/296) Crawling and storing DONE - Wednesday roundup: Last-second 3-pointer lifts Serra to stunning Jungle Game win
+INFO:root:[2018-10-14 17:49:28] (NewsSpider-2) (159/296) Crawling and storing DONE - When the 49ers changed their logo, and fans revolted
+INFO:root:[2018-10-14 17:49:30] (NewsSpider-5) (160/296) Crawling and storing DONE - Preserved San Francisco Victorian home, circa 1887, comes with $3,107 rental apartment
+INFO:root:[2018-10-14 17:49:30] (NewsSpider-3) (161/296) Crawling and storing DONE - De La Salle takes down Harvard-Westlake at MaxPreps MLK Jr. Classic
+INFO:root:[2018-10-14 17:49:31] (NewsSpider-1) (162/296) Crawling and storing DONE - The ‘Batman Effect’: Children in costume work harder, according to study
+INFO:root:[2018-10-14 17:49:32] (NewsSpider-2) (163/296) Crawling and storing DONE - Invisible Cars
+INFO:root:[2018-10-14 17:49:32] (NewsSpider-5) (164/296) Crawling and storing DONE - Review: ‘The Fifth Risk,’ by Michael Lewis
+INFO:root:[2018-10-14 17:49:32] (NewsSpider-3) (165/296) Crawling and storing DONE - Melissa McCarthy takes serious route in portraying notorious literary forger
+INFO:root:[2018-10-14 17:49:33] (NewsSpider-1) (166/296) Crawling and storing DONE - San Ramon Valley gets defensive to defeat short-handed Monte Vista
+INFO:root:[2018-10-14 17:49:34] (NewsSpider-4) (167/296) Crawling and storing DONE - Cheech and Chong tell Jeff Sessions to ‘try inhaling it’
+INFO:root:[2018-10-14 17:49:35] (NewsSpider-5) (168/296) Crawling and storing DONE - Some Oakland A’s predictions for 2016
+INFO:root:[2018-10-14 17:49:35] (NewsSpider-3) (169/296) Crawling and storing DONE - Stephen Curry and Jordan Spieth share stage in new commercial
+INFO:root:[2018-10-14 17:49:35] (NewsSpider-1) (170/296) Crawling and storing DONE - Is There Any Better Way to Greet the Day?
+INFO:root:[2018-10-14 17:49:37] (NewsSpider-3) (171/296) Crawling and storing DONE - Bellarmine wins roller-coaster basketball game with St. Francis
+INFO:root:[2018-10-14 17:49:37] (NewsSpider-4) (172/296) Crawling and storing DONE - Marijuana is the most referenced drug in popular music, study finds
+INFO:root:[2018-10-14 17:49:39] (NewsSpider-4) (173/296) Crawling and storing DONE - Things to Do in the Bay Area That Are Worth the Time
+INFO:root:[2018-10-14 17:49:39] (NewsSpider-3) (174/296) Crawling and storing DONE - Lane Kiffin feeling #blessed on Twitter: his followers aren’t so sure
+INFO:root:[2018-10-14 17:49:39] (NewsSpider-1) (175/296) Crawling and storing DONE - Bay Area Soccer Roundup: SF City and SF Glens clash in SF Derby, El Farolito advances in NPSL playoffs
+INFO:root:[2018-10-14 17:49:39] (NewsSpider-2) (176/296) Crawling and storing DONE - With Manfred Honeck at the helm, SF Symphony unleashes a heroic musical showing
+INFO:root:[2018-10-14 17:49:42] (NewsSpider-1) (177/296) Crawling and storing DONE - Burning Man to sue feds over setting several traffic stops
+INFO:root:[2018-10-14 17:49:42] (NewsSpider-3) (178/296) Crawling and storing DONE - Finding the Best Burgers for a Balboa Park Lunch Extravaganza
+INFO:root:[2018-10-14 17:49:43] (NewsSpider-5) (179/296) Crawling and storing DONE - What Should Visitors Know About the Gay Pride Festival in San Francisco?
+INFO:root:[2018-10-14 17:49:43] (NewsSpider-2) (180/296) Crawling and storing DONE - Tim Roye’s Mission: Know the League
+INFO:root:[2018-10-14 17:49:44] (NewsSpider-3) (181/296) Crawling and storing DONE - Venice Recap
+INFO:root:[2018-10-14 17:49:45] (NewsSpider-2) (182/296) Crawling and storing DONE - A look at postseason superlatives for Cal basketball
+INFO:root:[2018-10-14 17:49:45] (NewsSpider-4) (183/296) Crawling and storing DONE - Highlights from Treasure Island Music Festival 2018
+INFO:root:[2018-10-14 17:49:45] (NewsSpider-1) (184/296) Crawling and storing DONE - ‘Broad City’ supports Cynthia Nixon by giving away a signed bong
+INFO:root:[2018-10-14 17:49:45] (NewsSpider-3) (185/296) Crawling and storing DONE - PayByPhone Launches Parking Extension Feature for Apple Watch
+INFO:root:[2018-10-14 17:49:45] (NewsSpider-5) (186/296) Crawling and storing DONE - Beyond the Pools and Patios, Palm Springs is Also an Adventure Paradise
+INFO:root:[2018-10-14 17:49:47] (NewsSpider-1) (187/296) Crawling and storing DONE - If NCAA Tournament started today, would Cal be a No. 5 seed?
+INFO:root:[2018-10-14 17:49:48] (NewsSpider-3) (188/296) Crawling and storing DONE - The History of Bartholomew Park Winery in Sonoma, CA
+INFO:root:[2018-10-14 17:49:48] (NewsSpider-4) (189/296) Crawling and storing DONE - California’s struggling marijuana market considers new delivery rules
+INFO:root:[2018-10-14 17:49:49] (NewsSpider-5) (190/296) Crawling and storing DONE - Jerusalem Quartet and guests explore new dimensions of string music
+INFO:root:[2018-10-14 17:49:50] (NewsSpider-2) (191/296) Crawling and storing DONE - Plastics are forever: Pacifica beachcombers still finding landfill fallout
+INFO:root:[2018-10-14 17:49:51] (NewsSpider-4) (192/296) Crawling and storing DONE - Breaking: SF Mission’s Galería De La Raza forced out of longtime space by rent hike
+INFO:root:[2018-10-14 17:49:51] (NewsSpider-1) (193/296) Crawling and storing DONE - ‘Camping,’ with Jennifer Garner and Lena Dunham, collapses under insincerity
+INFO:root:[2018-10-14 17:49:52] (NewsSpider-5) (194/296) Crawling and storing DONE - What I’d ask at tonight’s debate
+INFO:root:[2018-10-14 17:49:52] (NewsSpider-3) (195/296) Crawling and storing DONE - Watch: Neil deGrasse Tyson advises against smoking weed in space
+INFO:root:[2018-10-14 17:49:52] (NewsSpider-2) (196/296) Crawling and storing DONE - Sea-to-Sky Corridor Spans Coastal Salish Culture
+INFO:root:[2018-10-14 17:49:53] (NewsSpider-4) (197/296) Crawling and storing DONE - Sink a 3: Stephen Curry tribute song is awesome.
+INFO:root:[2018-10-14 17:49:54] (NewsSpider-1) (198/296) Crawling and storing DONE - “Village Music” world premiere
+INFO:root:[2018-10-14 17:49:54] (NewsSpider-3) (199/296) Crawling and storing DONE - Poll: Support for marijuana legalization hits record 62 percent of Americans
+INFO:root:[2018-10-14 17:49:55] (NewsSpider-4) (200/296) Crawling and storing DONE - How Sharks look after first week of play
+INFO:root:[2018-10-14 17:49:55] (NewsSpider-1) (201/296) Crawling and storing DONE - How Providence St. Joseph uses technology to improve mental health
+INFO:root:[2018-10-14 17:49:56] (NewsSpider-5) (202/296) Crawling and storing DONE - Run away from “Race”
+INFO:root:[2018-10-14 17:49:58] (NewsSpider-3) (203/296) Crawling and storing DONE - Got Milk?
+INFO:root:[2018-10-14 17:49:59] (NewsSpider-2) (204/296) Crawling and storing DONE - Things to Do in the Bay Area That Are Worth the Time
+INFO:root:[2018-10-14 17:50:02] (NewsSpider-3) (205/296) Crawling and storing DONE - Monica Lundy examines ‘Deviance’ at Nancy Toomey Fine Art
+INFO:root:[2018-10-14 17:50:02] (NewsSpider-1) (206/296) Crawling and storing DONE - Cal’s Jared Goff signs with Nike
+INFO:root:[2018-10-14 17:50:03] (NewsSpider-2) (207/296) Crawling and storing DONE - Stienstra video: Rain arrives in time for ducks, geese, otters at wildlife paradise
+WARNING:root:[2018-10-14 17:50:05] (NewsSpider-5) Article Not Exists on http://www.sfgate.com/details/petaluma-california/2019-toyota-4runner-sr5-premium-94952-jtebu5jr5k5620352
+INFO:root:[2018-10-14 17:50:05] (NewsSpider-4) (208/296) Crawling and storing DONE - San Francisco Batman
+INFO:root:[2018-10-14 17:50:05] (NewsSpider-2) (209/296) Crawling and storing DONE - The real Sheffs of ‘Beautiful Boy’ talk recovery and the influence of love
+INFO:root:[2018-10-14 17:50:06] (NewsSpider-1) (210/296) Crawling and storing DONE - Leadership changes announced at Contemporary Jewish Museum, Museum of the African Diaspora
+INFO:root:[2018-10-14 17:50:06] (NewsSpider-2) (211/296) Crawling and storing DONE - You Have Each Other, but You Have No Friends
+INFO:root:[2018-10-14 17:50:07] (NewsSpider-4) (212/296) Crawling and storing DONE - 3-Day Getaway to Palm Springs: Clubs, Culture and Pool Time
+INFO:root:[2018-10-14 17:50:07] (NewsSpider-3) (213/296) Crawling and storing DONE - Temp jobs can help restart your career
+INFO:root:[2018-10-14 17:50:07] (NewsSpider-5) (214/296) Crawling and storing DONE - Find Purity and Perfection with AQUA Carpatica
+INFO:root:[2018-10-14 17:50:08] (NewsSpider-2) (215/296) Crawling and storing DONE - SF teacher asks for a little help and here’s what happened
+INFO:root:[2018-10-14 17:50:08] (NewsSpider-1) (216/296) Crawling and storing DONE - Looking at art through the eyes of Wayne Thiebaud at SFMOMA
+INFO:root:[2018-10-14 17:50:10] (NewsSpider-2) (217/296) Crawling and storing DONE - Major beer brand CEO says marijuana decriminalization is ‘inevitable’
+INFO:root:[2018-10-14 17:50:11] (NewsSpider-5) (218/296) Crawling and storing DONE - Super-Crafty Halloween Contest winners are here!
+INFO:root:[2018-10-14 17:50:11] (NewsSpider-4) (219/296) Crawling and storing DONE - Sea-to-Sky Corridor Enriches Visitors with Diverse Cultural Institutions
+INFO:root:[2018-10-14 17:50:11] (NewsSpider-1) (220/296) Crawling and storing DONE - 9 Convertibles That Boast The Most Legroom for Under $40K
+INFO:root:[2018-10-14 17:50:12] (NewsSpider-2) (221/296) Crawling and storing DONE - Cal announces 8-person Hall of Fame class
+INFO:root:[2018-10-14 17:50:12] (NewsSpider-3) (222/296) Crawling and storing DONE - Sam Choy to open Poke to the Max in Bay Area
+INFO:root:[2018-10-14 17:50:13] (NewsSpider-4) (223/296) Crawling and storing DONE - What’s new in the ski mountains of Tahoe?
+INFO:root:[2018-10-14 17:50:14] (NewsSpider-1) (224/296) Crawling and storing DONE - The Bay’s colorful salt ponds are fading — and that’s a good thing
+INFO:root:[2018-10-14 17:50:15] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 17:50:15] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 17:50:15] (NewsSpider-3) (225/296) Crawling and storing DONE - A look at who Cal is targeting on the transfer market
+INFO:root:[2018-10-14 17:50:16] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:50:17] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 17:50:18] ========== (NewsSpider-5) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feed/
+INFO:root:[2018-10-14 18:40:46] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:40:46] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:40:46] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:40:46] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:40:46] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-10-14 18:42:14] (NewsSpider-5) Article Not Exists on http://www.sfgate.com/details/oakland-california/2008-mercedesbenz-slclass-v8-94611-wdbsk71f78f137488
+WARNING:root:[2018-10-14 18:45:18] (NewsSpider-4) Article Not Exists on http://www.sfgate.com/details/oakland-california/2013-lexus-rx-350-94611-2t2bk1ba3dc198613
+INFO:root:[2018-10-14 18:45:56] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:45:57] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:45:59] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:45:59] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 18:46:00] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feed/
+INFO:root:[2018-10-14 19:28:59] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:28:59] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:28:59] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:28:59] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:28:59] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:29:06] (NewsSpider-3) (1/296) Crawling and storing DONE - Celebrate the Bounty and Beauty of Sonoma Valley
+INFO:root:[2018-10-14 19:29:06] (NewsSpider-2) (2/296) Crawling and storing DONE - Leadership changes announced at Contemporary Jewish Museum, Museum of the African Diaspora
+INFO:root:[2018-10-14 19:29:10] (NewsSpider-4) (3/296) Crawling and storing DONE - Modern waterfront residences with access to parks, transportation, and restaurants set to open soon!
+INFO:root:[2018-10-14 19:29:13] (NewsSpider-3) (4/296) Crawling and storing DONE - How Sharks look after first week of play
+INFO:root:[2018-10-14 19:29:17] (NewsSpider-4) (5/296) Crawling and storing DONE - Medical marijuana can help reduce psychosis symptoms, study finds
+INFO:root:[2018-10-14 19:29:21] (NewsSpider-2) (6/296) Crawling and storing DONE - Is There Any Better Way to Greet the Day?
+INFO:root:[2018-10-14 19:29:26] (NewsSpider-4) (7/296) Crawling and storing DONE - Are you blindly cheating on your spouse?
+INFO:root:[2018-10-14 19:29:26] (NewsSpider-1) (8/296) Crawling and storing DONE - An enchanting program of pop music from Baroque-era Venice
+INFO:root:[2018-10-14 19:29:31] (NewsSpider-2) (9/296) Crawling and storing DONE - A brief history of the off-the-court rivalry between the Warriors and Cavaliers
+INFO:root:[2018-10-14 19:29:31] (NewsSpider-5) (10/296) Crawling and storing DONE - More from Fantastic Friday of section boys hoop championships
+INFO:root:[2018-10-14 19:29:33] (NewsSpider-4) (11/296) Crawling and storing DONE - What kind of job do you want?
+INFO:root:[2018-10-14 19:29:37] (NewsSpider-2) (12/296) Crawling and storing DONE - Growing Up in Alameda: Motorcycles? In the living room?
+INFO:root:[2018-10-14 19:29:39] (NewsSpider-5) (13/296) Crawling and storing DONE - What Attractions Make the Hard Rock Cafe San Francisco Worth a Visit?
+INFO:root:[2018-10-14 19:29:41] (NewsSpider-4) (14/296) Crawling and storing DONE - 9 Convertibles That Boast The Most Legroom for Under $40K
+INFO:root:[2018-10-14 19:29:43] (NewsSpider-2) (15/296) Crawling and storing DONE - Find Purity and Perfection with AQUA Carpatica
+INFO:root:[2018-10-14 19:29:43] (NewsSpider-5) (16/296) Crawling and storing DONE - The battle over rent control in the East Bay
+INFO:root:[2018-10-14 19:29:45] (NewsSpider-3) (17/296) Crawling and storing DONE - Watch: Neil deGrasse Tyson advises against smoking weed in space
+INFO:root:[2018-10-14 19:29:45] (NewsSpider-1) (18/296) Crawling and storing DONE - The History of Bartholomew Park Winery in Sonoma, CA
+INFO:root:[2018-10-14 19:29:48] (NewsSpider-2) (19/296) Crawling and storing DONE - Things to Do in the Bay Area That Are Worth the Time
+INFO:root:[2018-10-14 19:29:48] (NewsSpider-4) (20/296) Crawling and storing DONE - What Should Visitors Know About the Gay Pride Festival in San Francisco?
+INFO:root:[2018-10-14 19:29:59] (NewsSpider-1) (21/296) Crawling and storing DONE - Euphemisms bite the dust
+INFO:root:[2018-10-14 19:30:03] (NewsSpider-1) (22/296) Crawling and storing DONE - San Francisco Must-Try Establishments
+INFO:root:[2018-10-14 19:30:10] (NewsSpider-2) (23/296) Crawling and storing DONE - Reasons for SF Giants optimism? We found some.
+INFO:root:[2018-10-14 19:30:11] (NewsSpider-5) (24/296) Crawling and storing DONE - Tyrone Wallace, other Cal athletes recognized for academics
+INFO:root:[2018-10-14 19:30:12] (NewsSpider-1) (25/296) Crawling and storing DONE - 6 reasons to visit Mr. East Kitchen
+INFO:root:[2018-10-14 19:30:16] (NewsSpider-4) (26/296) Crawling and storing DONE - This sunny Belvedere estate features bay views at every turn
+INFO:root:[2018-10-14 19:30:18] (NewsSpider-3) (27/296) Crawling and storing DONE - Sea-to-Sky Corridor Enriches Visitors with Diverse Cultural Institutions
+INFO:root:[2018-10-14 19:30:18] (NewsSpider-2) (28/296) Crawling and storing DONE - SFGate Registration and user FAQ
+INFO:root:[2018-10-14 19:30:19] (NewsSpider-1) (29/296) Crawling and storing DONE - Wondo scores, but Red Bulls pressure too much for SJ Earthquakes
+INFO:root:[2018-10-14 19:30:22] (NewsSpider-4) (30/296) Crawling and storing DONE - Got Milk?
+INFO:root:[2018-10-14 19:30:23] (NewsSpider-5) (31/296) Crawling and storing DONE - Sink a 3: Stephen Curry tribute song is awesome.
+INFO:root:[2018-10-14 19:30:23] (NewsSpider-2) (32/296) Crawling and storing DONE - Where are YOU Watching the World Cup?
+INFO:root:[2018-10-14 19:30:25] (NewsSpider-1) (33/296) Crawling and storing DONE - Numbers that defined 2015-16 Cal basketball season
+INFO:root:[2018-10-14 19:30:28] (NewsSpider-2) (34/296) Crawling and storing DONE - These Family Wineries in Sonoma Are Committed to Small-Batch Winemaking
+INFO:root:[2018-10-14 19:30:30] (NewsSpider-1) (35/296) Crawling and storing DONE - Bay Area Soccer: Jimmy Conrad joins SF Glens staff, Oakland teams clash in US Open Cup Qualifier
+INFO:root:[2018-10-14 19:30:34] (NewsSpider-4) (36/296) Crawling and storing DONE - A Classic California Day Starts With Bubbles from Domaine Chandon
+INFO:root:[2018-10-14 19:30:36] (NewsSpider-3) (37/296) Crawling and storing DONE - A$AP Rocky ends first day of Treasure Island Music Festival with a bang, despite late start
+INFO:root:[2018-10-14 19:30:36] (NewsSpider-1) (38/296) Crawling and storing DONE - High Times postpones Sacramento Cannabis Cup
+INFO:root:[2018-10-14 19:30:39] (NewsSpider-3) (39/296) Crawling and storing DONE - Marijuana use among baby boomers is on the rise, study finds
+INFO:root:[2018-10-14 19:30:40] (NewsSpider-4) (40/296) Crawling and storing DONE - The Sea-to-Sky Corridor: Gateway to an Art Movement
+INFO:root:[2018-10-14 19:30:42] (NewsSpider-1) (41/296) Crawling and storing DONE - Performance legend Shelton Mann premieres new work in SF
+INFO:root:[2018-10-14 19:30:42] (NewsSpider-2) (42/296) Crawling and storing DONE - A year later: The fuse that lit the Battles of Berkeley
+INFO:root:[2018-10-14 19:30:43] (NewsSpider-3) (43/296) Crawling and storing DONE - What Attractions Make the Hard Rock Cafe San Francisco Worth a Visit?
+INFO:root:[2018-10-14 19:30:44] (NewsSpider-5) (44/296) Crawling and storing DONE - Around the Bay Area, special rental offers and help for homeless fire victims
+INFO:root:[2018-10-14 19:30:48] (NewsSpider-2) (45/296) Crawling and storing DONE - Explore This Frank Lloyd Wright Masterpiece in Marin
+INFO:root:[2018-10-14 19:30:51] (NewsSpider-4) (46/296) Crawling and storing DONE - Capuchino keeps cool; Answers amazing Mills rally with a buzzer-beater for the win
+INFO:root:[2018-10-14 19:30:53] (NewsSpider-5) (47/296) Crawling and storing DONE - Stanford soccer: Morris to skip senior season to turn pro
+INFO:root:[2018-10-14 19:30:57] (NewsSpider-5) (48/296) Crawling and storing DONE - The Year in Crazy: 2014
+INFO:root:[2018-10-14 19:31:02] (NewsSpider-1) (49/296) Crawling and storing DONE - The next big step after an interview: Crafting a thank-you letter
+INFO:root:[2018-10-14 19:31:03] (NewsSpider-4) (50/296) Crawling and storing DONE - A look at postseason superlatives for Cal basketball
+INFO:root:[2018-10-14 19:31:05] (NewsSpider-1) (51/296) Crawling and storing DONE - Local Olympians one year later: Where are they now?
+INFO:root:[2018-10-14 19:31:08] (NewsSpider-4) (52/296) Crawling and storing DONE - Where Can Diners Find a Great Crocker-Amazon Lunch?
+INFO:root:[2018-10-14 19:31:12] (NewsSpider-3) (53/296) Crawling and storing DONE - San Jose Earthquakes name Matias Almeyda new head coach
+INFO:root:[2018-10-14 19:31:14] (NewsSpider-2) (54/296) Crawling and storing DONE - Invisible Cars
+INFO:root:[2018-10-14 19:31:16] (NewsSpider-3) (55/296) Crawling and storing DONE - With MLS-worst record, SJ Earthquakes fire head coach Mikael Stahre
+WARNING:root:[2018-10-14 19:31:17] (NewsSpider-5) Article Not Exists on https://datebook.sfchronicle.com/music/with-manfred-honeck-at-the-helm-sf-symphony-unleashes-a-heroic-musical-showing-2
+INFO:root:[2018-10-14 19:31:19] (NewsSpider-2) (56/296) Crawling and storing DONE - Why natural surfaces rule in rustic-chic design
+INFO:root:[2018-10-14 19:31:21] (NewsSpider-1) (57/296) Crawling and storing DONE - Pismo Pier Reopens During 72nd Annual Pismo Beach Clam Festival
+INFO:root:[2018-10-14 19:31:22] (NewsSpider-4) (58/296) Crawling and storing DONE - See rare pics of the Palace of Fine Arts as it marks its 100th anniversary
+INFO:root:[2018-10-14 19:31:23] (NewsSpider-2) (59/296) Crawling and storing DONE - Half Moon Bay boys run past Westmoor
+INFO:root:[2018-10-14 19:31:24] (NewsSpider-4) (60/296) Crawling and storing DONE - Media Noche debuts in the Mission with Cubanos, croquetas, ice cream
+INFO:root:[2018-10-14 19:31:25] (NewsSpider-3) (61/296) Crawling and storing DONE - 79-year-old woman converts van, hits the road for adventure
+INFO:root:[2018-10-14 19:31:27] (NewsSpider-4) (62/296) Crawling and storing DONE - PayByPhone Launches Parking Extension Feature for Apple Watch
+INFO:root:[2018-10-14 19:31:27] (NewsSpider-2) (63/296) Crawling and storing DONE - Wednesday roundup: Buzzer-beater by Athens gives Bellarmine win over Serra
+INFO:root:[2018-10-14 19:31:27] (NewsSpider-3) (64/296) Crawling and storing DONE - High Times postpones Sacramento Cannabis Cup
+INFO:root:[2018-10-14 19:31:30] (NewsSpider-5) (65/296) Crawling and storing DONE - A look at who Cal is targeting on the transfer market
+INFO:root:[2018-10-14 19:31:30] (NewsSpider-4) (66/296) Crawling and storing DONE - Giving Bay Area children a life-changing education with the BASIC Fund
+INFO:root:[2018-10-14 19:31:32] (NewsSpider-1) (67/296) Crawling and storing DONE - Sacramento program will help minority cannabis business owners
+INFO:root:[2018-10-14 19:31:33] (NewsSpider-4) (68/296) Crawling and storing DONE - Promoting Quality of Life for People with Developmental Disabilities
+INFO:root:[2018-10-14 19:31:34] (NewsSpider-1) (69/296) Crawling and storing DONE - SF singer-songwriter Debbie Neigher take music in new direction as Lapel
+INFO:root:[2018-10-14 19:31:34] (NewsSpider-5) (70/296) Crawling and storing DONE - When do Tahoe and Sierra ski areas open for 2017-2018?
+INFO:root:[2018-10-14 19:31:37] (NewsSpider-5) (71/296) Crawling and storing DONE - 5 Off-the-Beaten-Path Hikes in Marin
+INFO:root:[2018-10-14 19:31:37] (NewsSpider-4) (72/296) Crawling and storing DONE - Temp jobs can help restart your career
+INFO:root:[2018-10-14 19:31:38] (NewsSpider-2) (73/296) Crawling and storing DONE - Finding the Best Burgers for a Balboa Park Lunch Extravaganza
+INFO:root:[2018-10-14 19:31:39] (NewsSpider-3) (74/296) Crawling and storing DONE - Sea-to-Sky Corridor Spans Coastal Salish Culture
+INFO:root:[2018-10-14 19:31:39] (NewsSpider-4) (75/296) Crawling and storing DONE - Stanford coach David Shaw explains his two-a-day practice strategy
+INFO:root:[2018-10-14 19:31:40] (NewsSpider-2) (76/296) Crawling and storing DONE - What Should Visitors Know About the Gay Pride Festival in San Francisco?
+INFO:root:[2018-10-14 19:31:41] (NewsSpider-5) (77/296) Crawling and storing DONE - Inventory, price reductions on the rise as Bay Area buyers begin to balk at high prices
+INFO:root:[2018-10-14 19:31:43] (NewsSpider-5) (78/296) Crawling and storing DONE - Anne Brigman, a proto-feminist photographer, gets her due at Nevada Museum
+INFO:root:[2018-10-14 19:31:45] (NewsSpider-3) (79/296) Crawling and storing DONE - Treasure Island Music Festival: A guide to the boutique indie festival on the bay
+INFO:root:[2018-10-14 19:31:46] (NewsSpider-1) (80/296) Crawling and storing DONE - Thursday CCS Open Division consolation basketball scores
+INFO:root:[2018-10-14 19:31:49] (NewsSpider-3) (81/296) Crawling and storing DONE - Stienstra video: Rain arrives in time for ducks, geese, otters at wildlife paradise
+INFO:root:[2018-10-14 19:31:49] (NewsSpider-2) (82/296) Crawling and storing DONE - Utah Mormons clash over medical marijuana legalization
+INFO:root:[2018-10-14 19:31:50] (NewsSpider-3) (83/296) Crawling and storing DONE - San Francisco Must-Try Establishments
+INFO:root:[2018-10-14 19:31:51] (NewsSpider-1) (84/296) Crawling and storing DONE - De La Salle takes down Harvard-Westlake at MaxPreps MLK Jr. Classic
+INFO:root:[2018-10-14 19:31:53] (NewsSpider-4) (85/296) Crawling and storing DONE - Where Are the Best Places to Head for a Forest Knolls Dinner?
+INFO:root:[2018-10-14 19:31:55] (NewsSpider-5) (86/296) Crawling and storing DONE - Beyond the Pools and Patios, Palm Springs is Also an Adventure Paradise
+INFO:root:[2018-10-14 19:31:56] (NewsSpider-4) (87/296) Crawling and storing DONE - Marijuana can enhance pleasure and frequency of sex, research finds
+INFO:root:[2018-10-14 19:31:57] (NewsSpider-3) (88/296) Crawling and storing DONE - When the 49ers changed their logo, and fans revolted
+INFO:root:[2018-10-14 19:31:59] (NewsSpider-2) (89/296) Crawling and storing DONE - First time on the open market: $10.9-million St. Regis three-bedroom on 38th floor
+INFO:root:[2018-10-14 19:31:59] (NewsSpider-4) (90/296) Crawling and storing DONE - 3-Day Getaway to Palm Springs: Clubs, Culture and Pool Time
+INFO:root:[2018-10-14 19:32:00] (NewsSpider-1) (91/296) Crawling and storing DONE - Cal Performances program of string sextets yields a blustery onslaught
+INFO:root:[2018-10-14 19:32:01] (NewsSpider-2) (92/296) Crawling and storing DONE - Looking at art through the eyes of Wayne Thiebaud at SFMOMA
+INFO:root:[2018-10-14 19:32:02] (NewsSpider-4) (93/296) Crawling and storing DONE - Rabies
+INFO:root:[2018-10-14 19:32:02] (NewsSpider-1) (94/296) Crawling and storing DONE - Advertising Careers: How Jason Sperling Created the Campaign of the Decade
+INFO:root:[2018-10-14 19:32:04] (NewsSpider-3) (95/296) Crawling and storing DONE - Treasure Island Music Festival: A guide to the boutique indie festival on the bay
+INFO:root:[2018-10-14 19:32:04] (NewsSpider-2) (96/296) Crawling and storing DONE - Q&A: Oregon Sen. Jeff Merkley pushes for safe banking in the legal marijuana industry
+INFO:root:[2018-10-14 19:32:05] (NewsSpider-3) (97/296) Crawling and storing DONE - Reel Local News: Filmmaker Gallegos vies for national cinematography award
+INFO:root:[2018-10-14 19:32:07] (NewsSpider-1) (98/296) Crawling and storing DONE - Plastics are forever: Pacifica beachcombers still finding landfill fallout
+INFO:root:[2018-10-14 19:32:07] (NewsSpider-5) (99/296) Crawling and storing DONE - Archetype Brings Feel-Good, Plant-Forward Freshness to St. Helena!
+INFO:root:[2018-10-14 19:32:07] (NewsSpider-3) (100/296) Crawling and storing DONE - This week: Final 747 flights + LA tips + New routes
+INFO:root:[2018-10-14 19:32:07] (NewsSpider-4) (101/296) Crawling and storing DONE - Adorable one-bedroom SF cottage with mountain cabin vibes asks $1.195 million
+INFO:root:[2018-10-14 19:32:08] (NewsSpider-5) (102/296) Crawling and storing DONE - Could Cal be heading to Denver as a No. 5 seed?
+INFO:root:[2018-10-14 19:32:11] (NewsSpider-4) (103/296) Crawling and storing DONE - What Is Special About the Deerfield Winery in Sonoma?
+INFO:root:[2018-10-14 19:32:11] (NewsSpider-2) (104/296) Crawling and storing DONE - Bay Area Soccer Roundup: Season ends for El Farolito, SF City, SF Glens; SJ Earthquakes to play Man United
+INFO:root:[2018-10-14 19:32:12] (NewsSpider-1) (105/296) Crawling and storing DONE - Jerusalem Quartet and guests explore new dimensions of string music
+INFO:root:[2018-10-14 19:32:12] (NewsSpider-3) (106/296) Crawling and storing DONE - Bay Area Soccer Roundup: SF City and SF Glens clash in SF Derby, El Farolito advances in NPSL playoffs
+INFO:root:[2018-10-14 19:32:13] (NewsSpider-4) (107/296) Crawling and storing DONE - Preserved San Francisco Victorian home, circa 1887, comes with $3,107 rental apartment
+INFO:root:[2018-10-14 19:32:14] (NewsSpider-5) (108/296) Crawling and storing DONE - How Providence St. Joseph uses technology to improve mental health
+INFO:root:[2018-10-14 19:32:15] (NewsSpider-3) (109/296) Crawling and storing DONE - Rents are down double-digits in some surprising S.F. neighborhoods
+INFO:root:[2018-10-14 19:32:16] (NewsSpider-5) (110/296) Crawling and storing DONE - Highlights from Treasure Island Music Festival 2018
+INFO:root:[2018-10-14 19:32:17] (NewsSpider-1) (111/296) Crawling and storing DONE - Small tech startup plans to grow cannabis on the International Space Station
+INFO:root:[2018-10-14 19:32:20] (NewsSpider-4) (112/296) Crawling and storing DONE - Is it time for a new personal brand?
+INFO:root:[2018-10-14 19:32:20] (NewsSpider-5) (113/296) Crawling and storing DONE - Super-Crafty Halloween Contest winners are here!
+INFO:root:[2018-10-14 19:32:21] (NewsSpider-3) (114/296) Crawling and storing DONE - All school and no play raises anxiety and depression in children
+INFO:root:[2018-10-14 19:32:21] (NewsSpider-1) (115/296) Crawling and storing DONE - Disneyland birthday: Tracing 60 years in 24 hours
+INFO:root:[2018-10-14 19:32:22] (NewsSpider-2) (116/296) Crawling and storing DONE - Wake up from a career nightmare
+INFO:root:[2018-10-14 19:32:22] (NewsSpider-5) (117/296) Crawling and storing DONE - San Francisco Greek Film Festival returns for 15th edition
+INFO:root:[2018-10-14 19:32:23] (NewsSpider-1) (118/296) Crawling and storing DONE - You Have Each Other, but You Have No Friends
+INFO:root:[2018-10-14 19:32:24] (NewsSpider-2) (119/296) Crawling and storing DONE - Venice Recap
+INFO:root:[2018-10-14 19:32:24] (NewsSpider-5) (120/296) Crawling and storing DONE - Painful Bay Area medical prices among highest in nation
+INFO:root:[2018-10-14 19:32:27] (NewsSpider-4) (121/296) Crawling and storing DONE - San Ramon Valley gets defensive to defeat short-handed Monte Vista
+INFO:root:[2018-10-14 19:32:29] (NewsSpider-5) (122/296) Crawling and storing DONE - Is Richmond the new Oakland? New ferry terminal attracts SF homebuyers, stokes gentrification fears
+INFO:root:[2018-10-14 19:32:30] (NewsSpider-2) (123/296) Crawling and storing DONE - If NCAA Tournament started today, would Cal be a No. 5 seed?
+INFO:root:[2018-10-14 19:32:30] (NewsSpider-3) (124/296) Crawling and storing DONE - The History of Bartholomew Park Winery in Sonoma, CA
+INFO:root:[2018-10-14 19:32:31] (NewsSpider-3) (125/296) Crawling and storing DONE - Chron Quiz: Food alert
+INFO:root:[2018-10-14 19:32:32] (NewsSpider-2) (126/296) Crawling and storing DONE - Famous aluminum house built after Oakland firestorm listed for $1.998 million
+INFO:root:[2018-10-14 19:32:32] (NewsSpider-4) (127/296) Crawling and storing DONE - Cypress Hill launches new marijuana brand through online delivery service
+INFO:root:[2018-10-14 19:32:32] (NewsSpider-3) (128/296) Crawling and storing DONE - Jeff Sessions gets smoked with rolling papers that support pot legalization
+INFO:root:[2018-10-14 19:32:34] (NewsSpider-5) (129/296) Crawling and storing DONE - Mistake costly as Earthquakes fall to Sounders
+INFO:root:[2018-10-14 19:32:34] (NewsSpider-3) (130/296) Crawling and storing DONE - Wednesday roundup: Last-second 3-pointer lifts Serra to stunning Jungle Game win
+INFO:root:[2018-10-14 19:32:34] (NewsSpider-1) (131/296) Crawling and storing DONE - Cal announces 8-person Hall of Fame class
+INFO:root:[2018-10-14 19:32:35] (NewsSpider-3) (132/296) Crawling and storing DONE - Sam Choy to open Poke to the Max in Bay Area
+INFO:root:[2018-10-14 19:32:36] (NewsSpider-3) (133/296) Crawling and storing DONE - Melissa McCarthy takes serious route in portraying notorious literary forger
+INFO:root:[2018-10-14 19:32:37] (NewsSpider-1) (134/296) Crawling and storing DONE - What Is Special About the Deerfield Winery in Sonoma?
+INFO:root:[2018-10-14 19:32:39] (NewsSpider-2) (135/296) Crawling and storing DONE - Eight Ways to Transform Special Education
+INFO:root:[2018-10-14 19:32:39] (NewsSpider-3) (136/296) Crawling and storing DONE - Marijuana is the most referenced drug in popular music, study finds
+INFO:root:[2018-10-14 19:32:42] (NewsSpider-1) (137/296) Crawling and storing DONE - Bay Bridge bike path: Still the road to nowhere
+INFO:root:[2018-10-14 19:32:43] (NewsSpider-1) (138/296) Crawling and storing DONE - Extended coverage: Tevis, Menlo sack Central Coast Section title
+INFO:root:[2018-10-14 19:32:44] (NewsSpider-2) (139/296) Crawling and storing DONE - Cynthia Nixon supports marijuana legalization in New York
+INFO:root:[2018-10-14 19:32:46] (NewsSpider-2) (140/296) Crawling and storing DONE - Where Are the Best Places to Head for a Forest Knolls Dinner?
+INFO:root:[2018-10-14 19:32:46] (NewsSpider-5) (141/296) Crawling and storing DONE - Bellarmine wins roller-coaster basketball game with St. Francis
+INFO:root:[2018-10-14 19:32:47] (NewsSpider-1) (142/296) Crawling and storing DONE - Tony-Winning Thriller Oslo Comes to the Marin Theatre Company
+INFO:root:[2018-10-14 19:32:47] (NewsSpider-4) (143/296) Crawling and storing DONE - Stephen Curry and Jordan Spieth share stage in new commercial
+INFO:root:[2018-10-14 19:32:48] (NewsSpider-3) (144/296) Crawling and storing DONE - Burning Man to sue feds over setting several traffic stops
+INFO:root:[2018-10-14 19:32:48] (NewsSpider-4) (145/296) Crawling and storing DONE - Dream Globally, Eat Locally: Inside the Hawaii Food and Wine Festival
+WARNING:root:[2018-10-14 19:32:49] (NewsSpider-5) Article Not Exists on http://www.sfgate.com/details/san-rafael-california/2019-honda-hrv-sport-2wd-cvt-94901-3czru5h15kg701258
+INFO:root:[2018-10-14 19:32:51] (NewsSpider-5) (146/296) Crawling and storing DONE - FDA approves first drug derived from marijuana
+WARNING:root:[2018-10-14 19:32:51] (NewsSpider-2) Article Not Exists on http://www.sfgate.com/details/san-rafael-california/2019-honda-pilot-touring-7passenger-awd-94901-5fnyf6h62kb003466
+INFO:root:[2018-10-14 19:32:51] (NewsSpider-4) (147/296) Crawling and storing DONE - Things to Do in the Bay Area That Are Worth the Time
+INFO:root:[2018-10-14 19:32:52] (NewsSpider-3) (148/296) Crawling and storing DONE - When homemakers became heroes: Lava Thomas drawings at Rena Bransten
+INFO:root:[2018-10-14 19:32:53] (NewsSpider-4) (149/296) Crawling and storing DONE - A snail that has Homeland Security worried
+INFO:root:[2018-10-14 19:32:53] (NewsSpider-2) (150/296) Crawling and storing DONE - San Francisco Batman
+INFO:root:[2018-10-14 19:32:54] (NewsSpider-5) (151/296) Crawling and storing DONE - Green living and jaw-dropping views in walkable Ashbury Heights
+INFO:root:[2018-10-14 19:32:54] (NewsSpider-1) (152/296) Crawling and storing DONE - What happened to the Ferris wheel? Rebooted Treasure Island Music Festival, now in Oakland, scales down
+INFO:root:[2018-10-14 19:32:55] (NewsSpider-2) (153/296) Crawling and storing DONE - Study: Cannabis-derived CBD could help people quit tobacco
+INFO:root:[2018-10-14 19:32:55] (NewsSpider-3) (154/296) Crawling and storing DONE - Court: The crime is what you did, not what you could have done
+INFO:root:[2018-10-14 19:32:58] (NewsSpider-4) (155/296) Crawling and storing DONE - Gallup poll: Americans believe tobacco is more harmful than marijuana
+INFO:root:[2018-10-14 19:32:58] (NewsSpider-2) (156/296) Crawling and storing DONE - Transit riders bar hop on MUNI
+INFO:root:[2018-10-14 19:33:01] (NewsSpider-4) (157/296) Crawling and storing DONE - These Family Wineries in Sonoma Are Committed to Small-Batch Winemaking
+INFO:root:[2018-10-14 19:33:02] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 19:33:02] (NewsSpider-4) (158/296) Crawling and storing DONE - Poll: Support for marijuana legalization hits record 62 percent of Americans
+INFO:root:[2018-10-14 19:33:02] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:33:04] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 19:33:04] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:33:05] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.sfgate.com/feed/
+INFO:root:[2018-10-21 14:02:48] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-21 14:02:48] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-21 14:02:48] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-21 14:02:48] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-21 14:02:48] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-21 14:02:51] (NewsSpider-4) (1/308) Crawling and storing DONE - Eight Ways to Transform Special Education
+INFO:root:[2018-10-21 14:02:51] (NewsSpider-3) (2/308) Crawling and storing DONE - Epic kid Halloween costumes: Little RBG, Hall and Oates, and more
+INFO:root:[2018-10-21 14:02:55] (NewsSpider-3) (3/308) Crawling and storing DONE - Tony-Winning Thriller Oslo Comes to the Marin Theatre Company
+INFO:root:[2018-10-21 14:02:56] (NewsSpider-1) (4/308) Crawling and storing DONE - Growing Up in Alameda: Motorcycles? In the living room?
+INFO:root:[2018-10-21 14:02:59] (NewsSpider-1) (5/308) Crawling and storing DONE - Thursday CCS Open Division consolation basketball scores
+INFO:root:[2018-10-21 14:03:00] (NewsSpider-3) (6/308) Crawling and storing DONE - Treasure Island Music Festival: A guide to the boutique indie festival on the Bay
+INFO:root:[2018-10-21 14:03:03] (NewsSpider-5) (7/308) Crawling and storing DONE - Jeff Sessions gets smoked with rolling papers that support pot legalization
+INFO:root:[2018-10-21 14:03:04] (NewsSpider-3) (8/308) Crawling and storing DONE - Venice Recap
+INFO:root:[2018-10-21 14:03:04] (NewsSpider-2) (9/308) Crawling and storing DONE - Preserved San Francisco Victorian home, circa 1887, comes with $3,107 rental apartment
+INFO:root:[2018-10-21 14:03:05] (NewsSpider-4) (10/308) Crawling and storing DONE - Wondo scores, but Red Bulls pressure too much for SJ Earthquakes
+INFO:root:[2018-10-21 14:03:08] (NewsSpider-4) (11/308) Crawling and storing DONE - Advertising Careers: How Jason Sperling Created the Campaign of the Decade
+INFO:root:[2018-10-21 14:03:12] (NewsSpider-4) (12/308) Crawling and storing DONE - Pismo Pier Reopens During 72nd Annual Pismo Beach Clam Festival
+INFO:root:[2018-10-21 14:03:12] (NewsSpider-2) (13/308) Crawling and storing DONE - The Year in Crazy: 2014
+INFO:root:[2018-10-21 14:03:16] (NewsSpider-3) (14/308) Crawling and storing DONE - Where are YOU Watching the World Cup?
+INFO:root:[2018-10-21 14:03:18] (NewsSpider-3) (15/308) Crawling and storing DONE - How do you manage a rambling interviewer?
+INFO:root:[2018-10-21 14:03:18] (NewsSpider-1) (16/308) Crawling and storing DONE - New Napa Destination Resort Stirs Up Exciting New In-Suite Cooking Experience
+INFO:root:[2018-10-21 14:03:19] (NewsSpider-4) (17/308) Crawling and storing DONE - San Jose Earthquakes name Matias Almeyda new head coach
+INFO:root:[2018-10-21 14:03:21] (NewsSpider-1) (18/308) Crawling and storing DONE - See rare pics of the Palace of Fine Arts as it marks its 100th anniversary
+INFO:root:[2018-10-21 14:03:22] (NewsSpider-3) (19/308) Crawling and storing DONE - How Sharks look after first week of play
+INFO:root:[2018-10-21 14:03:25] (NewsSpider-3) (20/308) Crawling and storing DONE - Bay Area Soccer: Jimmy Conrad joins SF Glens staff, Oakland teams clash in US Open Cup Qualifier
+INFO:root:[2018-10-21 14:03:25] (NewsSpider-1) (21/308) Crawling and storing DONE - Tyrone Wallace, other Cal athletes recognized for academics
+INFO:root:[2018-10-21 14:03:28] (NewsSpider-4) (22/308) Crawling and storing DONE - Anne Brigman, a proto-feminist photographer, gets her due at Nevada Museum
+INFO:root:[2018-10-21 14:03:29] (NewsSpider-3) (23/308) Crawling and storing DONE - Stienstra video: Rain arrives in time for ducks, geese, otters at wildlife paradise
+INFO:root:[2018-10-21 14:03:30] (NewsSpider-1) (24/308) Crawling and storing DONE - Get a Taste of Thailand at Hawker Fare in San Francisco
+INFO:root:[2018-10-21 14:03:30] (NewsSpider-4) (25/308) Crawling and storing DONE - Temp jobs can help restart your career
+INFO:root:[2018-10-21 14:03:31] (NewsSpider-2) (26/308) Crawling and storing DONE - Mistake costly as Earthquakes fall to Sounders
+INFO:root:[2018-10-21 14:03:31] (NewsSpider-5) (27/308) Crawling and storing DONE - A snail that has Homeland Security worried
+INFO:root:[2018-10-21 14:03:32] (NewsSpider-4) (28/308) Crawling and storing DONE - Amy Tan, Armistead Maupin meet onstage for Litquake
+INFO:root:[2018-10-21 14:03:32] (NewsSpider-3) (29/308) Crawling and storing DONE - Canada is reportedly running short on legal marijuana
+INFO:root:[2018-10-21 14:03:33] (NewsSpider-1) (30/308) Crawling and storing DONE - The battle over rent control in the East Bay
+INFO:root:[2018-10-21 14:03:34] (NewsSpider-4) (31/308) Crawling and storing DONE - Half Moon Bay boys run past Westmoor
+INFO:root:[2018-10-21 14:03:35] (NewsSpider-5) (32/308) Crawling and storing DONE - Dream Globally, Eat Locally: Inside the Hawaii Food and Wine Festival
+INFO:root:[2018-10-21 14:03:36] (NewsSpider-3) (33/308) Crawling and storing DONE - United Nations Association Film Festival explores human rights in many forms
+INFO:root:[2018-10-21 14:03:38] (NewsSpider-4) (34/308) Crawling and storing DONE - Full-floor Tenderloin penthouse with two terraces and a fountain asks $3.95 million
+INFO:root:[2018-10-21 14:03:39] (NewsSpider-2) (35/308) Crawling and storing DONE - 4 Hip Family-Style Italian San Francisco Restaurants
+INFO:root:[2018-10-21 14:03:39] (NewsSpider-5) (36/308) Crawling and storing DONE - San Francisco Batman
+INFO:root:[2018-10-21 14:03:40] (NewsSpider-5) (37/308) Crawling and storing DONE - You Have Each Other, but You Have No Friends
+INFO:root:[2018-10-21 14:03:40] (NewsSpider-1) (38/308) Crawling and storing DONE - Marijuana can enhance pleasure and frequency of sex, research finds
+INFO:root:[2018-10-21 14:03:43] (NewsSpider-1) (39/308) Crawling and storing DONE - Why natural surfaces rule in rustic-chic design
+INFO:root:[2018-10-21 14:03:43] (NewsSpider-2) (40/308) Crawling and storing DONE - What Are the Best Restaurants in the Bay Area?
+INFO:root:[2018-10-21 14:03:45] (NewsSpider-3) (41/308) Crawling and storing DONE - The Sea-to-Sky Corridor: Gateway to an Art Movement
+INFO:root:[2018-10-21 14:03:47] (NewsSpider-5) (42/308) Crawling and storing DONE - Wednesday roundup: Last-second 3-pointer lifts Serra to stunning Jungle Game win
+INFO:root:[2018-10-21 14:03:47] (NewsSpider-1) (43/308) Crawling and storing DONE - Reasons for SF Giants optimism? We found some.
+INFO:root:[2018-10-21 14:03:48] (NewsSpider-2) (44/308) Crawling and storing DONE - Adorable one-bedroom SF cottage with mountain cabin vibes asks $1.195 million
+INFO:root:[2018-10-21 14:03:48] (NewsSpider-4) (45/308) Crawling and storing DONE - Super-Crafty Halloween Contest winners are here!
+INFO:root:[2018-10-21 14:03:49] (NewsSpider-1) (46/308) Crawling and storing DONE - Beyond the Pools and Patios, Palm Springs is Also an Adventure Paradise
+INFO:root:[2018-10-21 14:03:51] (NewsSpider-2) (47/308) Crawling and storing DONE - Celebrate the Bounty and Beauty of Sonoma Valley
+INFO:root:[2018-10-21 14:03:51] (NewsSpider-4) (48/308) Crawling and storing DONE - Watch: Neil deGrasse Tyson advises against smoking weed in space
+INFO:root:[2018-10-21 14:03:53] (NewsSpider-1) (49/308) Crawling and storing DONE - Gallup poll: Americans believe tobacco is more harmful than marijuana
+INFO:root:[2018-10-21 14:03:55] (NewsSpider-3) (50/308) Crawling and storing DONE - Oakland Asian Cultural Center hosts the inaugural Peace Lantern Ceremony
+INFO:root:[2018-10-21 14:03:56] (NewsSpider-2) (51/308) Crawling and storing DONE - A Classic California Day Starts With Bubbles from Domaine Chandon
+INFO:root:[2018-10-21 14:03:56] (NewsSpider-4) (52/308) Crawling and storing DONE - Jasmine Tea House not what it used to be
+INFO:root:[2018-10-21 14:03:59] (NewsSpider-3) (53/308) Crawling and storing DONE - Numbers that defined 2015-16 Cal basketball season
+INFO:root:[2018-10-21 14:03:59] (NewsSpider-2) (54/308) Crawling and storing DONE - San Francisco Greek Film Festival returns for 15th edition
+INFO:root:[2018-10-21 14:04:02] (NewsSpider-4) (55/308) Crawling and storing DONE - Is it time for a new personal brand?
+INFO:root:[2018-10-21 14:04:02] (NewsSpider-5) (56/308) Crawling and storing DONE - Utah Mormons clash over medical marijuana legalization
+INFO:root:[2018-10-21 14:04:03] (NewsSpider-1) (57/308) Crawling and storing DONE - Bay Area Soccer Roundup: Season ends for El Farolito, SF City, SF Glens; SJ Earthquakes to play Man United
+INFO:root:[2018-10-21 14:04:03] (NewsSpider-4) (58/308) Crawling and storing DONE - Superfest Disability Film Festival in Berkeley, SF shows anything is possible
+INFO:root:[2018-10-21 14:04:04] (NewsSpider-2) (59/308) Crawling and storing DONE - Media Noche debuts in the Mission with Cubanos, croquetas, ice cream
+INFO:root:[2018-10-21 14:04:04] (NewsSpider-5) (60/308) Crawling and storing DONE - Wake up from a career nightmare
+INFO:root:[2018-10-21 14:04:04] (NewsSpider-1) (61/308) Crawling and storing DONE - Cypress Hill launches new marijuana brand through online delivery service
+INFO:root:[2018-10-21 14:04:06] (NewsSpider-2) (62/308) Crawling and storing DONE - Legal marijuana in Canada: A day one recap
+INFO:root:[2018-10-21 14:04:06] (NewsSpider-3) (63/308) Crawling and storing DONE - Is Richmond the new Oakland? New ferry terminal attracts SF homebuyers, stokes gentrification fears
+INFO:root:[2018-10-21 14:04:07] (NewsSpider-5) (64/308) Crawling and storing DONE - Finding Hookah Bars in San Francisco
+INFO:root:[2018-10-21 14:04:08] (NewsSpider-1) (65/308) Crawling and storing DONE - What Are Some Must-Try Restaurants in Lower Nob Hill?
+INFO:root:[2018-10-21 14:04:12] (NewsSpider-4) (66/308) Crawling and storing DONE - If NCAA Tournament started today, would Cal be a No. 5 seed?
+INFO:root:[2018-10-21 14:04:13] (NewsSpider-1) (67/308) Crawling and storing DONE - Canada is reportedly running short on legal marijuana
+INFO:root:[2018-10-21 14:04:15] (NewsSpider-5) (68/308) Crawling and storing DONE - Painful Bay Area medical prices among highest in nation
+INFO:root:[2018-10-21 14:04:16] (NewsSpider-4) (69/308) Crawling and storing DONE - Marijuana use among baby boomers is on the rise, study finds
+INFO:root:[2018-10-21 14:04:16] (NewsSpider-2) (70/308) Crawling and storing DONE - SFGate Registration and user FAQ
+INFO:root:[2018-10-21 14:04:16] (NewsSpider-3) (71/308) Crawling and storing DONE - Best Places for Drinks Near Presidio Heights
+INFO:root:[2018-10-21 14:04:18] (NewsSpider-1) (72/308) Crawling and storing DONE - Invisible Cars
+INFO:root:[2018-10-21 14:04:19] (NewsSpider-2) (73/308) Crawling and storing DONE - Court: The crime is what you did, not what you could have done
+INFO:root:[2018-10-21 14:04:21] (NewsSpider-5) (74/308) Crawling and storing DONE - What Are Some Must-Try Restaurants Near the Civic Center?
+INFO:root:[2018-10-21 14:04:21] (NewsSpider-1) (75/308) Crawling and storing DONE - Bellarmine wins roller-coaster basketball game with St. Francis
+INFO:root:[2018-10-21 14:04:22] (NewsSpider-5) (76/308) Crawling and storing DONE - Ozzy Osbourne announces rescheduled tour dates for 2019
+INFO:root:[2018-10-21 14:04:22] (NewsSpider-3) (77/308) Crawling and storing DONE - Bay Area Soccer Roundup: SF City and SF Glens clash in SF Derby, El Farolito advances in NPSL playoffs
+INFO:root:[2018-10-21 14:04:23] (NewsSpider-2) (78/308) Crawling and storing DONE - Transit riders bar hop on MUNI
+INFO:root:[2018-10-21 14:04:24] (NewsSpider-5) (79/308) Crawling and storing DONE - State Lines: A poem by Anna Journey
+INFO:root:[2018-10-21 14:04:25] (NewsSpider-4) (80/308) Crawling and storing DONE - Marijuana can help treat symptoms from multiple sclerosis, study finds
+INFO:root:[2018-10-21 14:04:25] (NewsSpider-2) (81/308) Crawling and storing DONE - A look at who Cal is targeting on the transfer market
+INFO:root:[2018-10-21 14:04:26] (NewsSpider-3) (82/308) Crawling and storing DONE - A look at postseason superlatives for Cal basketball
+INFO:root:[2018-10-21 14:04:27] (NewsSpider-1) (83/308) Crawling and storing DONE - What Are the Best Restaurants in the Bay Area?
+INFO:root:[2018-10-21 14:04:27] (NewsSpider-5) (84/308) Crawling and storing DONE - More from Fantastic Friday of section boys hoop championships
+INFO:root:[2018-10-21 14:04:29] (NewsSpider-5) (85/308) Crawling and storing DONE - Proposition 12
+INFO:root:[2018-10-21 14:04:29] (NewsSpider-2) (86/308) Crawling and storing DONE - Looking at art through the eyes of Wayne Thiebaud at SFMOMA
+INFO:root:[2018-10-21 14:04:29] (NewsSpider-3) (87/308) Crawling and storing DONE - Must-Visit Dessert Places in Union Square
+INFO:root:[2018-10-21 14:04:32] (NewsSpider-1) (88/308) Crawling and storing DONE - Small tech startup plans to grow cannabis on the International Space Station
+INFO:root:[2018-10-21 14:04:32] (NewsSpider-3) (89/308) Crawling and storing DONE - Medical marijuana can help reduce psychosis symptoms, study finds
+INFO:root:[2018-10-21 14:04:33] (NewsSpider-5) (90/308) Crawling and storing DONE - Study: Cannabis-derived CBD could help people quit tobacco
+INFO:root:[2018-10-21 14:04:35] (NewsSpider-4) (91/308) Crawling and storing DONE - Performance legend Shelton Mann premieres new work in SF
+INFO:root:[2018-10-21 14:04:35] (NewsSpider-1) (92/308) Crawling and storing DONE - Sink a 3: Stephen Curry tribute song is awesome.
+INFO:root:[2018-10-21 14:04:36] (NewsSpider-5) (93/308) Crawling and storing DONE - Poll: Support for marijuana legalization hits record 62 percent of Americans
+INFO:root:[2018-10-21 14:04:37] (NewsSpider-5) (94/308) Crawling and storing DONE - Stephen Curry and Jordan Spieth share stage in new commercial
+INFO:root:[2018-10-21 14:04:38] (NewsSpider-4) (95/308) Crawling and storing DONE - Q&A: Oregon Sen. Jeff Merkley pushes for safe banking in the legal marijuana industry
+INFO:root:[2018-10-21 14:04:41] (NewsSpider-5) (96/308) Crawling and storing DONE - Disneyland birthday: Tracing 60 years in 24 hours
+INFO:root:[2018-10-21 14:04:41] (NewsSpider-4) (97/308) Crawling and storing DONE - Clare Rojas shares lesson in vision at Anglim Gilbert
+INFO:root:[2018-10-21 14:04:41] (NewsSpider-2) (98/308) Crawling and storing DONE - Green living and jaw-dropping views in walkable Ashbury Heights
+INFO:root:[2018-10-21 14:04:43] (NewsSpider-3) (99/308) Crawling and storing DONE - 5 Off-the-Beaten-Path Hikes in Marin
+INFO:root:[2018-10-21 14:04:45] (NewsSpider-4) (100/308) Crawling and storing DONE - Giving Bay Area children a life-changing education with the BASIC Fund
+INFO:root:[2018-10-21 14:04:46] (NewsSpider-2) (101/308) Crawling and storing DONE - Got Milk?
+INFO:root:[2018-10-21 14:04:46] (NewsSpider-5) (102/308) Crawling and storing DONE - What Are Some Must-Try Restaurants in Lower Nob Hill?
+INFO:root:[2018-10-21 14:04:47] (NewsSpider-1) (103/308) Crawling and storing DONE - Euphemisms bite the dust
+INFO:root:[2018-10-21 14:04:49] (NewsSpider-4) (104/308) Crawling and storing DONE - Stanford soccer: Morris to skip senior season to turn pro
+INFO:root:[2018-10-21 14:04:50] (NewsSpider-3) (105/308) Crawling and storing DONE - Sacramento program will help minority cannabis business owners
+INFO:root:[2018-10-21 14:04:51] (NewsSpider-2) (106/308) Crawling and storing DONE - De La Salle takes down Harvard-Westlake at MaxPreps MLK Jr. Classic
+INFO:root:[2018-10-21 14:04:52] (NewsSpider-1) (107/308) Crawling and storing DONE - Sea-to-Sky Corridor Enriches Visitors with Diverse Cultural Institutions
+INFO:root:[2018-10-21 14:04:52] (NewsSpider-5) (108/308) Crawling and storing DONE - This sunny Belvedere estate features bay views at every turn
+INFO:root:[2018-10-21 14:04:54] (NewsSpider-3) (109/308) Crawling and storing DONE - Heras-Casado leads the SF Symphony on a fantasy travelogue through Spain
+INFO:root:[2018-10-21 14:04:55] (NewsSpider-3) (110/308) Crawling and storing DONE - Could Cal be heading to Denver as a No. 5 seed?
+INFO:root:[2018-10-21 14:04:56] (NewsSpider-2) (111/308) Crawling and storing DONE - Chron Quiz: Food alert
+INFO:root:[2018-10-21 14:04:56] (NewsSpider-5) (112/308) Crawling and storing DONE - Cal announces 8-person Hall of Fame class
+INFO:root:[2018-10-21 14:04:57] (NewsSpider-4) (113/308) Crawling and storing DONE - Plastics are forever: Pacifica beachcombers still finding landfill fallout
+INFO:root:[2018-10-21 14:04:59] (NewsSpider-4) (114/308) Crawling and storing DONE - Creative Pastry Chefs Who Can Whip Up Perfection in San Francisco
+INFO:root:[2018-10-21 14:04:59] (NewsSpider-2) (115/308) Crawling and storing DONE - Rents are down double-digits in some surprising S.F. neighborhoods
+INFO:root:[2018-10-21 14:05:00] (NewsSpider-1) (116/308) Crawling and storing DONE - San Ramon Valley gets defensive to defeat short-handed Monte Vista
+INFO:root:[2018-10-21 14:05:02] (NewsSpider-2) (117/308) Crawling and storing DONE - Are you blindly cheating on your spouse?
+INFO:root:[2018-10-21 14:05:03] (NewsSpider-3) (118/308) Crawling and storing DONE - Local Olympians one year later: Where are they now?
+INFO:root:[2018-10-21 14:05:03] (NewsSpider-5) (119/308) Crawling and storing DONE - When the 49ers changed their logo, and fans revolted
+INFO:root:[2018-10-21 14:05:05] (NewsSpider-4) (120/308) Crawling and storing DONE - What Are Some of the Best San Francisco Wine Tours?
+INFO:root:[2018-10-21 14:05:06] (NewsSpider-3) (121/308) Crawling and storing DONE - Lit Crawl, the wild, pop-up party night, set to cap Litquake fest
+INFO:root:[2018-10-21 14:05:09] (NewsSpider-1) (122/308) Crawling and storing DONE - Around the Bay Area, special rental offers and help for homeless fire victims
+INFO:root:[2018-10-21 14:05:09] (NewsSpider-2) (123/308) Crawling and storing DONE - This week: Final 747 flights + LA tips + New routes
+INFO:root:[2018-10-21 14:05:10] (NewsSpider-3) (124/308) Crawling and storing DONE - Archetype Brings Feel-Good, Plant-Forward Freshness to St. Helena!
+INFO:root:[2018-10-21 14:05:12] (NewsSpider-3) (125/308) Crawling and storing DONE - All school and no play raises anxiety and depression in children
+INFO:root:[2018-10-21 14:05:12] (NewsSpider-5) (126/308) Crawling and storing DONE - The next big step after an interview: Crafting a thank-you letter
+INFO:root:[2018-10-21 14:05:13] (NewsSpider-4) (127/308) Crawling and storing DONE - Must-Visit Bars Near Saint Francis Wood
+INFO:root:[2018-10-21 14:05:13] (NewsSpider-3) (128/308) Crawling and storing DONE - Burning Man to sue feds over setting several traffic stops
+INFO:root:[2018-10-21 14:05:15] (NewsSpider-2) (129/308) Crawling and storing DONE - Jerusalem Quartet and guests explore new dimensions of string music
+INFO:root:[2018-10-21 14:05:15] (NewsSpider-4) (130/308) Crawling and storing DONE - Marijuana is the most referenced drug in popular music, study finds
+INFO:root:[2018-10-21 14:05:15] (NewsSpider-5) (131/308) Crawling and storing DONE - Pop artist Mel Ramos dies at 83
+INFO:root:[2018-10-21 14:05:16] (NewsSpider-2) (132/308) Crawling and storing DONE - Extended coverage: Tevis, Menlo sack Central Coast Section title
+INFO:root:[2018-10-21 14:05:16] (NewsSpider-3) (133/308) Crawling and storing DONE - Best Places for Drinks Near Presidio Heights
+WARNING:root:[2018-10-21 14:05:17] (NewsSpider-5) Article Not Exists on http://www.sfgate.com/details/colma-california/2016-jeep-renegade-latitude-94014-zaccjbbt0gpd93113
+INFO:root:[2018-10-21 14:05:21] (NewsSpider-2) (134/308) Crawling and storing DONE - What Are Some of the Best San Francisco Wine Tours?
+INFO:root:[2018-10-21 14:05:22] (NewsSpider-4) (135/308) Crawling and storing DONE - 4 Hip Family-Style Italian San Francisco Restaurants
+INFO:root:[2018-10-21 14:05:23] (NewsSpider-2) (136/308) Crawling and storing DONE - Bay Bridge bike path: Still the road to nowhere
+INFO:root:[2018-10-21 14:05:24] (NewsSpider-5) (137/308) Crawling and storing DONE - Eureka Valley Victorian surrounded by green space asks $2.55 million
+INFO:root:[2018-10-21 14:05:24] (NewsSpider-1) (138/308) Crawling and storing DONE - Must-Visit Dessert Places in Union Square
+INFO:root:[2018-10-21 14:05:27] (NewsSpider-3) (139/308) Crawling and storing DONE - With MLS-worst record, SJ Earthquakes fire head coach Mikael Stahre
+INFO:root:[2018-10-21 14:05:28] (NewsSpider-4) (140/308) Crawling and storing DONE - A brief history of the off-the-court rivalry between the Warriors and Cavaliers
+INFO:root:[2018-10-21 14:05:30] (NewsSpider-1) (141/308) Crawling and storing DONE - Melissa McCarthy takes serious route in portraying notorious literary forger
+INFO:root:[2018-10-21 14:05:32] (NewsSpider-2) (142/308) Crawling and storing DONE - 9 Convertibles That Boast The Most Legroom for Under $40K
+INFO:root:[2018-10-21 14:05:33] (NewsSpider-4) (143/308) Crawling and storing DONE - Sam Choy to open Poke to the Max in Bay Area
+INFO:root:[2018-10-21 14:05:33] (NewsSpider-5) (144/308) Crawling and storing DONE - Explore This Frank Lloyd Wright Masterpiece in Marin
+INFO:root:[2018-10-21 14:05:34] (NewsSpider-1) (145/308) Crawling and storing DONE - The Importance of Testing Cannabis
+INFO:root:[2018-10-21 14:05:36] (NewsSpider-4) (146/308) Crawling and storing DONE - 6 reasons to visit Mr. East Kitchen
+INFO:root:[2018-10-21 14:05:36] (NewsSpider-2) (147/308) Crawling and storing DONE - 3-Day Getaway to Palm Springs: Clubs, Culture and Pool Time
+INFO:root:[2018-10-21 14:05:37] (NewsSpider-2) (148/308) Crawling and storing DONE - Get a Taste of Thailand at Hawker Fare in San Francisco
+INFO:root:[2018-10-21 14:05:37] (NewsSpider-1) (149/308) Crawling and storing DONE - Sea-to-Sky Corridor Spans Coastal Salish Culture
+INFO:root:[2018-10-21 14:05:40] (NewsSpider-4) (150/308) Crawling and storing DONE - FDA approves first drug derived from marijuana
+INFO:root:[2018-10-21 14:05:40] (NewsSpider-2) (151/308) Crawling and storing DONE - Creative Pastry Chefs Who Can Whip Up Perfection in San Francisco
+INFO:root:[2018-10-21 14:05:40] (NewsSpider-1) (152/308) Crawling and storing DONE - A year later: The fuse that lit the Battles of Berkeley
+WARNING:root:[2018-10-21 14:05:40] (NewsSpider-3) Article Not Exists on http://www.sfgate.com/details/colma-california/2019-ram-1500-express-94014-1c6rr6kg8ks537191
+INFO:root:[2018-10-21 14:05:43] (NewsSpider-2) (153/308) Crawling and storing DONE - Stanford coach David Shaw explains his two-a-day practice strategy
+INFO:root:[2018-10-21 14:05:43] (NewsSpider-5) (154/308) Crawling and storing DONE - Promoting Quality of Life for People with Developmental Disabilities
+INFO:root:[2018-10-21 14:05:45] (NewsSpider-4) (155/308) Crawling and storing DONE - Modern waterfront residences with access to parks, transportation, and restaurants set to open soon!
+INFO:root:[2018-10-21 14:05:48] (NewsSpider-4) (156/308) Crawling and storing DONE - Obnoxious Woman, Confident Man
+INFO:root:[2018-10-21 14:05:50] (NewsSpider-3) (157/308) Crawling and storing DONE - Wednesday roundup: Buzzer-beater by Athens gives Bellarmine win over Serra
+INFO:root:[2018-10-21 14:05:50] (NewsSpider-5) (158/308) Crawling and storing DONE - Tastiest Brews From Hills Bros. Coffee in San Francisco
+INFO:root:[2018-10-21 14:05:51] (NewsSpider-4) (159/308) Crawling and storing DONE - Capuchino keeps cool; Answers amazing Mills rally with a buzzer-beater for the win
+INFO:root:[2018-10-21 14:05:52] (NewsSpider-5) (160/308) Crawling and storing DONE - Cynthia Nixon supports marijuana legalization in New York
+INFO:root:[2018-10-21 14:05:56] (NewsSpider-1) (161/308) Crawling and storing DONE - Mac Sabbath offers fast-food-themed take on heavy metal
+INFO:root:[2018-10-21 14:05:58] (NewsSpider-2) (162/308) Crawling and storing DONE - When do Tahoe and Sierra ski areas open for 2017-2018?
+INFO:root:[2018-10-21 14:05:58] (NewsSpider-4) (163/308) Crawling and storing DONE - 79-year-old woman converts van, hits the road for adventure
+INFO:root:[2018-10-21 14:05:59] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-21 14:05:59] (NewsSpider-2) (164/308) Crawling and storing DONE - Creekside Berkeley home only accessible via footbridge asks $1.95 million
+INFO:root:[2018-10-21 14:06:00] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-21 14:06:01] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-21 14:06:01] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-21 14:06:02] ========== (NewsSpider-2) Thread END ==========

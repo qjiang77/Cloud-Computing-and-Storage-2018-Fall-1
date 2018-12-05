@@ -1,0 +1,301 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feeds
+INFO:root:[2018-09-08 18:11:40] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:11:40] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:11:40] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:11:40] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:11:40] ========== (NewsSpider-5) Start! ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feed
+INFO:root:[2018-09-08 18:26:57] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:58] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:58] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:58] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:58] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:27:04] (NewsSpider-2) (1/299) Crawling and storing DONE - Hair perfume is a thing and these are the best ones
+INFO:root:[2018-09-08 18:27:05] (NewsSpider-4) (2/299) Crawling and storing DONE - Hot new accessories trend alert: Body Horror
+INFO:root:[2018-09-08 18:27:21] (NewsSpider-2) (3/299) Crawling and storing DONE - What do guys actually want a say in for their wedding?
+INFO:root:[2018-09-08 18:27:22] (NewsSpider-4) (4/299) Crawling and storing DONE - Twitter drags Cassper for #FillUp ownership
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feed
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-10) Start! ==========
+INFO:root:[2018-10-14 10:50:46] (NewsSpider-7) (1/284) Crawling and storing DONE - Listerine Advanced White voting is closed
+INFO:root:[2018-10-14 10:50:46] (NewsSpider-9) (2/284) Crawling and storing DONE - Dame Judi Dench voices support for a female James Bond
+INFO:root:[2018-10-14 10:50:46] (NewsSpider-5) (3/284) Crawling and storing DONE - The closet is for clothes
+WARNING:root:[2018-10-14 10:50:51] (NewsSpider-3) Article Not Exists on http://www.glamour.pl/artykul/joanna-kulig-i-jeanne-damas-w-kampanii-i-can-boogie-reserved-jesien-zima-2018-2019-180903083045
+WARNING:root:[2018-10-14 10:50:51] (NewsSpider-1) Article Not Exists on https://www.glamour.co.za/2018/10/men-hot-celebs-and-influencers/
+WARNING:root:[2018-10-14 10:50:51] (NewsSpider-4) Article Not Exists on https://www.glamour.co.za/2018/10/every-single-detail-about-princess-eugenie-and-jack-brooksbanks-incredible-wedding/
+INFO:root:[2018-10-14 10:50:51] (NewsSpider-10) (4/284) Crawling and storing DONE - Hallo Gossip Girl 2.0: Blake Lively is bezig met nieuwe tv-serie
+INFO:root:[2018-10-14 10:51:29] (NewsSpider-3) (5/284) Crawling and storing DONE - Refresh your summer wardrobe with Karen Millen
+WARNING:root:[2018-10-14 10:51:52] (NewsSpider-8) Article Not Exists on https://video.glamour.com/watch/what-men-really-think-about-me-too
+INFO:root:[2018-10-14 10:52:08] (NewsSpider-4) (7/284) Crawling and storing DONE - Zien: De eerste beelden van de live-action film Aladdin
+INFO:root:[2018-10-14 10:52:08] (NewsSpider-7) (8/284) Crawling and storing DONE - Jessica Nkosi welcomes her baby into the world with this cute post!
+INFO:root:[2018-10-14 10:52:23] (NewsSpider-1) (9/284) Crawling and storing DONE - [Exclusive] The business of beauty: Carol Nyazika
+INFO:root:[2018-10-14 10:52:25] (NewsSpider-5) (10/284) Crawling and storing DONE - 5 Best foods to eat when you have anxiety
+INFO:root:[2018-10-14 10:52:39] (NewsSpider-1) (11/284) Crawling and storing DONE - Here’s the foundation that’ll get you through summer!
+INFO:root:[2018-10-14 10:52:44] (NewsSpider-2) (12/284) Crawling and storing DONE - All the apps you shouldn’t be sleeping on
+INFO:root:[2018-10-14 10:52:55] (NewsSpider-1) (13/284) Crawling and storing DONE - Can having more sex make you smarter? Results are in…
+INFO:root:[2018-10-14 10:53:20] (NewsSpider-6) (14/284) Crawling and storing DONE - Here’s how these brands gave back this Eye Care Awareness Month
+INFO:root:[2018-10-14 10:53:20] (NewsSpider-4) (15/284) Crawling and storing DONE - 3 Gen Z approved first cars to test drive today
+INFO:root:[2018-10-14 10:53:21] (NewsSpider-8) (16/284) Crawling and storing DONE - Beach 🍑’s be jealous
+INFO:root:[2018-10-14 10:53:21] (NewsSpider-3) (17/284) Crawling and storing DONE - Thinking about quitting your job?
+INFO:root:[2018-10-14 10:53:28] (NewsSpider-6) (18/284) Crawling and storing DONE - Introducing the winner of our Style Your Smile competition with Listerine Advanced White
+INFO:root:[2018-10-14 10:53:29] (NewsSpider-8) (19/284) Crawling and storing DONE - 5 ways to ease your partner into trying bondage and kink
+INFO:root:[2018-10-14 10:53:36] (NewsSpider-7) (20/284) Crawling and storing DONE - Ariana Grande took break from music because she’s ‘been through hell’
+INFO:root:[2018-10-14 10:53:36] (NewsSpider-1) (21/284) Crawling and storing DONE - Girls can do anything by Zadig & Voltaire
+INFO:root:[2018-10-14 10:53:44] (NewsSpider-5) (22/284) Crawling and storing DONE - A sex educator answers your biggest questions about the G-Spot
+INFO:root:[2018-10-14 10:53:47] (NewsSpider-4) (23/284) Crawling and storing DONE - Viola Davis hails her Widows co-stars
+INFO:root:[2018-10-14 10:53:48] (NewsSpider-7) (24/284) Crawling and storing DONE - There’s something for everyone at this exciting lifestyle fair!
+INFO:root:[2018-10-14 10:54:00] (NewsSpider-6) (25/284) Crawling and storing DONE - How to achieve a natural face beat
+INFO:root:[2018-10-14 10:54:26] (NewsSpider-7) (26/284) Crawling and storing DONE - 5 Days of Fashion: Azola Bam
+INFO:root:[2018-10-14 10:54:27] (NewsSpider-1) (27/284) Crawling and storing DONE - 5 Steps to perfect your girls night out
+INFO:root:[2018-10-14 10:55:06] (NewsSpider-8) (28/284) Crawling and storing DONE - Onderzoek wijst uit: Nederlanders zijn minder romantisch dan je denkt
+INFO:root:[2018-10-14 10:55:19] (NewsSpider-9) (29/284) Crawling and storing DONE - Kalsarikännie: het Finse concept drankhangen
+INFO:root:[2018-10-14 10:55:44] (NewsSpider-7) (30/284) Crawling and storing DONE - Inside our Durban Beauty Masterclass with Elizabeth Arden
+INFO:root:[2018-10-14 10:55:44] (NewsSpider-2) (31/284) Crawling and storing DONE - South Africa’s first bachelor has been revealed!
+INFO:root:[2018-10-14 10:55:45] (NewsSpider-5) (32/284) Crawling and storing DONE - SEE: How 6 of our favorite celebs slayed this weekend
+INFO:root:[2018-10-14 10:56:03] (NewsSpider-9) (34/284) Crawling and storing DONE - Beauty trends that ruled Rocking the Daisies 2018
+INFO:root:[2018-10-14 10:56:14] (NewsSpider-1) (35/284) Crawling and storing DONE - Louis Vuitton opent pop-up shop in Bijenkorf Rotterdam
+INFO:root:[2018-10-14 10:56:18] (NewsSpider-2) (36/284) Crawling and storing DONE - Curl conditioning co-washes for natural hair
+INFO:root:[2018-10-14 10:56:22] (NewsSpider-4) (37/284) Crawling and storing DONE - Rocking the Daisies 2018 recap
+INFO:root:[2018-10-14 10:56:33] (NewsSpider-7) (38/284) Crawling and storing DONE - Bolsos de Zara que cuestan menos de 40 € y que quedan genial con vaqueros, pantalones de vestir, faldas midi y cualquier zapato
+INFO:root:[2018-10-14 10:56:34] (NewsSpider-1) (39/284) Crawling and storing DONE - The theme for the 2019 Met Gala has been announced, here’s everything we know so far…
+INFO:root:[2018-10-14 10:56:34] (NewsSpider-9) (40/284) Crawling and storing DONE - Riky Rick’s unisex bags are hit abroad
+INFO:root:[2018-10-14 10:56:36] (NewsSpider-2) (41/284) Crawling and storing DONE - Estos son los mejores (y peores) looks de los American Music Awards 2018
+INFO:root:[2018-10-14 10:56:39] (NewsSpider-7) (42/284) Crawling and storing DONE - How you can change the world with red lipstick
+INFO:root:[2018-10-14 10:56:40] (NewsSpider-1) (43/284) Crawling and storing DONE - Elevate your seductive nature with NARCISO Eau de Parfum Rouge
+INFO:root:[2018-10-14 10:56:43] (NewsSpider-5) (44/284) Crawling and storing DONE - Today I’m wearing… Boity Thulo
+INFO:root:[2018-10-14 10:56:44] (NewsSpider-9) (45/284) Crawling and storing DONE - Versace bringing back Notorious B.I.G. signature sunglasses
+INFO:root:[2018-10-14 10:56:48] (NewsSpider-9) (46/284) Crawling and storing DONE - What to eat if you want super shiny hair
+INFO:root:[2018-10-14 10:56:49] (NewsSpider-5) (47/284) Crawling and storing DONE - Your complete guide to colouring your hair
+INFO:root:[2018-10-14 10:56:50] (NewsSpider-2) (48/284) Crawling and storing DONE - A Black Panther sequel has been confirmed
+INFO:root:[2018-10-14 10:56:52] (NewsSpider-7) (49/284) Crawling and storing DONE - Chamarras y abrigos que NECESITAS este otoño
+INFO:root:[2018-10-14 10:56:57] (NewsSpider-2) (50/284) Crawling and storing DONE - Nieuwe trend voor stadsmensen die willen ontstressen: plant bathing
+INFO:root:[2018-10-14 10:56:58] (NewsSpider-3) (51/284) Crawling and storing DONE - Verkeerde roddels: Dakota Johnson blijkt toch niet zwanger
+INFO:root:[2018-10-14 10:56:59] (NewsSpider-7) (52/284) Crawling and storing DONE - I tried shaving with olive oil and was amazed with the result
+INFO:root:[2018-10-14 10:57:00] (NewsSpider-1) (54/284) Crawling and storing DONE - Four yummy gin-based cocktail recipes
+INFO:root:[2018-10-14 10:57:01] (NewsSpider-2) (55/284) Crawling and storing DONE - Molloten: zijn dit de deelnemers van Wie is de Mol 2019?
+INFO:root:[2018-10-14 10:57:05] (NewsSpider-7) (56/284) Crawling and storing DONE - The five foods South Africans are loving right now
+INFO:root:[2018-10-14 10:57:08] (NewsSpider-2) (57/284) Crawling and storing DONE - Justin Bieber ontroostbaar na nieuws kliniekopname Selena Gomez
+INFO:root:[2018-10-14 10:57:10] (NewsSpider-5) (58/284) Crawling and storing DONE - Cardi B won’t ‘insult’ her husband through her music
+INFO:root:[2018-10-14 10:57:12] (NewsSpider-2) (59/284) Crawling and storing DONE - Win with GLAMOUR and Sir Fruit Brewed Ice Tea
+INFO:root:[2018-10-14 10:57:12] (NewsSpider-8) (60/284) Crawling and storing DONE - Voor alle spinnenhaters: dit is hoeveel spinnen er in je huis zitten
+INFO:root:[2018-10-14 10:57:15] (NewsSpider-6) (61/284) Crawling and storing DONE - Kylie Jenner gets lip fillers back
+INFO:root:[2018-10-14 10:57:21] (NewsSpider-1) (62/284) Crawling and storing DONE - 6 Brides reveal the most unique thing on their wedding registry
+INFO:root:[2018-10-14 10:57:24] (NewsSpider-4) (63/284) Crawling and storing DONE - How To: Get the easy metallic eyeshadow look
+INFO:root:[2018-10-14 10:57:25] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:57:25] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 10:57:25] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:57:26] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:57:27] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:57:27] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 10:57:28] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 10:57:28] ========== (NewsSpider-6) Thread END ==========
+INFO:root:[2018-10-14 10:57:32] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feed
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:44:27] (NewsSpider-3) (1/284) Crawling and storing DONE - Ariana Grande took break from music because she’s ‘been through hell’
+INFO:root:[2018-10-14 17:44:46] (NewsSpider-5) (2/284) Crawling and storing DONE - Voor alle spinnenhaters: dit is hoeveel spinnen er in je huis zitten
+INFO:root:[2018-10-14 17:44:58] (NewsSpider-5) (3/284) Crawling and storing DONE - Molloten: zijn dit de deelnemers van Wie is de Mol 2019?
+INFO:root:[2018-10-14 17:45:05] (NewsSpider-5) (4/284) Crawling and storing DONE - 5 Steps to perfect your girls night out
+INFO:root:[2018-10-14 17:45:05] (NewsSpider-2) (5/284) Crawling and storing DONE - The closet is for clothes
+INFO:root:[2018-10-14 17:45:37] (NewsSpider-2) (6/284) Crawling and storing DONE - Hallo Gossip Girl 2.0: Blake Lively is bezig met nieuwe tv-serie
+INFO:root:[2018-10-14 17:46:00] (NewsSpider-2) (7/284) Crawling and storing DONE - Justin Bieber ontroostbaar na nieuws kliniekopname Selena Gomez
+INFO:root:[2018-10-14 17:46:00] (NewsSpider-1) (8/284) Crawling and storing DONE - Onderzoek wijst uit: Nederlanders zijn minder romantisch dan je denkt
+INFO:root:[2018-10-14 17:46:09] (NewsSpider-4) (9/284) Crawling and storing DONE - Kalsarikännie: het Finse concept drankhangen
+INFO:root:[2018-10-14 17:46:09] (NewsSpider-3) (10/284) Crawling and storing DONE - Bolsos de Zara que cuestan menos de 40 € y que quedan genial con vaqueros, pantalones de vestir, faldas midi y cualquier zapato
+INFO:root:[2018-10-14 17:46:13] (NewsSpider-5) (11/284) Crawling and storing DONE - Every single detail about Princess Eugenie and Jack Brooksbank’s incredible wedding
+INFO:root:[2018-10-14 17:46:15] (NewsSpider-3) (12/284) Crawling and storing DONE - Refresh your summer wardrobe with Karen Millen
+INFO:root:[2018-10-14 17:46:17] (NewsSpider-4) (13/284) Crawling and storing DONE - Dame Judi Dench voices support for a female James Bond
+INFO:root:[2018-10-14 17:46:24] (NewsSpider-5) (14/284) Crawling and storing DONE - Verkeerde roddels: Dakota Johnson blijkt toch niet zwanger
+INFO:root:[2018-10-14 17:46:29] (NewsSpider-3) (15/284) Crawling and storing DONE - Louis Vuitton opent pop-up shop in Bijenkorf Rotterdam
+INFO:root:[2018-10-14 17:46:31] (NewsSpider-5) (16/284) Crawling and storing DONE - 5 ways to ease your partner into trying bondage and kink
+INFO:root:[2018-10-14 17:46:45] (NewsSpider-3) (18/284) Crawling and storing DONE - What to eat if you want super shiny hair
+INFO:root:[2018-10-14 17:46:54] (NewsSpider-5) (20/284) Crawling and storing DONE - Can having more sex make you smarter? Results are in…
+INFO:root:[2018-10-14 17:47:01] (NewsSpider-4) (21/284) Crawling and storing DONE - A sex educator answers your biggest questions about the G-Spot
+INFO:root:[2018-10-14 17:47:09] (NewsSpider-2) (22/284) Crawling and storing DONE - Inside our Durban Beauty Masterclass with Elizabeth Arden
+INFO:root:[2018-10-14 17:47:09] (NewsSpider-1) (23/284) Crawling and storing DONE - [Exclusive] The business of beauty: Carol Nyazika
+INFO:root:[2018-10-14 17:47:33] (NewsSpider-4) (24/284) Crawling and storing DONE - Curl conditioning co-washes for natural hair
+INFO:root:[2018-10-14 17:47:47] (NewsSpider-1) (25/284) Crawling and storing DONE - How you can change the world with red lipstick
+INFO:root:[2018-10-14 17:47:49] (NewsSpider-5) (26/284) Crawling and storing DONE - South Africa’s first bachelor has been revealed!
+INFO:root:[2018-10-14 17:47:52] (NewsSpider-4) (27/284) Crawling and storing DONE - The five foods South Africans are loving right now
+INFO:root:[2018-10-14 17:47:56] (NewsSpider-4) (28/284) Crawling and storing DONE - Twitter loses chill over Vusi Nova and Jessica Mbangeni #IdolsSA performance
+INFO:root:[2018-10-14 17:48:08] (NewsSpider-4) (29/284) Crawling and storing DONE - Introducing the winner of our Style Your Smile competition with Listerine Advanced White
+INFO:root:[2018-10-14 17:48:14] (NewsSpider-5) (31/284) Crawling and storing DONE - Kylie Jenner gets lip fillers back
+INFO:root:[2018-10-14 17:48:15] (NewsSpider-4) (32/284) Crawling and storing DONE - All the apps you shouldn’t be sleeping on
+INFO:root:[2018-10-14 17:48:21] (NewsSpider-1) (33/284) Crawling and storing DONE - Riky Rick’s unisex bags are hit abroad
+INFO:root:[2018-10-14 17:48:26] (NewsSpider-3) (34/284) Crawling and storing DONE - Today I’m wearing… Boity Thulo
+INFO:root:[2018-10-14 17:48:28] (NewsSpider-4) (35/284) Crawling and storing DONE - Your complete guide to colouring your hair
+INFO:root:[2018-10-14 17:48:42] (NewsSpider-1) (36/284) Crawling and storing DONE - I tried shaving with olive oil and was amazed with the result
+INFO:root:[2018-10-14 17:48:47] (NewsSpider-5) (37/284) Crawling and storing DONE - Zien: De eerste beelden van de live-action film Aladdin
+INFO:root:[2018-10-14 17:48:47] (NewsSpider-4) (38/284) Crawling and storing DONE - Nieuwe trend voor stadsmensen die willen ontstressen: plant bathing
+INFO:root:[2018-10-14 17:48:55] (NewsSpider-1) (39/284) Crawling and storing DONE - Beach 🍑’s be jealous
+INFO:root:[2018-10-14 17:49:15] (NewsSpider-4) (40/284) Crawling and storing DONE - Here’s the foundation that’ll get you through summer!
+INFO:root:[2018-10-14 17:49:19] (NewsSpider-1) (41/284) Crawling and storing DONE - Estos son los mejores (y peores) looks de los American Music Awards 2018
+INFO:root:[2018-10-14 17:49:22] (NewsSpider-1) (42/284) Crawling and storing DONE - Girls can do anything by Zadig & Voltaire
+INFO:root:[2018-10-14 17:49:26] (NewsSpider-4) (43/284) Crawling and storing DONE - The theme for the 2019 Met Gala has been announced, here’s everything we know so far…
+INFO:root:[2018-10-14 17:49:27] (NewsSpider-1) (44/284) Crawling and storing DONE - How to achieve a natural face beat
+INFO:root:[2018-10-14 17:49:31] (NewsSpider-1) (45/284) Crawling and storing DONE - A Black Panther sequel has been confirmed
+INFO:root:[2018-10-14 17:49:32] (NewsSpider-4) (46/284) Crawling and storing DONE - 6 Brides reveal the most unique thing on their wedding registry
+INFO:root:[2018-10-14 17:49:36] (NewsSpider-5) (47/284) Crawling and storing DONE - Rocking the Daisies 2018 recap
+INFO:root:[2018-10-14 17:49:39] (NewsSpider-4) (48/284) Crawling and storing DONE - Win with GLAMOUR and Sir Fruit Brewed Ice Tea
+INFO:root:[2018-10-14 17:49:40] (NewsSpider-1) (49/284) Crawling and storing DONE - Elevate your seductive nature with NARCISO Eau de Parfum Rouge
+INFO:root:[2018-10-14 17:49:44] (NewsSpider-4) (50/284) Crawling and storing DONE - Here’s how these brands gave back this Eye Care Awareness Month
+INFO:root:[2018-10-14 17:49:50] (NewsSpider-4) (51/284) Crawling and storing DONE - How To: Get the easy metallic eyeshadow look
+INFO:root:[2018-10-14 17:49:51] (NewsSpider-5) (52/284) Crawling and storing DONE - SEE: How 6 of our favorite celebs slayed this weekend
+INFO:root:[2018-10-14 17:49:53] (NewsSpider-1) (53/284) Crawling and storing DONE - Four yummy gin-based cocktail recipes
+INFO:root:[2018-10-14 17:49:54] (NewsSpider-5) (54/284) Crawling and storing DONE - 10 hot celebs and influencers
+INFO:root:[2018-10-14 17:49:55] (NewsSpider-1) (55/284) Crawling and storing DONE - Cardi B won’t ‘insult’ her husband through her music
+INFO:root:[2018-10-14 17:50:04] (NewsSpider-5) (56/284) Crawling and storing DONE - Beauty trends that ruled Rocking the Daisies 2018
+INFO:root:[2018-10-14 17:50:07] (NewsSpider-4) (57/284) Crawling and storing DONE - There’s something for everyone at this exciting lifestyle fair!
+INFO:root:[2018-10-14 17:50:13] (NewsSpider-1) (58/284) Crawling and storing DONE - 5 Days of Fashion: Azola Bam
+INFO:root:[2018-10-14 17:50:15] (NewsSpider-5) (59/284) Crawling and storing DONE - Chamarras y abrigos que NECESITAS este otoño
+INFO:root:[2018-10-14 17:50:16] (NewsSpider-4) (60/284) Crawling and storing DONE - 5 Best foods to eat when you have anxiety
+INFO:root:[2018-10-14 17:50:31] (NewsSpider-1) (61/284) Crawling and storing DONE - Listerine Advanced White voting is closed
+INFO:root:[2018-10-14 17:50:33] (NewsSpider-1) (62/284) Crawling and storing DONE - Thinking about quitting your job?
+INFO:root:[2018-10-14 17:50:38] (NewsSpider-1) (63/284) Crawling and storing DONE - Viola Davis hails her Widows co-stars
+INFO:root:[2018-10-14 17:50:39] (NewsSpider-5) (64/284) Crawling and storing DONE - Versace bringing back Notorious B.I.G. signature sunglasses
+INFO:root:[2018-10-14 17:50:49] (NewsSpider-1) (65/284) Crawling and storing DONE - 3 Gen Z approved first cars to test drive today
+INFO:root:[2018-10-14 17:50:49] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:50:50] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:50:51] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feed
+INFO:root:[2018-10-14 18:39:17] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:17] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:17] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:17] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:17] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 18:45:32] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:45:32] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:45:34] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:45:34] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:45:36] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feed
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:37] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:27:57] (NewsSpider-2) (1/284) Crawling and storing DONE - 6 Brides reveal the most unique thing on their wedding registry
+INFO:root:[2018-10-14 19:27:58] (NewsSpider-1) (2/284) Crawling and storing DONE - 5 Best foods to eat when you have anxiety
+INFO:root:[2018-10-14 19:28:17] (NewsSpider-1) (4/284) Crawling and storing DONE - How To: Get the easy metallic eyeshadow look
+INFO:root:[2018-10-14 19:28:20] (NewsSpider-4) (5/284) Crawling and storing DONE - 10 hot celebs and influencers
+INFO:root:[2018-10-14 19:29:04] (NewsSpider-4) (6/284) Crawling and storing DONE - I tried shaving with olive oil and was amazed with the result
+INFO:root:[2018-10-14 19:29:11] (NewsSpider-4) (7/284) Crawling and storing DONE - Molloten: zijn dit de deelnemers van Wie is de Mol 2019?
+INFO:root:[2018-10-14 19:29:15] (NewsSpider-1) (8/284) Crawling and storing DONE - Kylie Jenner gets lip fillers back
+INFO:root:[2018-10-14 19:29:31] (NewsSpider-1) (9/284) Crawling and storing DONE - Hallo Gossip Girl 2.0: Blake Lively is bezig met nieuwe tv-serie
+INFO:root:[2018-10-14 19:29:31] (NewsSpider-2) (10/284) Crawling and storing DONE - Verkeerde roddels: Dakota Johnson blijkt toch niet zwanger
+INFO:root:[2018-10-14 19:29:31] (NewsSpider-3) (11/284) Crawling and storing DONE - Inside our Durban Beauty Masterclass with Elizabeth Arden
+INFO:root:[2018-10-14 19:29:36] (NewsSpider-2) (12/284) Crawling and storing DONE - Estos son los mejores (y peores) looks de los American Music Awards 2018
+INFO:root:[2018-10-14 19:29:47] (NewsSpider-1) (13/284) Crawling and storing DONE - Nieuwe trend voor stadsmensen die willen ontstressen: plant bathing
+INFO:root:[2018-10-14 19:29:53] (NewsSpider-3) (14/284) Crawling and storing DONE - 5 Days of Fashion: Azola Bam
+INFO:root:[2018-10-14 19:30:01] (NewsSpider-4) (15/284) Crawling and storing DONE - What to eat if you want super shiny hair
+INFO:root:[2018-10-14 19:30:07] (NewsSpider-2) (16/284) Crawling and storing DONE - Rocking the Daisies 2018 recap
+INFO:root:[2018-10-14 19:30:08] (NewsSpider-3) (17/284) Crawling and storing DONE - 5 Steps to perfect your girls night out
+INFO:root:[2018-10-14 19:30:11] (NewsSpider-5) (18/284) Crawling and storing DONE - A Black Panther sequel has been confirmed
+INFO:root:[2018-10-14 19:30:13] (NewsSpider-2) (19/284) Crawling and storing DONE - Introducing the winner of our Style Your Smile competition with Listerine Advanced White
+INFO:root:[2018-10-14 19:30:16] (NewsSpider-3) (20/284) Crawling and storing DONE - Dame Judi Dench voices support for a female James Bond
+INFO:root:[2018-10-14 19:30:28] (NewsSpider-4) (21/284) Crawling and storing DONE - Girls can do anything by Zadig & Voltaire
+INFO:root:[2018-10-14 19:30:31] (NewsSpider-5) (22/284) Crawling and storing DONE - [Exclusive] The business of beauty: Carol Nyazika
+INFO:root:[2018-10-14 19:30:35] (NewsSpider-2) (23/284) Crawling and storing DONE - A sex educator answers your biggest questions about the G-Spot
+INFO:root:[2018-10-14 19:30:52] (NewsSpider-1) (24/284) Crawling and storing DONE - SEE: How 6 of our favorite celebs slayed this weekend
+INFO:root:[2018-10-14 19:31:02] (NewsSpider-5) (25/284) Crawling and storing DONE - Curl conditioning co-washes for natural hair
+INFO:root:[2018-10-14 19:31:14] (NewsSpider-5) (26/284) Crawling and storing DONE - Louis Vuitton opent pop-up shop in Bijenkorf Rotterdam
+INFO:root:[2018-10-14 19:31:17] (NewsSpider-3) (27/284) Crawling and storing DONE - Listerine Advanced White voting is closed
+INFO:root:[2018-10-14 19:31:26] (NewsSpider-3) (30/284) Crawling and storing DONE - 3 Gen Z approved first cars to test drive today
+INFO:root:[2018-10-14 19:31:26] (NewsSpider-4) (31/284) Crawling and storing DONE - Voor alle spinnenhaters: dit is hoeveel spinnen er in je huis zitten
+INFO:root:[2018-10-14 19:31:35] (NewsSpider-4) (32/284) Crawling and storing DONE - How you can change the world with red lipstick
+INFO:root:[2018-10-14 19:31:36] (NewsSpider-2) (33/284) Crawling and storing DONE - The closet is for clothes
+INFO:root:[2018-10-14 19:31:42] (NewsSpider-1) (34/284) Crawling and storing DONE - Beauty trends that ruled Rocking the Daisies 2018
+INFO:root:[2018-10-14 19:31:45] (NewsSpider-4) (35/284) Crawling and storing DONE - Win with GLAMOUR and Sir Fruit Brewed Ice Tea
+INFO:root:[2018-10-14 19:31:46] (NewsSpider-3) (36/284) Crawling and storing DONE - Justin Bieber ontroostbaar na nieuws kliniekopname Selena Gomez
+INFO:root:[2018-10-14 19:31:53] (NewsSpider-2) (37/284) Crawling and storing DONE - Versace bringing back Notorious B.I.G. signature sunglasses
+INFO:root:[2018-10-14 19:31:55] (NewsSpider-5) (38/284) Crawling and storing DONE - Elevate your seductive nature with NARCISO Eau de Parfum Rouge
+INFO:root:[2018-10-14 19:32:07] (NewsSpider-4) (39/284) Crawling and storing DONE - Een voorproefje van de laatste aflevering van Say Yes To The Dress Benelux
+INFO:root:[2018-10-14 19:32:21] (NewsSpider-2) (40/284) Crawling and storing DONE - The five foods South Africans are loving right now
+INFO:root:[2018-10-14 19:32:21] (NewsSpider-1) (41/284) Crawling and storing DONE - 5 ways to ease your partner into trying bondage and kink
+INFO:root:[2018-10-14 19:32:21] (NewsSpider-3) (42/284) Crawling and storing DONE - Viola Davis hails her Widows co-stars
+INFO:root:[2018-10-14 19:32:30] (NewsSpider-3) (43/284) Crawling and storing DONE - Your complete guide to colouring your hair
+INFO:root:[2018-10-14 19:32:32] (NewsSpider-5) (44/284) Crawling and storing DONE - Thinking about quitting your job?
+INFO:root:[2018-10-14 19:32:34] (NewsSpider-4) (45/284) Crawling and storing DONE - Onderzoek wijst uit: Nederlanders zijn minder romantisch dan je denkt
+INFO:root:[2018-10-14 19:32:39] (NewsSpider-4) (46/284) Crawling and storing DONE - Twitter loses chill over Vusi Nova and Jessica Mbangeni #IdolsSA performance
+INFO:root:[2018-10-14 19:32:40] (NewsSpider-1) (47/284) Crawling and storing DONE - Refresh your summer wardrobe with Karen Millen
+INFO:root:[2018-10-14 19:32:43] (NewsSpider-1) (48/284) Crawling and storing DONE - Four yummy gin-based cocktail recipes
+INFO:root:[2018-10-14 19:32:45] (NewsSpider-1) (49/284) Crawling and storing DONE - How to achieve a natural face beat
+INFO:root:[2018-10-14 19:32:46] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 19:32:46] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:32:46] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 19:32:47] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:32:48] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.glamour.com/feeds
+INFO:root:[2018-10-21 14:02:16] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-21 14:02:16] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-21 14:02:16] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-21 14:02:16] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-21 14:02:16] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-21 14:02:21] (NewsSpider-4) (1/277) Crawling and storing DONE - This is why you should never ignore jaw ache
+INFO:root:[2018-10-21 14:02:32] (NewsSpider-1) (2/277) Crawling and storing DONE - De leukste sample sales van deze herfst
+INFO:root:[2018-10-21 14:02:33] (NewsSpider-3) (3/277) Crawling and storing DONE - A breast cancer survivor reveals how she learnt to thrive after the illness
+INFO:root:[2018-10-21 14:02:37] (NewsSpider-5) (4/277) Crawling and storing DONE - Win with GLAMOUR and BioSilk
+INFO:root:[2018-10-21 14:02:44] (NewsSpider-1) (5/277) Crawling and storing DONE - Listerine Advanced White voting is closed
+INFO:root:[2018-10-21 14:03:11] (NewsSpider-4) (6/277) Crawling and storing DONE - How you can change the world with red lipstick
+INFO:root:[2018-10-21 14:03:12] (NewsSpider-3) (7/277) Crawling and storing DONE - Join us for an exclusive GLAMOUR Hair Masterclass with Frika
+INFO:root:[2018-10-21 14:03:15] (NewsSpider-4) (8/277) Crawling and storing DONE - Blue hair: How to style the trend without looking cray!
+INFO:root:[2018-10-21 14:03:17] (NewsSpider-5) (9/277) Crawling and storing DONE - Lady Gaga valt nogal in herhaling als ze praat over Bradley Cooper en A Star is Born
+INFO:root:[2018-10-21 14:03:21] (NewsSpider-4) (10/277) Crawling and storing DONE - Zendaya Is taking over for Gigi Hadid as the face of Tommy Hilfiger
+INFO:root:[2018-10-21 14:03:22] (NewsSpider-1) (11/277) Crawling and storing DONE - 3 Gen Z approved first cars to test drive today
+INFO:root:[2018-10-21 14:03:32] (NewsSpider-4) (12/277) Crawling and storing DONE - Jessica Nkosi serves us a fashion mom look!
+INFO:root:[2018-10-21 14:03:39] (NewsSpider-5) (14/277) Crawling and storing DONE - David Guetta flirt erop los met Olcay Gulsen aan tafel bij RTL Late Night
+INFO:root:[2018-10-21 14:03:42] (NewsSpider-5) (15/277) Crawling and storing DONE - [Exclusive] The business of beauty: Carol Nyazika
+INFO:root:[2018-10-21 14:03:49] (NewsSpider-4) (16/277) Crawling and storing DONE - Introducing the winner of our Style Your Smile competition with Listerine Advanced White
+INFO:root:[2018-10-21 14:03:49] (NewsSpider-2) (17/277) Crawling and storing DONE - 10 hot celebs and influencers
+INFO:root:[2018-10-21 14:03:59] (NewsSpider-5) (18/277) Crawling and storing DONE - 6 Brides reveal the most unique thing on their wedding registry
+INFO:root:[2018-10-21 14:04:03] (NewsSpider-2) (19/277) Crawling and storing DONE - Girls can do anything by Zadig & Voltaire
+INFO:root:[2018-10-21 14:04:04] (NewsSpider-3) (20/277) Crawling and storing DONE - 5 Steps to perfect your girls night out
+INFO:root:[2018-10-21 14:04:06] (NewsSpider-1) (21/277) Crawling and storing DONE - This is what going through the menopause before turning 20 is really like
+INFO:root:[2018-10-21 14:04:09] (NewsSpider-2) (22/277) Crawling and storing DONE - The 5 best celebrity career quotes
+INFO:root:[2018-10-21 14:04:17] (NewsSpider-3) (23/277) Crawling and storing DONE - How To: Get the easy metallic eyeshadow look
+INFO:root:[2018-10-21 14:04:17] (NewsSpider-4) (24/277) Crawling and storing DONE - 5 Days of Fashion: Azola Bam
+INFO:root:[2018-10-21 14:04:21] (NewsSpider-4) (25/277) Crawling and storing DONE - How to achieve a natural face beat
+INFO:root:[2018-10-21 14:04:28] (NewsSpider-5) (26/277) Crawling and storing DONE - Top SA foodie hotspots to visit this week
+INFO:root:[2018-10-21 14:04:29] (NewsSpider-2) (27/277) Crawling and storing DONE - Katja Schuurman en Georgina Verbaan weer samen te zien in bioscoopfilm: De Club van Lelijke Kinderen
+INFO:root:[2018-10-21 14:04:29] (NewsSpider-3) (28/277) Crawling and storing DONE - Inside our Durban Beauty Masterclass with Elizabeth Arden
+INFO:root:[2018-10-21 14:04:45] (NewsSpider-4) (29/277) Crawling and storing DONE - 5 ways to ease your partner into trying bondage and kink
+INFO:root:[2018-10-21 14:04:50] (NewsSpider-1) (30/277) Crawling and storing DONE - Versace bringing back Notorious B.I.G. signature sunglasses
+INFO:root:[2018-10-21 14:04:51] (NewsSpider-2) (31/277) Crawling and storing DONE - Easy Freak and Robin Thirdfloor team up with H&M!
+INFO:root:[2018-10-21 14:04:51] (NewsSpider-4) (32/277) Crawling and storing DONE - Cassie Ventura and Diddy split in memes
+INFO:root:[2018-10-21 14:04:56] (NewsSpider-5) (33/277) Crawling and storing DONE - Kendall Jenner keeps tabs on her ex-boyfriends in the most relatable way
+INFO:root:[2018-10-21 14:04:57] (NewsSpider-4) (34/277) Crawling and storing DONE - Nasty C is giving away diamonds on tour
+INFO:root:[2018-10-21 14:04:59] (NewsSpider-5) (35/277) Crawling and storing DONE - World Champagne Day - The best bubbly
+INFO:root:[2018-10-21 14:05:02] (NewsSpider-3) (36/277) Crawling and storing DONE - We found the answer to affordable and cruelty-free makeup!
+INFO:root:[2018-10-21 14:05:05] (NewsSpider-2) (37/277) Crawling and storing DONE - Bizarre nicknames we have for the vagina
+INFO:root:[2018-10-21 14:05:11] (NewsSpider-4) (38/277) Crawling and storing DONE - Meghan Markle en Prins Harry krijgen geen voogdij over hun kind
+INFO:root:[2018-10-21 14:05:13] (NewsSpider-3) (39/277) Crawling and storing DONE - Een ode aan Corry Knopings en Johnny Kraaijkrab: Expeditie Robinson in tweets
+INFO:root:[2018-10-21 14:05:13] (NewsSpider-1) (40/277) Crawling and storing DONE - Elevate your seductive nature with NARCISO Eau de Parfum Rouge
+INFO:root:[2018-10-21 14:05:16] (NewsSpider-3) (41/277) Crawling and storing DONE - Your complete guide to colouring your hair
+INFO:root:[2018-10-21 14:05:27] (NewsSpider-5) (42/277) Crawling and storing DONE - Refresh your summer wardrobe with Karen Millen
+INFO:root:[2018-10-21 14:05:30] (NewsSpider-1) (43/277) Crawling and storing DONE - People with tattoos share one similar trait
+INFO:root:[2018-10-21 14:05:35] (NewsSpider-4) (44/277) Crawling and storing DONE - Queen Cardi B had the most over-the-top vodka-themed birthday party
+INFO:root:[2018-10-21 14:05:41] (NewsSpider-2) (45/277) Crawling and storing DONE - Rihanna komt met wekelijkse make-up tutorials op YouTube
+INFO:root:[2018-10-21 14:05:41] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-21 14:05:42] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-21 14:05:42] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-21 14:05:43] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-21 14:05:43] ========== (NewsSpider-5) Thread END ==========

@@ -1,0 +1,20 @@
+title source_url url tags publish_date authors summary text
+Investigators Told Not To Look At Phones With Face ID To Avoid Lock-Out|https://www.businessinsider.com.au|https://www.gizmodo.com.au/2018/10/investigators-told-not-to-look-at-phones-with-face-id-to-avoid-lock-out-report/|face ID,biometrics,security,Latest Deals,iphone|2018-10-15|Brian Merchant,James Whitbrook||Photo: Marcio Jose Sanchez, AP
+
+It’s no secret that law enforcement often resorts to workarounds for Apple’s security features, but the Face ID technology of the iPhone X makes things tricky. According to a report from Motherboard, forensics company Elcomsoft is advising U.S. law enforcement to not even look at phones with Face ID. This is because with its Face ID feature enabled, failed attempts to get into the phone could lock investigators out by requiring a passcode that may be protected under the Fifth Amendment.
+
+Motherboard reported its findings Friday after acquiring the slide presentation that included Elcomsoft’s directive for handling Apple’s iPhone X. While Motherboard said it obtained the presentation from a non-Elcomsoft source, it added that “the company subsequently confirmed its veracity.”
+
+In the presentation slide, Elcomsoft outlined methods to avoid potentially being locked out of one of Apple’s phones. It also highlighted specific instances outlined by Apple’s 2017 security guide in which a passcode would be required over Face ID.
+
+Elcomsoft’s CEO Vladimir Katalov told Motherboard the company advised never looking at the screen of an iPhone with Face ID in order to avoid losing one of five attempts before the phone reverts to requiring a passcode. This is because, as Motherboard notes:
+
+Courts have compelled suspects to unlock their device with their face or fingerprint, but the same approach does not necessarily work for demanding a passcode; under the Fifth Amendment, which protects people from incriminating themselves, a passcode may be considered as “testimonial” evidence.
+
+One example cited was a recent incident in which federal agents used a search warrant to force a suspect later charged with receiving and possessing child pornography to unlock his iPhone X with his own face. The event, which was originally reported by Forbes on September 30, may have been the first known case of such a tactic being used by law enforcement.
+
+Forbes pointed to incidents of suspects being made to unlock their phones with Touch ID, and subsequent cases involving deceased parties. Both Motherboard and Forbes also mentioned GrayKey, a tool used to crack the passcodes on even newer iPhone models.
+
+All of these examples underscore the fact that even with Apple’s encryption, passcodes, and other technology, law enforcement will go to great lengths to find a way in.
+
+[Motherboard, Forbes]

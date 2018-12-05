@@ -1,0 +1,60 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/feeds
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:27:05] (NewsSpider-5) (1/303) Crawling and storing DONE - Star Ocean: Anamnesis Message Board for Android
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='gamefaqs.gamespot.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='gamefaqs.gamespot.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='gamefaqs.gamespot.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='gamefaqs.gamespot.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='gamefaqs.gamespot.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/rss
+INFO:root:[2018-10-14 10:51:29] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:51:29] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:51:29] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:51:30] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:51:30] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:51:30] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:51:30] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:51:30] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:51:30] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:51:30] ========== (NewsSpider-10) Start! ==========
+INFO:root:[2018-10-14 10:52:19] (NewsSpider-5) (1/246) Crawling and storing DONE - Star Ocean: Anamnesis for Android
+WARNING:root:[2018-10-14 10:52:43] (NewsSpider-7) Article Not Exists on http://www.gamefaqs.com/xboxone/246931-spintires-mudrunner-american-wilds-edition
+INFO:root:[2018-10-14 10:55:07] (NewsSpider-5) (2/246) Crawling and storing DONE - Star Ocean: Anamnesis Message Board for Android
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='gamefaqs.gamespot.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='gamefaqs.gamespot.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='gamefaqs.gamespot.com', port=443): Read timed out. (read timeout=7)
+INFO:root:[2018-10-14 17:44:42] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:42] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:42] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:42] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:42] ========== (NewsSpider-5) Start! ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/feeds
+INFO:root:[2018-10-14 18:39:46] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:46] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:46] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:46] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:46] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-10-14 18:40:41] (NewsSpider-4) Article Not Exists on http://www.gamefaqs.com/boards/635387-kidou-senshi-gundam-shin-gihren-no-yabou
+INFO:root:[2018-10-14 18:45:46] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:45:47] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:45:48] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:45:48] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 18:45:49] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://gamefaqs.gamespot.com/feed
+INFO:root:[2018-10-14 19:28:03] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:28:03] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:28:03] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:28:03] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:28:03] ========== (NewsSpider-5) Start! ==========

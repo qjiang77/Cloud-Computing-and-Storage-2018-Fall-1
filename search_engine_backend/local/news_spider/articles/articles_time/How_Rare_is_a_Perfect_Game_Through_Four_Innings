@@ -1,0 +1,12 @@
+title source_url url tags publish_date authors summary text
+How Rare is a Perfect Game Through Four Innings?|http://labs.time.com|http://labs.time.com/2015/09/28/perfect-games/||2015-09-28|||How Rare is a Perfect Game Through Four Innings?
+
+I’ve seen the Phillies face Stephen Strasburg in Washington twice this season. The first time, on July 19, the fireballer retired the first 14 batters he faced. The second time, this past Saturday, he retired the first 12.
+
+This says as much about the poor Phillies as it does about Strasburg, but it got me wondering how long a pitcher has to have a perfect game going before one should start to get excited.
+
+Using data from Retrosheet, I attempted to calculate, for every game between 2000 and 2014, the number of consecutive outs each of the two starting pitchers has recorded before allowing his first man on base. (Data isn’t yet available for 2015.) The code, which is open-source on Github, correctly identifies the seven perfect games of the 21st century and the four games spoiled by the last batter. It turns out that even a perfect game through four innings is fairly rare, having happened 215 times since 2000, not including the current season. Between 2000 and 2014, 0.29% of games featured a pitcher whose thrown four or more perfect innings.
+
+Here’s a graph showing the frequency of incomplete perfect games (plus seven complete ones) starting with the fourth inning, charted by the last batter faced before the perfect game was broken up. The data it’s cumulative; the games broken up after 12 batters don’t include those broken up after 15, etc.
+
+It’s curious that there are fewer 25-out and 26-out near-perfect games than there are actual perfect games. This may be statistical randomness. Even with 71,982 starts between 2000 and 2014, it’s so uncommon to make it deep into a game without allowing a man on base that one is left with a fairly small sample. Or it may be adrenaline on the pitcher’s part. Or perhaps it’s just that you can’t play the Phillies all the time.

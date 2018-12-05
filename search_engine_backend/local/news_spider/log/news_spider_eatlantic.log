@@ -1,0 +1,499 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: https://cdn.theatlantic.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/rss/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feed/
+INFO:root:[2018-09-08 18:11:35] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:11:35] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:11:35] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:11:35] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:11:35] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:11:36] (NewsSpider-1) (1/139) Crawling and storing DONE - The Atlantic Hires Ellen Cushing To Lead New San Francisco Bureau as Senior Tech Editor
+INFO:root:[2018-09-08 18:11:36] (NewsSpider-2) (2/139) Crawling and storing DONE - When Animals Take the Night Shift
+INFO:root:[2018-09-08 18:11:38] (NewsSpider-1) (3/139) Crawling and storing DONE - The Lost Art of Resigning in Protest
+INFO:root:[2018-09-08 18:11:40] (NewsSpider-5) (4/139) Crawling and storing DONE - The Lost Art of Resigning in Protest
+INFO:root:[2018-09-08 18:11:41] (NewsSpider-2) (5/139) Crawling and storing DONE - As We May Think
+INFO:root:[2018-09-08 18:11:49] (NewsSpider-2) (7/139) Crawling and storing DONE - The Atlantic Daily: The Consequences Could Last for Generations
+INFO:root:[2018-09-08 18:11:50] (NewsSpider-2) (8/139) Crawling and storing DONE - The Atlantic Politics & Policy Daily: Barack At It Again
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: https://cdn.theatlantic.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/rss/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feed/
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:51] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:52] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:26:53] (NewsSpider-3) (1/139) Crawling and storing DONE - A Plane Quarantine in New York Started Out Like a Sci-Fi Nightmare
+INFO:root:[2018-09-08 18:26:54] (NewsSpider-4) (2/139) Crawling and storing DONE - What the Heck Happened on the International Space Station?
+INFO:root:[2018-09-08 18:26:54] (NewsSpider-5) (3/139) Crawling and storing DONE - To Invite (or Not to Invite) Steve Bannon
+INFO:root:[2018-09-08 18:26:59] (NewsSpider-5) (4/139) Crawling and storing DONE - How 50 Years of Latino Studies Shaped History Education
+INFO:root:[2018-09-08 18:26:59] (NewsSpider-2) (5/139) Crawling and storing DONE - The End Finally Comes for Alex Jones
+INFO:root:[2018-09-08 18:27:03] (NewsSpider-5) (6/139) Crawling and storing DONE - The End Finally Comes for Alex Jones
+INFO:root:[2018-09-08 18:27:12] (NewsSpider-2) (7/139) Crawling and storing DONE - The Atlantic Politics & Policy Daily: Barack At It Again
+INFO:root:[2018-09-08 18:27:16] (NewsSpider-2) (8/139) Crawling and storing DONE - What the Heck Happened on the International Space Station?
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: https://cdn.theatlantic.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/rss/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feed/
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:34] ========== (NewsSpider-10) Start! ==========
+INFO:root:[2018-10-14 10:50:46] (NewsSpider-1) (1/145) Crawling and storing DONE - Donald Trump’s Absentee Presidency
+INFO:root:[2018-10-14 10:50:46] (NewsSpider-8) (2/145) Crawling and storing DONE - What Manatees Do During Hurricane Season
+INFO:root:[2018-10-14 10:50:46] (NewsSpider-10) (3/145) Crawling and storing DONE - The College-Graduation Problem All States Have
+INFO:root:[2018-10-14 10:50:48] (NewsSpider-4) (4/145) Crawling and storing DONE - America Wakes Up From Its Dream of Free College
+INFO:root:[2018-10-14 10:50:48] (NewsSpider-6) (5/145) Crawling and storing DONE - Donald Trump’s Absentee Presidency
+INFO:root:[2018-10-14 10:50:50] (NewsSpider-5) (7/145) Crawling and storing DONE - Joe Biden’s Endless Rumination About Running for President
+INFO:root:[2018-10-14 10:50:51] (NewsSpider-9) (8/145) Crawling and storing DONE - The Romanoffs Is a Self-Indulgent, Intriguing Muddle
+INFO:root:[2018-10-14 10:50:52] (NewsSpider-7) (9/145) Crawling and storing DONE - What This Cruel War Was Over
+INFO:root:[2018-10-14 10:51:04] (NewsSpider-10) (10/145) Crawling and storing DONE - Dionne Searcey Wins 2018 Michael Kelly Award
+INFO:root:[2018-10-14 10:51:08] (NewsSpider-6) (11/145) Crawling and storing DONE - ‘Salt, Fat, Acid, Heat’ Is a Love Letter to Amateur Cooks
+INFO:root:[2018-10-14 10:51:08] (NewsSpider-8) (12/145) Crawling and storing DONE - The High Stakes of Surfing’s Wave-Pool Arms Race
+INFO:root:[2018-10-14 10:51:08] (NewsSpider-1) (13/145) Crawling and storing DONE - What Manatees Do During Hurricane Season
+INFO:root:[2018-10-14 10:51:10] (NewsSpider-3) (14/145) Crawling and storing DONE - The Little College Where Tuition Is Free and Every Student Is Given a Job
+INFO:root:[2018-10-14 10:51:11] (NewsSpider-7) (15/145) Crawling and storing DONE - Sperm Counts Continue to Fall
+INFO:root:[2018-10-14 10:51:13] (NewsSpider-5) (16/145) Crawling and storing DONE - The Family Weekly: What Marketers Think Moms Want
+INFO:root:[2018-10-14 10:51:22] (NewsSpider-1) (17/145) Crawling and storing DONE - How Saudi Arabia Is Addressing Jamal Khashoggi’s Disappearance
+INFO:root:[2018-10-14 10:51:27] (NewsSpider-3) (18/145) Crawling and storing DONE - Kanye West’s Quixotic Quest
+INFO:root:[2018-10-14 10:51:27] (NewsSpider-10) (19/145) Crawling and storing DONE - Elite-College Admissions Are Broken
+INFO:root:[2018-10-14 10:51:27] (NewsSpider-2) (20/145) Crawling and storing DONE - The Atlantic Hires Ellen Cushing To Lead New San Francisco Bureau as Senior Tech Editor
+INFO:root:[2018-10-14 10:51:30] (NewsSpider-8) (21/145) Crawling and storing DONE - How Americans Described Evil Before Hitler
+INFO:root:[2018-10-14 10:51:30] (NewsSpider-4) (22/145) Crawling and storing DONE - Indians Turn to Apps to Answer Their Prayers
+INFO:root:[2018-10-14 10:51:35] (NewsSpider-1) (23/145) Crawling and storing DONE - Here’s How Higher Education Dies
+INFO:root:[2018-10-14 10:51:40] (NewsSpider-3) (24/145) Crawling and storing DONE - The Cow-Milking Robots Keeping Small Farms in Business
+INFO:root:[2018-10-14 10:51:45] (NewsSpider-5) (25/145) Crawling and storing DONE - When Abortion Is Illegal, Women Rarely Die. But They Still Suffer.
+INFO:root:[2018-10-14 10:51:46] (NewsSpider-7) (26/145) Crawling and storing DONE - The Dangers of a Neo-Nazi Woodstock
+INFO:root:[2018-10-14 10:51:48] (NewsSpider-2) (27/145) Crawling and storing DONE - Americans Sharply Split About Core Democratic Issues
+INFO:root:[2018-10-14 10:51:49] (NewsSpider-1) (28/145) Crawling and storing DONE - Should the U.S. Break Up Amazon?
+INFO:root:[2018-10-14 10:51:49] (NewsSpider-9) (29/145) Crawling and storing DONE - Lauren Williams and Taylor Lorenz Join The Atlantic
+INFO:root:[2018-10-14 10:51:49] (NewsSpider-4) (30/145) Crawling and storing DONE - Todd S. Purdum to Join The Atlantic
+INFO:root:[2018-10-14 10:51:51] (NewsSpider-6) (31/145) Crawling and storing DONE - The Atlantic Hires Amanda Mull as Staff Writer Covering Health
+INFO:root:[2018-10-14 10:51:58] (NewsSpider-7) (32/145) Crawling and storing DONE - Letters: When The Production of Knowledge Gets Messy
+INFO:root:[2018-10-14 10:51:59] (NewsSpider-10) (33/145) Crawling and storing DONE - Hubble’s Hardware Woes and the Painful Era of Aging Spacecraft
+INFO:root:[2018-10-14 10:52:05] (NewsSpider-1) (34/145) Crawling and storing DONE - The Case of an American Pastor Caught in a Geopolitical Fight
+INFO:root:[2018-10-14 10:52:08] (NewsSpider-4) (35/145) Crawling and storing DONE - Jemele Hill Joining The Atlantic as Staff Writer
+INFO:root:[2018-10-14 10:52:09] (NewsSpider-2) (36/145) Crawling and storing DONE - Why Men Don’t Like Funny Women
+INFO:root:[2018-10-14 10:52:09] (NewsSpider-6) (37/145) Crawling and storing DONE - Camping Is Awful, but Not Awful Enough
+INFO:root:[2018-10-14 10:52:12] (NewsSpider-7) (38/145) Crawling and storing DONE - As We May Think
+INFO:root:[2018-10-14 10:52:19] (NewsSpider-10) (39/145) Crawling and storing DONE - Letters: When The Production of Knowledge Gets Messy
+INFO:root:[2018-10-14 10:52:19] (NewsSpider-9) (40/145) Crawling and storing DONE - The Fifty-First State?
+INFO:root:[2018-10-14 10:52:20] (NewsSpider-5) (41/145) Crawling and storing DONE - How Statistics Doomed Washington State’s Death Penalty
+INFO:root:[2018-10-14 10:52:22] (NewsSpider-2) (42/145) Crawling and storing DONE - Harvard Admissions on Trial
+INFO:root:[2018-10-14 10:52:22] (NewsSpider-3) (43/145) Crawling and storing DONE - The Backlash to New Rules on Protests in D.C.
+INFO:root:[2018-10-14 10:52:22] (NewsSpider-6) (44/145) Crawling and storing DONE - ‘Salt, Fat, Acid, Heat’ Is a Love Letter to Amateur Cooks
+INFO:root:[2018-10-14 10:52:23] (NewsSpider-7) (45/145) Crawling and storing DONE - Why the Ivy League Needs to Admit More Students
+INFO:root:[2018-10-14 10:52:24] (NewsSpider-1) (46/145) Crawling and storing DONE - The Politics of a Long-Dead Dictator Still Haunt Spain
+INFO:root:[2018-10-14 10:52:27] (NewsSpider-4) (47/145) Crawling and storing DONE - Schwarzenegger Campaigning For Redistricting In Michigan
+INFO:root:[2018-10-14 10:52:34] (NewsSpider-5) (48/145) Crawling and storing DONE - The High Stakes of Surfing’s Wave-Pool Arms Race
+INFO:root:[2018-10-14 10:52:35] (NewsSpider-10) (49/145) Crawling and storing DONE - Barbara Kingsolver’s Superficial View of the American Family in the Trump Era
+INFO:root:[2018-10-14 10:52:41] (NewsSpider-6) (50/145) Crawling and storing DONE - Preeminent Global Summit CityLab Coming to Detroit
+INFO:root:[2018-10-14 10:52:41] (NewsSpider-1) (51/145) Crawling and storing DONE - A Fatal Abandonment of American Leadership
+INFO:root:[2018-10-14 10:52:43] (NewsSpider-2) (52/145) Crawling and storing DONE - Trees Could Change the Climate More Than Scientists Thought
+INFO:root:[2018-10-14 10:52:44] (NewsSpider-4) (53/145) Crawling and storing DONE - Hubble’s Hardware Woes and the Painful Era of Aging Spacecraft
+INFO:root:[2018-10-14 10:52:47] (NewsSpider-5) (54/145) Crawling and storing DONE - Letters: ‘It Is Clear Now That Republicans Are the Party of Wealth and Privilege’
+INFO:root:[2018-10-14 10:52:47] (NewsSpider-10) (55/145) Crawling and storing DONE - A Group of Poems
+INFO:root:[2018-10-14 10:52:56] (NewsSpider-3) (56/145) Crawling and storing DONE - Why This Year Could Change the Oscars
+INFO:root:[2018-10-14 10:52:56] (NewsSpider-2) (57/145) Crawling and storing DONE - The Roots of Muslim Rage
+INFO:root:[2018-10-14 10:53:00] (NewsSpider-4) (58/145) Crawling and storing DONE - What This Cruel War Was Over
+INFO:root:[2018-10-14 10:53:03] (NewsSpider-10) (59/145) Crawling and storing DONE - Kanye West’s Quixotic Quest
+INFO:root:[2018-10-14 10:53:07] (NewsSpider-1) (60/145) Crawling and storing DONE - Broken Windows
+INFO:root:[2018-10-14 10:53:11] (NewsSpider-3) (61/145) Crawling and storing DONE - Lotteries May Be the Fairest Way to Fix Elite-College Admissions
+INFO:root:[2018-10-14 10:53:12] (NewsSpider-4) (62/145) Crawling and storing DONE - The Rise of the Engagement Photo Shoot
+INFO:root:[2018-10-14 10:53:13] (NewsSpider-2) (63/145) Crawling and storing DONE - The Atlantic Daily: A Fatal Abandonment
+INFO:root:[2018-10-14 10:53:15] (NewsSpider-10) (65/145) Crawling and storing DONE - The Era of Affirmative Action May Not Last Much Longer
+INFO:root:[2018-10-14 10:53:20] (NewsSpider-2) (67/145) Crawling and storing DONE - Americans Strongly Dislike PC Culture
+INFO:root:[2018-10-14 10:53:21] (NewsSpider-10) (68/145) Crawling and storing DONE - Ukraine’s Spiritual Split From Russia Could Trigger a Global Schism
+INFO:root:[2018-10-14 10:53:21] (NewsSpider-5) (69/145) Crawling and storing DONE - Study-Abroad Programs Enter the Israeli-Palestinian Conflict
+INFO:root:[2018-10-14 10:53:21] (NewsSpider-3) (70/145) Crawling and storing DONE - The Decline of IPOs Is Hurting Small Investors
+INFO:root:[2018-10-14 10:53:24] (NewsSpider-4) (71/145) Crawling and storing DONE - The Atlantic Hires Alex Hardiman As Chief Business and Product Officer
+INFO:root:[2018-10-14 10:53:27] (NewsSpider-1) (72/145) Crawling and storing DONE - The End of American Lip Service to Human Rights
+INFO:root:[2018-10-14 10:53:30] (NewsSpider-3) (73/145) Crawling and storing DONE - Alexa Wants To Know How You’re Feeling Today
+INFO:root:[2018-10-14 10:53:36] (NewsSpider-5) (74/145) Crawling and storing DONE - Mary Suh Joins The Atlantic’s Events Team, AtlanticLIVE
+INFO:root:[2018-10-14 10:53:38] (NewsSpider-1) (75/145) Crawling and storing DONE - Bad News for People Who Can’t Remember Names
+INFO:root:[2018-10-14 10:53:39] (NewsSpider-4) (76/145) Crawling and storing DONE - Three Theories on Jamal Khashoggi’s Fate
+INFO:root:[2018-10-14 10:53:39] (NewsSpider-3) (77/145) Crawling and storing DONE - Pope Francis Is Still Equivocating on the Sex-Abuse Crisis
+INFO:root:[2018-10-14 10:53:39] (NewsSpider-10) (78/145) Crawling and storing DONE - Pope Francis Is Still Equivocating on the Sex-Abuse Crisis
+INFO:root:[2018-10-14 10:53:41] (NewsSpider-2) (79/145) Crawling and storing DONE - Letters: ‘The Supreme Court Has Always Been a Politicized Institution’
+INFO:root:[2018-10-14 10:53:46] (NewsSpider-5) (80/145) Crawling and storing DONE - George Washington’s Broken Dream of a National University
+INFO:root:[2018-10-14 10:53:48] (NewsSpider-10) (81/145) Crawling and storing DONE - Schwarzenegger Campaigning For Redistricting In Michigan
+INFO:root:[2018-10-14 10:53:50] (NewsSpider-2) (82/145) Crawling and storing DONE - The Eternal Sunshine of Paul McCartney
+INFO:root:[2018-10-14 10:54:03] (NewsSpider-5) (83/145) Crawling and storing DONE - When Pop-Up Books Taught Popular Science
+INFO:root:[2018-10-14 10:54:04] (NewsSpider-4) (84/145) Crawling and storing DONE - The Case of an American Pastor Caught in a Geopolitical Fight
+INFO:root:[2018-10-14 10:54:04] (NewsSpider-1) (85/145) Crawling and storing DONE - Camping Is Awful, but Not Awful Enough
+INFO:root:[2018-10-14 10:54:05] (NewsSpider-10) (86/145) Crawling and storing DONE - The Atlantic Adding Ten New Politics Jobs
+INFO:root:[2018-10-14 10:54:06] (NewsSpider-3) (87/145) Crawling and storing DONE - The Backlash to New Rules on Protests in D.C.
+INFO:root:[2018-10-14 10:54:23] (NewsSpider-2) (88/145) Crawling and storing DONE - Why Men Don’t Like Funny Women
+WARNING:root:[2018-10-14 10:54:24] (NewsSpider-2) Article Not Exists on https://www.theatlantic.com/politics/archive/2013/04/martin-luther-kings-letter-from-birmingham-jail/274668/
+INFO:root:[2018-10-14 10:54:26] (NewsSpider-5) (89/145) Crawling and storing DONE - Speakers Announced for CityLab Detroit, October 28-30
+INFO:root:[2018-10-14 10:54:26] (NewsSpider-3) (90/145) Crawling and storing DONE - HBO and The Atlantic Challenge Viewers to Examine Their Own Beliefs in New Short Film Series
+INFO:root:[2018-10-14 10:54:26] (NewsSpider-1) (91/145) Crawling and storing DONE - YouTube Stars Are Being Accused of Profiting Off Fans’ Depression
+INFO:root:[2018-10-14 10:54:27] (NewsSpider-4) (92/145) Crawling and storing DONE - Brands Like Nike and PepsiCo Are the New Art Patrons
+INFO:root:[2018-10-14 10:54:27] (NewsSpider-10) (93/145) Crawling and storing DONE - A Fatal Abandonment of American Leadership
+INFO:root:[2018-10-14 10:54:57] (NewsSpider-2) (94/145) Crawling and storing DONE - The Supreme Court Justice Who Forever Changed Affirmative Action
+INFO:root:[2018-10-14 10:55:03] (NewsSpider-4) (95/145) Crawling and storing DONE - Announcing The Atlantic Festival
+INFO:root:[2018-10-14 10:55:06] (NewsSpider-5) (96/145) Crawling and storing DONE - How Statistics Doomed Washington State’s Death Penalty
+INFO:root:[2018-10-14 10:55:06] (NewsSpider-1) (97/145) Crawling and storing DONE - The U.S.-Saudi Relationship Is Out of Control
+INFO:root:[2018-10-14 10:55:07] (NewsSpider-3) (98/145) Crawling and storing DONE - The Atlantic Politics & Policy Daily: Recovering from Michael
+INFO:root:[2018-10-14 10:55:07] (NewsSpider-10) (99/145) Crawling and storing DONE - Does Anyone Still Take Both Sexual Assault and Due Process Seriously?
+INFO:root:[2018-10-14 10:55:08] (NewsSpider-2) (100/145) Crawling and storing DONE - Joe Biden’s Endless Rumination About Running for President
+INFO:root:[2018-10-14 10:55:18] (NewsSpider-5) (101/145) Crawling and storing DONE - What ‘Go to Your Room’ Teaches Kids About Dealing With Emotions
+INFO:root:[2018-10-14 10:55:20] (NewsSpider-3) (103/145) Crawling and storing DONE - The Supreme Court Justice Who Forever Changed Affirmative Action
+INFO:root:[2018-10-14 10:55:20] (NewsSpider-1) (104/145) Crawling and storing DONE - Trees Could Change the Climate More Than Scientists Thought
+INFO:root:[2018-10-14 10:55:22] (NewsSpider-2) (105/145) Crawling and storing DONE - The Romanoffs Is a Self-Indulgent, Intriguing Muddle
+INFO:root:[2018-10-14 10:55:40] (NewsSpider-10) (106/145) Crawling and storing DONE - Alexa Wants To Know How You’re Feeling Today
+INFO:root:[2018-10-14 10:55:41] (NewsSpider-5) (107/145) Crawling and storing DONE - The Politics of a Long-Dead Dictator Still Haunt Spain
+INFO:root:[2018-10-14 10:55:42] (NewsSpider-3) (108/145) Crawling and storing DONE - Americans Strongly Dislike PC Culture
+INFO:root:[2018-10-14 10:55:43] (NewsSpider-2) (109/145) Crawling and storing DONE - Barbara Kingsolver’s Superficial View of the American Family in the Trump Era
+INFO:root:[2018-10-14 10:55:45] (NewsSpider-10) (110/145) Crawling and storing DONE - Prashant Rao Named Global Editor of The Atlantic
+INFO:root:[2018-10-14 10:55:46] (NewsSpider-5) (111/145) Crawling and storing DONE - The Eternal Sunshine of Paul McCartney
+INFO:root:[2018-10-14 10:55:47] (NewsSpider-1) (112/145) Crawling and storing DONE - Elite-College Admissions Are Broken
+INFO:root:[2018-10-14 10:55:49] (NewsSpider-4) (113/145) Crawling and storing DONE - Tech Was Supposed to Be Society’s Great Equalizer. What Happened?
+INFO:root:[2018-10-14 10:55:49] (NewsSpider-2) (114/145) Crawling and storing DONE - Vernon Loeb To Join The Atlantic as Politics Editor
+INFO:root:[2018-10-14 10:55:49] (NewsSpider-5) (115/145) Crawling and storing DONE - The Family Weekly: What Marketers Think Moms Want
+INFO:root:[2018-10-14 10:55:49] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:55:50] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:55:50] (NewsSpider-10) (116/145) Crawling and storing DONE - When Pop-Up Books Taught Popular Science
+INFO:root:[2018-10-14 10:55:50] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:55:51] (NewsSpider-3) (117/145) Crawling and storing DONE - Why Women Still Can’t Have It All
+INFO:root:[2018-10-14 10:55:52] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:55:54] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:55:54] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: https://cdn.theatlantic.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/rss/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feed/
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:21] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:44:27] (NewsSpider-2) (1/143) Crawling and storing DONE - Schwarzenegger Campaigning For Redistricting In Michigan
+INFO:root:[2018-10-14 17:44:27] (NewsSpider-1) (2/143) Crawling and storing DONE - Ukraine’s Spiritual Split From Russia Could Trigger a Global Schism
+INFO:root:[2018-10-14 17:44:27] (NewsSpider-3) (3/143) Crawling and storing DONE - The Backlash to New Rules on Protests in D.C.
+INFO:root:[2018-10-14 17:44:27] (NewsSpider-4) (4/143) Crawling and storing DONE - Paul McCartney Can’t Stop Making People Happy
+INFO:root:[2018-10-14 17:44:30] (NewsSpider-5) (5/143) Crawling and storing DONE - Study-Abroad Programs Enter the Israeli-Palestinian Conflict
+INFO:root:[2018-10-14 17:44:37] (NewsSpider-2) (6/143) Crawling and storing DONE - The Case of an American Pastor Caught in a Geopolitical Fight
+INFO:root:[2018-10-14 17:44:38] (NewsSpider-5) (7/143) Crawling and storing DONE - Letters: ‘It Is Clear Now That Republicans Are the Party of Wealth and Privilege’
+INFO:root:[2018-10-14 17:44:39] (NewsSpider-4) (8/143) Crawling and storing DONE - The Atlantic Hires Amanda Mull as Staff Writer Covering Health
+INFO:root:[2018-10-14 17:44:46] (NewsSpider-3) (9/143) Crawling and storing DONE - Trees Could Change the Climate More Than Scientists Thought
+INFO:root:[2018-10-14 17:44:47] (NewsSpider-4) (10/143) Crawling and storing DONE - Tech Was Supposed to Be Society’s Great Equalizer. What Happened?
+INFO:root:[2018-10-14 17:44:48] (NewsSpider-5) (11/143) Crawling and storing DONE - Preeminent Global Summit CityLab Coming to Detroit
+INFO:root:[2018-10-14 17:44:55] (NewsSpider-4) (12/143) Crawling and storing DONE - What ‘Go to Your Room’ Teaches Kids About Dealing With Emotions
+INFO:root:[2018-10-14 17:44:57] (NewsSpider-5) (13/143) Crawling and storing DONE - Should the U.S. Break Up Amazon?
+INFO:root:[2018-10-14 17:44:57] (NewsSpider-2) (14/143) Crawling and storing DONE - The Decline of IPOs Is Hurting Small Investors
+INFO:root:[2018-10-14 17:45:05] (NewsSpider-2) (16/143) Crawling and storing DONE - Sperm Counts Continue to Fall
+INFO:root:[2018-10-14 17:45:06] (NewsSpider-3) (17/143) Crawling and storing DONE - Alexa Wants To Know How You’re Feeling Today
+INFO:root:[2018-10-14 17:45:08] (NewsSpider-1) (18/143) Crawling and storing DONE - The Backlash to New Rules on Protests in D.C.
+INFO:root:[2018-10-14 17:45:12] (NewsSpider-2) (19/143) Crawling and storing DONE - Pope Francis Is Still Equivocating on the Sex-Abuse Crisis
+INFO:root:[2018-10-14 17:45:13] (NewsSpider-3) (20/143) Crawling and storing DONE - Here’s How Higher Education Dies
+INFO:root:[2018-10-14 17:45:15] (NewsSpider-1) (21/143) Crawling and storing DONE - Three Theories on Jamal Khashoggi’s Fate
+INFO:root:[2018-10-14 17:45:18] (NewsSpider-5) (22/143) Crawling and storing DONE - How Statistics Doomed Washington State’s Death Penalty
+INFO:root:[2018-10-14 17:45:20] (NewsSpider-3) (23/143) Crawling and storing DONE - When Abortion Is Illegal, Women Rarely Die. But They Still Suffer.
+INFO:root:[2018-10-14 17:45:22] (NewsSpider-1) (24/143) Crawling and storing DONE - The U.S.-Saudi Relationship Is Out of Control
+INFO:root:[2018-10-14 17:45:22] (NewsSpider-4) (25/143) Crawling and storing DONE - As We May Think
+INFO:root:[2018-10-14 17:45:23] (NewsSpider-2) (26/143) Crawling and storing DONE - Americans Strongly Dislike PC Culture
+INFO:root:[2018-10-14 17:45:28] (NewsSpider-5) (27/143) Crawling and storing DONE - Kanye West’s Quixotic Quest
+INFO:root:[2018-10-14 17:45:31] (NewsSpider-1) (28/143) Crawling and storing DONE - Schwarzenegger Campaigning For Redistricting In Michigan
+INFO:root:[2018-10-14 17:45:31] (NewsSpider-3) (29/143) Crawling and storing DONE - Camping Is Awful, but Not Awful Enough
+INFO:root:[2018-10-14 17:45:32] (NewsSpider-2) (30/143) Crawling and storing DONE - The End of American Lip Service to Human Rights
+INFO:root:[2018-10-14 17:45:40] (NewsSpider-1) (32/143) Crawling and storing DONE - Why the Ivy League Needs to Admit More Students
+INFO:root:[2018-10-14 17:45:41] (NewsSpider-4) (33/143) Crawling and storing DONE - The Dangers of a Neo-Nazi Woodstock
+INFO:root:[2018-10-14 17:45:42] (NewsSpider-5) (34/143) Crawling and storing DONE - Elite-College Admissions Are Broken
+INFO:root:[2018-10-14 17:45:43] (NewsSpider-2) (35/143) Crawling and storing DONE - Todd S. Purdum to Join The Atlantic
+INFO:root:[2018-10-14 17:45:49] (NewsSpider-4) (36/143) Crawling and storing DONE - The Romanoffs Is a Self-Indulgent, Intriguing Muddle
+INFO:root:[2018-10-14 17:45:51] (NewsSpider-5) (37/143) Crawling and storing DONE - How Saudi Arabia Is Addressing Jamal Khashoggi’s Disappearance
+INFO:root:[2018-10-14 17:45:51] (NewsSpider-3) (38/143) Crawling and storing DONE - The Case of an American Pastor Caught in a Geopolitical Fight
+INFO:root:[2018-10-14 17:45:54] (NewsSpider-2) (39/143) Crawling and storing DONE - Why Is College in America So Expensive?
+INFO:root:[2018-10-14 17:46:00] (NewsSpider-3) (40/143) Crawling and storing DONE - Donald Trump’s Absentee Presidency
+INFO:root:[2018-10-14 17:46:01] (NewsSpider-4) (41/143) Crawling and storing DONE - The Atlantic Adding Ten New Politics Jobs
+INFO:root:[2018-10-14 17:46:01] (NewsSpider-2) (42/143) Crawling and storing DONE - Hubble’s Hardware Woes and the Painful Era of Aging Spacecraft
+INFO:root:[2018-10-14 17:46:06] (NewsSpider-5) (43/143) Crawling and storing DONE - A Group of Poems
+INFO:root:[2018-10-14 17:46:08] (NewsSpider-3) (44/143) Crawling and storing DONE - ‘Salt, Fat, Acid, Heat’ Is a Love Letter to Amateur Cooks
+INFO:root:[2018-10-14 17:46:08] (NewsSpider-4) (45/143) Crawling and storing DONE - Americans Strongly Dislike PC Culture
+INFO:root:[2018-10-14 17:46:10] (NewsSpider-2) (46/143) Crawling and storing DONE - Does Anyone Still Take Both Sexual Assault and Due Process Seriously?
+INFO:root:[2018-10-14 17:46:14] (NewsSpider-5) (47/143) Crawling and storing DONE - When Pop-Up Books Taught Popular Science
+INFO:root:[2018-10-14 17:46:16] (NewsSpider-4) (48/143) Crawling and storing DONE - Why Is College in America So Expensive?
+INFO:root:[2018-10-14 17:46:18] (NewsSpider-2) (49/143) Crawling and storing DONE - Announcing The Atlantic Festival
+INFO:root:[2018-10-14 17:46:23] (NewsSpider-5) (50/143) Crawling and storing DONE - Kanye West’s Quixotic Quest
+INFO:root:[2018-10-14 17:46:25] (NewsSpider-3) (51/143) Crawling and storing DONE - Brands Like Nike and PepsiCo Are the New Art Patrons
+INFO:root:[2018-10-14 17:46:25] (NewsSpider-2) (52/143) Crawling and storing DONE - The High Stakes of Surfing’s Wave-Pool Arms Race
+INFO:root:[2018-10-14 17:46:26] (NewsSpider-4) (53/143) Crawling and storing DONE - Barbara Kingsolver’s Superficial View of the American Family in the Trump Era
+INFO:root:[2018-10-14 17:46:31] (NewsSpider-5) (54/143) Crawling and storing DONE - What Manatees Do During Hurricane Season
+INFO:root:[2018-10-14 17:46:31] (NewsSpider-2) (55/143) Crawling and storing DONE - Letters: ‘The Supreme Court Has Always Been a Politicized Institution’
+INFO:root:[2018-10-14 17:46:33] (NewsSpider-4) (56/143) Crawling and storing DONE - The Little College Where Tuition Is Free and Every Student Is Given a Job
+INFO:root:[2018-10-14 17:46:38] (NewsSpider-5) (57/143) Crawling and storing DONE - The Politics of a Long-Dead Dictator Still Haunt Spain
+INFO:root:[2018-10-14 17:46:39] (NewsSpider-4) (59/143) Crawling and storing DONE - The Romanoffs Is a Self-Indulgent, Intriguing Muddle
+INFO:root:[2018-10-14 17:46:44] (NewsSpider-2) (60/143) Crawling and storing DONE - What Manatees Do During Hurricane Season
+INFO:root:[2018-10-14 17:46:45] (NewsSpider-5) (61/143) Crawling and storing DONE - The College-Graduation Problem All States Have
+INFO:root:[2018-10-14 17:46:47] (NewsSpider-4) (62/143) Crawling and storing DONE - Hubble’s Hardware Woes and the Painful Era of Aging Spacecraft
+INFO:root:[2018-10-14 17:46:51] (NewsSpider-2) (63/143) Crawling and storing DONE - Jemele Hill Joining The Atlantic as Staff Writer
+INFO:root:[2018-10-14 17:46:51] (NewsSpider-3) (64/143) Crawling and storing DONE - Camping Is Awful, but Not Awful Enough
+INFO:root:[2018-10-14 17:46:51] (NewsSpider-5) (65/143) Crawling and storing DONE - The Rise of the Engagement Photo Shoot
+INFO:root:[2018-10-14 17:46:56] (NewsSpider-4) (66/143) Crawling and storing DONE - George Washington’s Broken Dream of a National University
+INFO:root:[2018-10-14 17:46:57] (NewsSpider-3) (67/143) Crawling and storing DONE - America Wakes Up From Its Dream of Free College
+INFO:root:[2018-10-14 17:46:59] (NewsSpider-2) (68/143) Crawling and storing DONE - The Atlantic Hires Ellen Cushing To Lead New San Francisco Bureau as Senior Tech Editor
+WARNING:root:[2018-10-14 17:47:01] (NewsSpider-4) Article Not Exists on https://www.theatlantic.com/politics/archive/2013/04/martin-luther-kings-letter-from-birmingham-jail/274668/
+INFO:root:[2018-10-14 17:47:05] (NewsSpider-2) (69/143) Crawling and storing DONE - Why Women Still Can’t Have It All
+INFO:root:[2018-10-14 17:47:08] (NewsSpider-3) (70/143) Crawling and storing DONE - The Roots of Muslim Rage
+INFO:root:[2018-10-14 17:47:10] (NewsSpider-5) (71/143) Crawling and storing DONE - Paul McCartney Can’t Stop Making People Happy
+INFO:root:[2018-10-14 17:47:14] (NewsSpider-3) (72/143) Crawling and storing DONE - How Statistics Doomed Washington State’s Death Penalty
+INFO:root:[2018-10-14 17:47:15] (NewsSpider-4) (73/143) Crawling and storing DONE - Harvard Admissions on Trial
+INFO:root:[2018-10-14 17:47:15] (NewsSpider-5) (74/143) Crawling and storing DONE - Alexa Wants To Know How You’re Feeling Today
+INFO:root:[2018-10-14 17:47:20] (NewsSpider-3) (75/143) Crawling and storing DONE - A Fatal Abandonment of American Leadership
+INFO:root:[2018-10-14 17:47:21] (NewsSpider-4) (76/143) Crawling and storing DONE - The High Stakes of Surfing’s Wave-Pool Arms Race
+INFO:root:[2018-10-14 17:47:21] (NewsSpider-5) (77/143) Crawling and storing DONE - Bad News for People Who Can’t Remember Names
+INFO:root:[2018-10-14 17:47:23] (NewsSpider-2) (78/143) Crawling and storing DONE - Donald Trump’s Absentee Presidency
+INFO:root:[2018-10-14 17:47:25] (NewsSpider-3) (79/143) Crawling and storing DONE - Vernon Loeb To Join The Atlantic as Politics Editor
+INFO:root:[2018-10-14 17:47:27] (NewsSpider-4) (80/143) Crawling and storing DONE - The Politics of a Long-Dead Dictator Still Haunt Spain
+INFO:root:[2018-10-14 17:47:28] (NewsSpider-5) (81/143) Crawling and storing DONE - Mary Suh Joins The Atlantic’s Events Team, AtlanticLIVE
+INFO:root:[2018-10-14 17:47:32] (NewsSpider-3) (82/143) Crawling and storing DONE - The Atlantic Daily: A Fatal Abandonment
+INFO:root:[2018-10-14 17:47:34] (NewsSpider-4) (83/143) Crawling and storing DONE - The U.S.-Saudi Relationship Is Out of Control
+INFO:root:[2018-10-14 17:47:36] (NewsSpider-5) (84/143) Crawling and storing DONE - Broken Windows
+INFO:root:[2018-10-14 17:47:41] (NewsSpider-4) (85/143) Crawling and storing DONE - When Pop-Up Books Taught Popular Science
+INFO:root:[2018-10-14 17:47:45] (NewsSpider-5) (86/143) Crawling and storing DONE - Letters: When The Production of Knowledge Gets Messy
+INFO:root:[2018-10-14 17:47:47] (NewsSpider-3) (87/143) Crawling and storing DONE - Americans Sharply Split About Core Democratic Issues
+INFO:root:[2018-10-14 17:47:52] (NewsSpider-3) (88/143) Crawling and storing DONE - The Atlantic Hires Alex Hardiman As Chief Business and Product Officer
+INFO:root:[2018-10-14 17:47:53] (NewsSpider-4) (89/143) Crawling and storing DONE - The Cow-Milking Robots Keeping Small Farms in Business
+INFO:root:[2018-10-14 17:47:57] (NewsSpider-4) (91/143) Crawling and storing DONE - Letters: When The Production of Knowledge Gets Messy
+INFO:root:[2018-10-14 17:48:00] (NewsSpider-3) (92/143) Crawling and storing DONE - Barbara Kingsolver’s Superficial View of the American Family in the Trump Era
+INFO:root:[2018-10-14 17:48:04] (NewsSpider-4) (93/143) Crawling and storing DONE - Trees Could Change the Climate More Than Scientists Thought
+INFO:root:[2018-10-14 17:48:07] (NewsSpider-3) (94/143) Crawling and storing DONE - Speakers Announced for CityLab Detroit, October 28-30
+INFO:root:[2018-10-14 17:48:13] (NewsSpider-3) (95/143) Crawling and storing DONE - The Family Weekly: What Marketers Think Moms Want
+INFO:root:[2018-10-14 17:48:18] (NewsSpider-3) (96/143) Crawling and storing DONE - Elite-College Admissions Are Broken
+INFO:root:[2018-10-14 17:48:21] (NewsSpider-3) (97/143) Crawling and storing DONE - Indians Turn to Apps to Answer Their Prayers
+INFO:root:[2018-10-14 17:48:23] (NewsSpider-3) (98/143) Crawling and storing DONE - The Family Weekly: What Marketers Think Moms Want
+INFO:root:[2018-10-14 17:48:27] (NewsSpider-3) (99/143) Crawling and storing DONE - HBO and The Atlantic Challenge Viewers to Examine Their Own Beliefs in New Short Film Series
+INFO:root:[2018-10-14 17:48:28] (NewsSpider-3) (100/143) Crawling and storing DONE - Joe Biden’s Endless Rumination About Running for President
+INFO:root:[2018-10-14 17:48:33] (NewsSpider-3) (101/143) Crawling and storing DONE - ‘Salt, Fat, Acid, Heat’ Is a Love Letter to Amateur Cooks
+INFO:root:[2018-10-14 17:48:37] (NewsSpider-3) (102/143) Crawling and storing DONE - Lauren Williams and Taylor Lorenz Join The Atlantic
+INFO:root:[2018-10-14 17:48:38] (NewsSpider-3) (103/143) Crawling and storing DONE - The Fifty-First State?
+INFO:root:[2018-10-14 17:48:40] (NewsSpider-3) (104/143) Crawling and storing DONE - The Supreme Court Justice Who Forever Changed Affirmative Action
+INFO:root:[2018-10-14 17:48:42] (NewsSpider-3) (105/143) Crawling and storing DONE - Lotteries May Be the Fairest Way to Fix Elite-College Admissions
+INFO:root:[2018-10-14 17:48:47] (NewsSpider-3) (106/143) Crawling and storing DONE - The Era of Affirmative Action May Not Last Much Longer
+INFO:root:[2018-10-14 17:48:50] (NewsSpider-3) (107/143) Crawling and storing DONE - Prashant Rao Named Global Editor of The Atlantic
+INFO:root:[2018-10-14 17:48:53] (NewsSpider-3) (109/143) Crawling and storing DONE - The Atlantic Politics & Policy Daily: Recovering from Michael
+INFO:root:[2018-10-14 17:48:55] (NewsSpider-3) (110/143) Crawling and storing DONE - Dionne Searcey Wins 2018 Michael Kelly Award
+INFO:root:[2018-10-14 17:48:56] (NewsSpider-3) (111/143) Crawling and storing DONE - Pope Francis Is Still Equivocating on the Sex-Abuse Crisis
+INFO:root:[2018-10-14 17:48:59] (NewsSpider-3) (112/143) Crawling and storing DONE - YouTube Stars Are Being Accused of Profiting Off Fans’ Depression
+INFO:root:[2018-10-14 17:49:00] (NewsSpider-3) (113/143) Crawling and storing DONE - The Supreme Court Justice Who Forever Changed Affirmative Action
+INFO:root:[2018-10-14 17:49:04] (NewsSpider-3) (114/143) Crawling and storing DONE - The Little College Where Tuition Is Free and Every Student Is Given a Job
+INFO:root:[2018-10-14 17:49:07] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: https://cdn.theatlantic.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feed/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/rss/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feeds/
+INFO:root:[2018-10-14 18:39:20] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:20] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:20] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:20] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:20] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-10-14 18:40:24] (NewsSpider-2) Article Not Exists on https://www.theatlantic.com/politics/archive/2013/04/martin-luther-kings-letter-from-birmingham-jail/274668/
+INFO:root:[2018-10-14 18:43:10] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:43:11] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:43:14] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:43:17] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:43:17] ========== (NewsSpider-3) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: https://cdn.theatlantic.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feed/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/rss/
+INFO:root:[2018-10-14 19:27:35] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:35] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:35] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:35] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:36] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:27:42] (NewsSpider-2) (1/137) Crawling and storing DONE - The Cow-Milking Robots Keeping Small Farms in Business
+INFO:root:[2018-10-14 19:27:44] (NewsSpider-5) (2/137) Crawling and storing DONE - The Politics of a Long-Dead Dictator Still Haunt Spain
+INFO:root:[2018-10-14 19:27:44] (NewsSpider-4) (3/137) Crawling and storing DONE - The Supreme Court Justice Who Forever Changed Affirmative Action
+INFO:root:[2018-10-14 19:27:45] (NewsSpider-3) (4/137) Crawling and storing DONE - The Atlantic Daily: A Fatal Abandonment
+INFO:root:[2018-10-14 19:27:51] (NewsSpider-1) (5/137) Crawling and storing DONE - The Case of an American Pastor Caught in a Geopolitical Fight
+INFO:root:[2018-10-14 19:27:52] (NewsSpider-4) (6/137) Crawling and storing DONE - Harvard Admissions on Trial
+INFO:root:[2018-10-14 19:27:52] (NewsSpider-2) (7/137) Crawling and storing DONE - Todd S. Purdum to Join The Atlantic
+INFO:root:[2018-10-14 19:27:54] (NewsSpider-3) (8/137) Crawling and storing DONE - The Rise of the Engagement Photo Shoot
+INFO:root:[2018-10-14 19:28:07] (NewsSpider-4) (9/137) Crawling and storing DONE - Camping Is Awful, but Not Awful Enough
+INFO:root:[2018-10-14 19:28:09] (NewsSpider-2) (10/137) Crawling and storing DONE - A Group of Poems
+INFO:root:[2018-10-14 19:28:10] (NewsSpider-3) (11/137) Crawling and storing DONE - Pope Francis Is Still Equivocating on the Sex-Abuse Crisis
+INFO:root:[2018-10-14 19:28:10] (NewsSpider-1) (12/137) Crawling and storing DONE - What Manatees Do During Hurricane Season
+INFO:root:[2018-10-14 19:28:17] (NewsSpider-5) (13/137) Crawling and storing DONE - Broken Windows
+INFO:root:[2018-10-14 19:28:20] (NewsSpider-4) (14/137) Crawling and storing DONE - HBO and The Atlantic Challenge Viewers to Examine Their Own Beliefs in New Short Film Series
+INFO:root:[2018-10-14 19:28:21] (NewsSpider-3) (15/137) Crawling and storing DONE - Jemele Hill Joining The Atlantic as Staff Writer
+INFO:root:[2018-10-14 19:28:29] (NewsSpider-3) (17/137) Crawling and storing DONE - Trees Could Change the Climate More Than Scientists Thought
+INFO:root:[2018-10-14 19:28:30] (NewsSpider-1) (18/137) Crawling and storing DONE - Schwarzenegger Campaigning For Redistricting In Michigan
+INFO:root:[2018-10-14 19:28:31] (NewsSpider-4) (19/137) Crawling and storing DONE - The Family Weekly: What Marketers Think Moms Want
+INFO:root:[2018-10-14 19:28:41] (NewsSpider-4) (20/137) Crawling and storing DONE - Does Anyone Still Take Both Sexual Assault and Due Process Seriously?
+INFO:root:[2018-10-14 19:28:42] (NewsSpider-1) (21/137) Crawling and storing DONE - Schwarzenegger Campaigning For Redistricting In Michigan
+INFO:root:[2018-10-14 19:28:47] (NewsSpider-2) (23/137) Crawling and storing DONE - Pope Francis Is Still Equivocating on the Sex-Abuse Crisis
+INFO:root:[2018-10-14 19:28:55] (NewsSpider-3) (24/137) Crawling and storing DONE - Elite-College Admissions Are Broken
+INFO:root:[2018-10-14 19:28:55] (NewsSpider-1) (25/137) Crawling and storing DONE - The Romanoffs Is a Self-Indulgent, Intriguing Muddle
+INFO:root:[2018-10-14 19:28:56] (NewsSpider-2) (26/137) Crawling and storing DONE - A Fatal Abandonment of American Leadership
+INFO:root:[2018-10-14 19:29:01] (NewsSpider-5) (27/137) Crawling and storing DONE - Elite-College Admissions Are Broken
+INFO:root:[2018-10-14 19:29:05] (NewsSpider-2) (28/137) Crawling and storing DONE - America Wakes Up From Its Dream of Free College
+INFO:root:[2018-10-14 19:29:11] (NewsSpider-2) (29/137) Crawling and storing DONE - Study-Abroad Programs Enter the Israeli-Palestinian Conflict
+INFO:root:[2018-10-14 19:29:18] (NewsSpider-5) (30/137) Crawling and storing DONE - Americans Strongly Dislike PC Culture
+INFO:root:[2018-10-14 19:29:20] (NewsSpider-1) (31/137) Crawling and storing DONE - The Fifty-First State?
+INFO:root:[2018-10-14 19:29:22] (NewsSpider-3) (32/137) Crawling and storing DONE - The Atlantic Hires Alex Hardiman As Chief Business and Product Officer
+INFO:root:[2018-10-14 19:29:24] (NewsSpider-2) (33/137) Crawling and storing DONE - When Abortion Is Illegal, Women Rarely Die. But They Still Suffer.
+INFO:root:[2018-10-14 19:29:29] (NewsSpider-1) (35/137) Crawling and storing DONE - The Atlantic Politics & Policy Daily: Recovering from Michael
+INFO:root:[2018-10-14 19:29:33] (NewsSpider-2) (36/137) Crawling and storing DONE - Announcing The Atlantic Festival
+INFO:root:[2018-10-14 19:29:35] (NewsSpider-5) (37/137) Crawling and storing DONE - Camping Is Awful, but Not Awful Enough
+INFO:root:[2018-10-14 19:29:35] (NewsSpider-1) (38/137) Crawling and storing DONE - Letters: When The Production of Knowledge Gets Messy
+INFO:root:[2018-10-14 19:29:40] (NewsSpider-5) (39/137) Crawling and storing DONE - Trees Could Change the Climate More Than Scientists Thought
+INFO:root:[2018-10-14 19:29:41] (NewsSpider-3) (40/137) Crawling and storing DONE - The Backlash to New Rules on Protests in D.C.
+INFO:root:[2018-10-14 19:29:41] (NewsSpider-2) (41/137) Crawling and storing DONE - Why Is College in America So Expensive?
+INFO:root:[2018-10-14 19:29:42] (NewsSpider-1) (42/137) Crawling and storing DONE - When Pop-Up Books Taught Popular Science
+WARNING:root:[2018-10-14 19:29:47] (NewsSpider-2) Article Not Exists on https://www.theatlantic.com/politics/archive/2013/04/martin-luther-kings-letter-from-birmingham-jail/274668/
+INFO:root:[2018-10-14 19:29:47] (NewsSpider-3) (43/137) Crawling and storing DONE - Americans Sharply Split About Core Democratic Issues
+INFO:root:[2018-10-14 19:29:48] (NewsSpider-1) (44/137) Crawling and storing DONE - Indians Turn to Apps to Answer Their Prayers
+INFO:root:[2018-10-14 19:29:51] (NewsSpider-5) (45/137) Crawling and storing DONE - The Era of Affirmative Action May Not Last Much Longer
+INFO:root:[2018-10-14 19:29:51] (NewsSpider-2) (46/137) Crawling and storing DONE - What Manatees Do During Hurricane Season
+INFO:root:[2018-10-14 19:29:53] (NewsSpider-3) (47/137) Crawling and storing DONE - The Politics of a Long-Dead Dictator Still Haunt Spain
+INFO:root:[2018-10-14 19:29:58] (NewsSpider-2) (48/137) Crawling and storing DONE - Letters: When The Production of Knowledge Gets Messy
+INFO:root:[2018-10-14 19:30:08] (NewsSpider-5) (49/137) Crawling and storing DONE - When Pop-Up Books Taught Popular Science
+INFO:root:[2018-10-14 19:30:10] (NewsSpider-1) (50/137) Crawling and storing DONE - Brands Like Nike and PepsiCo Are the New Art Patrons
+INFO:root:[2018-10-14 19:30:10] (NewsSpider-2) (51/137) Crawling and storing DONE - Americans Strongly Dislike PC Culture
+INFO:root:[2018-10-14 19:30:12] (NewsSpider-3) (52/137) Crawling and storing DONE - The Atlantic Hires Ellen Cushing To Lead New San Francisco Bureau as Senior Tech Editor
+INFO:root:[2018-10-14 19:30:14] (NewsSpider-2) (53/137) Crawling and storing DONE - The Dangers of a Neo-Nazi Woodstock
+INFO:root:[2018-10-14 19:30:14] (NewsSpider-3) (54/137) Crawling and storing DONE - The End of American Lip Service to Human Rights
+INFO:root:[2018-10-14 19:30:21] (NewsSpider-3) (56/137) Crawling and storing DONE - Lotteries May Be the Fairest Way to Fix Elite-College Admissions
+INFO:root:[2018-10-14 19:30:23] (NewsSpider-2) (57/137) Crawling and storing DONE - The Family Weekly: What Marketers Think Moms Want
+INFO:root:[2018-10-14 19:30:27] (NewsSpider-2) (58/137) Crawling and storing DONE - Why the Ivy League Needs to Admit More Students
+INFO:root:[2018-10-14 19:30:28] (NewsSpider-3) (59/137) Crawling and storing DONE - The Atlantic Adding Ten New Politics Jobs
+INFO:root:[2018-10-14 19:30:33] (NewsSpider-2) (60/137) Crawling and storing DONE - The Case of an American Pastor Caught in a Geopolitical Fight
+INFO:root:[2018-10-14 19:30:34] (NewsSpider-3) (61/137) Crawling and storing DONE - Prashant Rao Named Global Editor of The Atlantic
+INFO:root:[2018-10-14 19:30:37] (NewsSpider-5) (62/137) Crawling and storing DONE - The College-Graduation Problem All States Have
+INFO:root:[2018-10-14 19:30:39] (NewsSpider-2) (63/137) Crawling and storing DONE - The Backlash to New Rules on Protests in D.C.
+INFO:root:[2018-10-14 19:30:46] (NewsSpider-5) (64/137) Crawling and storing DONE - The Roots of Muslim Rage
+INFO:root:[2018-10-14 19:30:49] (NewsSpider-2) (65/137) Crawling and storing DONE - Should the U.S. Break Up Amazon?
+INFO:root:[2018-10-14 19:30:51] (NewsSpider-3) (66/137) Crawling and storing DONE - Lauren Williams and Taylor Lorenz Join The Atlantic
+INFO:root:[2018-10-14 19:31:00] (NewsSpider-2) (68/137) Crawling and storing DONE - Vernon Loeb To Join The Atlantic as Politics Editor
+INFO:root:[2018-10-14 19:31:00] (NewsSpider-3) (69/137) Crawling and storing DONE - The Atlantic Hires Amanda Mull as Staff Writer Covering Health
+INFO:root:[2018-10-14 19:31:01] (NewsSpider-5) (70/137) Crawling and storing DONE - As We May Think
+INFO:root:[2018-10-14 19:31:05] (NewsSpider-2) (71/137) Crawling and storing DONE - Dionne Searcey Wins 2018 Michael Kelly Award
+INFO:root:[2018-10-14 19:31:08] (NewsSpider-3) (72/137) Crawling and storing DONE - Preeminent Global Summit CityLab Coming to Detroit
+INFO:root:[2018-10-14 19:31:12] (NewsSpider-2) (73/137) Crawling and storing DONE - The Little College Where Tuition Is Free and Every Student Is Given a Job
+INFO:root:[2018-10-14 19:31:12] (NewsSpider-3) (74/137) Crawling and storing DONE - Speakers Announced for CityLab Detroit, October 28-30
+INFO:root:[2018-10-14 19:31:13] (NewsSpider-5) (75/137) Crawling and storing DONE - The Supreme Court Justice Who Forever Changed Affirmative Action
+INFO:root:[2018-10-14 19:31:17] (NewsSpider-5) (76/137) Crawling and storing DONE - The Little College Where Tuition Is Free and Every Student Is Given a Job
+INFO:root:[2018-10-14 19:31:17] (NewsSpider-2) (77/137) Crawling and storing DONE - The Decline of IPOs Is Hurting Small Investors
+INFO:root:[2018-10-14 19:31:18] (NewsSpider-3) (78/137) Crawling and storing DONE - Sperm Counts Continue to Fall
+INFO:root:[2018-10-14 19:31:21] (NewsSpider-5) (79/137) Crawling and storing DONE - The Romanoffs Is a Self-Indulgent, Intriguing Muddle
+INFO:root:[2018-10-14 19:31:21] (NewsSpider-3) (80/137) Crawling and storing DONE - If Everyone Ate Beans Instead of Beef
+INFO:root:[2018-10-14 19:31:23] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 19:31:23] ========== (NewsSpider-5) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 403 Client Error: Forbidden for url: https://cdn.theatlantic.com/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feeds/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/rss/
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.theatlantic.com/feed/
+INFO:root:[2018-10-21 14:02:12] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-21 14:02:12] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-21 14:02:12] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-21 14:02:12] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-21 14:02:12] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-21 14:02:17] (NewsSpider-4) (1/159) Crawling and storing DONE - The Books Briefing: The People Who Give, and Receive Little in Return
+INFO:root:[2018-10-21 14:02:19] (NewsSpider-3) (3/159) Crawling and storing DONE - The Cruelty Is the Point
+INFO:root:[2018-10-21 14:02:19] (NewsSpider-5) (4/159) Crawling and storing DONE - Todd S. Purdum to Join The Atlantic
+INFO:root:[2018-10-21 14:02:21] (NewsSpider-2) (5/159) Crawling and storing DONE - It Will Take Millions of Years for Mammals to Recover From Us
+INFO:root:[2018-10-21 14:02:23] (NewsSpider-3) (7/159) Crawling and storing DONE - Preeminent Global Summit CityLab Coming to Detroit
+INFO:root:[2018-10-21 14:02:26] (NewsSpider-4) (8/159) Crawling and storing DONE - The Books Briefing: The People Who Give, and Receive Little in Return
+INFO:root:[2018-10-21 14:02:27] (NewsSpider-5) (9/159) Crawling and storing DONE - Why No One Answers Their Phone Anymore
+INFO:root:[2018-10-21 14:02:27] (NewsSpider-2) (10/159) Crawling and storing DONE - The Universe Is Always Looking
+INFO:root:[2018-10-21 14:02:29] (NewsSpider-3) (11/159) Crawling and storing DONE - The Extreme Discomfort of Sharing Salary Information
+INFO:root:[2018-10-21 14:02:31] (NewsSpider-4) (12/159) Crawling and storing DONE - What Is the Future of Getting Kids to Soccer Practice?
+INFO:root:[2018-10-21 14:02:33] (NewsSpider-3) (13/159) Crawling and storing DONE - A Literary Companion for Insomniacs
+INFO:root:[2018-10-21 14:02:33] (NewsSpider-2) (14/159) Crawling and storing DONE - When a DNA Test Reveals Your Daughter Is Not Your Biological Child
+INFO:root:[2018-10-21 14:02:37] (NewsSpider-4) (15/159) Crawling and storing DONE - Prashant Rao Named Global Editor of The Atlantic
+INFO:root:[2018-10-21 14:02:39] (NewsSpider-5) (16/159) Crawling and storing DONE - When a DNA Test Reveals Your Daughter Is Not Your Biological Child
+INFO:root:[2018-10-21 14:02:40] (NewsSpider-3) (18/159) Crawling and storing DONE - The Complexity of Black Girlhood Is at the Heart of The Hate U Give
+INFO:root:[2018-10-21 14:02:42] (NewsSpider-4) (19/159) Crawling and storing DONE - A Classic Sondheim Musical Gets a Thrilling Twist
+INFO:root:[2018-10-21 14:02:43] (NewsSpider-2) (20/159) Crawling and storing DONE - When White Nationalists Get DNA Tests That Reveal African Ancestry
+INFO:root:[2018-10-21 14:02:43] (NewsSpider-5) (21/159) Crawling and storing DONE - Can You Ever Forgive Me? Is a Perfect Showcase for Melissa McCarthy
+INFO:root:[2018-10-21 14:02:47] (NewsSpider-4) (23/159) Crawling and storing DONE - The Republican Party Needs to Embrace Liberalism
+INFO:root:[2018-10-21 14:02:48] (NewsSpider-2) (25/159) Crawling and storing DONE - The Atlantic Politics & Policy Daily: Meddling: Now in 2018
+INFO:root:[2018-10-21 14:02:49] (NewsSpider-3) (26/159) Crawling and storing DONE - These Two Could Soon Be the First Muslim Women to Serve in Congress
+INFO:root:[2018-10-21 14:02:50] (NewsSpider-4) (27/159) Crawling and storing DONE - Are Siblings More Important Than Parents?
+INFO:root:[2018-10-21 14:02:53] (NewsSpider-2) (28/159) Crawling and storing DONE - Announcing The Atlantic Festival
+INFO:root:[2018-10-21 14:02:54] (NewsSpider-5) (29/159) Crawling and storing DONE - Radio Atlantic: The Politics of Ancestry
+INFO:root:[2018-10-21 14:02:58] (NewsSpider-2) (30/159) Crawling and storing DONE - The Atlantic Hires Alex Hardiman As Chief Business and Product Officer
+INFO:root:[2018-10-21 14:02:59] (NewsSpider-3) (31/159) Crawling and storing DONE - The Atlantic Hires Amanda Mull as Staff Writer Covering Health
+INFO:root:[2018-10-21 14:03:00] (NewsSpider-5) (32/159) Crawling and storing DONE - Cities Are Turning Snails Yellow
+INFO:root:[2018-10-21 14:03:00] (NewsSpider-3) (33/159) Crawling and storing DONE - DOJ Says Russian Trolls Are Interfering Online With the Midterms
+INFO:root:[2018-10-21 14:03:01] (NewsSpider-2) (34/159) Crawling and storing DONE - What I Learned as an EMT at the Border Wall
+INFO:root:[2018-10-21 14:03:05] (NewsSpider-2) (35/159) Crawling and storing DONE - A World-Class Airport for the End of the World
+INFO:root:[2018-10-21 14:03:05] (NewsSpider-3) (36/159) Crawling and storing DONE - DOJ Says Russian Trolls Are Interfering Online With the Midterms
+INFO:root:[2018-10-21 14:03:06] (NewsSpider-5) (37/159) Crawling and storing DONE - Should the U.S. Break Up Amazon?
+INFO:root:[2018-10-21 14:03:09] (NewsSpider-5) (38/159) Crawling and storing DONE - Lauren Williams and Taylor Lorenz Join The Atlantic
+INFO:root:[2018-10-21 14:03:09] (NewsSpider-2) (39/159) Crawling and storing DONE - Bernie Sanders Running Against Warren for President
+INFO:root:[2018-10-21 14:03:11] (NewsSpider-3) (40/159) Crawling and storing DONE - Immigrant Stereotypes Are Everywhere on TV
+INFO:root:[2018-10-21 14:03:13] (NewsSpider-2) (41/159) Crawling and storing DONE - It Will Take Millions of Years for Mammals to Recover From Us
+INFO:root:[2018-10-21 14:03:17] (NewsSpider-5) (42/159) Crawling and storing DONE - Americans Sharply Split About Core Democratic Issues
+INFO:root:[2018-10-21 14:03:19] (NewsSpider-3) (43/159) Crawling and storing DONE - Women Are Furious. Now What?
+INFO:root:[2018-10-21 14:03:20] (NewsSpider-5) (44/159) Crawling and storing DONE - What I Learned as an EMT at the Border Wall
+INFO:root:[2018-10-21 14:03:22] (NewsSpider-3) (45/159) Crawling and storing DONE - Was Gary Hart Set Up?
+INFO:root:[2018-10-21 14:03:22] (NewsSpider-2) (46/159) Crawling and storing DONE - A Group of Poems
+INFO:root:[2018-10-21 14:03:24] (NewsSpider-2) (47/159) Crawling and storing DONE - Trump Hits the Panic Button
+INFO:root:[2018-10-21 14:03:24] (NewsSpider-3) (48/159) Crawling and storing DONE - What the Harvard Trial Is Really About
+INFO:root:[2018-10-21 14:03:28] (NewsSpider-5) (49/159) Crawling and storing DONE - Your DNA Is Not Your Culture
+INFO:root:[2018-10-21 14:03:30] (NewsSpider-3) (50/159) Crawling and storing DONE - Radio Atlantic: Becoming White in America
+INFO:root:[2018-10-21 14:03:31] (NewsSpider-2) (51/159) Crawling and storing DONE - Bernie Sanders Running Against Warren for President
+INFO:root:[2018-10-21 14:03:40] (NewsSpider-5) (52/159) Crawling and storing DONE - Instagram Has a Massive Harassment Problem
+INFO:root:[2018-10-21 14:03:40] (NewsSpider-3) (53/159) Crawling and storing DONE - Trump Hits the Panic Button
+INFO:root:[2018-10-21 14:03:42] (NewsSpider-2) (54/159) Crawling and storing DONE - The Atlantic Politics & Policy Daily: Meddling: Now in 2018
+INFO:root:[2018-10-21 14:03:44] (NewsSpider-3) (55/159) Crawling and storing DONE - Meet the Endoterrestrials
+INFO:root:[2018-10-21 14:03:46] (NewsSpider-2) (56/159) Crawling and storing DONE - Broken Windows
+INFO:root:[2018-10-21 14:03:47] (NewsSpider-3) (57/159) Crawling and storing DONE - Speakers Announced for CityLab Detroit, October 28-30
+INFO:root:[2018-10-21 14:03:47] (NewsSpider-2) (58/159) Crawling and storing DONE - How Kelly Rowland Fell in Love With Color
+INFO:root:[2018-10-21 14:03:49] (NewsSpider-3) (59/159) Crawling and storing DONE - Vernon Loeb To Join The Atlantic as Politics Editor
+INFO:root:[2018-10-21 14:03:51] (NewsSpider-5) (60/159) Crawling and storing DONE - Why mayors from around the world are coming to Detroit
+INFO:root:[2018-10-21 14:03:52] (NewsSpider-2) (61/159) Crawling and storing DONE - The Burden of Being the Oldest Son of Immigrants
+INFO:root:[2018-10-21 14:03:52] (NewsSpider-5) (62/159) Crawling and storing DONE - Preeminent Global Summit CityLab Coming to Detroit
+INFO:root:[2018-10-21 14:03:53] (NewsSpider-3) (63/159) Crawling and storing DONE - Change Is in the Air
+INFO:root:[2018-10-21 14:03:54] (NewsSpider-5) (64/159) Crawling and storing DONE - Neanderthals Suffered a Lot of Traumatic Injuries. So How Did They Live So Long?
+WARNING:root:[2018-10-21 14:03:56] (NewsSpider-3) Article Not Exists on https://www.theatlantic.com/politics/archive/2013/04/martin-luther-kings-letter-from-birmingham-jail/274668/
+INFO:root:[2018-10-21 14:03:58] (NewsSpider-3) (65/159) Crawling and storing DONE - The Republican Party Needs to Embrace Liberalism
+INFO:root:[2018-10-21 14:03:58] (NewsSpider-5) (66/159) Crawling and storing DONE - The Atlantic Hires Ellen Cushing To Lead New San Francisco Bureau as Senior Tech Editor
+INFO:root:[2018-10-21 14:03:58] (NewsSpider-2) (67/159) Crawling and storing DONE - Dionne Searcey Wins 2018 Michael Kelly Award
+INFO:root:[2018-10-21 14:03:59] (NewsSpider-3) (68/159) Crawling and storing DONE - This Meme Tricks People Into Registering to Vote
+INFO:root:[2018-10-21 14:04:00] (NewsSpider-2) (69/159) Crawling and storing DONE - How Kelly Rowland Fell in Love With Color
+INFO:root:[2018-10-21 14:04:02] (NewsSpider-2) (70/159) Crawling and storing DONE - The Republican Party Moves Beyond Hypocrisy
+INFO:root:[2018-10-21 14:04:03] (NewsSpider-5) (72/159) Crawling and storing DONE - Cities Are Turning Snails Yellow
+INFO:root:[2018-10-21 14:04:06] (NewsSpider-3) (73/159) Crawling and storing DONE - The First DNA Test as Political Stunt
+INFO:root:[2018-10-21 14:04:07] (NewsSpider-3) (74/159) Crawling and storing DONE - What Is the Future of Getting Kids to Soccer Practice?
+INFO:root:[2018-10-21 14:04:09] (NewsSpider-5) (75/159) Crawling and storing DONE - HBO and The Atlantic Challenge Viewers to Examine Their Own Beliefs in New Short Film Series
+INFO:root:[2018-10-21 14:04:11] (NewsSpider-2) (76/159) Crawling and storing DONE - Dear Therapist: I Was an Accomplice to an Affair
+INFO:root:[2018-10-21 14:04:16] (NewsSpider-2) (77/159) Crawling and storing DONE - Was Gary Hart Set Up?
+INFO:root:[2018-10-21 14:04:17] (NewsSpider-5) (78/159) Crawling and storing DONE - Immigrant Stereotypes Are Everywhere on TV
+INFO:root:[2018-10-21 14:04:17] (NewsSpider-3) (79/159) Crawling and storing DONE - Women in the U.S. Can Now Get Safe Abortions by Mail
+INFO:root:[2018-10-21 14:04:18] (NewsSpider-2) (80/159) Crawling and storing DONE - Inherited Trauma Shapes Your Health
+INFO:root:[2018-10-21 14:04:19] (NewsSpider-3) (81/159) Crawling and storing DONE - The Universe Is Always Looking
+INFO:root:[2018-10-21 14:04:19] (NewsSpider-2) (82/159) Crawling and storing DONE - Using Technology to Preserve the Culture of a Chinatown Shop
+INFO:root:[2018-10-21 14:04:20] (NewsSpider-3) (83/159) Crawling and storing DONE - Taking Over the Family Business in Chinatown
+INFO:root:[2018-10-21 14:04:21] (NewsSpider-2) (84/159) Crawling and storing DONE - The Atlantic Adding Ten New Politics Jobs
+INFO:root:[2018-10-21 14:04:21] (NewsSpider-5) (85/159) Crawling and storing DONE - These Two Could Soon Be the First Muslim Women to Serve in Congress
+INFO:root:[2018-10-21 14:04:23] (NewsSpider-5) (86/159) Crawling and storing DONE - Americans Strongly Dislike PC Culture
+INFO:root:[2018-10-21 14:04:23] (NewsSpider-3) (87/159) Crawling and storing DONE - Women in the U.S. Can Now Get Safe Abortions by Mail
+INFO:root:[2018-10-21 14:04:25] (NewsSpider-5) (88/159) Crawling and storing DONE - Letter: Gary Hart Was Not Set Up
+INFO:root:[2018-10-21 14:04:27] (NewsSpider-2) (89/159) Crawling and storing DONE - 500 global city, thought leaders to explore urban issues at CityLab Detroit summit
+INFO:root:[2018-10-21 14:04:28] (NewsSpider-3) (90/159) Crawling and storing DONE - To Prevent Loneliness, Start in the Classroom
+INFO:root:[2018-10-21 14:04:30] (NewsSpider-5) (91/159) Crawling and storing DONE - CityLab lands in Detroit this fall
+INFO:root:[2018-10-21 14:04:32] (NewsSpider-3) (92/159) Crawling and storing DONE - Jemele Hill Joining The Atlantic as Staff Writer
+INFO:root:[2018-10-21 14:04:33] (NewsSpider-2) (93/159) Crawling and storing DONE - Meet the Endoterrestrials
+INFO:root:[2018-10-21 14:04:33] (NewsSpider-5) (94/159) Crawling and storing DONE - The New York City Subway Is Beyond Repair
+INFO:root:[2018-10-21 14:04:34] (NewsSpider-3) (95/159) Crawling and storing DONE - The Roots of Muslim Rage
+INFO:root:[2018-10-21 14:04:36] (NewsSpider-3) (97/159) Crawling and storing DONE - The Experts Were Wrong About the Middle East
+INFO:root:[2018-10-21 14:04:36] (NewsSpider-2) (98/159) Crawling and storing DONE - The Republican Party Moves Beyond Hypocrisy
+INFO:root:[2018-10-21 14:04:37] (NewsSpider-5) (99/159) Crawling and storing DONE - The Fifty-First State?
+INFO:root:[2018-10-21 14:04:37] (NewsSpider-5) (100/159) Crawling and storing DONE - Radio Atlantic: The Politics of Ancestry
+INFO:root:[2018-10-21 14:04:40] (NewsSpider-2) (101/159) Crawling and storing DONE - Change Is in the Air
+INFO:root:[2018-10-21 14:04:41] (NewsSpider-3) (102/159) Crawling and storing DONE - Letter: Gary Hart Was Not Set Up
+INFO:root:[2018-10-21 14:04:42] (NewsSpider-5) (103/159) Crawling and storing DONE - Can You Ever Forgive Me? Is a Perfect Showcase for Melissa McCarthy
+INFO:root:[2018-10-21 14:04:43] (NewsSpider-2) (104/159) Crawling and storing DONE - As We May Think
+INFO:root:[2018-10-21 14:04:43] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-21 14:04:44] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-21 14:04:45] ========== (NewsSpider-2) Thread END ==========

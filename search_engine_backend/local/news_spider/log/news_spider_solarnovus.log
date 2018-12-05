@@ -1,0 +1,73 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/rss
+INFO:root:[2018-09-08 18:26:55] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:26:56] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-09-08 18:28:43] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-09-08 18:28:43] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-09-08 18:28:44] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-09-08 18:28:44] ========== (NewsSpider-4) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='www.solarnovus.com', port=443): Read timed out. (read timeout=7)
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPSConnectionPool(host='www.solarnovus.com', port=443): Read timed out. (read timeout=7)
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:50:37] ========== (NewsSpider-10) Start! ==========
+WARNING:root:[2018-10-14 10:50:48] (NewsSpider-2) Article Not Exists on https://www.solarnovus.com/spi-2018-canadian-solar-unveils-400-watt-bifacial-solar-module_N11688.html
+WARNING:root:[2018-10-14 10:51:20] (NewsSpider-2) Article Not Exists on https://www.solarnovus.com/time-for-action-solarworld-joins-suniva-in-solar-safeguards-case_N10920.html
+WARNING:root:[2018-10-14 10:51:31] (NewsSpider-9) Article Not Exists on https://www.solarnovus.com/solar-power-bos-innovation-award-goes-to-hanwha-q-cells-q-flat-g5_N11728.html
+WARNING:root:[2018-10-14 10:51:33] (NewsSpider-10) Article Not Exists on https://www.solarnovus.com/highly-efficient-air-stable-perovskite-solar-cells_N11415.html
+INFO:root:[2018-10-14 10:55:25] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:55:34] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:55:37] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:55:42] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:55:43] ========== (NewsSpider-6) Thread END ==========
+INFO:root:[2018-10-14 10:55:43] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 10:55:44] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 10:55:46] ========== (NewsSpider-9) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/rss
+INFO:root:[2018-10-14 17:44:12] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:12] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:12] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:12] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:12] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:48:57] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 17:48:58] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:49:01] ========== (NewsSpider-1) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feeds
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feed
+INFO:root:[2018-10-14 18:39:14] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:39:14] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:39:14] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:39:14] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:39:14] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 18:43:29] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:43:31] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:43:32] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:43:33] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 18:43:34] ========== (NewsSpider-5) Thread END ==========
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/rss
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feed
+CRITICAL:newspaper.network:[REQUEST FAILED] 404 Client Error: Not Found for url: https://www.solarnovus.com/feeds
+INFO:root:[2018-10-14 19:27:40] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:27:40] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:27:40] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:27:40] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:27:40] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:31:43] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:31:43] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:31:45] ========== (NewsSpider-4) Thread END ==========

@@ -1,0 +1,110 @@
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='thebostonchannel.com', port=80): Max retries exceeded with url: /news-team (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b7828d860>, 'Connection to thebostonchannel.com timed out. (connect timeout=7)'))
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='thebostonchannel.com', port=80): Max retries exceeded with url: /alerts (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b7828a080>, 'Connection to thebostonchannel.com timed out. (connect timeout=7)'))
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='thebostonchannel.com', port=80): Max retries exceeded with url: /ulocal (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b782c2128>, 'Connection to thebostonchannel.com timed out. (connect timeout=7)'))
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='thebostonchannel.com', port=80): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b782bc4a8>, 'Connection to thebostonchannel.com timed out. (connect timeout=7)'))
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='thebostonchannel.com', port=80): Max retries exceeded with url: /rss (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b782af080>, 'Connection to thebostonchannel.com timed out. (connect timeout=7)'))
+CRITICAL:newspaper.network:[REQUEST FAILED] HTTPConnectionPool(host='thebostonchannel.com', port=80): Max retries exceeded with url: /feeds (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b782bc6a0>, 'Connection to thebostonchannel.com timed out. (connect timeout=7)'))
+INFO:root:[2018-09-08 18:27:17] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-09-08 18:27:17] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-09-08 18:27:17] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-09-08 18:27:17] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-09-08 18:27:17] ========== (NewsSpider-5) Start! ==========
+WARNING:root:[2018-09-08 18:27:24] (NewsSpider-1) Article Not Exists on http://thebostonchannel.com/article/nike-s-support-for-colin-kaepernick-protest-has-some-destroying-their-shoes/22964133
+WARNING:root:[2018-09-08 18:27:24] (NewsSpider-2) Article Not Exists on http://thebostonchannel.com/article/iowa-man-specializes-in-mini-moos/22997561
+WARNING:root:[2018-09-08 18:27:24] (NewsSpider-3) Article Not Exists on http://thebostonchannel.com/article/tropical-storm-isaac-forms-in-atlantic-heading-toward-lesser-antilles/23043082
+WARNING:root:[2018-09-08 18:27:24] (NewsSpider-4) Article Not Exists on http://thebostonchannel.com/article/on-the-water-spinnaker-the-whale/22488187
+WARNING:root:[2018-09-08 18:27:24] (NewsSpider-5) Article Not Exists on http://thebostonchannel.com/article/quincy-unveils-the-hancock-adams-common/23042518
+INFO:root:[2018-09-08 18:27:27] (NewsSpider-1) (1/82) Crawling and storing DONE - Parental Involvement Key to Adolescent and Young Adult Substance Use Prevention and Recovery
+WARNING:root:[2018-09-08 18:27:31] (NewsSpider-4) Article Not Exists on http://thebostonchannel.com/article/price-pitches-gem-bullpen-gives-it-up-to-astros/23035006
+WARNING:root:[2018-09-08 18:27:32] (NewsSpider-3) Article Not Exists on http://thebostonchannel.com/article/cardi-b-escorted-out-of-party-after-reported-fight-with-nicki-minaj/23037871
+WARNING:root:[2018-09-08 18:27:32] (NewsSpider-2) Article Not Exists on http://thebostonchannel.com/article/nike-debuts-dream-crazy-ad-amid-controversy-of-choosing-to-feature-colin-kaepernick/22996942
+WARNING:root:[2018-09-08 18:27:32] (NewsSpider-5) Article Not Exists on http://thebostonchannel.com/article/officer-honored-for-saving-man-who-tried-to-jump-from-roof/23038589
+INFO:root:[2018-09-08 18:27:33] (NewsSpider-4) (2/82) Crawling and storing DONE - Keeping Food Safe in the Summer Heat
+WARNING:root:[2018-09-08 18:27:34] (NewsSpider-1) Article Not Exists on http://thebostonchannel.com/article/trump-wants-sessions-to-investigate-new-york-times-op-ed/23027112
+WARNING:root:[2018-09-08 18:27:39] (NewsSpider-5) Article Not Exists on http://thebostonchannel.com/article/browns-release-lb-mychal-kendricks-following-insider-trading-charges/22868444
+WARNING:root:[2018-09-08 18:27:41] (NewsSpider-3) Article Not Exists on http://thebostonchannel.com/article/exquisite-home-on-private-wooded-lot-on-market-for-dollar177m/23004272
+WARNING:root:[2018-09-08 18:27:41] (NewsSpider-2) Article Not Exists on http://thebostonchannel.com/article/sally-field-reaction-burt-reynolds-death/23027325
+WARNING:root:[2018-09-08 18:27:42] (NewsSpider-4) Article Not Exists on http://thebostonchannel.com/article/burt-reynolds-best-movies-tv-shows/23014082
+WARNING:root:[2018-09-08 18:27:42] (NewsSpider-1) Article Not Exists on http://thebostonchannel.com/article/astros-verlander-given-1m-lunch-tab-for-being-a-dodger-killer/22827961
+INFO:root:[2018-09-08 18:27:43] (NewsSpider-1) (3/82) Crawling and storing DONE - New Treatments for Menopause Symptoms
+INFO:root:[2018-09-08 18:28:03] (NewsSpider-2) (4/82) Crawling and storing DONE - Five Health Tips for Young Women
+INFO:root:[2018-09-08 18:28:08] (NewsSpider-2) (5/82) Crawling and storing DONE - 5 Tips for Protecting Your Lungs in the Cold Weather
+INFO:root:[2018-09-08 18:28:11] (NewsSpider-5) (6/82) Crawling and storing DONE - Reduce Infection Risks While Swimming
+INFO:root:[2018-09-08 18:28:20] (NewsSpider-2) (7/82) Crawling and storing DONE - First Cold of the Season or Fall Allergies?
+INFO:root:[2018-09-08 18:28:26] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-09-08 18:28:26] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-09-08 18:28:27] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-6) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-7) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-8) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-9) Start! ==========
+INFO:root:[2018-10-14 10:51:47] ========== (NewsSpider-10) Start! ==========
+INFO:root:[2018-10-14 10:51:54] (NewsSpider-2) (1/84) Crawling and storing DONE - Breast Health: What to Do if You Find a Lump
+INFO:root:[2018-10-14 10:52:54] (NewsSpider-6) (2/84) Crawling and storing DONE - Don’t Back Down from Back Pain
+INFO:root:[2018-10-14 10:53:06] (NewsSpider-1) (3/84) Crawling and storing DONE - How to Avoid Migraine Triggers
+INFO:root:[2018-10-14 10:53:08] (NewsSpider-4) (4/84) Crawling and storing DONE - Why fall might be the best time to visit Cape Cod and the Islands
+INFO:root:[2018-10-14 10:53:13] (NewsSpider-1) (5/84) Crawling and storing DONE - Breast Cancer Myths Debunked
+INFO:root:[2018-10-14 10:53:53] (NewsSpider-1) (6/84) Crawling and storing DONE - When Is it Time to Get a Mammogram?
+WARNING:root:[2018-10-14 10:54:57] (NewsSpider-9) Article Not Exists on http://thebostonchannel.com/article/these-adorable-pets-need-new-homes10112018/23708197
+INFO:root:[2018-10-14 10:55:00] (NewsSpider-2) (7/84) Crawling and storing DONE - 5 Tips for Protecting Your Lungs in the Cold Weather
+INFO:root:[2018-10-14 10:55:19] (NewsSpider-5) (8/84) Crawling and storing DONE - Treating Chronic Pain With Integrative Therapies
+INFO:root:[2018-10-14 10:55:34] ========== (NewsSpider-9) Thread END ==========
+INFO:root:[2018-10-14 10:55:34] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 10:55:42] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 10:55:42] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 10:55:43] ========== (NewsSpider-6) Thread END ==========
+INFO:root:[2018-10-14 10:55:47] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 10:55:49] ========== (NewsSpider-8) Thread END ==========
+INFO:root:[2018-10-14 10:55:49] ========== (NewsSpider-10) Thread END ==========
+INFO:root:[2018-10-14 10:55:50] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 10:55:51] ========== (NewsSpider-7) Thread END ==========
+INFO:root:[2018-10-14 17:44:59] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 17:44:59] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 17:44:59] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 17:44:59] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 17:44:59] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 17:45:32] (NewsSpider-1) (1/84) Crawling and storing DONE - Breast Cancer Myths Debunked
+INFO:root:[2018-10-14 17:46:12] (NewsSpider-2) (2/84) Crawling and storing DONE - Don’t Back Down from Back Pain
+INFO:root:[2018-10-14 17:46:18] (NewsSpider-1) (3/84) Crawling and storing DONE - When Is it Time to Get a Mammogram?
+INFO:root:[2018-10-14 17:46:29] (NewsSpider-2) (4/84) Crawling and storing DONE - Treating Chronic Pain With Integrative Therapies
+INFO:root:[2018-10-14 17:46:37] (NewsSpider-4) (5/84) Crawling and storing DONE - Why fall might be the best time to visit Cape Cod and the Islands
+INFO:root:[2018-10-14 17:46:55] (NewsSpider-1) (6/84) Crawling and storing DONE - Breast Health: What to Do if You Find a Lump
+INFO:root:[2018-10-14 17:47:11] (NewsSpider-4) (7/84) Crawling and storing DONE - How to Avoid Migraine Triggers
+INFO:root:[2018-10-14 17:47:54] (NewsSpider-1) (8/84) Crawling and storing DONE - 5 Tips for Protecting Your Lungs in the Cold Weather
+INFO:root:[2018-10-14 17:47:57] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 17:47:58] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 17:47:58] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 17:47:59] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 17:48:02] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:40:00] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 18:40:00] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 18:40:00] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 18:40:00] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 18:40:00] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 18:43:10] ========== (NewsSpider-4) Thread END ==========
+INFO:root:[2018-10-14 18:43:10] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 18:43:14] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 18:43:16] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 18:43:18] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 19:28:24] ========== (NewsSpider-1) Start! ==========
+INFO:root:[2018-10-14 19:28:24] ========== (NewsSpider-2) Start! ==========
+INFO:root:[2018-10-14 19:28:24] ========== (NewsSpider-3) Start! ==========
+INFO:root:[2018-10-14 19:28:24] ========== (NewsSpider-4) Start! ==========
+INFO:root:[2018-10-14 19:28:24] ========== (NewsSpider-5) Start! ==========
+INFO:root:[2018-10-14 19:29:08] (NewsSpider-1) (1/84) Crawling and storing DONE - When Is it Time to Get a Mammogram?
+INFO:root:[2018-10-14 19:29:42] (NewsSpider-4) (2/84) Crawling and storing DONE - Why fall might be the best time to visit Cape Cod and the Islands
+INFO:root:[2018-10-14 19:30:02] (NewsSpider-2) (3/84) Crawling and storing DONE - How to Avoid Migraine Triggers
+INFO:root:[2018-10-14 19:30:17] (NewsSpider-5) (4/84) Crawling and storing DONE - Treating Chronic Pain With Integrative Therapies
+INFO:root:[2018-10-14 19:30:28] (NewsSpider-1) (5/84) Crawling and storing DONE - Breast Cancer Myths Debunked
+INFO:root:[2018-10-14 19:30:28] (NewsSpider-3) (6/84) Crawling and storing DONE - 5 Tips for Protecting Your Lungs in the Cold Weather
+INFO:root:[2018-10-14 19:30:46] (NewsSpider-4) (7/84) Crawling and storing DONE - Breast Health: What to Do if You Find a Lump
+INFO:root:[2018-10-14 19:30:55] ========== (NewsSpider-5) Thread END ==========
+INFO:root:[2018-10-14 19:30:57] ========== (NewsSpider-2) Thread END ==========
+INFO:root:[2018-10-14 19:30:59] ========== (NewsSpider-1) Thread END ==========
+INFO:root:[2018-10-14 19:30:59] ========== (NewsSpider-3) Thread END ==========
+INFO:root:[2018-10-14 19:31:02] ========== (NewsSpider-4) Thread END ==========
