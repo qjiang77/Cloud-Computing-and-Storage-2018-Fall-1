@@ -1,38 +1,29 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-
+    <title>Google 地图 JavaScript API 示例: 简单的地图</title>
 	<style type="text/css">
 html{height:100%}
 body{height:100%;margin:0px;padding:0px}
 #map{height:100%}
 </style>
 
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&language=zh-CN"></script>
    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 
 
     <script type="text/javascript">
 var map = null;
 function initialize() {
-    alert("Begin!");
     map = new google.maps.Map(document.getElementById('map'), {
             zoom: 12,
-            center: new google.maps.LatLng(41.8781, -87.6298),
-            mapTypeId: google.maps.MapTypeId.ROADMAP
+            center: new google.maps.LatLng(25.036772,121.520269), // 設定地圖中心點
+            mapTypeId: google.maps.MapTypeId.ROADMAP // HYBRID,ROADMAP,SATELLITE,TERRAIN
         });
 
-	    //var city;
-    addSite(map, 40.7128, -74.0060);
-	addSite(map, 41.8781, -87.6298);
-	addSite(map, 34.0522, -118.2437);
-	addSite(map, 47.6062, -122.3321);
-
-	/*
-	{% for city in city_dic %}
-        alert(city, city['Latitude'], city['Longitude']);
-        addSite(map, city['Latitude'], city['Longitude']);
-    {% end %}
-    */
+	addSite(map,'中山',25.062361,121.526194,'台北市中山區林森北路511號');
+	addSite(map,'萬華',25.030000,121.490556,'台北市萬華區莒光路315號');
+	addSite(map,'莒光',25.050000,121.420556,'台北市萬華區莒光路315號');
+	addSite(map,'古亭',25.020833,121.528611,'台北市中正區羅斯福路三段153號');
 }
 
 
@@ -59,11 +50,12 @@ function initialize() {
 
 
 var prev_infowindow = null;
-function addSite(map, lat, lng) {
+function addSite(map, siteDesc, lat, lng, address) {
 	var pt = new google.maps.LatLng(lat,lng);
 	var marker = new google.maps.Marker({
                 map: map,
                 position : pt,
+                title: siteDesc
                 });
     var infowindow = new google.maps.InfoWindow({
         content: contentString
@@ -76,20 +68,8 @@ function addSite(map, lat, lng) {
     });
 
 
-var LatLngList = new Array (
-    new google.maps.LatLng (40.7128, -74.0060),
-    new google.maps.LatLng (41.8781, -87.6298),
-    new google.maps.LatLng (34.0522, -118.2437),
-    new google.maps.LatLng (47.6062, -122.3321));
-
-
-/*
-    {% for city in city_dic %}
-    LatLngList.append(new google.maps.LatLng(city['Latitude'], city['Longitude']));
-    {% end %}
-    */
-}
-
+var LatLngList = new Array (new google.maps.LatLng (25.062361,121.526194), new google.maps.LatLng (25.030000,121.490556), new google.maps.LatLng (25.050000,121.420556),new google.maps.LatLng (25.020833,121.528611));
+//  Create a new viewpoint bound
 var bounds = new google.maps.LatLngBounds ();
 //  Go through each...
 for (var i = 0, LtLgLen = LatLngList.length; i < LtLgLen; i++) {
