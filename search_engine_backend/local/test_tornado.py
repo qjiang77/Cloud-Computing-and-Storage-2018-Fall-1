@@ -5,6 +5,8 @@ import torndb
 from inverted_index_searcher import InvertedIndexSearcher
 from query import Query
 from mapper import mapper
+from sentiment_analysis import data_batch_analysis
+
 
 search_res = set()
 
@@ -150,13 +152,31 @@ class MapHandler(RequestHandler):
 
         self.render("static/map.html", cities=city_dic)
 
+class ChartHandler(RequestHandler):
+    def get(self):
+        global search_res
+        article_list = search_res
+        chart_list = []
+        for article in article_list:
+            article_chart = {}
+            article_chart["title"] = article.title
+            article_chart["text"] = article.text
+            article_chart["public_date"] = article.publish_date
+            article_chart["url"] = article.url
+            article_chart["max_display_len"] = article.max_display_len
+            chart_list.append(article_chart)
+        polar_res = data_batch_analysis(chart_list)
+
+        self.render("static/chart.html", polar_res=polar_res)
+
 
 def make_app():
     url_handlers = [
         (r"/", MainHandler),
         (r"/inverted-index/(.+)", InvertedIndexHandler),
         (r"/article-list", SearchHandler),
-        (r"/map", MapHandler)
+        (r"/map", MapHandler),
+        (r"/chart", ChartHandler)
     ]
 
     settings = {
