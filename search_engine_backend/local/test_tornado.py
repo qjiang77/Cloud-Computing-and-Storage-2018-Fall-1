@@ -122,50 +122,6 @@ class SearchHandler(RequestHandler):
 
 
 class MapHandler(RequestHandler):
-    def fetchArticles(self, article_titles):
-        """
-        print article_titles
-        path_article_dirs = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_spider/articles")
-        articles = []
-        for subdir in os.listdir(path_article_dirs):
-            path_subdir = os.path.join(path_article_dirs, subdir)
-            for fname in os.listdir(path_subdir):
-                if fname in article_titles:
-                    try:
-                        f = open(os.path.join(path_subdir, fname), 'r')
-                        print os.path.join(path_subdir, fname), len(f.readlines())
-                        sections = f.readlines()[0].split('|')
-                        items = ''.join(f.readlines()[1:]).split('|')
-                        art = Article(
-                                title = items[sections.index('title')],
-                                text = items[sections.index('text')],
-                                publish_date = items[sections.index('publish_date')],
-                                url = items[sections.index('url')]
-                            )
-                        articles.append(art)
-                    except Exception as e:
-                        print str(e)
-                        continue
-        return articles
-        """
-        articles = set()
-        db = torndb.Connection("localhost", "news", "root", "19951029")
-        for title in article_titles:
-            # print title
-            query_res = db.query("SELECT * FROM article where title = '%s'" % title)
-            if query_res:
-                art = Article(
-                    title=query_res[0]['title'].replace('_', ' '),
-                    text=query_res[0]['text'],
-                    publish_date=query_res[0]['publish_date'],
-                    url=query_res[0]['url'],
-                    max_display_len=300
-                )
-                print
-                art.text
-                articles.add(art)
-        return articles
-
     def get(self):
         """
         input_text = self.get_query_argument(name="search")
@@ -192,10 +148,7 @@ class MapHandler(RequestHandler):
         map = mapper('./uscities.csv')
         city_dic = map.checkCities(map_list)
 
-        args = {
-            "city_dic": city_dic
-        }
-        self.render("static/map.html", **args)
+        self.render("static/map.html", cities=city_dic)
 
 
 def make_app():
