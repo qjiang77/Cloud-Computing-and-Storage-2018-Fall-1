@@ -27,6 +27,7 @@ class Preprocessor:
         # generate synonyms words
         synonyms = []
         for filter_word in filterd_sentence:
+            synonyms.append(filter_word)
             for syn in wordnet.synsets(filter_word):
                 for l in syn.lemmas():
                     synonyms.append(l.name())
