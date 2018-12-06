@@ -6,6 +6,7 @@ from inverted_index_searcher import InvertedIndexSearcher
 from query import Query
 from mapper import *
 from sentiment_analysis import data_batch_analysis
+from hot_trend_searcher import HotTrendSearcher
 
 
 search_res = set()
@@ -220,13 +221,69 @@ class ChartHandler(RequestHandler):
         self.render("static/chart.html", polar_res=polar_res)
 
 
+class HotTrendHandler(RequestHandler):
+    def fetchArticles(self, article_titles):
+        """
+        print article_titles
+        path_article_dirs = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_spider/articles")
+        articles = []
+        for subdir in os.listdir(path_article_dirs):
+            path_subdir = os.path.join(path_article_dirs, subdir)
+            for fname in os.listdir(path_subdir):
+                if fname in article_titles:
+                    try:
+                        f = open(os.path.join(path_subdir, fname), 'r')
+                        print os.path.join(path_subdir, fname), len(f.readlines())
+                        sections = f.readlines()[0].split('|')
+                        items = ''.join(f.readlines()[1:]).split('|')
+                        art = Article(
+                                title = items[sections.index('title')],
+                                text = items[sections.index('text')],
+                                publish_date = items[sections.index('publish_date')],
+                                url = items[sections.index('url')]
+                            )
+                        articles.append(art)
+                    except Exception as e:
+                        print str(e)
+                        continue
+        return articles
+        """
+        articles = set()
+        db = torndb.Connection("localhost", "news", "root", "19951029")
+        for title in article_titles:
+            # print title
+            query_res = db.query("SELECT * FROM article where title = '%s'" % title)
+            if query_res:
+                art = Article(
+                    title=query_res[0]['title'].replace('_', ' '),
+                    text=query_res[0]['text'],
+                    publish_date=query_res[0]['publish_date'],
+                    url=query_res[0]['url'],
+                    max_display_len=300
+                )
+                articles.add(art)
+        global search_res
+        search_res = articles
+        return articles
+
+    def get(self):
+        searcher = HotTrendSearcher()
+        article_titles = searcher.search()
+        args = {
+            "articles": self.fetchArticles(article_titles),
+        }
+        # print args
+        self.render("static/hot_news.html", **args)
+
+
 def make_app():
     url_handlers = [
         (r"/", MainHandler),
         (r"/inverted-index/(.+)", InvertedIndexHandler),
         (r"/article-list", SearchHandler),
         (r"/map", MapHandler),
-        (r"/chart", ChartHandler)
+        (r"/chart", ChartHandler),
+        (r"/hot-news", HotTrendHandler)
     ]
 
     settings = {
