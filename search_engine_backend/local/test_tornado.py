@@ -4,7 +4,7 @@ from tornado.web import RequestHandler
 import torndb
 from inverted_index_searcher import InvertedIndexSearcher
 from query import Query
-from mapper import mapper
+from mapper import *
 from sentiment_analysis import data_batch_analysis
 
 
@@ -42,7 +42,7 @@ def searchInvIndex(words):
 
 class InvertedIndexHandler(RequestHandler):
     def get(self, word):
-        db = torndb.Connection("localhost", "news", "root", "19951029")
+        db = torndb.Connection("localhost", "news", "root", "root")
         query_res = db.query("SELECT * FROM inverted_index where word = '%s'" % word)
         # print type(query_res)
         if not query_res:
@@ -83,7 +83,7 @@ class SearchHandler(RequestHandler):
         return articles
         """
         articles = set()
-        db = torndb.Connection("localhost", "news", "root", "19951029")
+        db = torndb.Connection("localhost", "news", "root", "root")
         for title in article_titles:
             # print title
             query_res = db.query("SELECT * FROM article where title = '%s'" % title)
@@ -124,18 +124,65 @@ class SearchHandler(RequestHandler):
 
 
 class MapHandler(RequestHandler):
-    def get(self):
+    
+    def fetchArticles(self, article_titles):
         """
+        print article_titles
+        path_article_dirs = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_spider/articles")
+        articles = []
+        for subdir in os.listdir(path_article_dirs):
+            path_subdir = os.path.join(path_article_dirs, subdir)
+            for fname in os.listdir(path_subdir):
+                if fname in article_titles:
+                    try:
+                        f = open(os.path.join(path_subdir, fname), 'r')
+                        print os.path.join(path_subdir, fname), len(f.readlines())
+                        sections = f.readlines()[0].split('|')
+                        items = ''.join(f.readlines()[1:]).split('|')
+                        art = Article(
+                                title = items[sections.index('title')],
+                                text = items[sections.index('text')],
+                                publish_date = items[sections.index('publish_date')],
+                                url = items[sections.index('url')]
+                            )
+                        articles.append(art)
+                    except Exception as e:
+                        print str(e)
+                        continue
+        return articles
+        """
+        articles = set()
+        db = torndb.Connection("localhost", "news", "root", "root")
+        for title in article_titles:
+            # print title
+            query_res = db.query("SELECT * FROM article where title = '%s'" % title)
+            if query_res:
+                art = Article(
+                    title=query_res[0]['title'].replace('_', ' '),
+                    text=query_res[0]['text'],
+                    publish_date=query_res[0]['publish_date'],
+                    url=query_res[0]['url'],
+                    max_display_len=300
+                )
+                articles.add(art)
+        #global search_res
+        #search_res = articles
+        return articles
+
+    def get(self):
+	"""
         input_text = self.get_query_argument(name="search")
         q = Query("q")
         query_words = q.search(input_text)
         print query_words
         searcher = InvertedIndexSearcher()
         article_titles = searcher.search(query_words)
+	searcher.stopSpark()
         print article_titles
-        map = mapper('./uscities.csv')
+        map0 = mapper('./uscities.csv')
         article_list = self.fetchArticles(article_titles)
         """
+
         global search_res
         article_list = search_res
         map_list = []
@@ -147,9 +194,12 @@ class MapHandler(RequestHandler):
             article_map["url"] = article.url
             article_map["max_display_len"] = article.max_display_len
             map_list.append(article_map)
-        map = mapper('./uscities.csv')
-        city_dic = map.checkCities(map_list)
-
+        map0 = mapper('./uscities.csv')
+	#print 'there---------------------------------------------------------------------------------------------------'
+	#print dir(map0)
+        city_dic = map0.checkCities(map_list)
+	#for item in city_dic:	
+	#	print item
         self.render("static/map.html", cities=city_dic)
 
 class ChartHandler(RequestHandler):

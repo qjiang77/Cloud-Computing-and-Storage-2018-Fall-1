@@ -8,7 +8,8 @@ class InvertedIndexSearcher:
     def __init__(self):
         self.spark_session = SparkSession.builder.getOrCreate()
         self.database = SQLContext(self.spark_session) 
-        self.df = self.database.read.format("jdbc").options(
+	#self.database = SQLContext.getOrCreate(self.spark_session) 
+	self.df = self.database.read.format("jdbc").options(
             url="jdbc:mysql://localhost:3306/news?serverTimezone=UTC", 
             driver="com.mysql.jdbc.Driver", 
             dbtable="inverted_index",
@@ -23,6 +24,10 @@ class InvertedIndexSearcher:
                 query_res = query_res.union(set(row["doc"].split('|')))
             docs = docs.union(query_res) 
         return docs
+
+    def stopSpark(self):
+    	#self.database.close()
+	self.spark_session.stop()
 
 if __name__ == "__main__":
     searcher = InvertedIndexSearcher()

@@ -23,8 +23,8 @@ var cityNews;
     cityNews = {};
     {% for key in city.get('References')[0] %}
         cityNews["{{key}}"] = "{{city.get('References')[0][key]}}"
+    	//alert(cityNews)
     {% end %}
-
     LatLngList.push(new google.maps.LatLng(cityLat, cityLng));
     newsList.push(cityNews);
 {% end %}
