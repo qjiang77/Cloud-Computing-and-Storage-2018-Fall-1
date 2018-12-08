@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "news_spider.py", line 217, in <module>
-    source_name = res.groups(0)
-AttributeError: 'NoneType' object has no attribute 'groups'

@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>iSearch+</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Le styles -->
+    <script type="text/javascript" src="static/assets/js/jquery.js"></script>
+
+    <link rel="stylesheet" href="static/assets/css/style.css">
+    <link rel="stylesheet" href="static/assets/css/loader-style.css">
+    <link rel="stylesheet" href="static/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="static/assets/css/media.css">
+    <link rel="stylesheet" href="static/assets/css/social.css">
+
+
+
+
+
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="static/assets/ico/minus.png">
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div id="status">&nbsp;</div>
+    </div>
+
+    <!-- TOP NAVBAR -->
+    <nav role="navigation" class="navbar navbar-static-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" class="navbar-toggle" type="button">
+                    <span class="entypo-menu"></span>
+                </button>
+                <button class="navbar-toggle toggle-menu-mobile toggle-left" type="button">
+                    <span class="entypo-list-add"></span>
+                </button>
+
+            </div>
+
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                    <li class="dropdown">
+
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i style="font-size:20px;" class="icon-conversation"></i><div class="noft-red">1</div></a>
+
+
+                        <ul style="margin: 11px 0 0 9px;" role="menu" class="dropdown-menu dropdown-wrap">
+                            <li>
+                                <a href="#">
+                                    <img alt="" class="img-msg img-circle" src="http://api.randomuser.me/portraits/thumb/men/1.jpg"><i>Welcome!</i>  <b>Just Now</b>
+                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            <li>
+                                <div>See All Messege</div>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li><a href="#"><i data-toggle="tooltip" data-placement="bottom" title="Help" style="font-size:20px;" class="icon-help tooltitle"></i></a>
+                    </li>
+
+                </ul>
+                <div id="nt-title-container" class="navbar-left running-text visible-lg">
+                    <ul class="date-top">
+                        <li class="entypo-calendar" style="margin-right:5px"></li>
+                        <li id="Date"></li>
+
+
+                    </ul>
+
+                    <ul id="digital-clock" class="digital">
+                        <li class="entypo-clock" style="margin-right:5px"></li>
+                        <li class="hour"></li>
+                        <li>:</li>
+                        <li class="min"></li>
+                        <li>:</li>
+                        <li class="sec"></li>
+                        <li class="meridiem"></li>
+                    </ul>
+                    <ul id="nt-title">
+                        <li><i class="wi-day-lightning"></i>&#160;&#160;Los Angeles&#160;
+                            <b>85</b><i class="wi-fahrenheit"></i>&#160;; 15km/h
+                        </li>
+                        <li><i class="wi-day-lightning"></i>&#160;&#160;New York&#160;
+                            <b>85</b><i class="wi-fahrenheit"></i>&#160;; Tonight- 72 °F (22.2 °C)
+                        </li>
+
+                        <li><i class="wi-day-lightning"></i>&#160;&#160;Orlando&#160;
+                            <b>85</b><i class="wi-fahrenheit"></i>&#160;; 15km/h
+                        </li>
+
+                        <li><i class="wi-day-lightning"></i>&#160;&#160;San Francisco&#160;
+                            <b>85</b><i class="wi-fahrenheit"></i>&#160;; 15km/h
+                        </li>
+
+                        <li><i class="wi-day-lightning"></i>&#160;&#160;Seattle&#160;
+                            <b>85</b><i class="wi-fahrenheit"></i>&#160;; 15km/h
+                        </li>
+
+                    </ul>
+                </div>
+
+                <ul style="margin-right:0;" class="nav navbar-nav navbar-right">
+                    <li>
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                            <img alt="" class="admin-pic img-circle" src="http://api.randomuser.me/portraits/thumb/men/10.jpg">Hi, Jiang. <b class="caret"></b>
+                        </a>
+                        <ul style="margin-top:14px;" role="menu" class="dropdown-setting dropdown-menu">
+                            <li>
+                                <a href="#">
+                                    <span class="entypo-user"></span>&#160;&#160;My Profile</a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <span class="entypo-vcard"></span>&#160;&#160;Account Setting</a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <span class="entypo-lifebuoy"></span>&#160;&#160;Help</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- /END OF TOP NAVBAR -->
+
+    <!-- SIDE MENU -->
+    <div id="skin-select">
+        <div id="logo">
+         <h1>iSearch+<span>v1.0</span></h1>
+        </div>
+
+        <a id="toggle">
+            <span class="entypo-menu"></span>
+        </a>
+
+        <div class="skin-part">
+            <div id="tree-wrap">
+                <div class="side-bar">
+                    <ul class="topnav menu-left-nest">
+                        <li>
+                            <a href="#" style="border-left:0px solid!important;" class="title-menu-left">
+
+                                <span class="widget-menu"></span>
+                                <i data-toggle="tooltip" class="entypo-cog pull-right config-wrap"></i>
+
+                            </a>
+                        </li>
+
+                        <li>
+                            <a class="tooltip-tip ajax-load" href="/" title="Dashboard">
+                                <i class="icon-window"></i>
+                                <span>Dashboard</span>
+
+                            </a>
+                        </li>
+                        <li>
+                            <a class="tooltip-tip2 ajax-load" href="/hot-news" title="Tab & Accordion">
+                                <i class="icon-folder"></i>
+                                <span>Hot Trend</span>
+                                <div class="noft-purple-number">3</div></a>
+                        </li>
+                        <li>
+                            <a class="tooltip-tip ajax-load" href="static/icon.html" title="Icons">
+                                <i class="icon-preview"></i>
+                                <span>History</span>
+                            </a>
+                        </li>
+
+                    </ul>
+
+                    <ul class="topnav menu-left-nest">
+                        <li>
+                            <a href="#" style="border-left:0px solid!important;" class="title-menu-left">
+
+                                <span class="design-kit"></span>
+                                <i data-toggle="tooltip" class="entypo-cog pull-right config-wrap"></i>
+
+                            </a>
+                        </li>
+
+                        <li>
+                            <a class="tooltip-tip " href="static/login.html" title="login">
+                                <i class="icon-user"></i>
+                                <span>Login</span>
+                            </a>
+                        </li>
+                    <li>
+                        <a class="tooltip-tip2" href="static/lock-screen.html" title="Lock Screen"><i class="icon-lock"></i><span>Lock Screen</span></a>
+                    </li>
+
+                    </ul>
+
+                    <ul id="menu-showhide" class="topnav menu-left-nest">
+                        <li>
+                            <a href="#" style="border-left:0px solid!important;" class="title-menu-left">
+
+                                <span class="component"></span>
+                                <i data-toggle="tooltip" class="entypo-cog pull-right config-wrap"></i>
+
+                            </a>
+                        </li>
+
+
+                        <li>
+                            <a class="tooltip-tip ajax-load" href="/chart?search={{input_text}}" title="Chart">
+                                <i class="icon-graph-pie"></i>
+                                <span>Chart</span>
+
+                            </a>
+                        </li>
+                        <li>
+                            <a class="tooltip-tip ajax-load" href="/map?search={{input_text}}" title="Map">
+                                <i class="icon-location"></i>
+                                <span>Map</span>
+
+                            </a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END OF SIDE MENU -->
+
+
+
+    <!--  PAPER WRAP -->
+    <div class="wrap-fluid">
+        <div class="container-fluid paper-wrap bevel tlbr">
+
+            <!-- Nav -->
+            <div class="nav-group">
+                <ul class="nav nav-tabs">
+                    <li role="presentation" class="active"><a href="#">News</a></li>
+                    <li role="presentation"><a href="#">Web</a></li>
+                    <li role="presentation"><a href="#">Images</a></li>
+                </ul>
+            </div>
+
+            <!--CONTENT-->
+            <div class="row" style="margin-top:30px;padding:0 15px;">
+                <!--  BLOG CONTENT -->
+                <div class="col-sm-8">
+		    {% for article in articles %}
+                    <div class="blog-list-nest">
+                        <div class="blog-list-content">
+                            <h2>{{ escape(article.title) }}</h2>
+                            <p>{{ escape(article.text) }}</p>
+
+                            <p class="pull-right">
+                                <span class="label label-default">keyword</span>
+                                <span class="label label-default">tag</span>
+                                <span class="label label-default">post</span>
+                            </p>
+                            <ul class="list-inline">
+                                <li>
+                                    <a href="#">
+                                        <span class="entypo-network"></span>&nbsp;{{ escape(article.publish_date) }}</a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="entypo-chat"></span>&nbsp;2 Comments</a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="entypo-share"></span>&nbsp;14 Shares</a>
+                                </li>
+                            </ul>
+                            <hr>
+                            <button class="btn btn-info pull-right"><a href="{{escape(article.url)}}">Read More</a></button>
+                            <div style="clear:both;"></div>
+                        </div>
+                    </div>
+		    {% end %}
+			
+                    
+
+
+                    <ul class="pager success">
+                        <li class="previous"><a href="#">Previous</a>
+                        </li>
+                        <li class="next disabled"><a href="#">Next</a>
+                        </li>
+                    </ul>
+
+
+
+
+
+
+
+
+
+
+                </div>
+                <!--  END OF BLOG CONTENT -->
+
+                <!--  BLOG SIDE CONTENT (Personal profile) -->
+                <div class="col-sm-4">
+                    <div class="blog-side-nest">
+                        <h4 class="text-left">Popular News</h4>
+                        <hr style="margin:0">
+
+                        <div class="media">
+                            <a class="pull-left" href="#">
+                                <img class="media-object img-responsive-media" data-src="static/holder.js/64x64" alt="64x64" src="http://placehold.it/64x64">
+                            </a>
+                            <div class="media-body">
+                                <h5 class="media-heading">Cras sit amet nibh Lorem ipsum dolor si amet</h5>
+                                <a class="link-comment recentpost-link" style="margin:-10px 0 10px" href="#">88 Views</a>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <a class="pull-left" href="#">
+                                <img class="media-object img-responsive-media" data-src="static/holder.js/64x64" alt="64x64" src="http://placehold.it/64x64">
+                            </a>
+                            <div class="media-body">
+                                <h5 class="media-heading">Cras sit amet nibh Lorem ipsum dolor si amet</h5>
+                                <a class="link-comment recentpost-link" style="margin:-10px 0 10px" href="#">90 Views</a>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <a class="pull-left" href="#">
+                                <img class="media-object img-responsive-media" data-src="static/holder.js/64x64" alt="64x64" src="http://placehold.it/64x64">
+                            </a>
+                            <div class="media-body">
+                                <h5 class="media-heading">Cras sit amet nibh Lorem ipsum dolor si amet</h5>
+                                <a class="link-comment recentpost-link" style="margin:-10px 0 10px" href="#">42 Views</a>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <a class="pull-left" href="#">
+                                <img class="media-object img-responsive-media" data-src="static/holder.js/64x64" alt="64x64" src="http://placehold.it/64x64">
+                            </a>
+                            <div class="media-body">
+                                <h5 class="media-heading">Cras sit amet nibh Lorem ipsum dolor si amet</h5>
+                                <a class="link-comment recentpost-link" style="margin:-10px 0 10px" href="#">111 Views</a>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <a class="pull-left" href="#">
+                                <img class="media-object img-responsive-media" data-src="static/holder.js/64x64" alt="64x64" src="http://placehold.it/64x64">
+                            </a>
+                            <div class="media-body">
+                                <h5 class="media-heading">Cras sit amet nibh Lorem ipsum dolor si amet</h5>
+                                <a class="link-comment recentpost-link" style="margin:-10px 0 10px" href="#">123 Views</a>
+                            </div>
+                        </div>
+
+                        <br>
+                    </div>
+
+                    <div class="blog-side-nest">
+                        <h4 class="text-left">Tag</h4>
+                        <hr style="margin:0">
+                        <ul class="list-inline">
+                            <li>
+                                <a class="btn btn-info" href="#">Art</a>
+                            </li>
+                            <li>
+                                <a class="btn btn-info" href="#">Weather</a>
+                            </li>
+                            <li>
+                                <a class="btn btn-info" href="#">Music</a>
+                            </li>
+                            <li>
+                                <a class="btn btn-info" href="#">Video</a>
+                            </li>
+                            <li>
+                                <a class="btn btn-info" href="#">Movie</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <!--  END OF BLOG SIDE CONTENT -->
+            </div>
+
+
+        </div>
+    </div>
+    <!--  END OF PAPER WRAP -->
+
+
+
+
+    <!-- MAIN EFFECT -->
+    <script type="text/javascript" src="static/assets/js/preloader.js"></script>
+    <script type="text/javascript" src="static/assets/js/bootstrap.js"></script>
+    <script type="text/javascript" src="static/assets/js/app.js"></script>
+    <script type="text/javascript" src="static/assets/js/load.js"></script>
+    <script type="text/javascript" src="static/assets/js/main.js"></script>
+    <script src="static/assets/js/flatvideo/jquery.fitvids.js"></script>
+
+
+    <script>
+    // Basic FitVids Test
+    $(".blog-list-nest").fitVids();
+    // Custom selector and No-Double-Wrapping Prevention Test
+    $(".blog-list-nest").fitVids();
+    // Custom selector and No-Double-Wrapping Prevention Test
+    </script>
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
