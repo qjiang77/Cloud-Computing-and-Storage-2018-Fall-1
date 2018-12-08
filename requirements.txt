@@ -1,0 +1,4 @@
+tornado==5.1.1
+mysql-python
+torndb
+

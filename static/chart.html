@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>iSearch+</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Le styles -->
+    <script type="text/javascript" src="static/assets/js/jquery.js"></script>
+
+    <link rel="stylesheet" href="static/assets/css/style.css">
+    <link rel="stylesheet" href="static/assets/css/loader-style.css">
+    <link rel="stylesheet" href="static/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="static/assets/css/media.css">
+    <link rel="stylesheet" href="static/assets/css/social.css">
+
+
+
+
+
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- Fav and touch icons -->
+    <link rel="shortcut icon" href="static/assets/ico/minus.png">
+</head>
+
+<body>
+<!-- Preloader -->
+<div id="preloader">
+    <div id="status">&nbsp;</div>
+</div>
+
+<!-- TOP NAVBAR -->
+<nav role="navigation" class="navbar navbar-static-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" class="navbar-toggle" type="button">
+                <span class="entypo-menu"></span>
+            </button>
+            <button class="navbar-toggle toggle-menu-mobile toggle-left" type="button">
+                <span class="entypo-list-add"></span>
+            </button>
+
+        </div>
+
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+
+                <li class="dropdown">
+
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i style="font-size:20px;" class="icon-conversation"></i><div class="noft-red">1</div></a>
+
+
+                    <ul style="margin: 11px 0 0 9px;" role="menu" class="dropdown-menu dropdown-wrap">
+                        <li>
+                            <a href="#">
+                                <img alt="" class="img-msg img-circle" src="http://api.randomuser.me/portraits/thumb/men/1.jpg"><i>Welcome!</i>  <b>Just Now</b>
+                            </a>
+                        </li>
+                        <li class="divider"></li>
+                        <li>
+                            <div>See All Messege</div>
+                        </li>
+                    </ul>
+                </li>
+
+                <li><a href="#"><i data-toggle="tooltip" data-placement="bottom" title="Help" style="font-size:20px;" class="icon-help tooltitle"></i></a>
+                </li>
+
+            </ul>
+            <div id="nt-title-container" class="navbar-left running-text visible-lg">
+                <ul class="date-top">
+                    <li class="entypo-calendar" style="margin-right:5px"></li>
+                    <li id="Date"></li>
+
+
+                </ul>
+
+                <ul id="digital-clock" class="digital">
+                    <li class="entypo-clock" style="margin-right:5px"></li>
+                    <li class="hour"></li>
+                    <li>:</li>
+                    <li class="min"></li>
+                    <li>:</li>
+                    <li class="sec"></li>
+                    <li class="meridiem"></li>
+                </ul>
+                <ul id="nt-title">
+                    <li><i class="wi-day-lightning"></i>&#160;&#160;Los Angeles&#160;
+                        <b>85</b><i class="wi-fahrenheit"></i>&#160;; 15km/h
+                    </li>
+                    <li><i class="wi-day-lightning"></i>&#160;&#160;New York&#160;
+                        <b>85</b><i class="wi-fahrenheit"></i>&#160;; Tonight- 72 °F (22.2 °C)
+                    </li>
+
+                    <li><i class="wi-day-lightning"></i>&#160;&#160;Orlando&#160;
+                        <b>85</b><i class="wi-fahrenheit"></i>&#160;; 15km/h
+                    </li>
+
+                    <li><i class="wi-day-lightning"></i>&#160;&#160;San Francisco&#160;
+                        <b>85</b><i class="wi-fahrenheit"></i>&#160;; 15km/h
+                    </li>
+
+                    <li><i class="wi-day-lightning"></i>&#160;&#160;Seattle&#160;
+                        <b>85</b><i class="wi-fahrenheit"></i>&#160;; 15km/h
+                    </li>
+
+                </ul>
+            </div>
+
+            <ul style="margin-right:0;" class="nav navbar-nav navbar-right">
+                <li>
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                        <img alt="" class="admin-pic img-circle" src="http://api.randomuser.me/portraits/thumb/men/10.jpg">Hi, Jiang. <b class="caret"></b>
+                    </a>
+                    <ul style="margin-top:14px;" role="menu" class="dropdown-setting dropdown-menu">
+                        <li>
+                            <a href="#">
+                                <span class="entypo-user"></span>&#160;&#160;My Profile</a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="entypo-vcard"></span>&#160;&#160;Account Setting</a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <span class="entypo-lifebuoy"></span>&#160;&#160;Help</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+<!-- /END OF TOP NAVBAR -->
+
+
+
+    <!--  PAPER WRAP -->
+    <div class="wrap-fluid">
+        <div class="container-fluid paper-wrap bevel tlbr">
+            <div class="content-wrap">
+                <div class="row">
+
+
+                    <div class="col-sm-12">
+
+                        <div class="nest" id="labelClose">
+                            <div class="title-alt">
+                                <h6>
+                                    Sentiment Analysis</h6>
+                                <div class="titleClose">
+                                    <a class="gone" href="#labelClose">
+                                        <span class="entypo-cancel"></span>
+                                    </a>
+                                </div>
+                                <div class="titleToggle">
+                                    <a class="nav-toggle-alt" href="#label">
+                                        <span class="entypo-up-open"></span>
+                                    </a>
+                                </div>
+
+                            </div>
+
+                            <div class="body-nest" id="label">
+
+                                <canvas id="canvas1" class="myChart" height="416" width="900"></canvas>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /END OF CONTENT -->
+
+            <div class="content-wrap">
+                <div class="row">
+
+
+                    <div class="col-sm-12">
+
+                        <div class="nest" id="realtimeClose">
+                            <div class="title-alt">
+                                <h6>
+                                    Realtime Hot-word</h6>
+                                <div class="titleClose">
+                                    <a class="gone" href="#realtimeClose">
+                                        <span class="entypo-cancel"></span>
+                                    </a>
+                                </div>
+                                <div class="titleToggle">
+                                    <a class="nav-toggle-alt" href="#realtime">
+                                        <span class="entypo-up-open"></span>
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+
+        </div>
+    </div>
+    <!--  END OF PAPER WRAP -->
+
+
+
+
+    <!-- MAIN EFFECT -->
+    <script type="text/javascript" src="static/assets/js/preloader.js"></script>
+    <script type="text/javascript" src="static/assets/js/bootstrap.js"></script>
+    <script type="text/javascript" src="static/assets/js/app.js"></script>
+    <script type="text/javascript" src="static/assets/js/load.js"></script>
+    <script type="text/javascript" src="static/assets/js/main.js"></script>
+
+    <!-- /MAIN EFFECT -->
+    <!--  PLUGIN -->
+    <script type="text/javascript" src="static/assets/js/chart/chart.js"></script>
+    <script>
+        var positive_value;
+        var netural_value;
+        var negative_value;
+        positive_value = {{polar_res.get('positive')}}
+        netural_value = {{polar_res.get('neutral')}}
+        negative_value = {{polar_res.get('negative')}}
+
+        var barChartData = {
+            labels : ["Positive","Neutral","Negative"],
+            datasets : [
+                {
+                    fillColor : "rgba(106, 218, 228, 0.8)",
+                    data : [positive_value, netural_value, negative_value]
+                },
+            ]
+
+
+        }
+
+    var myLine = new Chart(document.getElementById("canvas1").getContext("2d")).Bar(barChartData,{
+        scaleShowLabels : false,
+        pointLabelFontSize : 24
+    });
+    </script>
+
+    <script type="text/javascript" src="static/assets/js/chart/radarChart.js"></script>
+    <script type="text/javascript" src="static/assets/js/chart/polarChart.js"></script>
+    <script type="text/javascript" src="static/assets/js/chart/lineChart.js"></script>
+
+
+    <script type="text/javascript" src="static/assets/js/chart/jquery.flot2.js"></script>
+    <script type="text/javascript" src="static/assets/js/chart/jquery.flot.resize.js"></script>
+    <script type="text/javascript" src="static/assets/js/chart/realTime.js"></script>
+    <script type="text/javascript" src="static/assets/js/chart/chart-float-stacking.js"></script>
+
+
+
+
+
+
+</body>
+
+</html>

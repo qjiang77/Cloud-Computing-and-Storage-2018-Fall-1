@@ -1,0 +1,82 @@
+<html>
+<head>
+<script
+src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDJW4jsPlNKgv6jFm3B5Edp5ywgdqLWdmc&sensor=false">
+</script>
+
+<script>
+var myCenter=new google.maps.LatLng(34.0522, -118.2437);
+
+var LatLngList = new Array(new google.maps.LatLng (40.7128, -74.0060),
+    new google.maps.LatLng (41.8781, -87.6298),
+    new google.maps.LatLng (34.0522, -118.2437));
+LatLngList.push(new google.maps.LatLng (47.6062, -122.3321));
+
+var newsList = new Array();
+//var city;
+var cityLat;
+var cityLng;
+var cityNews;
+{% for city in cities %}
+    cityLat = {{ city.get('Latitude') }}
+    cityLng = {{ city.get('Longitude') }}
+    cityNews = {};
+    {% for key in city.get('References')[0] %}
+        cityNews["{{key}}"] = "{{city.get('References')[0][key]}}"
+    	//alert(cityNews)
+    {% end %}
+    LatLngList.push(new google.maps.LatLng(cityLat, cityLng));
+    newsList.push(cityNews);
+{% end %}
+
+
+function initialize()
+{
+var mapProp = {
+  center:myCenter,
+  zoom:5,
+  mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+
+var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+//var marker = new Array();
+//var infowindow = new Array();
+for(var i = 0, LtLgLen = LatLngList.length; i < LtLgLen; i++) {
+    const marker = new google.maps.Marker({
+        position: LatLngList[i],
+    });
+    marker.setMap(map);
+
+    var news = newsList[i];
+    var news_title;
+    var news_url;
+    news_title = news['title'];
+    news_url = news['url'];
+    var contentStr =  '<div id="content">'+
+      '<div id="bodyContent">'+
+      '<p>' + news_title + '</p>'+
+      '<p>News Link: <a href='+ news_url +'>'+
+      ''+ news_url +'</a> '+
+      '.</p>'+
+      '</div>'+
+      '</div>';
+
+    const infowindow = new google.maps.InfoWindow({
+      content: contentStr
+      });
+
+    google.maps.event.addListener(marker, 'click', function() {
+        infowindow.open(map, marker);
+    });
+}
+
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+
+<body>
+<div id="googleMap" style="width:100%;height:100%;"></div>
+</body>
+</html>
