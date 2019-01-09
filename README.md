@@ -6,13 +6,13 @@ Authors: Yifan Wang, Jingyang Guo, Qi Jiang
 
 Deliverable URL: https://github.com/wyfunique/Cloud-Computing-and-Storage-2018-Fall
 
-#Introduction
+# Introduction
 iSearch+ is a distributed smart news search system that integrates data miner into search engine. 
 It is aiming to search information from news articles from major news websites 
 and conduct data mining analysis to extract hidden information in the news articles.
 
 
-#Usage
+# Usage
 
 ## Configuration ##
 The search system has several dependencies. They can be configured as shown in the following example:
